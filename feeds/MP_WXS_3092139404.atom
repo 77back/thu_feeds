@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://127.0.0.1:4000/feeds/MP_WXS_3092139404.atom</id>
+    <id>https://feeds.shuo-zha.cn/feeds/MP_WXS_3092139404.atom</id>
     <title>学生清华</title>
     <updated>2026-08-12T14:00:53.000Z</updated>
     <generator>WeWe-RSS</generator>
     <author>
         <name>学生清华</name>
     </author>
-    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_3092139404.atom"/>
+    <link rel="alternate" href="https://feeds.shuo-zha.cn/feeds/MP_WXS_3092139404.atom"/>
     <subtitle>“学生清华”是清华大学团委打造的服务学生校园生活的网络平台，是清华大学团委门户网站的移动端，为学生提供资讯浏览、活动申请、专题宣传等多样服务。</subtitle>
     <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM7xpT1EV4c6QAqbTwIC0icwOp8IIz4S6flUU41mK94jz0g/0</logo>
     <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM7xpT1EV4c6QAqbTwIC0icwOp8IIz4S6flUU41mK94jz0g/0</icon>

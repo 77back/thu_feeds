@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://127.0.0.1:4000/feeds/MP_WXS_3006567608.atom</id>
+    <id>https://feeds.shuo-zha.cn/feeds/MP_WXS_3006567608.atom</id>
     <title>清华体育</title>
     <updated>2026-08-14T13:13:15.000Z</updated>
     <generator>WeWe-RSS</generator>
     <author>
         <name>清华体育</name>
     </author>
-    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_3006567608.atom"/>
+    <link rel="alternate" href="https://feeds.shuo-zha.cn/feeds/MP_WXS_3006567608.atom"/>
     <subtitle>无体育，不清华。这里是清华大学体育部！</subtitle>
     <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5AwTmmYJrticL0tQXTmlfXoCpBhSYpM0mPy4P64Ocsulg/0</logo>
     <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5AwTmmYJrticL0tQXTmlfXoCpBhSYpM0mPy4P64Ocsulg/0</icon>

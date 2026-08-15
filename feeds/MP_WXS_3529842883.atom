@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://127.0.0.1:4000/feeds/MP_WXS_3529842883.atom</id>
+    <id>https://feeds.shuo-zha.cn/feeds/MP_WXS_3529842883.atom</id>
     <title>清华信息化</title>
     <updated>2026-07-19T23:34:13.000Z</updated>
     <generator>WeWe-RSS</generator>
     <author>
         <name>清华信息化</name>
     </author>
-    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_3529842883.atom"/>
+    <link rel="alternate" href="https://feeds.shuo-zha.cn/feeds/MP_WXS_3529842883.atom"/>
     <subtitle>及时发布清华大学信息化工作的工作进展，工作通知等，主要受众为校内的师生。</subtitle>
     <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM4fB64SRI3J7ssnpibiap9licV6PUvfb5mq1fev2y0bZKs2w/0</logo>
     <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM4fB64SRI3J7ssnpibiap9licV6PUvfb5mq1fev2y0bZKs2w/0</icon>

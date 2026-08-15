@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://127.0.0.1:4000/feeds/MP_WXS_2398854781.atom</id>
+    <id>https://feeds.shuo-zha.cn/feeds/MP_WXS_2398854781.atom</id>
     <title>清华大学学生社团</title>
     <updated>2026-07-14T12:13:22.000Z</updated>
     <generator>WeWe-RSS</generator>
     <author>
         <name>清华大学学生社团</name>
     </author>
-    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_2398854781.atom"/>
+    <link rel="alternate" href="https://feeds.shuo-zha.cn/feeds/MP_WXS_2398854781.atom"/>
     <subtitle>掌握社团活动资讯，倾听社团人物故事，与200+学生社团一起建设多元的大学文化！</subtitle>
     <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM4Ixo6g2rr1aHwCoRict245GhuAk2NVWTKRY9V6u7mpSuA/0</logo>
     <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM4Ixo6g2rr1aHwCoRict245GhuAk2NVWTKRY9V6u7mpSuA/0</icon>
