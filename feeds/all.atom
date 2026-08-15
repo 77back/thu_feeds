@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:4000/feeds/all.atom</id>
+    <title>WeWe-RSS All</title>
+    <updated>2026-08-15T07:58:03.000Z</updated>
+    <generator>WeWe-RSS</generator>
+    <author>
+        <name>WeWe-RSS All</name>
+    </author>
+    <link rel="alternate" href="http://127.0.0.1:4000/feeds/all.atom"/>
+    <subtitle>WeWe-RSS 全部文章</subtitle>
+    <logo>http://127.0.0.1:4000/favicon.ico</logo>
+    <icon>http://127.0.0.1:4000/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第三十六届中国高校田径科研论文报告会在肇庆学院举行]]></title>
+        <id>FrQWczsVNDDqoMADKxREyQ</id>
+        <link href="https://mp.weixin.qq.com/s/FrQWczsVNDDqoMADKxREyQ"/>
+        <updated>2026-08-14T13:13:15.000Z</updated>
+        <author>
+            <name>清华体育</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜2027空天院校招提前批暨交流日活动即将开启]]></title>
+        <id>uijmyr2iXnkfrdllr8O9oA</id>
+        <link href="https://mp.weixin.qq.com/s/uijmyr2iXnkfrdllr8O9oA"/>
+        <updated>2026-08-14T09:00:38.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜阿里云智能集团2027应届生招聘]]></title>
+        <id>fGtKiNAh8VV1BLZ_FDQOgA</id>
+        <link href="https://mp.weixin.qq.com/s/fGtKiNAh8VV1BLZ_FDQOgA"/>
+        <updated>2026-08-14T09:00:38.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜它石智航2027届校园招聘正式启动]]></title>
+        <id>dE53JN2IKXHupoYxtxYoRw</id>
+        <link href="https://mp.weixin.qq.com/s/dE53JN2IKXHupoYxtxYoRw"/>
+        <updated>2026-08-14T09:00:38.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“追光计划”第五期团队成员招募丨基于非冯架构芯片的脑仿真]]></title>
+        <id>iTupK8v7T0UwYrDulypuDg</id>
+        <link href="https://mp.weixin.qq.com/s/iTupK8v7T0UwYrDulypuDg"/>
+        <updated>2026-08-14T06:56:50.000Z</updated>
+        <author>
+            <name>清华青年科创</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好，六字班！我是你的清华“上学搭子”]]></title>
+        <id>bSFELN9Yh1rgOVDPGT7CJQ</id>
+        <link href="https://mp.weixin.qq.com/s/bSFELN9Yh1rgOVDPGT7CJQ"/>
+        <updated>2026-08-14T05:35:37.000Z</updated>
+        <author>
+            <name>清华招生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越减越肥、失眠易怒、精力不足？清华专家带你“看”懂皮质醇！]]></title>
+        <id>uZjByIjx3InrggE88lxCow</id>
+        <link href="https://mp.weixin.qq.com/s/uZjByIjx3InrggE88lxCow"/>
+        <updated>2026-08-14T01:39:08.000Z</updated>
+        <author>
+            <name>清华大学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛讯｜北京市高校联队获2026年全国花样轮滑锦标赛成年组队列滑冠军]]></title>
+        <id>lVDVoBXb1jsXiNftsjlV7A</id>
+        <link href="https://mp.weixin.qq.com/s/lVDVoBXb1jsXiNftsjlV7A"/>
+        <updated>2026-08-13T14:28:50.000Z</updated>
+        <author>
+            <name>清华体育</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜快手2027全球校园招聘正式启动]]></title>
+        <id>4lWb4BW6-gs-_-PV4lEFUA</id>
+        <link href="https://mp.weixin.qq.com/s/4lWb4BW6-gs-_-PV4lEFUA"/>
+        <updated>2026-08-13T08:54:33.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜中国平安集团2027届秋季校招正式启动]]></title>
+        <id>tTs1gcPolpt9usJtuEUu_g</id>
+        <link href="https://mp.weixin.qq.com/s/tTs1gcPolpt9usJtuEUu_g"/>
+        <updated>2026-08-13T08:54:33.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜阿里巴巴阿里国际2027届应届生招聘]]></title>
+        <id>F3Sgx55kVUseikOfaWeEZA</id>
+        <link href="https://mp.weixin.qq.com/s/F3Sgx55kVUseikOfaWeEZA"/>
+        <updated>2026-08-13T08:54:33.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜滴滴2027届校园招聘正式启动]]></title>
+        <id>-VagtDqp799zg6giCuEO5A</id>
+        <link href="https://mp.weixin.qq.com/s/-VagtDqp799zg6giCuEO5A"/>
+        <updated>2026-08-13T08:54:33.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于南区学生活动中心部分区域暂停开放通知]]></title>
+        <id>bMkKTcw0H5fN6Cyi3iZgrA</id>
+        <link href="https://mp.weixin.qq.com/s/bMkKTcw0H5fN6Cyi3iZgrA"/>
+        <updated>2026-08-12T14:00:53.000Z</updated>
+        <author>
+            <name>学生清华</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世]]></title>
+        <id>7QnGYFKDBlxn_SKJbHkerw</id>
+        <link href="https://mp.weixin.qq.com/s/7QnGYFKDBlxn_SKJbHkerw"/>
+        <updated>2026-08-12T10:51:39.000Z</updated>
+        <author>
+            <name>清华大学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜九坤投资 2027 届技术类顶尖人才“梧桐计划”校园招聘正式启动]]></title>
+        <id>5dFQDDH2cZ5_9UJzeICiJw</id>
+        <link href="https://mp.weixin.qq.com/s/5dFQDDH2cZ5_9UJzeICiJw"/>
+        <updated>2026-08-12T09:19:05.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学四年怎么过？这位清华优秀班主任带班有高招！]]></title>
+        <id>EyfukSBBP8bsasJq38JZpg</id>
+        <link href="https://mp.weixin.qq.com/s/EyfukSBBP8bsasJq38JZpg"/>
+        <updated>2026-08-12T01:37:05.000Z</updated>
+        <author>
+            <name>清华大学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清华大学关于暂停校园参观的通告]]></title>
+        <id>-K51xR8RIfQMLqAroo1gow</id>
+        <link href="https://mp.weixin.qq.com/s/-K51xR8RIfQMLqAroo1gow"/>
+        <updated>2026-08-11T14:56:36.000Z</updated>
+        <author>
+            <name>清华大学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜Sharpa 2027届校园招聘正式启动]]></title>
+        <id>ltduu1pWSqVFAY7y_OGwVA</id>
+        <link href="https://mp.weixin.qq.com/s/ltduu1pWSqVFAY7y_OGwVA"/>
+        <updated>2026-08-11T14:06:35.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜芯恩2027届校园招聘正式启动]]></title>
+        <id>ARtH0AqJYBms_mlDrB_Chw</id>
+        <link href="https://mp.weixin.qq.com/s/ARtH0AqJYBms_mlDrB_Chw"/>
+        <updated>2026-08-10T12:53:47.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜地平线2027届秋季校园招聘启动]]></title>
+        <id>TceL00X-0DxOxyjUx2QFXQ</id>
+        <link href="https://mp.weixin.qq.com/s/TceL00X-0DxOxyjUx2QFXQ"/>
+        <updated>2026-08-10T12:53:47.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年中美高校暑期篮球邀请赛预告、领票通知及志愿者招募]]></title>
+        <id>wSUQ9HdPyDATG23jHSxydw</id>
+        <link href="https://mp.weixin.qq.com/s/wSUQ9HdPyDATG23jHSxydw"/>
+        <updated>2026-08-10T04:03:10.000Z</updated>
+        <author>
+            <name>清华体育</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜德勤2027校园招聘及寒假实习生招聘启动]]></title>
+        <id>s9bBjOTvtmbEErsNtXnaIg</id>
+        <link href="https://mp.weixin.qq.com/s/s9bBjOTvtmbEErsNtXnaIg"/>
+        <updated>2026-08-09T11:39:40.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜中国船舶集团有限公司第七一五研究所尖峰计划2026夏令营]]></title>
+        <id>iv8vvicIEDayp3QqAun1kQ</id>
+        <link href="https://mp.weixin.qq.com/s/iv8vvicIEDayp3QqAun1kQ"/>
+        <updated>2026-08-08T08:57:35.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜寒武纪2027届校园招聘正式启动]]></title>
+        <id>U-E-6fQr4pz8veE87BLjPA</id>
+        <link href="https://mp.weixin.qq.com/s/U-E-6fQr4pz8veE87BLjPA"/>
+        <updated>2026-08-08T08:57:35.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“追光计划”第五期团队成员招募丨学生高性能计算软硬协同跨学科训练平台建设]]></title>
+        <id>0PasAkIDNHQpLZuPDRZ0DQ</id>
+        <link href="https://mp.weixin.qq.com/s/0PasAkIDNHQpLZuPDRZ0DQ"/>
+        <updated>2026-08-08T06:52:45.000Z</updated>
+        <author>
+            <name>清华青年科创</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三届清华校友体育论坛在张家界成功举办 ——从理念到实践，把论文写在祖国大地上]]></title>
+        <id>JwzxiRZKPEfk6cmtbRqqwQ</id>
+        <link href="https://mp.weixin.qq.com/s/JwzxiRZKPEfk6cmtbRqqwQ"/>
+        <updated>2026-08-08T05:03:09.000Z</updated>
+        <author>
+            <name>清华体育</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛讯 | 清华男篮二队在国际名校篮球邀请赛上获佳绩]]></title>
+        <id>16wKM5TVgAC8EYmUimSjDw</id>
+        <link href="https://mp.weixin.qq.com/s/16wKM5TVgAC8EYmUimSjDw"/>
+        <updated>2026-08-07T14:32:39.000Z</updated>
+        <author>
+            <name>清华体育</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立秋，清华为你寄出漫画云！]]></title>
+        <id>Xf7A3wLI9hw-YRecVZL5Jg</id>
+        <link href="https://mp.weixin.qq.com/s/Xf7A3wLI9hw-YRecVZL5Jg"/>
+        <updated>2026-08-07T11:17:44.000Z</updated>
+        <author>
+            <name>清华大学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨淘天集团2027届校园招聘正式批启动]]></title>
+        <id>CpIpGyAzok1mRRNaIynV5A</id>
+        <link href="https://mp.weixin.qq.com/s/CpIpGyAzok1mRRNaIynV5A"/>
+        <updated>2026-08-07T10:07:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨南京841研究所第三届暑期提前批夏令营邀请函]]></title>
+        <id>pkQNs9qPg2VjfGLayl9Edw</id>
+        <link href="https://mp.weixin.qq.com/s/pkQNs9qPg2VjfGLayl9Edw"/>
+        <updated>2026-08-07T10:07:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨米哈游2027校园招聘正式启动]]></title>
+        <id>qaPeID-x64LeSWe43e5G-g</id>
+        <link href="https://mp.weixin.qq.com/s/qaPeID-x64LeSWe43e5G-g"/>
+        <updated>2026-08-07T10:07:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨芯原股份2027届校园招聘正式启动]]></title>
+        <id>A2d0aiEYLlalZ92p_i23tQ</id>
+        <link href="https://mp.weixin.qq.com/s/A2d0aiEYLlalZ92p_i23tQ"/>
+        <updated>2026-08-07T10:07:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨字节跳动 2027 校园招聘正式启动]]></title>
+        <id>mmNkAQV5CRX1Zzf2rmfz1g</id>
+        <link href="https://mp.weixin.qq.com/s/mmNkAQV5CRX1Zzf2rmfz1g"/>
+        <updated>2026-08-06T10:08:49.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨阿里巴巴2027届应届生招聘全球启动]]></title>
+        <id>vjPmsXljW-n3rm83mhkdFA</id>
+        <link href="https://mp.weixin.qq.com/s/vjPmsXljW-n3rm83mhkdFA"/>
+        <updated>2026-08-06T10:08:49.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨燕东微2027届校园招聘之博士生专场]]></title>
+        <id>AZSJziq0QU5zTAG03snpOA</id>
+        <link href="https://mp.weixin.qq.com/s/AZSJziq0QU5zTAG03snpOA"/>
+        <updated>2026-08-06T10:08:49.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行前介绍 | “清欧智行”清华大学学生科协赴西班牙、法国实践支队]]></title>
+        <id>sWPQktl3myzcGgekv8U7sA</id>
+        <link href="https://mp.weixin.qq.com/s/sWPQktl3myzcGgekv8U7sA"/>
+        <updated>2026-08-06T08:47:11.000Z</updated>
+        <author>
+            <name>清华青年科创</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于学生职业发展指导中心就业服务大厅办公地点调整的通知]]></title>
+        <id>SQvwlFIWbYYqeQGfvwF01Q</id>
+        <link href="https://mp.weixin.qq.com/s/SQvwlFIWbYYqeQGfvwF01Q"/>
+        <updated>2026-08-05T09:55:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨国机重装博士人才暑期参访行暨2027届校园招聘提前批邀请函]]></title>
+        <id>N7KzQb9SeDT-RhfP_hbCjQ</id>
+        <link href="https://mp.weixin.qq.com/s/N7KzQb9SeDT-RhfP_hbCjQ"/>
+        <updated>2026-08-05T09:55:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨浪潮集团2027届校园招聘提前批正式启动]]></title>
+        <id>eQ54Kdr6tmxetYZB08JdNw</id>
+        <link href="https://mp.weixin.qq.com/s/eQ54Kdr6tmxetYZB08JdNw"/>
+        <updated>2026-08-05T09:55:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘丨天翼云2027届技术沙龙暨线下一站式面试活动报名]]></title>
+        <id>1r2qEevT0GM4QKk51bLpJg</id>
+        <link href="https://mp.weixin.qq.com/s/1r2qEevT0GM4QKk51bLpJg"/>
+        <updated>2026-08-05T09:55:06.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“追光计划”第五期团队成员招募丨天地联测的多信使流星监测与行星防御]]></title>
+        <id>3EEZ36VfDaerTm5G0NZPAA</id>
+        <link href="https://mp.weixin.qq.com/s/3EEZ36VfDaerTm5G0NZPAA"/>
+        <updated>2026-08-05T09:00:40.000Z</updated>
+        <author>
+            <name>清华青年科创</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘+实习｜宇石空间2027届校招&实习生计划正式启动]]></title>
+        <id>YYafmceKTFLCdS29-O-90A</id>
+        <link href="https://mp.weixin.qq.com/s/YYafmceKTFLCdS29-O-90A"/>
+        <updated>2026-08-04T10:52:45.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[邀请函丨名校师生山东行暨2026海内外博士(后)烟台对接交流大会]]></title>
+        <id>2wycXzNaoevO9FE9RH6NGQ</id>
+        <link href="https://mp.weixin.qq.com/s/2wycXzNaoevO9FE9RH6NGQ"/>
+        <updated>2026-08-04T10:52:45.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜思勰投资2027校园招聘]]></title>
+        <id>I49Wnu5iHAk6tixYZDi6Hg</id>
+        <link href="https://mp.weixin.qq.com/s/I49Wnu5iHAk6tixYZDi6Hg"/>
+        <updated>2026-08-04T10:52:45.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于美术图书馆暂停开放的通知]]></title>
+        <id>J2LIthZLUsEcTOcUQnv3Qw</id>
+        <link href="https://mp.weixin.qq.com/s/J2LIthZLUsEcTOcUQnv3Qw"/>
+        <updated>2026-08-04T00:31:24.000Z</updated>
+        <author>
+            <name>清华大学图书馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛讯｜清华田径队在2026年全国大学生田径锦标赛中获佳绩]]></title>
+        <id>AtA8r2wQxj5ct-a5Zvfw5w</id>
+        <link href="https://mp.weixin.qq.com/s/AtA8r2wQxj5ct-a5Zvfw5w"/>
+        <updated>2026-08-03T14:16:12.000Z</updated>
+        <author>
+            <name>清华体育</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜江苏中烟2026年度公开招收博士后研究人员公告]]></title>
+        <id>j2YF9qiGufIl-w1quNaK5w</id>
+        <link href="https://mp.weixin.qq.com/s/j2YF9qiGufIl-w1quNaK5w"/>
+        <updated>2026-08-03T09:56:17.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚊子为啥专咬你？清华老师带你科学防蚊！]]></title>
+        <id>8yErqQBaHWxVTXFlA4S6Bg</id>
+        <link href="https://mp.weixin.qq.com/s/8yErqQBaHWxVTXFlA4S6Bg"/>
+        <updated>2026-08-03T01:17:25.000Z</updated>
+        <author>
+            <name>清华大学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘｜新能安AGT全球顶尖人才招募正式启动]]></title>
+        <id>wuEJigHVYtISdrTPH9V-tw</id>
+        <link href="https://mp.weixin.qq.com/s/wuEJigHVYtISdrTPH9V-tw"/>
+        <updated>2026-08-02T07:38:25.000Z</updated>
+        <author>
+            <name>清华就业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【欢迎新生】大学如何学，以AI开启你在清华的学习之旅]]></title>
+        <id>RwJhP7cGypJu6AlxcV-cFA</id>
+        <link href="https://mp.weixin.qq.com/s/RwJhP7cGypJu6AlxcV-cFA"/>
+        <updated>2026-08-01T12:02:42.000Z</updated>
+        <author>
+            <name>清华招生</name>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:4000/feeds/MP_WXS_3244077778.atom</id>
+    <title>清华大学国际教育</title>
+    <updated>2026-08-14T09:36:56.000Z</updated>
+    <generator>WeWe-RSS</generator>
+    <author>
+        <name>清华大学国际教育</name>
+    </author>
+    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_3244077778.atom"/>
+    <subtitle>关注国际教育动态，发布清华大学国际教育项目，探索国际教育培养模式和培养理念。</subtitle>
+    <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5XRgAVribA5c2ew7G06erSnxjiaUBcG4TJ52m6wJibUgQxw/0</logo>
+    <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5XRgAVribA5c2ew7G06erSnxjiaUBcG4TJ52m6wJibUgQxw/0</icon>
+</feed>

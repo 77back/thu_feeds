@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:4000/feeds/MP_WXS_2394734625.atom</id>
+    <title>清华大学学生公益</title>
+    <updated>2026-08-11T13:10:51.000Z</updated>
+    <generator>WeWe-RSS</generator>
+    <author>
+        <name>清华大学学生公益</name>
+    </author>
+    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_2394734625.atom"/>
+    <subtitle>清华大学校团委志愿中心官方平台，负责发布志愿公益资讯、进行特色志愿宣传，以维持校内志愿氛围、弘扬志愿精神，包括校级及各院系志愿活动志愿者招募，公益活动预告、报名，志愿活动总结、特色宣传，人物专访等。</subtitle>
+    <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5hrnx4hlhlJ3wPBVwBTPeiapSmYuXxzObJfHetSHyNuLQ/0</logo>
+    <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5hrnx4hlhlJ3wPBVwBTPeiapSmYuXxzObJfHetSHyNuLQ/0</icon>
+</feed>

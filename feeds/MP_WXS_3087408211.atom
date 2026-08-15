@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:4000/feeds/MP_WXS_3087408211.atom</id>
+    <title>艾生权</title>
+    <updated>2026-08-13T13:16:39.000Z</updated>
+    <generator>WeWe-RSS</generator>
+    <author>
+        <name>艾生权</name>
+    </author>
+    <link rel="alternate" href="http://127.0.0.1:4000/feeds/MP_WXS_3087408211.atom"/>
+    <subtitle>清华大学学生会生活部日常信息发布平台，关注艾生权，轻松获取日常生活贴士，实时感受校园权益工作脉搏！</subtitle>
+    <logo>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5XMhmwU9jdxdMvRKbtmyib76Mkia62B5XJOmOmb8cTAdYQ/0</logo>
+    <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM5XMhmwU9jdxdMvRKbtmyib76Mkia62B5XJOmOmb8cTAdYQ/0</icon>
+</feed>
