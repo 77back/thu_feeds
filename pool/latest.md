@@ -1,7 +1,16 @@
-# 舆情候选池 0915（09-14 00:00 至今，22 条）
+# 舆情候选池 0915（09-14 00:00 至今，31 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-15 15:09 | 深圳市场监管 | 监管·地方 | 深圳市市场监督管理局党组书记、局长刘广阳调研基层市场监管所 | https://mp.weixin.qq.com/s/cP30eCvNqzXPU5Isu9QE0w |
+| 09-15 15:09 | 上海市场监管 | 监管·地方 | “并购合规沪企直通车”正式启动！ | https://mp.weixin.qq.com/s/YxwIYCZXP0nTyqcXjb4x3g |
+| 09-15 15:09 | 澎湃新闻 | 综合媒体 | 沈阳市市长调整 | https://mp.weixin.qq.com/s/YbE5VyALhzedMhw9Zl2d6A |
+| 09-15 15:09 | 央视财经 | 综合媒体 | 2026年“中国品质生活”晚会，今晚播出！ | https://mp.weixin.qq.com/s/o4cHyTMpfiHFLIdi9rC0gQ |
+| 09-15 15:09 | 上海市消保委 | 消协 | 太惨痛！加油时一个举动，男子驶离15分钟后突然起火，大面积烧伤终身伤残！紧急提醒 | https://mp.weixin.qq.com/s/7vBROQQ1EAnEvLO7hvFVDA |
+| 09-15 15:09 | 中国质量新闻网 | 行业媒体 | 这几类人，不建议吃桃酥 | https://mp.weixin.qq.com/s/qSz76mctkPc~P7vbBX6mLw |
+| 09-15 15:09 | 中国消费者报 | 行业媒体 | 市场监管总局通报47批次不合格食品！ | https://mp.weixin.qq.com/s/F3LorFtJOwKPuWEBttHdPA |
+| 09-15 15:09 | 中国市场监管报 | 行业媒体 | 打通市场监管法治化的“最后一公里”——评析《市场监督管理所条例》的积极作用与意义 | https://mp.weixin.qq.com/s/qERgCm3-dQYqNno-VAdJGA |
+| 09-15 15:09 | 市说新语 | 监管·总局 | 5项类脑计算和光电计算领域国家标准化指导性技术文件发布 | https://mp.weixin.qq.com/s/b4k3vHFnobakGz4yp0U3DA |
 | 09-15 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局食品安全监督抽检信息通告（2026年第29期） | http://news.foodmate.net/2026/09/752953.html |
 | 09-15 | 食品伙伴网 | 抽检通报 | 肉制品里加“料”，这些“雷区”你踩了吗？ | http://news.foodmate.net/2026/09/752949.html |
 | 09-15 | 食品伙伴网 | 抽检通报 | 重庆这21批次不合格食品被查处，看看你买过吗？ | http://news.foodmate.net/2026/09/752927.html |
