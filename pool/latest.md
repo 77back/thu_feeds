@@ -1,7 +1,9 @@
-# 舆情候选池 0916（09-15 00:00 至今，57 条）
+# 舆情候选池 0916（09-15 00:00 至今，59 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-16 14:00 | 央视财经 | 综合媒体 | 黄金白银，直线拉涨 | https://mp.weixin.qq.com/s/Yw4DyInU5h~4gSzRbfoAUw |
+| 09-16 14:00 | 中国质量新闻网 | 行业媒体 | 注意！2批次药品抽检不符合规定！ | https://mp.weixin.qq.com/s/F63xvJFJyZ~1xV1BVm65UQ |
 | 09-16 13:00 | 深圳市场监管 | 监管·地方 | 第十届深圳食品安全论坛开幕 共探可持续食品安全治理新路径 | https://mp.weixin.qq.com/s/QHJezni7V3G3OxZ7ifFLrA |
 | 09-16 13:00 | 上海市场监管 | 监管·地方 | 市场监管总局会同文化和旅游部召开在线酒店预订平台服务行业行政指导会 | https://mp.weixin.qq.com/s/GrIFOofDVrBfQvWcTcw-qw |
 | 09-16 13:00 | 澎湃新闻 | 综合媒体 | 加沙挖出“疑似整个家庭遗骸”，重型机械被拒进场挖掘主要靠人工，联合国呼吁调査：或存战争罪行证据 | https://mp.weixin.qq.com/s/gnRzkuaWAy0c4b3gMHEpgQ |
