@@ -1,7 +1,10 @@
-# 舆情候选池 0916（09-15 00:00 至今，60 条）
+# 舆情候选池 0916（09-15 00:00 至今，63 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-16 16:00 | 澎湃新闻 | 综合媒体 | 张一鸣，亚洲新首富 | https://mp.weixin.qq.com/s/EgjnJZPZUjszgZ1EUOygNw |
+| 09-16 16:00 | 央视财经 | 综合媒体 | 中国天眼，重大发现！ | https://mp.weixin.qq.com/s/TJoJzjxW54eOvuLfK5NLbg |
+| 09-16 16:00 | 市说新语 | 监管·总局 | 新材料领域国际标准建设再突破 两项中国牵头标准相继发布 | https://mp.weixin.qq.com/s/ddWf5-YIV8bWzMV~8QQ6ew |
 | 09-16 15:00 | 澎湃新闻 | 综合媒体 | “全网最低价”，为什么必须叫停 | https://mp.weixin.qq.com/s/MCukAE3jA-QLRLvkKg-p~A |
 | 09-16 14:00 | 央视财经 | 综合媒体 | 黄金白银，直线拉涨 | https://mp.weixin.qq.com/s/Yw4DyInU5h~4gSzRbfoAUw |
 | 09-16 14:00 | 中国质量新闻网 | 行业媒体 | 注意！2批次药品抽检不符合规定！ | https://mp.weixin.qq.com/s/F63xvJFJyZ~1xV1BVm65UQ |
