@@ -1,7 +1,11 @@
-# 舆情候选池 0916（09-15 00:00 至今，53 条）
+# 舆情候选池 0916（09-15 00:00 至今，57 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-16 13:00 | 深圳市场监管 | 监管·地方 | 第十届深圳食品安全论坛开幕 共探可持续食品安全治理新路径 | https://mp.weixin.qq.com/s/QHJezni7V3G3OxZ7ifFLrA |
+| 09-16 13:00 | 上海市场监管 | 监管·地方 | 市场监管总局会同文化和旅游部召开在线酒店预订平台服务行业行政指导会 | https://mp.weixin.qq.com/s/GrIFOofDVrBfQvWcTcw-qw |
+| 09-16 13:00 | 澎湃新闻 | 综合媒体 | 加沙挖出“疑似整个家庭遗骸”，重型机械被拒进场挖掘主要靠人工，联合国呼吁调査：或存战争罪行证据 | https://mp.weixin.qq.com/s/gnRzkuaWAy0c4b3gMHEpgQ |
+| 09-16 13:00 | 中国消费者报 | 行业媒体 | 市场监管总局“高质量发展中国行·质量强县看担当”网评引导活动在义乌启动 | https://mp.weixin.qq.com/s/J0uTpsv9LyaL2ihVpUFZYg |
 | 09-16 12:00 | 澎湃新闻 | 综合媒体 | 香港特区首个五年规划公布 | https://mp.weixin.qq.com/s/HxxnqFyyJ80-DlOOWFOJYQ |
 | 09-16 12:00 | 央视财经 | 综合媒体 | 历史性时刻！世纪工程+1！ | https://mp.weixin.qq.com/s/uvgzLUkzVOOts-ihp7bWBQ |
 | 09-16 12:00 | 上海市消保委 | 消协 | 昔日霸主将退市！曾卖遍全国，是不少人家里的“第一大件”！ | https://mp.weixin.qq.com/s/yywNoJwVDqWA5raXS4ZoMw |
