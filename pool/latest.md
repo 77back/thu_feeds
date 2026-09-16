@@ -1,7 +1,10 @@
-# 舆情候选池 0916（09-15 00:00 至今，63 条）
+# 舆情候选池 0916（09-15 00:00 至今，67 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-16 17:00 | 澎湃新闻 | 综合媒体 | 男子身份遭盗用“注册公司虚开增值税发票近千万”，无法证明公司不是自己开的，5年前已被盗用过一次 | https://mp.weixin.qq.com/s/JLmqxTiU488ltfTa239NmA |
+| 09-16 17:00 | 中国质量新闻网 | 行业媒体 | 提醒！吃柚子好处虽多，但有一点要注意！ | https://mp.weixin.qq.com/s/sUU85OBJVaJGtPR0eUQjpQ |
+| 09-16 17:00 | 市说新语 | 监管·总局 | 习近平致信祝贺吉林大学建校80周年 | https://mp.weixin.qq.com/s/oj-caMlNVf5BbIIl9tCsyQ |
 | 09-16 16:00 | 澎湃新闻 | 综合媒体 | 张一鸣，亚洲新首富 | https://mp.weixin.qq.com/s/EgjnJZPZUjszgZ1EUOygNw |
 | 09-16 16:00 | 央视财经 | 综合媒体 | 中国天眼，重大发现！ | https://mp.weixin.qq.com/s/TJoJzjxW54eOvuLfK5NLbg |
 | 09-16 16:00 | 市说新语 | 监管·总局 | 新材料领域国际标准建设再突破 两项中国牵头标准相继发布 | https://mp.weixin.qq.com/s/ddWf5-YIV8bWzMV~8QQ6ew |
@@ -35,6 +38,7 @@
 | 09-16 | 食品伙伴网 | 抽检通报 | 北京市市场监督管理局关于食品安全监督抽检信息的公告（2026年第4期） | http://news.foodmate.net/2026/09/753064.html |
 | 09-16 | 食品伙伴网 | 抽检通报 | 赤峰市喀旗市场监管局组织开展节前月饼及节令食品安全专项检查 | http://news.foodmate.net/2026/09/753036.html |
 | 09-16 | 食品伙伴网 | 抽检通报 | 广元市市场监管局专题调研市食品药品检验检测中心工作 | http://news.foodmate.net/2026/09/753025.html |
+| 09-16 | 界面新闻·消费 | 综合媒体 | 遭罗永浩吐槽“难吃”后沉默四天，野人先生首度发声 | https://www.jiemian.com/article/15103841.html |
 | 09-16 | 澎湃·质量观 | 行业媒体 | 马上测·兼职④丨我们在律所假扮“咨询离婚诉讼”当事人，酬劳40元 | https://www.thepaper.cn/newsDetail_forward_34060283 |
 | 09-15 17:00 | 澎湃新闻 | 综合媒体 | 部分高校就“过紧日子”下发细则文件，提醒“把钱花在该花的地方” | https://mp.weixin.qq.com/s/1MOwd-S4AA0s9sMpAu0jjA |
 | 09-15 17:00 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 甩客骗票，伤的是城市体面 | https://mp.weixin.qq.com/s/Pb3w8ItFo1P03eBnS2Lwaw |
