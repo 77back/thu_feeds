@@ -1,7 +1,8 @@
-# 舆情候选池 0916（09-15 00:00 至今，59 条）
+# 舆情候选池 0916（09-15 00:00 至今，60 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-16 15:00 | 澎湃新闻 | 综合媒体 | “全网最低价”，为什么必须叫停 | https://mp.weixin.qq.com/s/MCukAE3jA-QLRLvkKg-p~A |
 | 09-16 14:00 | 央视财经 | 综合媒体 | 黄金白银，直线拉涨 | https://mp.weixin.qq.com/s/Yw4DyInU5h~4gSzRbfoAUw |
 | 09-16 14:00 | 中国质量新闻网 | 行业媒体 | 注意！2批次药品抽检不符合规定！ | https://mp.weixin.qq.com/s/F63xvJFJyZ~1xV1BVm65UQ |
 | 09-16 13:00 | 深圳市场监管 | 监管·地方 | 第十届深圳食品安全论坛开幕 共探可持续食品安全治理新路径 | https://mp.weixin.qq.com/s/QHJezni7V3G3OxZ7ifFLrA |
