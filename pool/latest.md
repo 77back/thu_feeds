@@ -1,7 +1,11 @@
-# 舆情候选池 0917（09-16 00:00 至今，57 条）
+# 舆情候选池 0917（09-16 00:00 至今，62 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-17 11:00 | 深圳市场监管 | 监管·地方 | 春雨润泽，医工融合！深圳“春雨行动”打通医疗器械临床创新成果转化“快车道” | https://mp.weixin.qq.com/s/7y6SYebcmMqSi8OL0WsXMg |
+| 09-17 11:00 | 上海市场监管 | 监管·地方 | 李强签署国务院令 公布《市场监督管理所条例》 | https://mp.weixin.qq.com/s/TN2kmPWYl~caskbKR05SXw |
+| 09-17 11:00 | 澎湃新闻 | 综合媒体 | “南方医科大学学生坠亡”引关注，警惕公共事件中那些“让人一眼愤怒”的谣言 | https://mp.weixin.qq.com/s/ry~K-8pbIFxbDyG20FDClQ |
+| 09-17 11:00 | 市说新语 | 监管·总局 | 国产肿瘤全营养特医食品实现“零突破” | https://mp.weixin.qq.com/s/60aL2Z12JuasegLOdpuAjA |
 | 09-17 10:00 | 澎湃新闻 | 综合媒体 | 中国乒乓球队、体操队、武术队、赛艇队、羽毛球队等，落地名古屋被困机场数小时，“现场只提供水，不提供食品” | https://mp.weixin.qq.com/s/bVgww4eNgwvSv3OnE3PMAw |
 | 09-17 09:00 | 澎湃新闻 | 综合媒体 | AI“劫持”网站并偷建“地下论坛”，国安部披露细节 | https://mp.weixin.qq.com/s/2kWfitEWM1UNNHKOaR8RiQ |
 | 09-17 09:00 | 央视财经 | 综合媒体 | 美联储宣布加息！特朗普发声 | https://mp.weixin.qq.com/s/9Cbl5rW75sZKih-rNSb4oA |
@@ -13,6 +17,7 @@
 | 09-17 08:00 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 10公里30元？别让景区摆渡车沦为“宰客专线” | https://mp.weixin.qq.com/s/l~wyj3O5U~snIoTNWFqjNQ |
 | 09-17 08:00 | 中国消费者报 | 行业媒体 | 6家非法社会组织被取缔、解散；今起可买10月1日火车票 | https://mp.weixin.qq.com/s/HHSPAZiICXC-ZHQmMs4YBw |
 | 09-17 08:00 | 中国市场监管报 | 行业媒体 | 司法部：全国统一大市场建设条例正在研究起草，持续纠治乱执法、滥执法 | https://mp.weixin.qq.com/s/DzbhwtwosLbiVAVx0SNHFQ |
+| 09-17 | 食品伙伴网 | 抽检通报 | 广东抽检发布15批次不合格食品，涉及微生物污染、农药残留、食品添加剂使用等问题 | http://news.foodmate.net/2026/09/753169.html |
 | 09-17 | 食品伙伴网 | 抽检通报 | 重点文旅区域糕点质量如何？抽检结果出炉啦！ | http://news.foodmate.net/2026/09/753159.html |
 | 09-17 | 食品伙伴网 | 抽检通报 | 汇总｜2026年8月市场监管总局通报92批次不合格食品，超五成来自电商平台 | http://news.foodmate.net/2026/09/753158.html |
 | 09-17 | 食品伙伴网 | 抽检通报 | 上海市市场监督管理局2026年第25期省级食品安全抽检信息 | http://news.foodmate.net/2026/09/753154.html |
