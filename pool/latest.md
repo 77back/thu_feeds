@@ -1,7 +1,15 @@
-# 舆情候选池 0916（09-15 00:00 至今，67 条）
+# 舆情候选池 0917（09-16 00:00 至今，48 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-17 08:00 | 广东市场监管 | 监管·地方 | 市场监管总局“高质量发展中国行·质量强县看担当”网评引导活动在义乌启动 | https://mp.weixin.qq.com/s/HEM~NQ7fbrIbMylydoPYQw |
+| 09-17 08:00 | 上海市场监管 | 监管·地方 | 全市平台企业反垄断合规专项宣讲会→ | https://mp.weixin.qq.com/s/Rlogzk7RNWHD~a9bwGFseQ |
+| 09-17 08:00 | 澎湃新闻 | 综合媒体 | 美联储全票通过：加息25个基点 | https://mp.weixin.qq.com/s/mJr3D6wXFIZDbtpK0lXD8A |
+| 09-17 08:00 | 央视财经 | 综合媒体 | 重要发布会，就在本周五！ | https://mp.weixin.qq.com/s/husaA7GWby0Vv1kUqreu6g |
+| 09-17 08:00 | 黑猫投诉 | 投诉平台 | 尊宝比萨一员工将头屑狂撒到披萨上！门店工作人员：该披萨未对外出餐已丢弃，涉事员工已停职 | https://mp.weixin.qq.com/s/WsS~Px20ra7dGWskWrBz9Q |
+| 09-17 08:00 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 10公里30元？别让景区摆渡车沦为“宰客专线” | https://mp.weixin.qq.com/s/l~wyj3O5U~snIoTNWFqjNQ |
+| 09-17 08:00 | 中国消费者报 | 行业媒体 | 6家非法社会组织被取缔、解散；今起可买10月1日火车票 | https://mp.weixin.qq.com/s/HHSPAZiICXC-ZHQmMs4YBw |
+| 09-17 08:00 | 中国市场监管报 | 行业媒体 | 司法部：全国统一大市场建设条例正在研究起草，持续纠治乱执法、滥执法 | https://mp.weixin.qq.com/s/DzbhwtwosLbiVAVx0SNHFQ |
 | 09-16 17:00 | 澎湃新闻 | 综合媒体 | 男子身份遭盗用“注册公司虚开增值税发票近千万”，无法证明公司不是自己开的，5年前已被盗用过一次 | https://mp.weixin.qq.com/s/JLmqxTiU488ltfTa239NmA |
 | 09-16 17:00 | 中国质量新闻网 | 行业媒体 | 提醒！吃柚子好处虽多，但有一点要注意！ | https://mp.weixin.qq.com/s/sUU85OBJVaJGtPR0eUQjpQ |
 | 09-16 17:00 | 市说新语 | 监管·总局 | 习近平致信祝贺吉林大学建校80周年 | https://mp.weixin.qq.com/s/oj-caMlNVf5BbIIl9tCsyQ |
@@ -38,34 +46,7 @@
 | 09-16 | 食品伙伴网 | 抽检通报 | 北京市市场监督管理局关于食品安全监督抽检信息的公告（2026年第4期） | http://news.foodmate.net/2026/09/753064.html |
 | 09-16 | 食品伙伴网 | 抽检通报 | 赤峰市喀旗市场监管局组织开展节前月饼及节令食品安全专项检查 | http://news.foodmate.net/2026/09/753036.html |
 | 09-16 | 食品伙伴网 | 抽检通报 | 广元市市场监管局专题调研市食品药品检验检测中心工作 | http://news.foodmate.net/2026/09/753025.html |
+| 09-16 | 界面新闻·消费 | 综合媒体 | 降价复出的钟薛高，出路在小卖部 | https://www.jiemian.com/article/15104389.html |
+| 09-16 | 界面新闻·消费 | 综合媒体 | 尊宝比萨的麻烦远不止一片头皮屑 | https://www.jiemian.com/article/15103582.html |
 | 09-16 | 界面新闻·消费 | 综合媒体 | 遭罗永浩吐槽“难吃”后沉默四天，野人先生首度发声 | https://www.jiemian.com/article/15103841.html |
 | 09-16 | 澎湃·质量观 | 行业媒体 | 马上测·兼职④丨我们在律所假扮“咨询离婚诉讼”当事人，酬劳40元 | https://www.thepaper.cn/newsDetail_forward_34060283 |
-| 09-15 17:00 | 澎湃新闻 | 综合媒体 | 部分高校就“过紧日子”下发细则文件，提醒“把钱花在该花的地方” | https://mp.weixin.qq.com/s/1MOwd-S4AA0s9sMpAu0jjA |
-| 09-15 17:00 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 甩客骗票，伤的是城市体面 | https://mp.weixin.qq.com/s/Pb3w8ItFo1P03eBnS2Lwaw |
-| 09-15 17:00 | 市说新语 | 监管·总局 | 市场监管总局会同文化和旅游部召开在线酒店预订平台服务行业行政指导会 | https://mp.weixin.qq.com/s/sv0b~y-UmUNt2~Hi589yCg |
-| 09-15 16:00 | 澎湃新闻 | 综合媒体 | 外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结 | https://mp.weixin.qq.com/s/BCV~M1Imyfd9M9Bufy4Daw |
-| 09-15 16:00 | 央视财经 | 综合媒体 | 30万亿元利好！两部门，重要部署 | https://mp.weixin.qq.com/s/cynNdhyZwUpwlx5FLWyV8w |
-| 09-15 15:09 | 深圳市场监管 | 监管·地方 | 深圳市市场监督管理局党组书记、局长刘广阳调研基层市场监管所 | https://mp.weixin.qq.com/s/cP30eCvNqzXPU5Isu9QE0w |
-| 09-15 15:09 | 上海市场监管 | 监管·地方 | “并购合规沪企直通车”正式启动！ | https://mp.weixin.qq.com/s/YxwIYCZXP0nTyqcXjb4x3g |
-| 09-15 15:09 | 澎湃新闻 | 综合媒体 | 沈阳市市长调整 | https://mp.weixin.qq.com/s/YbE5VyALhzedMhw9Zl2d6A |
-| 09-15 15:09 | 央视财经 | 综合媒体 | 2026年“中国品质生活”晚会，今晚播出！ | https://mp.weixin.qq.com/s/o4cHyTMpfiHFLIdi9rC0gQ |
-| 09-15 15:09 | 上海市消保委 | 消协 | 太惨痛！加油时一个举动，男子驶离15分钟后突然起火，大面积烧伤终身伤残！紧急提醒 | https://mp.weixin.qq.com/s/7vBROQQ1EAnEvLO7hvFVDA |
-| 09-15 15:09 | 中国质量新闻网 | 行业媒体 | 这几类人，不建议吃桃酥 | https://mp.weixin.qq.com/s/qSz76mctkPc~P7vbBX6mLw |
-| 09-15 15:09 | 中国消费者报 | 行业媒体 | 市场监管总局通报47批次不合格食品！ | https://mp.weixin.qq.com/s/F3LorFtJOwKPuWEBttHdPA |
-| 09-15 15:09 | 中国市场监管报 | 行业媒体 | 打通市场监管法治化的“最后一公里”——评析《市场监督管理所条例》的积极作用与意义 | https://mp.weixin.qq.com/s/qERgCm3-dQYqNno-VAdJGA |
-| 09-15 15:09 | 市说新语 | 监管·总局 | 5项类脑计算和光电计算领域国家标准化指导性技术文件发布 | https://mp.weixin.qq.com/s/b4k3vHFnobakGz4yp0U3DA |
-| 09-15 | 食品伙伴网 | 抽检通报 | 今日导读：抖音全球购两款进口补剂检出违禁原料；尊宝比萨涉事门店停业 市监立案调查；曝光！荧光增白剂给变质猪肉化妆（2026年9月15日） | http://news.foodmate.net/2026/09/752989.html |
-| 09-15 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局食品安全监督抽检信息通告（2026年第29期） | http://news.foodmate.net/2026/09/752953.html |
-| 09-15 | 食品伙伴网 | 抽检通报 | 肉制品里加“料”，这些“雷区”你踩了吗？ | http://news.foodmate.net/2026/09/752949.html |
-| 09-15 | 食品伙伴网 | 抽检通报 | 重庆这21批次不合格食品被查处，看看你买过吗？ | http://news.foodmate.net/2026/09/752927.html |
-| 09-15 | 食品伙伴网 | 抽检通报 | 靶向整治食品生产风险  压实主体责任守牢食品安全底线楚雄州持续推进不合格食品生产主体专项治理 | http://news.foodmate.net/2026/09/752910.html |
-| 09-15 | 食品伙伴网 | 抽检通报 | 市场监管总局办公厅关于47批次食品抽检不合格情况的通报（市监食检发〔2026〕111号） | http://news.foodmate.net/2026/09/752875.html |
-| 09-15 | 界面新闻·消费 | 综合媒体 | 娃哈哈因拖欠员工公积金被查封办公楼 | https://www.jiemian.com/article/15099046.html |
-| 09-15 | 界面新闻·消费 | 综合媒体 | 海南春光手撕旅游特产“人设” | https://www.jiemian.com/article/15092285.html |
-| 09-15 | 界面新闻·消费 | 综合媒体 | 25元隔离霜撞脸540元CPB，奥乐齐被资生堂起诉 | https://www.jiemian.com/article/15097655.html |
-| 09-15 | 界面新闻·消费 | 综合媒体 | 差评意外变流量，被罗永浩吐槽后野人先生涨粉近3万 | https://www.jiemian.com/article/15096706.html |
-| 09-15 | 界面新闻·消费 | 综合媒体 | 从自建工厂到输出标准，Babycare亚洲透明工厂·湖州工厂首次对公众开放 | https://www.jiemian.com/article/15094242.html |
-| 09-15 | 界面新闻·消费 | 综合媒体 | 赛百味如何把“中国味”做成长期创新？ | https://www.jiemian.com/article/15092390.html |
-| 09-15 | 澎湃·质量观 | 行业媒体 | 江苏泰兴通报“百胜超市员工将地面冻品倒回冰柜”：扣押逾4公斤涉事冷冻丸子 | https://www.thepaper.cn/newsDetail_forward_34074543 |
-| 09-15 | 澎湃·质量观 | 行业媒体 | 多地普瑞眼科因过度检查、医疗广告违法等行为被处罚 | https://www.thepaper.cn/newsDetail_forward_34073274 |
-| 09-15 | 澎湃·质量观 | 行业媒体 | 马上测·兼职③‌｜公司花钱雇人“开会”，称为了报销 | https://www.thepaper.cn/newsDetail_forward_34059900 |
