@@ -1,7 +1,9 @@
-# 舆情候选池 0917（09-16 00:00 至今，48 条）
+# 舆情候选池 0917（09-16 00:00 至今，53 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-17 09:00 | 澎湃新闻 | 综合媒体 | AI“劫持”网站并偷建“地下论坛”，国安部披露细节 | https://mp.weixin.qq.com/s/2kWfitEWM1UNNHKOaR8RiQ |
+| 09-17 09:00 | 央视财经 | 综合媒体 | 美联储宣布加息！特朗普发声 | https://mp.weixin.qq.com/s/9Cbl5rW75sZKih-rNSb4oA |
 | 09-17 08:00 | 广东市场监管 | 监管·地方 | 市场监管总局“高质量发展中国行·质量强县看担当”网评引导活动在义乌启动 | https://mp.weixin.qq.com/s/HEM~NQ7fbrIbMylydoPYQw |
 | 09-17 08:00 | 上海市场监管 | 监管·地方 | 全市平台企业反垄断合规专项宣讲会→ | https://mp.weixin.qq.com/s/Rlogzk7RNWHD~a9bwGFseQ |
 | 09-17 08:00 | 澎湃新闻 | 综合媒体 | 美联储全票通过：加息25个基点 | https://mp.weixin.qq.com/s/mJr3D6wXFIZDbtpK0lXD8A |
@@ -10,6 +12,9 @@
 | 09-17 08:00 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 10公里30元？别让景区摆渡车沦为“宰客专线” | https://mp.weixin.qq.com/s/l~wyj3O5U~snIoTNWFqjNQ |
 | 09-17 08:00 | 中国消费者报 | 行业媒体 | 6家非法社会组织被取缔、解散；今起可买10月1日火车票 | https://mp.weixin.qq.com/s/HHSPAZiICXC-ZHQmMs4YBw |
 | 09-17 08:00 | 中国市场监管报 | 行业媒体 | 司法部：全国统一大市场建设条例正在研究起草，持续纠治乱执法、滥执法 | https://mp.weixin.qq.com/s/DzbhwtwosLbiVAVx0SNHFQ |
+| 09-17 | 食品伙伴网 | 抽检通报 | 上海市市场监督管理局2026年第25期省级食品安全抽检信息 | http://news.foodmate.net/2026/09/753154.html |
+| 09-17 | 食品伙伴网 | 抽检通报 | 内蒙古自治区市场监督管理局关于2026年第8期食品抽检情况的通告 | http://news.foodmate.net/2026/09/753150.html |
+| 09-17 | 食品伙伴网 | 抽检通报 | 德州市市场监管局开展月饼专项抽检 | http://news.foodmate.net/2026/09/753146.html |
 | 09-16 17:00 | 澎湃新闻 | 综合媒体 | 男子身份遭盗用“注册公司虚开增值税发票近千万”，无法证明公司不是自己开的，5年前已被盗用过一次 | https://mp.weixin.qq.com/s/JLmqxTiU488ltfTa239NmA |
 | 09-16 17:00 | 中国质量新闻网 | 行业媒体 | 提醒！吃柚子好处虽多，但有一点要注意！ | https://mp.weixin.qq.com/s/sUU85OBJVaJGtPR0eUQjpQ |
 | 09-16 17:00 | 市说新语 | 监管·总局 | 习近平致信祝贺吉林大学建校80周年 | https://mp.weixin.qq.com/s/oj-caMlNVf5BbIIl9tCsyQ |
