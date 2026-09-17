@@ -1,7 +1,9 @@
-# 舆情候选池 0917（09-16 00:00 至今，70 条）
+# 舆情候选池 0917（09-16 00:00 至今，73 条）
 
 | 时间 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|
+| 09-17 15:00 | 澎湃新闻 | 综合媒体 | 辽宁绥中通报“部分学生出现恶心呕吐” | https://mp.weixin.qq.com/s/DQcuz3M2ZeF0XzlyQGCpjA |
+| 09-17 15:00 | 央视财经 | 综合媒体 | 国家正式批复！又一新风口，“氢氢”地来了…… | https://mp.weixin.qq.com/s/NiCHqmgBsxkWnqDJJa6I4g |
 | 09-17 14:00 | 澎湃新闻 | 综合媒体 | 博士人数超过驴的存栏量？太荒诞了 | https://mp.weixin.qq.com/s/M-rH5ynGAWPoqryS8eIBQw |
 | 09-17 14:00 | 中国质量新闻网 | 行业媒体 | 警惕！发现这款化妆品，可举报！ | https://mp.weixin.qq.com/s/aRmE90wwkmTGy79KfUBbcQ |
 | 09-17 13:00 | 澎湃新闻 | 综合媒体 | 加拿大，在防务上“脱美入欧”？ | https://mp.weixin.qq.com/s/TuuIYn8SqYBxUx2CbxlnrQ |
@@ -31,6 +33,7 @@
 | 09-17 | 食品伙伴网 | 抽检通报 | 上海市市场监督管理局2026年第25期省级食品安全抽检信息 | http://news.foodmate.net/2026/09/753154.html |
 | 09-17 | 食品伙伴网 | 抽检通报 | 内蒙古自治区市场监督管理局关于2026年第8期食品抽检情况的通告 | http://news.foodmate.net/2026/09/753150.html |
 | 09-17 | 食品伙伴网 | 抽检通报 | 德州市市场监管局开展月饼专项抽检 | http://news.foodmate.net/2026/09/753146.html |
+| 09-17 | 界面新闻·消费 | 综合媒体 | 天边砂锅焖面呼和浩特首店暂停营业，贾国龙新品牌再生变数 | https://www.jiemian.com/article/15107055.html |
 | 09-17 | 澎湃·质量观 | 行业媒体 | 食品安全风险管控清单发布：至少每半年对直播间运营者主体资质等信息核验更新一次 | https://www.thepaper.cn/newsDetail_forward_34088352 |
 | 09-17 | 澎湃·质量观 | 行业媒体 | 全国重点文旅区域糕点食品安全抽检合格率98.2% | https://www.thepaper.cn/newsDetail_forward_34087732 |
 | 09-16 17:00 | 澎湃新闻 | 综合媒体 | 男子身份遭盗用“注册公司虚开增值税发票近千万”，无法证明公司不是自己开的，5年前已被盗用过一次 | https://mp.weixin.qq.com/s/JLmqxTiU488ltfTa239NmA |
