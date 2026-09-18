@@ -1,7 +1,19 @@
-# 舆情候选池 0918（09-17 00:00 至今，108 条：公众号 90 + 网页 18）
+# 舆情候选池 0918（09-17 00:00 至今，120 条：公众号 102 + 网页 18）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-18 11:00 | 公众号 | 市说新语 | 监管·总局 | 多项核心器件国家标准集中突破 筑牢我国量子产业工程技术标准底座 | https://mp.weixin.qq.com/s/trsR2GADxQ0CqQzRih~y7Q |
+| 09-18 11:00 | 公众号 | 上海市消保委 | 消协 | “2.3万元的LV新包，竟出了这种事！”上海买家直呼太委屈：直接跌价、心里郁闷……不少消费者有同款遭遇 | https://mp.weixin.qq.com/s/l1fbZod9mZLSDCYqE1auTQ |
+| 09-18 11:00 | 公众号 | 央视财经 | 综合媒体 | 重大变化！我国房地产进入存量时代 | https://mp.weixin.qq.com/s/eP0wtqX1cHzJe-HdZ6AkyQ |
+| 09-18 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 住房城乡建设部：我国房地产市场供求关系发生重大变化 | https://mp.weixin.qq.com/s/fgw~gSbOI3hDcClmG02auA |
+| 09-18 11:00 | 公众号 | 上海市场监管 | 监管·地方 | 点“质”增“信”——企业信用信息公示系统（上海）新增政府质量奖获奖荣誉 | https://mp.weixin.qq.com/s/0M3i52BO~N1xdpaZet784w |
+| 09-18 11:00 | 公众号 | 新京报 | 综合媒体 | “我是超人，在跟自己身体对抗”，独家专访赵家驹，330公里破纪录夺冠背后的极限挣扎 | https://mp.weixin.qq.com/s/kpLhAQu7TnvHyl37aOsRKg |
+| 09-18 11:00 | 公众号 | 法治日报 | 综合媒体 | 快递员救助摔倒老人，反被索赔92万元！老人家属称驾驶三轮车产生的气流、噪音、惊吓或致老人摔倒，法院驳回 | https://mp.weixin.qq.com/s/skOmWpZc4qvwUF43TVxeEg |
+| 09-18 11:00 | 公众号 | 界面新闻 | 综合媒体 | 又见退费诈骗！华图教育：已报案 | https://mp.weixin.qq.com/s/pW9KeimAy~ZghyuDA1qBjA |
+| 09-18 11:00 | 公众号 | 南方都市报 | 综合媒体 | 住建部：我国房地产进入存量时代 | https://mp.weixin.qq.com/s/YFeF7CbURJ05CrM32Q-8gg |
+| 09-18 11:00 | 公众号 | 红网 | 综合媒体 | 住房城乡建设部：房地产市场供求关系发生重大变化，已进入存量时代 | https://mp.weixin.qq.com/s/noshbVEffO65kHO2iHug-g |
+| 09-18 11:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北省纪委监委最新通报 | https://mp.weixin.qq.com/s/lQN-M5d-1ml4NJVMUcADzw |
+| 09-18 11:00 | 公众号 | 中国新闻网 | 综合媒体 | “百炼钢做成了绕指柔”，习近平称赞“工艺确实好” | https://mp.weixin.qq.com/s/29Lhexah8OsmnaYLsCNp9g |
 | 09-18 10:00 | 公众号 | 市说新语 | 监管·总局 | 《电子计价秤作弊特征识别测试规范》正式发布 | https://mp.weixin.qq.com/s/epzWRtsDof4o83AHnEfmXw |
 | 09-18 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：将再次开展调查 | https://mp.weixin.qq.com/s/qvm2K16s0YbKd3Mjh9dH2g |
 | 09-18 10:00 | 公众号 | 新京报 | 综合媒体 | “开考9分钟试卷被传出，40分钟后答案传回考场”，打不掉的高校考试作弊群：校外答题按人收费，每科几十元到二三百元 | https://mp.weixin.qq.com/s/ppjl2wOIORQ5Wk7KbuwPpA |
