@@ -1,7 +1,17 @@
-# 舆情候选池 0918（09-17 00:00 至今，161 条：公众号 142 + 网页 19）
+# 舆情候选池 0918（09-17 00:00 至今，172 条：公众号 152 + 网页 20）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-18 16:00 | 公众号 | 中国消费者报 | 行业媒体 | 从鉴真“三件套”到“AI哨兵”， 看一瓶酒如何贴上“名酒鉴真”标签 | https://mp.weixin.qq.com/s/QpdZiPyj7i1u46jzLNoIjQ |
+| 09-18 16:00 | 公众号 | 市说新语 | 监管·总局 | 26年前，习近平托人送来1000元，为这里捐种了一棵香樟树 | https://mp.weixin.qq.com/s/AQEdknbru0zVQHKyFwviAg |
+| 09-18 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中方领导人是否将访问美国？外交部回应 | https://mp.weixin.qq.com/s/BJ-wGSQpS-GL8nIApkIGOQ |
+| 09-18 16:00 | 公众号 | 广东市场监管 | 监管·地方 | 广东系统推进无堂食外卖源头治理，打造“南粤善治”网络餐饮共治样本 | https://mp.weixin.qq.com/s/8t0L5M3iKT9xnQGXBTGYVA |
+| 09-18 16:00 | 公众号 | 界面新闻 | 综合媒体 | iPhone 18 Pro首发，有“黄牛”拒收了 | https://mp.weixin.qq.com/s/1KvOqvFu8XQLWB5QQndcAg |
+| 09-18 16:00 | 公众号 | 新京报 | 综合媒体 | 外交部：菲律宾公务船故意冲撞中方海警船，严重威胁中方人员和船只安全，严重违反国际法和国际关系基本准则 | https://mp.weixin.qq.com/s/7YM8le1ELB6C0N24vqaoFg |
+| 09-18 16:00 | 公众号 | 南方都市报 | 综合媒体 | 今早，广东多地响彻警报 | https://mp.weixin.qq.com/s/r8gg596W9XDdB9AHHY9HRw |
+| 09-18 16:00 | 公众号 | 极目新闻 | 综合媒体 | “我太痛苦了，回家吧”，一位母亲从看病到离世仅14天，儿子视频记录她从“铿锵有力”到天人永隔，看哭网友，当事人发声 | https://mp.weixin.qq.com/s/BcZdoZdgmRkfdvAmghtTTA |
+| 09-18 16:00 | 公众号 | 红网 | 综合媒体 | 伊朗总统将赴纽约，参加联合国大会 | https://mp.weixin.qq.com/s/sq8VguYvBM592-xueC7b5Q |
+| 09-18 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 中方回应中美元首年内互动安排 | https://mp.weixin.qq.com/s/XseGjYhlU9P9ZYt7xhyhYQ |
 | 09-18 15:00 | 公众号 | 市说新语 | 监管·总局 | 这场发布会，不容错过！ | https://mp.weixin.qq.com/s/jLz-p5q1PlsUYUXTkvmRAA |
 | 09-18 15:00 | 公众号 | 央视财经 | 综合媒体 | 多家民营银行，调整存款利率！ | https://mp.weixin.qq.com/s/MN1geSACIXpKi4l9hOS6HA |
 | 09-18 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 豆浆品牌出镜主播换穿黑丝、剧情中出现洗澡桥段等，“擦边”式营销真没法治了吗 | https://mp.weixin.qq.com/s/5h8sOAtNS84ul93nC7jNVg |
@@ -89,6 +99,7 @@
 | 09-18 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 当253年的老字号按下年轻化“加速键” 苏州稻香村“一大突破、三箭齐发”背后的品牌逻辑 | https://mp.weixin.qq.com/s/IkZionpjje6-nEVdh~IBMQ |
 | 09-18 08:00 | 公众号 | 江苏省消保委 | 消协 | 事关AI剧，广电总局最新表态 | https://mp.weixin.qq.com/s/Emu9cmrT-DbkiinANt3aOg |
 | 09-18 08:00 | 公众号 | 食事求真 | 行业媒体 | 7万伙伴撑起8238家门店 星巴克千店千面落子在人 | https://mp.weixin.qq.com/s/ueHBzWSjWTa5IUEK0tKv-A |
+| 09-18 | 网页 | 食品伙伴网 | 抽检通报 | 农业农村部办公厅关于2026年第二期兽药质量监督抽检情况的通报 | http://news.foodmate.net/2026/09/753318.html |
 | 09-18 | 网页 | 食品伙伴网 | 抽检通报 | 福建：食品安全行刑衔接联合抽检 护航开学季及“双节”食安 | http://news.foodmate.net/2026/09/753293.html |
 | 09-18 | 网页 | 食品伙伴网 | 抽检通报 | 云南检出14批次不合格食品，有无蔗糖藕粉、草莓派、白酒等 | http://news.foodmate.net/2026/09/753263.html |
 | 09-18 | 网页 | 食品伙伴网 | 抽检通报 | 上海检出7批次不合格食品，有蜂蜜、料酒、果冻等 | http://news.foodmate.net/2026/09/753261.html |
@@ -98,6 +109,7 @@
 | 09-18 | 网页 | 食品伙伴网 | 抽检通报 | 山东省市场监督管理局关于13批次食品不合格情况的通告2026年第24期（总第550期） | http://news.foodmate.net/2026/09/753257.html |
 | 09-18 | 网页 | 界面新闻·消费 | 综合媒体 | 【出海头条】费大厨们出海不再扎堆唐人街 | https://www.jiemian.com/article/15052811.html |
 | 09-18 | 网页 | 界面新闻·消费 | 综合媒体 | 新茶饮供应商躺赚的好日子没了 | https://www.jiemian.com/article/15076015.html |
+| 09-18 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局：拦截线上销售违规充电宝商品3.7万件 | https://www.thepaper.cn/newsDetail_forward_34096794 |
 | 09-18 | 网页 | 澎湃·质量观 | 行业媒体 | 工人日报聚焦：严打之下，旅游强迫购物乱象为何屡禁不止 | https://www.thepaper.cn/newsDetail_forward_34094591 |
 | 09-17 17:00 | 公众号 | 界面新闻 | 综合媒体 | 华为公布昇腾最新时间表 | https://mp.weixin.qq.com/s/HXKPrq~HrNP~xgJ1wEln5g |
 | 09-17 17:00 | 公众号 | 新京报 | 综合媒体 | 美国归还58件中国文物艺术品和古生物化石 | https://mp.weixin.qq.com/s/QyJTlAcSmwlsa149b7Purg |
@@ -156,7 +168,6 @@
 | 09-17 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 司法部：全国统一大市场建设条例正在研究起草，持续纠治乱执法、滥执法 | https://mp.weixin.qq.com/s/DzbhwtwosLbiVAVx0SNHFQ |
 | 09-17 | 网页 | 食品伙伴网 | 抽检通报 | 抽检选项群众定 食安共治齐参与广西“你点我检”专项行动筑牢中秋国庆食品安全防线 | http://news.foodmate.net/2026/09/753209.html |
 | 09-17 | 网页 | 食品伙伴网 | 抽检通报 | 今日导读：来伊份致歉！三款零食被检出“缺斤短两”；知名男星代言的喉糖陷争议，品牌方回应；“章丘大葱味”酸奶你吃过吗？（2026年9月17日） | http://news.foodmate.net/2026/09/753196.html |
-| 09-17 | 网页 | 食品伙伴网 | 抽检通报 | 广东抽检发布15批次不合格食品，涉及微生物污染、农药残留、食品添加剂使用等问题 | http://news.foodmate.net/2026/09/753169.html |
 | 09-17 | 网页 | 界面新闻·消费 | 综合媒体 | 涉嫌侵犯字母“N”商标权，新百伦起诉迪卡侬 | https://www.jiemian.com/article/15109284.html |
 | 09-17 | 网页 | 界面新闻·消费 | 综合媒体 | 烘焙新消费只剩泸溪河还在撑 | https://www.jiemian.com/article/15104827.html |
 | 09-17 | 网页 | 界面新闻·消费 | 综合媒体 | 天边砂锅焖面呼和浩特首店暂停营业，贾国龙新品牌再生变数 | https://www.jiemian.com/article/15107055.html |
