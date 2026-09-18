@@ -1,7 +1,18 @@
-# 舆情候选池 0918（09-17 00:00 至今，132 条：公众号 114 + 网页 18）
+# 舆情候选池 0918（09-17 00:00 至今，143 条：公众号 125 + 网页 18）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-18 13:00 | 公众号 | 央视财经 | 综合媒体 | 暴跌超21%！欧洲巨头，全球裁员 | https://mp.weixin.qq.com/s/ABcsEH7Len4U4R1sN~6Qdw |
+| 09-18 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 珠宝商花84.5万元拍下省财政厅公物仓“金观音”，带回家一测全是铜？最新进展 | https://mp.weixin.qq.com/s/94JjZcJQtM43nLY1VMR8ng |
+| 09-18 13:00 | 公众号 | 新京报 | 综合媒体 | iPhone Duo维修价为8000元？苹果官方客服回应 | https://mp.weixin.qq.com/s/B7Io57h5LftX5yvWBlRRMw |
+| 09-18 13:00 | 公众号 | 法治日报 | 综合媒体 | “十一”期间高铁票涨价，有的车次比平时贵了？12306回应：高铁票价可能因节假日客流等因素浮动，不同日期优惠折扣不同，并非涨价 | https://mp.weixin.qq.com/s/Lo-d8i2ZYyuYdjuQAdoKAw |
+| 09-18 13:00 | 公众号 | 界面新闻 | 综合媒体 | 燧原科技大涨，总市值超2400亿 | https://mp.weixin.qq.com/s/qosBf4pc5SdrbiUXkM6W8Q |
+| 09-18 13:00 | 公众号 | 南方都市报 | 综合媒体 | 国家卫健委喊话“多喝白开水、淡茶水”，医生更多提醒 | https://mp.weixin.qq.com/s/PDrR2PMy4VLvxOMlGDYrSg |
+| 09-18 13:00 | 公众号 | 极目新闻 | 综合媒体 | 女子5次怀孕5次流产，做了全套妇科检查却都正常，医生问了一句“会不会口干眼干”后揪出“元凶” | https://mp.weixin.qq.com/s/Sz078RaOTb30lpCbOlzfMQ |
+| 09-18 13:00 | 公众号 | 今晚报 | 综合媒体 | 天津门店实拍！上市首日，苹果新机冰火两重天，到底谁还在加价买？ | https://mp.weixin.qq.com/s/84-cqLM34sUpZBO29cHmVg |
+| 09-18 13:00 | 公众号 | 红网 | 综合媒体 | 12306回应“国庆高铁涨价”：票价可能因节假日客流等因素浮动，不同日期优惠折扣不同，并非涨价 | https://mp.weixin.qq.com/s/KwSD2Bvc7yn3nz1IfhbyGA |
+| 09-18 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 张某某、赵某某、康某等人用言语恐吓、拳打脚踢、烟灰缸砸头、吹风机电线勒颈等暴力手段，对受害人进行敲诈勒索，山西临汾警方通报 | https://mp.weixin.qq.com/s/IBnm-cY~vcqJObqfqdrM3A |
+| 09-18 13:00 | 公众号 | 河北省消保委 | 消协 | 衡水市消保委：深耕社区科普宣讲护航金秋安心消费 | https://mp.weixin.qq.com/s/D2cOh1se-n49ZWlmBr2cZQ |
 | 09-18 12:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局机关共青团与青年工作骨干培训班在深圳举办 | https://mp.weixin.qq.com/s/K1n4oI3bIp6cwH3GIN8pgg |
 | 09-18 12:00 | 公众号 | 中国消费者报 | 行业媒体 | NUDUUN小苏打牙膏、布蕾霓防晒乳不合格；双节抢票警惕四大票务骗局 | https://mp.weixin.qq.com/s/SybdEDJY7cgbalRNcrXD-A |
 | 09-18 12:00 | 公众号 | 深圳市场监管 | 监管·地方 | 以赛促练砺精兵！首届全市市场监管系统电子数据取证大比武成功举办 | https://mp.weixin.qq.com/s/Opbf-Colhm8WQJO28AeaTw |
