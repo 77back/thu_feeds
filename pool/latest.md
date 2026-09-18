@@ -1,7 +1,22 @@
-# 舆情候选池 0918（09-17 00:00 至今，172 条：公众号 152 + 网页 20）
+# 舆情候选池 0918（09-17 00:00 至今，186 条：公众号 165 + 网页 21）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-19 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于17批次食品不合格情况的通告（2026年第41期） | http://news.foodmate.net/2026/09/753327.html |
+| 09-19 | 网页 | 食品伙伴网 | 抽检通报 | 黑龙江省市场监督管理局关于食品安全监督抽检信息的通告（2026年第9期） | http://news.foodmate.net/2026/09/753326.html |
+| 09-18 17:00 | 公众号 | 市说新语 | 监管·总局 | 第五届“全国个体工商户服务月”活动启动 | https://mp.weixin.qq.com/s/eo82rO~mtNkYZjxB~vnO8Q |
+| 09-18 17:00 | 公众号 | 央视财经 | 综合媒体 | 两大板块，大面积涨停！这类股票，集体爆发→ | https://mp.weixin.qq.com/s/yyVU9xvbwkDJm~r5PbqPZw |
+| 09-18 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 二手奥迪开了近8年转售被警方扣押：车架号套用火烧报废车，实车对应多年前被盗车辆 | https://mp.weixin.qq.com/s/BqOXxDc5bqy2ByzazERhPQ |
+| 09-18 17:00 | 公众号 | 南方都市报 | 综合媒体 | 官方新标准：4楼及以上住宅，要加装电梯 | https://mp.weixin.qq.com/s/mC5g35pINS6mlJpMl68lMw |
+| 09-18 17:00 | 公众号 | 新京报 | 综合媒体 | 李在明道歉 | https://mp.weixin.qq.com/s/O774XO9zc5Y8QmiqpqfmPw |
+| 09-18 17:00 | 公众号 | 界面新闻 | 综合媒体 | 住建部定调未来5年楼市，房地产板块集体拉升 | https://mp.weixin.qq.com/s/26279~liFrx5Us-2zKLCJg |
+| 09-18 17:00 | 公众号 | 法治日报 | 综合媒体 | 一员工在公司遭同事辱骂，与对方大打出手，被开除后将公司告到法院，最终获赔23万元；法院：其行为属于防御性反应，无主观恶意 | https://mp.weixin.qq.com/s/QO1YJ5dW~5CqECPEvAjD2g |
+| 09-18 17:00 | 公众号 | 极目新闻 | 综合媒体 | 一员工在公司遭同事辱骂，与对方大打出手，被开除后将公司告到法院，最终获赔23万元！法院：其行为属于防御性反应，无主观恶意 | https://mp.weixin.qq.com/s/i3W5mP-5vx3L381xr1ArsA |
+| 09-18 17:00 | 公众号 | 今晚报 | 综合媒体 | 严士健逝世，享年98岁 | https://mp.weixin.qq.com/s/1dHzladberjDbjlMathXyQ |
+| 09-18 17:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 12306回应“国庆高铁涨价”：不同日期优惠折扣不同，并非涨价 | https://mp.weixin.qq.com/s/Ljx2g0Zs~KaCiksr8psA2Q |
+| 09-18 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 胡之璧同志逝世 | https://mp.weixin.qq.com/s/oJr5wCtx6Z-zX0IeWam73w |
+| 09-18 17:00 | 公众号 | 红网 | 综合媒体 | 湘潭市人大常委会最新人事任免 | https://mp.weixin.qq.com/s/rmB8F0MYpf7ohUz6cDMrXw |
+| 09-18 17:00 | 公众号 | 四川省消委会 | 消协 | 月月 3・15  ｜  金秋开学安心购，九月消费维权问题征集正式开启 | https://mp.weixin.qq.com/s/DE98qhu80qH2BryWl3vglw |
 | 09-18 16:00 | 公众号 | 中国消费者报 | 行业媒体 | 从鉴真“三件套”到“AI哨兵”， 看一瓶酒如何贴上“名酒鉴真”标签 | https://mp.weixin.qq.com/s/QpdZiPyj7i1u46jzLNoIjQ |
 | 09-18 16:00 | 公众号 | 市说新语 | 监管·总局 | 26年前，习近平托人送来1000元，为这里捐种了一棵香樟树 | https://mp.weixin.qq.com/s/AQEdknbru0zVQHKyFwviAg |
 | 09-18 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中方领导人是否将访问美国？外交部回应 | https://mp.weixin.qq.com/s/BJ-wGSQpS-GL8nIApkIGOQ |
@@ -109,6 +124,7 @@
 | 09-18 | 网页 | 食品伙伴网 | 抽检通报 | 山东省市场监督管理局关于13批次食品不合格情况的通告2026年第24期（总第550期） | http://news.foodmate.net/2026/09/753257.html |
 | 09-18 | 网页 | 界面新闻·消费 | 综合媒体 | 【出海头条】费大厨们出海不再扎堆唐人街 | https://www.jiemian.com/article/15052811.html |
 | 09-18 | 网页 | 界面新闻·消费 | 综合媒体 | 新茶饮供应商躺赚的好日子没了 | https://www.jiemian.com/article/15076015.html |
+| 09-18 | 网页 | 澎湃·质量观 | 行业媒体 | 强制性产品认证守底线专项行动：暂停CCC认证证书10.85万张 | https://www.thepaper.cn/newsDetail_forward_34096808 |
 | 09-18 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局：拦截线上销售违规充电宝商品3.7万件 | https://www.thepaper.cn/newsDetail_forward_34096794 |
 | 09-18 | 网页 | 澎湃·质量观 | 行业媒体 | 工人日报聚焦：严打之下，旅游强迫购物乱象为何屡禁不止 | https://www.thepaper.cn/newsDetail_forward_34094591 |
 | 09-17 17:00 | 公众号 | 界面新闻 | 综合媒体 | 华为公布昇腾最新时间表 | https://mp.weixin.qq.com/s/HXKPrq~HrNP~xgJ1wEln5g |
@@ -166,8 +182,6 @@
 | 09-17 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 10公里30元？别让景区摆渡车沦为“宰客专线” | https://mp.weixin.qq.com/s/l~wyj3O5U~snIoTNWFqjNQ |
 | 09-17 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 6家非法社会组织被取缔、解散；今起可买10月1日火车票 | https://mp.weixin.qq.com/s/HHSPAZiICXC-ZHQmMs4YBw |
 | 09-17 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 司法部：全国统一大市场建设条例正在研究起草，持续纠治乱执法、滥执法 | https://mp.weixin.qq.com/s/DzbhwtwosLbiVAVx0SNHFQ |
-| 09-17 | 网页 | 食品伙伴网 | 抽检通报 | 抽检选项群众定 食安共治齐参与广西“你点我检”专项行动筑牢中秋国庆食品安全防线 | http://news.foodmate.net/2026/09/753209.html |
-| 09-17 | 网页 | 食品伙伴网 | 抽检通报 | 今日导读：来伊份致歉！三款零食被检出“缺斤短两”；知名男星代言的喉糖陷争议，品牌方回应；“章丘大葱味”酸奶你吃过吗？（2026年9月17日） | http://news.foodmate.net/2026/09/753196.html |
 | 09-17 | 网页 | 界面新闻·消费 | 综合媒体 | 涉嫌侵犯字母“N”商标权，新百伦起诉迪卡侬 | https://www.jiemian.com/article/15109284.html |
 | 09-17 | 网页 | 界面新闻·消费 | 综合媒体 | 烘焙新消费只剩泸溪河还在撑 | https://www.jiemian.com/article/15104827.html |
 | 09-17 | 网页 | 界面新闻·消费 | 综合媒体 | 天边砂锅焖面呼和浩特首店暂停营业，贾国龙新品牌再生变数 | https://www.jiemian.com/article/15107055.html |
