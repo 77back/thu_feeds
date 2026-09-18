@@ -1,7 +1,19 @@
-# 舆情候选池 0918（09-17 00:00 至今，120 条：公众号 102 + 网页 18）
+# 舆情候选池 0918（09-17 00:00 至今，132 条：公众号 114 + 网页 18）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-18 12:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局机关共青团与青年工作骨干培训班在深圳举办 | https://mp.weixin.qq.com/s/K1n4oI3bIp6cwH3GIN8pgg |
+| 09-18 12:00 | 公众号 | 中国消费者报 | 行业媒体 | NUDUUN小苏打牙膏、布蕾霓防晒乳不合格；双节抢票警惕四大票务骗局 | https://mp.weixin.qq.com/s/SybdEDJY7cgbalRNcrXD-A |
+| 09-18 12:00 | 公众号 | 深圳市场监管 | 监管·地方 | 以赛促练砺精兵！首届全市市场监管系统电子数据取证大比武成功举办 | https://mp.weixin.qq.com/s/Opbf-Colhm8WQJO28AeaTw |
+| 09-18 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | “换丝袜和豆浆有什么关系”，永和豆浆授权账号被指擦边营销，涉事视频已下架 | https://mp.weixin.qq.com/s/F0h5fNN3~qkYbcPZNPJqeQ |
+| 09-18 12:00 | 公众号 | 新京报 | 综合媒体 | “小野的瓜田”被禁言，“右脸颊上兮尔的吻痕”已搜索不到 | https://mp.weixin.qq.com/s/QEUQEzeVFiidHd~rLo4z9g |
+| 09-18 12:00 | 公众号 | 界面新闻 | 综合媒体 | 从沙特到新加坡，中国大模型被全球抢着用！ | https://mp.weixin.qq.com/s/JSXjw7TH4OuVV9h9nzqcyQ |
+| 09-18 12:00 | 公众号 | 法治日报 | 综合媒体 | 广州一小区高空掉下两把餐刀，一把直接扎进奥迪车顶深度超2厘米，预估维修费用12万元，物业：已配合辖区派出所调查 | https://mp.weixin.qq.com/s/LLpLtQmKWC9-goPC488gfQ |
+| 09-18 12:00 | 公众号 | 南方都市报 | 综合媒体 | 幼儿园突发火情！多名孩子被紧急疏散 | https://mp.weixin.qq.com/s/txGWNrkp~5e23unLe-4Xww |
+| 09-18 12:00 | 公众号 | 红网 | 综合媒体 | 欠款1800万元，被执行人“卡点”过户深圳房产、谎称代持逃债，长沙芙蓉区法院硬核执行：当场支付200万元 | https://mp.weixin.qq.com/s/7YWPxmcJA5WbWc8~hkxLLQ |
+| 09-18 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 女子搬家时踩坏床头柜，怕被爸爸责怪，与妈妈商量后扔掉；两天后妈妈想起柜子里有370多克黄金铂金饰品、190余万元银行存单 | https://mp.weixin.qq.com/s/SKHONMVEtQap0vE-4sXhbQ |
+| 09-18 12:00 | 公众号 | 浙江消保委 | 消协 | 浙里家装 和美服务丨2026年浙江“3·15金秋购物节”家装与建材分会场正式启动 | https://mp.weixin.qq.com/s/54fky-R8M9kk4SqJKLAG~A |
+| 09-18 12:00 | 公众号 | 北京市场监管 | 监管·地方 | 一块儿童手表的“国标大考” | https://mp.weixin.qq.com/s/w~i8gQtQ1cqqOlrg3jwVpg |
 | 09-18 11:00 | 公众号 | 市说新语 | 监管·总局 | 多项核心器件国家标准集中突破 筑牢我国量子产业工程技术标准底座 | https://mp.weixin.qq.com/s/trsR2GADxQ0CqQzRih~y7Q |
 | 09-18 11:00 | 公众号 | 上海市消保委 | 消协 | “2.3万元的LV新包，竟出了这种事！”上海买家直呼太委屈：直接跌价、心里郁闷……不少消费者有同款遭遇 | https://mp.weixin.qq.com/s/l1fbZod9mZLSDCYqE1auTQ |
 | 09-18 11:00 | 公众号 | 央视财经 | 综合媒体 | 重大变化！我国房地产进入存量时代 | https://mp.weixin.qq.com/s/eP0wtqX1cHzJe-HdZ6AkyQ |
