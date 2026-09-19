@@ -1,7 +1,15 @@
-# 舆情候选池 0919（09-18 00:00 至今，197 条：公众号 179 + 网页 18）
+# 舆情候选池 0919（09-18 00:00 至今，205 条：公众号 187 + 网页 18）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-19 15:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ AI民宿“照骗”满天飞，平台可别做“睁眼瞎” | https://mp.weixin.qq.com/s/SLQGgt~vqNulAQe8ZvtIcQ |
+| 09-19 15:00 | 公众号 | 央视财经 | 综合媒体 | 中国公民及时避险！我使馆紧急提醒 | https://mp.weixin.qq.com/s/m0bwEMmy9dc73Kk-MwS4Ng |
+| 09-19 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中国男篮，已经没有“不能输”的比赛了 | https://mp.weixin.qq.com/s/9x5cy0wkzz5uFVYLyJEsMQ |
+| 09-19 15:00 | 公众号 | 新京报 | 综合媒体 | 人民日报：吴胜华“债都是前面欠的，凭什么让我还”等错误言论，令人瞠目！地方“主官”防范化解债务风险，绝没有“讨价还价”余地 | https://mp.weixin.qq.com/s/Ej7vciwbe4iThRITJTVw3w |
+| 09-19 15:00 | 公众号 | 南方都市报 | 综合媒体 | 杨某（男，33岁）下半身被压住，抢救无效死亡，官方公布调查报告 | https://mp.weixin.qq.com/s/4G3iBd61NWBGvNO~csnVQA |
+| 09-19 15:00 | 公众号 | 红网 | 综合媒体 | 中国铁路：持续识别遏制恶意抢票行为，今年中秋国庆火车票开售以来已累计将711.7万笔交易放入慢速队列，共拒绝出票133.1万张 | https://mp.weixin.qq.com/s/Gp~0Om8cLnAK3PmfDt~hVg |
+| 09-19 15:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北一公司奖励新婚员工：每对新人5000元现金、5000元酒水，还出资为52对新人举办集体婚礼 | https://mp.weixin.qq.com/s/PSSolIDmOdYSbVsNNRw6xA |
+| 09-19 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员李爱琴去世 | https://mp.weixin.qq.com/s/6oFejtmR1yQmKewYbbTBgw |
 | 09-19 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 龚德才逝世，曾因只讲课不评职称在网上走红 | https://mp.weixin.qq.com/s/2wwjSN7Sw85rSDPQdDy9BA |
 | 09-19 14:00 | 公众号 | 新京报 | 综合媒体 | 铁路12306：持续识别遏制恶意抢票行为 | https://mp.weixin.qq.com/s/ZUvTnNEUoQPzywZxfhrUFQ |
 | 09-19 14:00 | 公众号 | 界面新闻 | 综合媒体 | 四川盐边县突发泥石流已致5人失联，当地曾发布地质灾害黄色预警 | https://mp.weixin.qq.com/s/2KPVAi4Eo8nB3gWUzXKp6g |
