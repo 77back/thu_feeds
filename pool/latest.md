@@ -1,7 +1,14 @@
-# 舆情候选池 0919（09-18 00:00 至今，190 条：公众号 172 + 网页 18）
+# 舆情候选池 0919（09-18 00:00 至今，197 条：公众号 179 + 网页 18）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-19 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 龚德才逝世，曾因只讲课不评职称在网上走红 | https://mp.weixin.qq.com/s/2wwjSN7Sw85rSDPQdDy9BA |
+| 09-19 14:00 | 公众号 | 新京报 | 综合媒体 | 铁路12306：持续识别遏制恶意抢票行为 | https://mp.weixin.qq.com/s/ZUvTnNEUoQPzywZxfhrUFQ |
+| 09-19 14:00 | 公众号 | 界面新闻 | 综合媒体 | 四川盐边县突发泥石流已致5人失联，当地曾发布地质灾害黄色预警 | https://mp.weixin.qq.com/s/2KPVAi4Eo8nB3gWUzXKp6g |
+| 09-19 14:00 | 公众号 | 南方都市报 | 综合媒体 | 我大使馆郑重提醒：请第一时间报警 | https://mp.weixin.qq.com/s/i1Xm2K60hrXTkWKWFn5r2g |
+| 09-19 14:00 | 公众号 | 法治日报 | 综合媒体 | “我没偷！还我清白！”老板钻戒丢失，店员哭着报警喊冤；结局反转：民警在其家中厕所窗台的木板下找到被盗钻戒，店员已被刑拘 | https://mp.weixin.qq.com/s/e7bWkfHh70qE6g9MzzeW0Q |
+| 09-19 14:00 | 公众号 | 极目新闻 | 综合媒体 | 店主张贴“回趟公安，10天后见”字条，遭网友解读为“被拘留”，店主：只是回老家湖北公安县，希望视频发布者公开澄清并道歉 | https://mp.weixin.qq.com/s/3QfWFgO9aHuEBPRaLMuIoA |
+| 09-19 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 多人吃完夜宵毒品检测呈阳性！店主在烧烤、卤味中添加罂粟，以“提升风味增收”，1个多月卖了2500元，法院判了 | https://mp.weixin.qq.com/s/kXt9fNll0~xnYoCaK6L2Uw |
 | 09-19 13:00 | 公众号 | 央视财经 | 综合媒体 | 恶意诋毁抹黑企业、挑动消费群体对立，一批账号被处理！ | https://mp.weixin.qq.com/s/aSvzHLpmAjO2Ypd9YNWhBA |
 | 09-19 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | “福建猪王”，被罚款250万元 | https://mp.weixin.qq.com/s/qrwk1EtdYHy2y2T-zDJTXQ |
 | 09-19 13:00 | 公众号 | 界面新闻 | 综合媒体 | 同程、途家、美团、飞猪回应 | https://mp.weixin.qq.com/s/VXNeZyGk8C75KyMjw5XPJg |
