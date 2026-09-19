@@ -1,7 +1,15 @@
-# 舆情候选池 0919（09-18 00:00 至今，211 条：公众号 193 + 网页 18）
+# 舆情候选池 0919（09-18 00:00 至今，219 条：公众号 201 + 网页 18）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-19 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | “西贝将彻底倒闭”登上热搜，客服回应 | https://mp.weixin.qq.com/s/Pv40vUNQsKT6kyDOsxcFXA |
+| 09-19 17:00 | 公众号 | 新京报 | 综合媒体 | 日本亚运会组委会致歉 | https://mp.weixin.qq.com/s/uGUFuSweU6RE28U5IFgWNg |
+| 09-19 17:00 | 公众号 | 界面新闻 | 综合媒体 | 西贝将彻底倒闭？回应来了 | https://mp.weixin.qq.com/s/U4p9mFQ~TRzkM~PjZXqWvQ |
+| 09-19 17:00 | 公众号 | 法治日报 | 综合媒体 | 父亲下楼遛狗，将2岁幼童独自留在家中，前后约12分钟，孩子从18楼家中坠亡，父亲是否构成犯罪？是否承担民事侵权责任？律师解读 | https://mp.weixin.qq.com/s/CqFZpTAjX0jS-SqvpKtHUQ |
+| 09-19 17:00 | 公众号 | 南方都市报 | 综合媒体 | 12306：已拒绝出票133.1万张 | https://mp.weixin.qq.com/s/pjwyENwBh7ZAFsRwvG1QTQ |
+| 09-19 17:00 | 公众号 | 极目新闻 | 综合媒体 | 李艳（女，1983年生，公司副总、董秘），主动辞职，去年年薪超66万元 | https://mp.weixin.qq.com/s/lHC3MDUy7X8ms5xv3rch9Q |
+| 09-19 17:00 | 公众号 | 红网 | 综合媒体 | 误将朝鲜国歌当韩国国歌播放，亚运组委会正式道歉 | https://mp.weixin.qq.com/s/-PPooTYDq2HToyrfeZSrFw |
+| 09-19 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子花84.51万元拍下省财政厅公物仓“金观音”，带回家一测几乎全是铜，“金观音”源自行贿案，被检方认定为赃物并收缴；法院判了 | https://mp.weixin.qq.com/s/x6xS8LDU7Ie3Anb30ehbeQ |
 | 09-19 16:00 | 公众号 | 央视财经 | 综合媒体 | 史上最大IPO，或推迟！ | https://mp.weixin.qq.com/s/~4Kni5ejCRwMFwQmpfdDHA |
 | 09-19 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | “最年长讲师”逝世，为何引发关注 | https://mp.weixin.qq.com/s/Qdf~9BIdz5LHNw45lojvvg |
 | 09-19 16:00 | 公众号 | 法治日报 | 综合媒体 | 12306：已拒绝出票133.1万张 | https://mp.weixin.qq.com/s/59Tw~550NHPy9q7X28VMTA |
