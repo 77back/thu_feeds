@@ -1,7 +1,23 @@
-# 舆情候选池 0920（09-19 00:00 至今，174 条：公众号 162 + 网页 12）
+# 舆情候选池 0920（09-19 00:00 至今，190 条：公众号 178 + 网页 12）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-20 15:34 | 公众号 | 央视财经 | 综合媒体 | 缺人！平均年薪16.4万元！计划招超11万人 | https://mp.weixin.qq.com/s/UXvPTuzNmSYwJe7h5~gXYQ |
+| 09-20 15:34 | 公众号 | 新京报 | 综合媒体 | 钟南山最新提醒 | https://mp.weixin.qq.com/s/CyDtoYxonrI3HAw39s6hlg |
+| 09-20 15:34 | 公众号 | 界面新闻 | 综合媒体 | 每月送1500单外卖练出越野冠军？赵家驹回应 | https://mp.weixin.qq.com/s/blKahGvpOXoI8zdD5KbR~w |
+| 09-20 15:34 | 公众号 | 法治日报 | 综合媒体 | 员工在工作时间帮领导搬家腰部受伤，要求认定工伤，公司：股东不是公司管理人员，不能算工伤；法院判了 | https://mp.weixin.qq.com/s/RWeYdgOAVhEj3zQr3rLa5g |
+| 09-20 15:34 | 公众号 | 南方都市报 | 综合媒体 | “想摸哪里摸哪里”海报疯传，张小泉方最新回应 | https://mp.weixin.qq.com/s/1~ohZYLO~5z~o94euyxl1g |
+| 09-20 15:34 | 公众号 | 极目新闻 | 综合媒体 | 中国男足亚运队0比0战平伊朗队，暂列小组第二，末轮将迎战阿联酋队 | https://mp.weixin.qq.com/s/yshZmXSQsIHOjEn8eU99Vg |
+| 09-20 15:34 | 公众号 | 红网 | 综合媒体 | “秦始皇陵为什么不挖”冲上热搜，文物修复专家：没必要动，要对天地、对自然有敬畏之心，贸然打开冲击很大 | https://mp.weixin.qq.com/s/du-VACA06-OB8L73O69~3A |
+| 09-20 15:00 | 公众号 | 市说新语 | 监管·总局 | 统一代码制度实施11年 筑牢全国统一大市场数字底座 | https://mp.weixin.qq.com/s/HiX6Uynsgy7nHPlAstBfbA |
+| 09-20 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 司长王国伟：欢迎对我们的执法队伍进行监督 | https://mp.weixin.qq.com/s/R9fyMj89MUgmgd7EEaueeA |
+| 09-20 15:00 | 公众号 | 新京报 | 综合媒体 | 钦州一对中年夫妇生育13个孩子，村干部：已落实帮扶，生活条件不难 | https://mp.weixin.qq.com/s/eIUWbp~ACyjaUgY5fQAK8A |
+| 09-20 15:00 | 公众号 | 界面新闻 | 综合媒体 | 调研报告：农村彩礼下降了 | https://mp.weixin.qq.com/s/IAse5zW5H-sxNFGMZrGs4A |
+| 09-20 15:00 | 公众号 | 法治日报 | 综合媒体 | 男子深夜钻进店铺，偷走储蓄罐内6000余枚硬币，警方：已采取刑事强制措施 | https://mp.weixin.qq.com/s/wCdd2l7Z7EUliWmyUOWadA |
+| 09-20 15:00 | 公众号 | 南方都市报 | 综合媒体 | 剧本杀商家称可要求“SM虐待倾向”，当地连夜成立检查组，发现手铐、玩具枪、斧头等道具 | https://mp.weixin.qq.com/s/6BN5uGYU8ny4HUhvBJQ46g |
+| 09-20 15:00 | 公众号 | 极目新闻 | 综合媒体 | 男子拿10多个西瓜连砸摊主头部，摊主获近7万元赔偿；事发时摊上有两把西瓜刀，摊主父亲：幸好没还手，否则不能收场 | https://mp.weixin.qq.com/s/Gk8j8EA08CiK99jLwzORUA |
+| 09-20 15:00 | 公众号 | 红网 | 综合媒体 | 涉及玩具、童鞋、校服不合格，市场监管总局公布5起典型案例 | https://mp.weixin.qq.com/s/zmleU0NE-AjGiarDOw99HQ |
+| 09-20 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 朱百里被查（附简历） | https://mp.weixin.qq.com/s/MaRHIMHo3vDxrijm-auI3g |
 | 09-20 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 董建华先生公祭仪式在香港举行 | https://mp.weixin.qq.com/s/FXQPPSp~Hu7fzmWpp0Jqwg |
 | 09-20 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 速看！最新汽车召回，涉及这些品牌 | https://mp.weixin.qq.com/s/qaFRUyg1372C1w49mKe2oA |
 | 09-20 14:00 | 公众号 | 广东市场监管 | 监管·地方 | 省市场监管局开展双节前安全检查，筑牢全省节日市场安全防线 | https://mp.weixin.qq.com/s/zudGv3yrBpue71o8pIfl6g |
