@@ -1,7 +1,14 @@
-# 舆情候选池 0920（09-19 00:00 至今，136 条：公众号 126 + 网页 10）
+# 舆情候选池 0920（09-19 00:00 至今，144 条：公众号 133 + 网页 11）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-20 11:00 | 公众号 | 市说新语 | 监管·总局 | 我国在交通安全光学计量领域取得系列突破 | https://mp.weixin.qq.com/s/-cWFDDfczLATEAYqp4waVg |
+| 09-20 11:00 | 公众号 | 新京报 | 综合媒体 | 特朗普从度假地提前返回白宫，原因不明 | https://mp.weixin.qq.com/s/jlzgOENN~5jl95A8b-mQGQ |
+| 09-20 11:00 | 公众号 | 界面新闻 | 综合媒体 | 利润率不足1%！大众拉响盈利警报，旗下保时捷再裁4000人 | https://mp.weixin.qq.com/s/U8rFejPZy3DTKhgtSgbQqw |
+| 09-20 11:00 | 公众号 | 南方都市报 | 综合媒体 | 特朗普离开总统度假地，提前返回白宫，原因不明 | https://mp.weixin.qq.com/s/18Ng4Q2-cBpBRAqBZeoXZg |
+| 09-20 11:00 | 公众号 | 红网 | 综合媒体 | 王子菲以636.8环打破女子10米气步枪资格赛亚洲纪录，系本届亚运会中国代表团创造的首个亚洲纪录 | https://mp.weixin.qq.com/s/j157r8l6WM5cdM7FsxkW6g |
+| 09-20 11:00 | 公众号 | 法治日报 | 综合媒体 | 3名男子盗窃成功后，在夜宵店“庆功”并“复盘总结”，邻桌民警现场将其抓捕 | https://mp.weixin.qq.com/s/CCONkpqQdw~2J-TTMz4lAQ |
+| 09-20 11:00 | 公众号 | 极目新闻 | 综合媒体 | 一别墅内，女主人通过监控亲眼看到自家保姆正在偷包；10分钟后警察赶到，从她手机中发现大量销售奢侈品记录；法院判了 | https://mp.weixin.qq.com/s/C7r61i-G~WAPdGigocyLwQ |
 | 09-20 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 贾国龙妻子质押西贝股权 | https://mp.weixin.qq.com/s/bPSwuhMrHORPIUubMRNt7A |
 | 09-20 10:00 | 公众号 | 央视财经 | 综合媒体 | 重要发布会！马上开始 | https://mp.weixin.qq.com/s/SXy2fv7tM6DUHXWLdFFTOg |
 | 09-20 10:00 | 公众号 | 新京报 | 综合媒体 | 专访《交锋》编剧王小枪：敢写、敢拍，是因为历史真实 | https://mp.weixin.qq.com/s/Ekvml-lRhtmGYe7T-0koBw |
@@ -42,6 +49,7 @@
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于19批次食品抽检不合格情况的通报（2026年第17期） | http://news.foodmate.net/2026/09/753371.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 山西省市场监督管理局关于2026年月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/09/753370.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于中秋节月饼专项抽检情况的通告（2026年第42期） | http://news.foodmate.net/2026/09/753369.html |
+| 09-20 | 网页 | 澎湃·质量观 | 行业媒体 | 广东潮州发布食品安全整治行动案例，一腊味厂原料及半成品被检出猪病毒阳性 | https://www.thepaper.cn/newsDetail_forward_34107656 |
 | 09-19 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | “西贝将彻底倒闭”登上热搜，客服回应 | https://mp.weixin.qq.com/s/Pv40vUNQsKT6kyDOsxcFXA |
 | 09-19 17:00 | 公众号 | 新京报 | 综合媒体 | 日本亚运会组委会致歉 | https://mp.weixin.qq.com/s/uGUFuSweU6RE28U5IFgWNg |
 | 09-19 17:00 | 公众号 | 界面新闻 | 综合媒体 | 西贝将彻底倒闭？回应来了 | https://mp.weixin.qq.com/s/U4p9mFQ~TRzkM~PjZXqWvQ |
