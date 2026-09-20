@@ -1,7 +1,15 @@
-# 舆情候选池 0920（09-19 00:00 至今，144 条：公众号 133 + 网页 11）
+# 舆情候选池 0920（09-19 00:00 至今，152 条：公众号 141 + 网页 11）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-20 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 不戴头盔超速驾驶撞上机动车道没牵绳的狗，人重伤、狗死亡，法院判了 | https://mp.weixin.qq.com/s/O45zjdrKOKTCf21mgypPfg |
+| 09-20 12:00 | 公众号 | 新京报 | 综合媒体 | 中国代表团首金！ | https://mp.weixin.qq.com/s/O54fX8L6-kxXkholhiNBfg |
+| 09-20 12:00 | 公众号 | 界面新闻 | 综合媒体 | 沃尔沃S90从40万降到22万，传统豪车售价集体腰斩 | https://mp.weixin.qq.com/s/zgbJ~Up101YOAon-XC6sSQ |
+| 09-20 12:00 | 公众号 | 法治日报 | 综合媒体 | 男子驾车发生剐蹭，第二天去交管大队处理，刚进门就被查出酒驾！交警：罚款1500元，扣证6个月 | https://mp.weixin.qq.com/s/nreCE88jp-~wudYjOO9FHQ |
+| 09-20 12:00 | 公众号 | 南方都市报 | 综合媒体 | 张龙名下公司，注销 | https://mp.weixin.qq.com/s/4egU2EmoLizru-H0FsDXJA |
+| 09-20 12:00 | 公众号 | 极目新闻 | 综合媒体 | 明确了！提前发工资 | https://mp.weixin.qq.com/s/kY-H1RnKKu69yS1rLpiwTQ |
+| 09-20 12:00 | 公众号 | 红网 | 综合媒体 | 湖南多家企事业单位公开招聘！ | https://mp.weixin.qq.com/s/w0EwapYgghTRX5qf2T72xA |
+| 09-20 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 美军发动打击 | https://mp.weixin.qq.com/s/svcRUuXg6SaUPdHPnfU9cQ |
 | 09-20 11:00 | 公众号 | 市说新语 | 监管·总局 | 我国在交通安全光学计量领域取得系列突破 | https://mp.weixin.qq.com/s/-cWFDDfczLATEAYqp4waVg |
 | 09-20 11:00 | 公众号 | 新京报 | 综合媒体 | 特朗普从度假地提前返回白宫，原因不明 | https://mp.weixin.qq.com/s/jlzgOENN~5jl95A8b-mQGQ |
 | 09-20 11:00 | 公众号 | 界面新闻 | 综合媒体 | 利润率不足1%！大众拉响盈利警报，旗下保时捷再裁4000人 | https://mp.weixin.qq.com/s/U8rFejPZy3DTKhgtSgbQqw |
