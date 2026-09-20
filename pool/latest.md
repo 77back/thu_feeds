@@ -1,7 +1,18 @@
-# 舆情候选池 0920（09-19 00:00 至今，194 条：公众号 182 + 网页 12）
+# 舆情候选池 0920（09-19 00:00 至今，207 条：公众号 193 + 网页 14）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-20 17:00 | 公众号 | 中国消费者协会 | 消协 | 第五届“全国个体工商户服务月”暨2026年“3·15金秋购物节”公益宣传活动在山东莱西举办 | https://mp.weixin.qq.com/s/ISCLDc8fD-TwmOusAs9duQ |
+| 09-20 17:00 | 公众号 | 市说新语 | 监管·总局 | 筑牢“双碳”计量基石，统一行业技术语言——《碳计量名词术语及定义》发布 | https://mp.weixin.qq.com/s/O00t2QITEltM3ezXTvcJxA |
+| 09-20 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 董建华先生生平 | https://mp.weixin.qq.com/s/fN7CyDfJ7FqiwXgalXX9sg |
+| 09-20 17:00 | 公众号 | 界面新闻 | 综合媒体 | 李成钢任中国国际贸易谈判代表 | https://mp.weixin.qq.com/s/qHYJ24ijtWdWJI0QEtidxQ |
+| 09-20 17:00 | 公众号 | 法治日报 | 综合媒体 | 贵州一中学男教师多次骚扰女学生，官方通报：马某某曾通过微信向女学生发送不当信息，已被停职，公安部门已立案调查 | https://mp.weixin.qq.com/s/EwzzKGGZCnzTwpL-Of9b3g |
+| 09-20 17:00 | 公众号 | 新京报 | 综合媒体 | 董建华先生生平 | https://mp.weixin.qq.com/s/We6wPtpAgVMgvK-RsU1lDw |
+| 09-20 17:00 | 公众号 | 南方都市报 | 综合媒体 | 董建华先生生平 | https://mp.weixin.qq.com/s/DkPXb0IV9DYHv2oQQb2fQw |
+| 09-20 17:00 | 公众号 | 极目新闻 | 综合媒体 | 2026湾区升明月节目单发布 | https://mp.weixin.qq.com/s/f-KCXlKBoPSwhl-kiTsdHQ |
+| 09-20 17:00 | 公众号 | 红网 | 综合媒体 | 红网·面孔｜护师熊亮的“急救地摊” | https://mp.weixin.qq.com/s/6dlJipRq6dZ8NuMcIEaiJw |
+| 09-20 17:00 | 公众号 | 今晚报 | 综合媒体 | 知名品牌多店甩货清库存，有人一次选购30多件 | https://mp.weixin.qq.com/s/fbldxQV7pLKXUE5EbYELJw |
+| 09-20 17:00 | 公众号 | 中国新闻网 | 综合媒体 | “好想去你家玩，可惜不晓得路”，中学教师马某某，曾通过微信向一名女学生发送不当信息，已被停职，公安部门已立案调查，官方通报 | https://mp.weixin.qq.com/s/5fR~B43H7lIlbIgO1EKHqg |
 | 09-20 16:00 | 公众号 | 市说新语 | 监管·总局 | 国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍“十五五”时期推动市场监管高质量发展有关情况 | https://mp.weixin.qq.com/s/1GTzDHIrsWhAc6gQ92lOfQ |
 | 09-20 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 退休警察“代持”上亿股权，能用法院判决洗白？ | https://mp.weixin.qq.com/s/S9kb-LtzsgBpFRO~GKT9YQ |
 | 09-20 16:00 | 公众号 | 界面新闻 | 综合媒体 | 重庆立案调查一批房地产领域自媒体账号 | https://mp.weixin.qq.com/s/m-kDJWrRBe3bu3pCPfg70w |
@@ -93,11 +104,13 @@
 | 09-20 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 面包车行驶约150米后直接坠海致8死3伤，调查报告公布：司机路况不熟、误判路线 | https://mp.weixin.qq.com/s/Nq1z8SS1SgdOzZ1ukc35VA |
 | 09-20 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 要闻 ｜ 国务院食安办部署中秋、国庆期间食品安全工作 | https://mp.weixin.qq.com/s/6~YjDxk9it8NH9owP1Qd5A |
 | 09-20 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 质量认证领域违法违规典型案例公布，北京一案例入选 | https://mp.weixin.qq.com/s/vvl~~Z31GBdEitYzAGWosA |
+| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 重庆市市场监督管理局关于5304批次食品安全抽检情况的通告（渝市监通告〔2026〕12号） | http://news.foodmate.net/2026/09/753417.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 新疆曝光34批次不合格食品，有香醋、沙棘蜜、孜然压片糖果等 | http://news.foodmate.net/2026/09/753374.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第32期） | http://news.foodmate.net/2026/09/753372.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于19批次食品抽检不合格情况的通报（2026年第17期） | http://news.foodmate.net/2026/09/753371.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 山西省市场监督管理局关于2026年月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/09/753370.html |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于中秋节月饼专项抽检情况的通告（2026年第42期） | http://news.foodmate.net/2026/09/753369.html |
+| 09-20 | 网页 | 界面新闻·消费 | 综合媒体 | 持续关店、缓发工资……西贝来到“生死线”边缘 | https://www.jiemian.com/article/15118339.html |
 | 09-20 | 网页 | 澎湃·质量观 | 行业媒体 | 涉及玩具、童鞋、校服不合格， 市场监管总局公布5起典型案例 | https://www.thepaper.cn/newsDetail_forward_34108632 |
 | 09-20 | 网页 | 澎湃·质量观 | 行业媒体 | 广东潮州发布食品安全整治行动案例，一腊味厂原料及半成品被检出猪病毒阳性 | https://www.thepaper.cn/newsDetail_forward_34107656 |
 | 09-19 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | “西贝将彻底倒闭”登上热搜，客服回应 | https://mp.weixin.qq.com/s/Pv40vUNQsKT6kyDOsxcFXA |
