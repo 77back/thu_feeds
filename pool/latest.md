@@ -1,7 +1,16 @@
-# 舆情候选池 0921（09-20 00:00 至今，151 条：公众号 137 + 网页 14）
+# 舆情候选池 0921（09-20 00:00 至今，160 条：公众号 146 + 网页 14）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-21 11:00 | 公众号 | 央视财经 | 综合媒体 | 中美经贸磋商在美国纽约举行 | https://mp.weixin.qq.com/s/4H3OMLcu~eahlquO-RAgGw |
+| 09-21 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 广东顺德一纺织公司厂房起火，造成数人伤亡 | https://mp.weixin.qq.com/s/Q5nYIdmDcelMLCwW4GvJqA |
+| 09-21 11:00 | 公众号 | 新京报 | 综合媒体 | 预制菜风波一年，“倒闭”缠住西贝 | https://mp.weixin.qq.com/s/q1a1QJjIT3qMdYVw-5598Q |
+| 09-21 11:00 | 公众号 | 界面新闻 | 综合媒体 | 贾国龙最新发声 | https://mp.weixin.qq.com/s/0XJt8gBncL89Ct6TbP01Ng |
+| 09-21 11:00 | 公众号 | 法治日报 | 综合媒体 | 重庆警方通报“嘉陵江大桥出现滑翔伞”：2人从居民小区楼顶起飞，因违法飞行航空运动器材，被行政处罚 | https://mp.weixin.qq.com/s/UZV~FVNkgQWWlG9iST3LCA |
+| 09-21 11:00 | 公众号 | 南方都市报 | 综合媒体 | 清远全市中小学，将安装空调 | https://mp.weixin.qq.com/s/9~PBI7DJcwm-ohjULwvOFA |
+| 09-21 11:00 | 公众号 | 极目新闻 | 综合媒体 | 河南40岁数学老师投资300多万元拍电影，上映8天票房仅2万多，本人表示“要告别电影圈”：影片仍在上映，但已无力回天 | https://mp.weixin.qq.com/s/jBH6OUxzLkCE-YGIl6s8ww |
+| 09-21 11:00 | 公众号 | 红网 | 综合媒体 | 不学医也能拿医师证？央视曝光机构拿“接受过检查”当卖点继续营业，西安、绵阳回应：公司已停业整顿，将彻查问题 | https://mp.weixin.qq.com/s/FzXy0AuZ~~c0~Z~D1m~6~A |
+| 09-21 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 西安表态：深挖彻查、绝不姑息 | https://mp.weixin.qq.com/s/javXxWt9ikOsjifuGhC-ng |
 | 09-21 10:00 | 公众号 | 界面新闻 | 综合媒体 | 沈鼓触发临停 | https://mp.weixin.qq.com/s/V38JuF8DSVm7ftRaA0CjJQ |
 | 09-21 10:00 | 公众号 | 新京报 | 综合媒体 | 重庆警方发布警情通报 | https://mp.weixin.qq.com/s/pn4xjNWbVyl5SNvyVBIpag |
 | 09-21 10:00 | 公众号 | 法治日报 | 综合媒体 | 答题赢好礼！“青少年法治宣传教育”有奖答题来了 | https://mp.weixin.qq.com/s/tym5~GMUVdyRUaMsD~6zsA |
