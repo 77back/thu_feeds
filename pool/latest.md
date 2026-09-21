@@ -1,7 +1,19 @@
-# 舆情候选池 0921（09-20 00:00 至今，201 条：公众号 187 + 网页 14）
+# 舆情候选池 0921（09-20 00:00 至今，213 条：公众号 199 + 网页 14）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-21 16:00 | 公众号 | 中国市场监管报 | 行业媒体 | 紧急提醒！“可食用作业”藏隐患 | https://mp.weixin.qq.com/s/Lvq28whnci6CjMOCT5VyNA |
+| 09-21 16:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局开展月饼专项抽检 月饼安全状况总体稳定 | https://mp.weixin.qq.com/s/g5porRX1INMkCVMv9y~D8A |
+| 09-21 16:00 | 公众号 | 央视财经 | 综合媒体 | “超级高铁”？马斯克，最新动作→ | https://mp.weixin.qq.com/s/arfzmjm8scExoVyUb-dxlw |
+| 09-21 16:00 | 公众号 | 上海市场监管 | 监管·地方 | 直击：针对老年人的“健康骗局” | https://mp.weixin.qq.com/s/SD3Sqr0vbKPgdw-kGZf2BA |
+| 09-21 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 西贝被传倒闭后，贾国龙公开发声 | https://mp.weixin.qq.com/s/BiS~dR0tx17oB7Ww0SGnhA |
+| 09-21 16:00 | 公众号 | 新京报 | 综合媒体 | 外交部介绍习近平主席访美有关安排和中方期待 | https://mp.weixin.qq.com/s/g0VyYkbSDocN1VWN40ad4A |
+| 09-21 16:00 | 公众号 | 南方都市报 | 综合媒体 | 茂名、汕头、揭阳、湛江、清远、江门等地公告：今晚夜查 | https://mp.weixin.qq.com/s/WsCM3QMr987xlLZwkMscSQ |
+| 09-21 16:00 | 公众号 | 界面新闻 | 综合媒体 | “绵羊绒”其实是绵羊毛？河北清河回应 | https://mp.weixin.qq.com/s/TotQAe6kqN9qGz6XkQfkqg |
+| 09-21 16:00 | 公众号 | 极目新闻 | 综合媒体 | 张博恒夺得亚运会体操男子个人全能金牌 | https://mp.weixin.qq.com/s/wiLm0gmEGmmEXBmNMaGjlQ |
+| 09-21 16:00 | 公众号 | 法治日报 | 综合媒体 | 中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议 | https://mp.weixin.qq.com/s/B0eShu~X~qUMwxmtOSb3cA |
+| 09-21 16:00 | 公众号 | 红网 | 综合媒体 | 习近平将对美国进行国事访问 | https://mp.weixin.qq.com/s/9gNMYeUc3aT1r7aaSocNKw |
+| 09-21 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 习近平复信美国10所高校青年学生 | https://mp.weixin.qq.com/s/2Y3I0ABydjEnZieQKKFNnQ |
 | 09-21 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | “遗体被滞留ICU长达10小时”，患方维权不能越界 | https://mp.weixin.qq.com/s/xk8-C-qYE2vfZtb6znqyog |
 | 09-21 15:00 | 公众号 | 市说新语 | 监管·总局 | 中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议 | https://mp.weixin.qq.com/s/CCWWYP6WSTmM-5Quvm-pEQ |
 | 09-21 15:00 | 公众号 | 央视财经 | 综合媒体 | 总台曝光后，泰安成立联合调查组→ | https://mp.weixin.qq.com/s/Q~i7YbRbwCtXqcF916NAfw |
@@ -87,6 +99,7 @@
 | 09-21 08:00 | 公众号 | 江苏省消保委 | 消协 | 江苏物业收费新规公布 | https://mp.weixin.qq.com/s/ZrtUz~d6O6mpuMwpJwKt2w |
 | 09-21 08:00 | 公众号 | 北京消协 | 消协 | 双节来临，景区糕点能放心吃吗？官方抽检结果来了 | https://mp.weixin.qq.com/s/Ok0iLvNI6kmhWQXV8rh1HQ |
 | 09-21 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 消费提示｜线上选购鲜花，这些要点要留心 | https://mp.weixin.qq.com/s/z9eGECc8xR-PZVgvV056Zw |
+| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局公开征集2027年新疆食品安全抽检计划建议 | http://news.foodmate.net/2026/09/753517.html |
 | 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 今日导读：配料表的白砂糖，为什么被换掉了？；腊味厂猪肉脯病毒检测阳性，被立案；婴配食品标签大改，部分产品禁售（2026年9月21日） | http://news.foodmate.net/2026/09/753504.html |
 | 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局开展月饼专项抽检 月饼安全状况总体稳定 | http://news.foodmate.net/2026/09/753501.html |
 | 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 45批次，合格率100%！杭州市萧山区月饼抽检最新结果来啦！ | http://news.foodmate.net/2026/09/753500.html |
@@ -198,7 +211,6 @@
 | 09-20 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 要闻 ｜ 国务院食安办部署中秋、国庆期间食品安全工作 | https://mp.weixin.qq.com/s/6~YjDxk9it8NH9owP1Qd5A |
 | 09-20 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 质量认证领域违法违规典型案例公布，北京一案例入选 | https://mp.weixin.qq.com/s/vvl~~Z31GBdEitYzAGWosA |
 | 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 重庆市市场监督管理局关于5304批次食品安全抽检情况的通告（渝市监通告〔2026〕12号） | http://news.foodmate.net/2026/09/753417.html |
-| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 新疆曝光34批次不合格食品，有香醋、沙棘蜜、孜然压片糖果等 | http://news.foodmate.net/2026/09/753374.html |
 | 09-20 | 网页 | 界面新闻·消费 | 综合媒体 | 148家门店、人均88元，很久以前羊肉串或将冲刺“烧烤第一股” | https://www.jiemian.com/article/15118791.html |
 | 09-20 | 网页 | 界面新闻·消费 | 综合媒体 | 持续关店、缓发工资……西贝来到“生死线”边缘 | https://www.jiemian.com/article/15118339.html |
 | 09-20 | 网页 | 澎湃·质量观 | 行业媒体 | 涉及玩具、童鞋、校服不合格， 市场监管总局公布5起典型案例 | https://www.thepaper.cn/newsDetail_forward_34108632 |
