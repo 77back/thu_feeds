@@ -1,7 +1,18 @@
-# 舆情候选池 0921（09-20 00:00 至今，160 条：公众号 146 + 网页 14）
+# 舆情候选池 0921（09-20 00:00 至今，161 条：公众号 157 + 网页 4）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-21 12:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局全面部署检验检测全链条监管工作 | https://mp.weixin.qq.com/s/pt5iyg0Gu5meF1TucFMVXQ |
+| 09-21 12:00 | 公众号 | 上海市消保委 | 消协 | 女子称洗澡后被快递员看了全身！下单3分钟就取件，不打电话直接推门而入；对方否认：“我怎么知道你没穿衣服” | https://mp.weixin.qq.com/s/SrJKxdZQIqvnALzD8FehXw |
+| 09-21 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 闲鱼回应“平台出现色情引流情况” | https://mp.weixin.qq.com/s/ldt3qp3WyA4lxUczrxSj1g |
+| 09-21 12:00 | 公众号 | 新京报 | 综合媒体 | 广东顺德一纺织公司厂房火灾事故，造成8人死亡 | https://mp.weixin.qq.com/s/x9vJTY8ZAKYr7Y0rjIXvBA |
+| 09-21 12:00 | 公众号 | 界面新闻 | 综合媒体 | 被指偷传代码企业发函追责，智谱：ZCode将开源并接受第三方审计 | https://mp.weixin.qq.com/s/zHdg4yJm-VPZhaKOa3~zlQ |
+| 09-21 12:00 | 公众号 | 法治日报 | 综合媒体 | 男子花17元网购空礼盒，装入散装月饼，总成本不到25元，包出高档效果！网友：怒省100多元 | https://mp.weixin.qq.com/s/cUjEBVVfBGR4~fsRpppijg |
+| 09-21 12:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北29座天桥，今日同步拆除！ | https://mp.weixin.qq.com/s/abo-hHgiaTVWkp~zXKEElg |
+| 09-21 12:00 | 公众号 | 南方都市报 | 综合媒体 | 广东顺德一纺织公司厂房火灾事故，造成8人死亡 | https://mp.weixin.qq.com/s/M-xoYJaBmOCbp~FUfv2HHA |
+| 09-21 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 广东一厂房发生火灾，8人死亡 | https://mp.weixin.qq.com/s/zDcB7il~wukgrc1fJdKkkg |
+| 09-21 12:00 | 公众号 | 红网 | 综合媒体 | 湖南证监局开出罚单，从业人员杨文明代操盘被处以警告及50万元罚款 | https://mp.weixin.qq.com/s/KH7VUk2vgDEjU3nu9coaNw |
+| 09-21 12:00 | 公众号 | 河北省消保委 | 消协 | 婴幼儿辅助食品小课堂第三期：读懂新国标GB10770，安心选对婴幼儿罐装辅食 | https://mp.weixin.qq.com/s/vbbA4F7jyNZvktKaf91jzQ |
 | 09-21 11:00 | 公众号 | 央视财经 | 综合媒体 | 中美经贸磋商在美国纽约举行 | https://mp.weixin.qq.com/s/4H3OMLcu~eahlquO-RAgGw |
 | 09-21 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 广东顺德一纺织公司厂房起火，造成数人伤亡 | https://mp.weixin.qq.com/s/Q5nYIdmDcelMLCwW4GvJqA |
 | 09-21 11:00 | 公众号 | 新京报 | 综合媒体 | 预制菜风波一年，“倒闭”缠住西贝 | https://mp.weixin.qq.com/s/q1a1QJjIT3qMdYVw-5598Q |
@@ -46,11 +57,6 @@
 | 09-21 08:00 | 公众号 | 江苏省消保委 | 消协 | 江苏物业收费新规公布 | https://mp.weixin.qq.com/s/ZrtUz~d6O6mpuMwpJwKt2w |
 | 09-21 08:00 | 公众号 | 北京消协 | 消协 | 双节来临，景区糕点能放心吃吗？官方抽检结果来了 | https://mp.weixin.qq.com/s/Ok0iLvNI6kmhWQXV8rh1HQ |
 | 09-21 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 消费提示｜线上选购鲜花，这些要点要留心 | https://mp.weixin.qq.com/s/z9eGECc8xR-PZVgvV056Zw |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 海马酒检出药物成分西地那非，广东这17批次不合格食品看看你买过吗？ | http://news.foodmate.net/2026/09/753472.html |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 内蒙古通报35批次不合格食品，有酸奶、原味奶贝、绵白糖等 | http://news.foodmate.net/2026/09/753469.html |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 湖北省市场监督管理局 中秋节食品安全专项监督抽检信息公告（2026年第7期） | http://news.foodmate.net/2026/09/753466.html |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局食品安全监督抽检信息通告（2026年第9期）第 50号 | http://news.foodmate.net/2026/09/753465.html |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局食品安全监督抽检信息通告（2026年第30期） | http://news.foodmate.net/2026/09/753464.html |
 | 09-20 17:00 | 公众号 | 中国消费者协会 | 消协 | 第五届“全国个体工商户服务月”暨2026年“3·15金秋购物节”公益宣传活动在山东莱西举办 | https://mp.weixin.qq.com/s/ISCLDc8fD-TwmOusAs9duQ |
 | 09-20 17:00 | 公众号 | 市说新语 | 监管·总局 | 筑牢“双碳”计量基石，统一行业技术语言——《碳计量名词术语及定义》发布 | https://mp.weixin.qq.com/s/O00t2QITEltM3ezXTvcJxA |
 | 09-20 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 董建华先生生平 | https://mp.weixin.qq.com/s/fN7CyDfJ7FqiwXgalXX9sg |
@@ -153,11 +159,6 @@
 | 09-20 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 面包车行驶约150米后直接坠海致8死3伤，调查报告公布：司机路况不熟、误判路线 | https://mp.weixin.qq.com/s/Nq1z8SS1SgdOzZ1ukc35VA |
 | 09-20 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 要闻 ｜ 国务院食安办部署中秋、国庆期间食品安全工作 | https://mp.weixin.qq.com/s/6~YjDxk9it8NH9owP1Qd5A |
 | 09-20 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 质量认证领域违法违规典型案例公布，北京一案例入选 | https://mp.weixin.qq.com/s/vvl~~Z31GBdEitYzAGWosA |
-| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 重庆市市场监督管理局关于5304批次食品安全抽检情况的通告（渝市监通告〔2026〕12号） | http://news.foodmate.net/2026/09/753417.html |
-| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 新疆曝光34批次不合格食品，有香醋、沙棘蜜、孜然压片糖果等 | http://news.foodmate.net/2026/09/753374.html |
-| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第32期） | http://news.foodmate.net/2026/09/753372.html |
-| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于19批次食品抽检不合格情况的通报（2026年第17期） | http://news.foodmate.net/2026/09/753371.html |
-| 09-20 | 网页 | 食品伙伴网 | 抽检通报 | 山西省市场监督管理局关于2026年月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/09/753370.html |
 | 09-20 | 网页 | 界面新闻·消费 | 综合媒体 | 148家门店、人均88元，很久以前羊肉串或将冲刺“烧烤第一股” | https://www.jiemian.com/article/15118791.html |
 | 09-20 | 网页 | 界面新闻·消费 | 综合媒体 | 持续关店、缓发工资……西贝来到“生死线”边缘 | https://www.jiemian.com/article/15118339.html |
 | 09-20 | 网页 | 澎湃·质量观 | 行业媒体 | 涉及玩具、童鞋、校服不合格， 市场监管总局公布5起典型案例 | https://www.thepaper.cn/newsDetail_forward_34108632 |
