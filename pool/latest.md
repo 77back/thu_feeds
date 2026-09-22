@@ -1,7 +1,24 @@
-# 舆情候选池 0922（09-21 00:00 至今，205 条：公众号 182 + 网页 23）
+# 舆情候选池 0922（09-21 00:00 至今，212 条：公众号 189 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-23 | 网页 | 巨潮·扬州金泉 | 上市公司公告 | 关于完成工商变更登记并换发营业执照的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603307&orgId=9900046649&announcementId=1225576170&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·天味食品 | 上市公司公告 | 关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603317&orgId=9900023519&announcementId=1225576169&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·ST龙韵 | 上市公司公告 | 上海龙韵文创科技集团股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603729&orgId=9900023473&announcementId=1225576168&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·思美传媒 | 上市公司公告 | 思美传媒股份有限公司关于公司控股股东部分股份解除质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002712&orgId=9900022963&announcementId=1225576155&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·中粮糖业 | 上市公司公告 | 中粮糖业控股股份有限公司关于召开2026年第二次临时股东会通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600737&orgId=gssh0600737&announcementId=1225576153&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·键邦股份 | 上市公司公告 | 山东键邦新材料股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603285&orgId=9900053438&announcementId=1225576152&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·上海物贸 | 上市公司公告 | 关于公司高级管理人员离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600822&orgId=gssh0600822&announcementId=1225576151&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·爱建集团 | 上市公司公告 | 爱建集团关于控股股东部分股份质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600643&orgId=gssh0600643&announcementId=1225576149&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·恒兴新材 | 上市公司公告 | 第三届董事会第六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603276&orgId=9900047855&announcementId=1225576147&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·大明电子 | 上市公司公告 | 关于使用暂时闲置募集资金进行现金管理到期赎回并注销募集资金现金管理专用结算账户的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603376&orgId=9900057471&announcementId=1225576146&announcementTime=2026-09-23 |
+| 09-22 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 金建希，“卖官鬻爵”，被判5年 | https://mp.weixin.qq.com/s/m1DsEbnDiLXKjnwG1Y6Vpw |
+| 09-22 15:00 | 公众号 | 央视财经 | 综合媒体 | 上交所发布《关于沈鼓集团相关情况的通报》 | https://mp.weixin.qq.com/s/brRV-Xqzu6QIN06if6r73A |
+| 09-22 15:00 | 公众号 | 新京报 | 综合媒体 | 闫某某（男，2004年生），不得录用为公务员 | https://mp.weixin.qq.com/s/F6aTXB8cIlnfnkuINqZfMw |
+| 09-22 15:00 | 公众号 | 界面新闻 | 综合媒体 | 辽宁盘锦一小区火灾致2死2伤 | https://mp.weixin.qq.com/s/SUcqOeuz94t5rYAFGqVAuA |
+| 09-22 15:00 | 公众号 | 南方都市报 | 综合媒体 | 白云国际机场T3厚地毯被吐槽，“推行李箱一身汗”“赶路跑不动，没招了”，最新回应来了 | https://mp.weixin.qq.com/s/tBOxWUajg0arWFS7x-5kOg |
+| 09-22 15:00 | 公众号 | 法治日报 | 综合媒体 | 花28万购买限量版黄金手链，戴了三四个小时就没了，当事人：没偷没抢没剧烈运动，警方怀疑是自然遗落 | https://mp.weixin.qq.com/s/pIECpGK0aTW3VK3fjGDODQ |
+| 09-22 15:00 | 公众号 | 红网 | 综合媒体 | 河北一男子自愿报名应征入伍2个月后拒服兵役，坚决离队，当地通报：不得录用为公务员，对其处以两倍以上罚款 | https://mp.weixin.qq.com/s/3SK8kmRwlE2MxRbH3KokSg |
 | 09-22 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | HUAWEI、Apple、戴尔、Lenovo、VAIO、HP……看看你家电脑抽查结果！ | https://mp.weixin.qq.com/s/u0F2RW2zETCkDJ-Kj9tChw |
 | 09-22 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 东部向右，柏林向左：德国，真的要陷入撕裂与瘫痪了吗？｜播客 | https://mp.weixin.qq.com/s/TsV-JUAocu3Qib7ymxIJiQ |
 | 09-22 14:00 | 公众号 | 极目新闻 | 综合媒体 | 女子称入住某4000多元一晚的酒店，工作人员将其爱马仕包挂门外，当事人：证件、银行卡都在包里，被人拿走就麻烦了；酒店：正处理此事 | https://mp.weixin.qq.com/s/Fr8ShxFL2v2vSpB67gtHpQ |
@@ -78,25 +95,16 @@
 | 09-22 08:00 | 公众号 | 河北省消保委 | 消协 | 您买的口腔护理产品靠谱吗?口腔清洁与健康用品消费调查报告发布→ | https://mp.weixin.qq.com/s/xIAR89fG4zy9P8S3Utcwnw |
 | 09-22 08:00 | 公众号 | 江苏省消保委 | 消协 | 您买的口腔护理产品靠谱吗？口腔清洁与健康用品消费调查报告发布→ | https://mp.weixin.qq.com/s/5Fxv4plw3tD4whGh~~3UMw |
 | 09-22 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 月饼选购有讲究 保质期贮存条件需留意 | https://mp.weixin.qq.com/s/RuOREtFj6rHUP-ppRoQOTg |
+| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 今日导读：“超长蛋挞”爆火出圈；山姆4款美心月饼已缺货；官方通报“幼儿园用炒菜锅洗拖把”（2026年9月22日） | http://news.foodmate.net/2026/09/753606.html |
+| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 江西省药品监督管理局2026年第2期化妆品监督抽检信息公告 | http://news.foodmate.net/2026/09/617249.html |
+| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 广东省药品监督管理局关于化妆品抽样检验信息的通告（2026年第4期） | http://news.foodmate.net/2026/09/617244.html |
+| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 江苏省药监局在南京举办2026年全省药品化妆品抽检工作培训班 | http://news.foodmate.net/2026/09/617242.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 江苏：你买的月饼安全吗？抽检结果出炉 | http://news.foodmate.net/2026/09/753583.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省沈阳市市场监督管理局食品安全抽检信息通告（2026年9月14日） | http://news.foodmate.net/2026/09/753582.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 山楂片、椒盐花生米、糖醋蒜……山东通报了13批次不合格食品 | http://news.foodmate.net/2026/09/753569.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 俄罗斯通报进口中国蔬菜检疫性有害生物抽检结果 | http://news.foodmate.net/2026/09/753561.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 潍坊市市场监管局市公安局开展节前茶叶市场检查 | http://news.foodmate.net/2026/09/753560.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 买月饼看过来！西安抽检224批次，结果来了 | http://news.foodmate.net/2026/09/753559.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 中心温度管控的常见误区：测温点选择与误差规避 | http://news.foodmate.net/2026/09/753552.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 湖北省食药安办部署加强中秋、国庆期间食品安全监管 | http://news.foodmate.net/2026/09/753549.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 宁波：月饼专项抽检：糖和油的“秘密”，藏不住了 | http://news.foodmate.net/2026/09/753543.html |
-| 09-22 | 网页 | 巨潮·平安电工 | 上市公司公告 | 董事会薪酬与考核委员会关于2026年股票期权与限制性股票激励计划首次授予激励对象名单的公示情况说明及核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001359&orgId=9900056197&announcementId=1225576038&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·军信股份 | 上市公司公告 | 关于发行H股并上市的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301109&orgId=gfbj0872664&announcementId=1225576040&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·圣诺生物 | 上市公司公告 | 关于子公司被FDA纳入66-40名单说明的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688117&orgId=9900041828&announcementId=1225576050&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·*ST亚士 | 上市公司公告 | 亚士创能关于公司庭外重组进展暨风险提示的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603378&orgId=9900030399&announcementId=1225575978&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·创业环保 | 上市公司公告 | 创业环保第十届董事会第十六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600874&orgId=gssh0600874&announcementId=1225575843&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·科陆电子 | 上市公司公告 | 关于参股公司被法院受理破产清算申请的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002121&orgId=9900002262&announcementId=1225575906&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·观想科技 | 上市公司公告 | 第五届董事会第四次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301213&orgId=gfbj0832584&announcementId=1225575900&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·中矿资源 | 上市公司公告 | 关于赞比亚中央省Kitumba铜矿项目试生产暨投资进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002738&orgId=9900015289&announcementId=1225575856&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·ST百利 | 上市公司公告 | 关于董事辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603959&orgId=9900024644&announcementId=1225575836&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·华媒控股 | 上市公司公告 | 第十一届董事会第二十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000607&orgId=gssz0000607&announcementId=1225575825&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 澎湃·质量观 | 行业媒体 | 伪造营业执照用于“幽灵外卖”等一批典型案例发布 | https://www.thepaper.cn/newsDetail_forward_34122250 |
 | 09-21 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平复信美国10所高校青年学生 | https://mp.weixin.qq.com/s/l-IKNRqHgMq~Ob-sTUlXOw |
 | 09-21 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 80后中国女科学家连续在三大国际顶刊发文 | https://mp.weixin.qq.com/s/KLzOu8E7Ca2sbwEcKWYAXQ |
@@ -204,6 +212,5 @@
 | 09-21 08:00 | 公众号 | 江苏省消保委 | 消协 | 江苏物业收费新规公布 | https://mp.weixin.qq.com/s/ZrtUz~d6O6mpuMwpJwKt2w |
 | 09-21 08:00 | 公众号 | 北京消协 | 消协 | 双节来临，景区糕点能放心吃吗？官方抽检结果来了 | https://mp.weixin.qq.com/s/Ok0iLvNI6kmhWQXV8rh1HQ |
 | 09-21 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 消费提示｜线上选购鲜花，这些要点要留心 | https://mp.weixin.qq.com/s/z9eGECc8xR-PZVgvV056Zw |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局公开征集2027年新疆食品安全抽检计划建议 | http://news.foodmate.net/2026/09/753517.html |
 | 09-21 | 网页 | 澎湃·质量观 | 行业媒体 | 安徽泾县一宣纸生产企业违规标注“中国驰名商标”等字样被罚 | https://www.thepaper.cn/newsDetail_forward_34116394 |
 | 09-21 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局开展月饼专项抽检：个别产品超范围超限量使用防腐剂、着色剂 | https://www.thepaper.cn/newsDetail_forward_34115689 |
