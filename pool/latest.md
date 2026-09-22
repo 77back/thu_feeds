@@ -1,17 +1,27 @@
-# 舆情候选池 0922（09-21 00:00 至今，223 条：公众号 200 + 网页 23）
+# 舆情候选池 0922（09-21 00:00 至今，233 条：公众号 210 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-23 | 网页 | 巨潮·澳柯玛 | 上市公司公告 | 澳柯玛股份有限公司关于为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600336&orgId=gssh0600336&announcementId=1225576463&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·新凤鸣 | 上市公司公告 | 第七届董事会第三次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603225&orgId=9900023641&announcementId=1225576462&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·中国石化 | 上市公司公告 | 2026年半年度A股分红派息实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600028&orgId=gssh0600028&announcementId=1225576461&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·贵州燃气 | 上市公司公告 | 中诚信国际关于关注贵州燃气集团股份有限公司发行股份购买资产并募集配套资金暨关联交易的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600903&orgId=GD150574&announcementId=1225576460&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·路维光电 | 上市公司公告 | 路维光电股东询价转让结果报告书暨持股5%以上股东权益变动触及1%整数倍的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688401&orgId=gfbj0833550&announcementId=1225576458&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·同庆楼 | 上市公司公告 | 同庆楼第四届董事会第十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605108&orgId=9900033223&announcementId=1225576455&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·辰欣药业 | 上市公司公告 | 辰欣药业股份有限公司2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603367&orgId=9900024437&announcementId=1225576438&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·冠盛股份 | 上市公司公告 | 冠盛股份股权激励限制性股票回购注销实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605088&orgId=gfbj0834175&announcementId=1225576427&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·沪硅产业 | 上市公司公告 | 沪硅产业高级管理人员减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688126&orgId=9900039304&announcementId=1225576451&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·时代电气 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688187&orgId=gshk0003898&announcementId=1225576450&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·奥浦迈 | 上市公司公告 | 奥浦迈：第二届董事会第二十七次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688293&orgId=9900048799&announcementId=1225577024&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·亚虹医药 | 上市公司公告 | 江苏亚虹医药科技股份有限公司自愿披露关于APL-2501完成I期临床试验首例受试者入组公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688176&orgId=9900048081&announcementId=1225577016&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·康希通信 | 上市公司公告 | 康希通信关于公司2026年限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688653&orgId=9900057354&announcementId=1225577014&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·日出东方 | 上市公司公告 | 日出东方控股股份有限公司董事及高级管理人员减持股份计划公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603366&orgId=9900022648&announcementId=1225577009&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·申通地铁 | 上市公司公告 | 申通地铁2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600834&orgId=gssh0600834&announcementId=1225576987&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·天马科技 | 上市公司公告 | 天马科技关于控股股东、实际控制人之一致行动人部分股份质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603668&orgId=9900029592&announcementId=1225576986&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·华森制药 | 上市公司公告 | 关于公司全资子公司受让成都华森奥睿药业有限公司股权的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002907&orgId=9900033357&announcementId=1225576980&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·大丰实业 | 上市公司公告 | 浙江大丰实业股份有限公司关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603081&orgId=9900030818&announcementId=1225576930&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·金盘科技 | 上市公司公告 | 关于调整2026年半年度利润分配现金分红总额的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688676&orgId=9900044215&announcementId=1225576973&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·康惠股份 | 上市公司公告 | 康惠股份关于控股股东部分股份解除质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603139&orgId=9900030778&announcementId=1225576975&announcementTime=2026-09-23 |
+| 09-22 17:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 愿人人享有汽车质量安全 | https://mp.weixin.qq.com/s/2Db6FJ68jIuIklDWT9JgMw |
+| 09-22 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候 | https://mp.weixin.qq.com/s/i8yOXv0LvKW2FyVO2Djoeg |
+| 09-22 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 雷军回应“打新宇树挣了100多亿” | https://mp.weixin.qq.com/s/fhqmLg1T2AkvqJ9FdlXuuQ |
+| 09-22 17:00 | 公众号 | 新京报 | 综合媒体 | 烹饪时涂料中有害物质或迁移至食物，百万销量“网红”空气炸锅藏健康隐患—— | https://mp.weixin.qq.com/s/C3m6dmalJrWgFK6JNlPC3w |
+| 09-22 17:00 | 公众号 | 极目新闻 | 综合媒体 | 打破亚洲纪录，湖北健儿名古屋亚运会第二金诞生，彭旭玮勇夺女子200米仰泳冠军 | https://mp.weixin.qq.com/s/qrKKMjwZn1v~~0bTCgOitQ |
+| 09-22 17:00 | 公众号 | 界面新闻 | 综合媒体 | 粉丝喊话品牌“二选一”致主播带货被取消，昆明警方立案调查 | https://mp.weixin.qq.com/s/dVp8EegHeCDbWY4Y6zZu~Q |
+| 09-22 17:00 | 公众号 | 法治日报 | 综合媒体 | 习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候 | https://mp.weixin.qq.com/s/14PTEJM~OUFBljqfa7P6dw |
+| 09-22 17:00 | 公众号 | 南方都市报 | 综合媒体 | 金建希，获从轻发落 | https://mp.weixin.qq.com/s/FXNccuu4OVp~fryhEIS~qQ |
+| 09-22 17:00 | 公众号 | 红网 | 综合媒体 | 湖南出台新规！“市场调节价”项目医院不能“随便定”了 | https://mp.weixin.qq.com/s/JvT796hOvvCTuDqpQGJ3HQ |
+| 09-22 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员陈观泰离世，骨灰被撒入大海 | https://mp.weixin.qq.com/s/3FDzG5w4hvBkqW7CWrGOQQ |
 | 09-22 16:00 | 公众号 | 市说新语 | 监管·总局 | 中国质量万里行质量与品牌大会在京举行 | https://mp.weixin.qq.com/s/qJ~qmF~w4wricCEsgUfPFg |
 | 09-22 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 外交部：中方愿同美方一道，丰富中美建设性战略稳定关系的内涵 | https://mp.weixin.qq.com/s/p6gwRm3SqxN1LtGh4WkJWA |
 | 09-22 16:00 | 公众号 | 新京报 | 综合媒体 | 胡昌升任西藏自治区党委书记，吴晓军任甘肃省委书记，罗东川任青海省委书记 | https://mp.weixin.qq.com/s/lwAU5bKxNp2w0CeRx6tmKg |
