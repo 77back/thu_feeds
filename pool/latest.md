@@ -1,7 +1,16 @@
-# 舆情候选池 0922（09-21 00:00 至今，188 条：公众号 165 + 网页 23）
+# 舆情候选池 0922（09-21 00:00 至今，197 条：公众号 174 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-22 13:00 | 公众号 | 中国消费者报 | 行业媒体 | 月饼安全状况总体稳定；“KONKA”液晶电视抽检不合格 | https://mp.weixin.qq.com/s/Z89y0yNjsrPhgIbTR6vYlA |
+| 09-22 13:00 | 公众号 | 央视财经 | 综合媒体 | 我国发现超大型铜金矿！ | https://mp.weixin.qq.com/s/xtYvI3IWQ8THPuQbOT-gJQ |
+| 09-22 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 南京通报“幼儿园多名幼儿午餐后呕吐” | https://mp.weixin.qq.com/s/rSER99iB1Tu3~aWmRPrgCA |
+| 09-22 13:00 | 公众号 | 界面新闻 | 综合媒体 | 82款app被通报 | https://mp.weixin.qq.com/s/lWE8KJcMvQwLB~pq7yWHPg |
+| 09-22 13:00 | 公众号 | 新京报 | 综合媒体 | 央视报道后，山西宁武发布情况通报 | https://mp.weixin.qq.com/s/Aehue~H8TVCN6CCdHkwRjA |
+| 09-22 13:00 | 公众号 | 法治日报 | 综合媒体 | 官方通报“南京一幼儿园发生集体呕吐事件”：11名相关责任人被处理，园长、分管副园长被撤职，厨师被开除 | https://mp.weixin.qq.com/s/76JRr-T511XOlAWY4QAPxA |
+| 09-22 13:00 | 公众号 | 南方都市报 | 综合媒体 | 存在严重问题！当地通报“幼儿集体呕吐”：深表歉意，园长、分管副园长被撤职，厨师张某被开除 | https://mp.weixin.qq.com/s/EZiWCMySEYIqDij3-rWhrw |
+| 09-22 13:00 | 公众号 | 今晚报 | 综合媒体 | 2026中国民企500强！天津上榜企业️‌→‌ | https://mp.weixin.qq.com/s/NJ-Zc~lPmevF2KyPPJazAA |
+| 09-22 13:00 | 公众号 | 红网 | 综合媒体 | 湖南10家企业上榜“2026中国民营企业500强” | https://mp.weixin.qq.com/s/FSGDds1ICWkdinzcQVCmww |
 | 09-22 12:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局党组理论学习中心组集体学习习近平总书记关于安全生产的重要论述 | https://mp.weixin.qq.com/s/OCFbRliMGvrbYQU~HFN7Rw |
 | 09-22 12:00 | 公众号 | 上海市消保委 | 消协 | 天塌了！用这种杯子喝水可能天天在喝细菌！尤其这几种人… | https://mp.weixin.qq.com/s/yNIhuD3xmgVWJ7vWjoIwTg |
 | 09-22 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 司美格鲁肽“回流药”，诺和诺德回应 | https://mp.weixin.qq.com/s/iPBEeHEKjEqNP4PQrPdnpA |
