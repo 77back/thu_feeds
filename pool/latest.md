@@ -1,7 +1,15 @@
-# 舆情候选池 0922（09-21 00:00 至今，160 条：公众号 138 + 网页 22）
+# 舆情候选池 0922（09-21 00:00 至今，169 条：公众号 146 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-22 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 妙可蓝多创始人，辞去公司全部职务 | https://mp.weixin.qq.com/s/UmamEKZvZ7RO2CmfKVAWPg |
+| 09-22 10:00 | 公众号 | 央视财经 | 综合媒体 | 集体大涨！芯片股，爆发！ | https://mp.weixin.qq.com/s/iZ7EGfh9YODf548dSR-zSA |
+| 09-22 10:00 | 公众号 | 界面新闻 | 综合媒体 | 微信又上新功能，发朋友圈可自动转为“仅自己可见” | https://mp.weixin.qq.com/s/nNpOG4o730vcDPuiYzSBPw |
+| 09-22 10:00 | 公众号 | 南方都市报 | 综合媒体 | 汕头市纪委监委，公开通报 | https://mp.weixin.qq.com/s/hMOYEXffnQWD3vU5rU2Y2Q |
+| 09-22 10:00 | 公众号 | 法治日报 | 综合媒体 | 吴某平上班期间突然不适，不幸身亡，不被认定为工伤，子女上诉后获赔92万；最高检重新界定“48小时”：对抢救时间界限的把握不应强人所难 | https://mp.weixin.qq.com/s/eZZWyk0naCyCw18qLiaKJw |
+| 09-22 10:00 | 公众号 | 极目新闻 | 综合媒体 | 没买东西，3个多月账户竟产生了上百笔扣款记录，单笔金额从数十元到199元、299元不等，男子拿着手机到派出所求助，民警帮他全追回来了 | https://mp.weixin.qq.com/s/WuajACYcNd-XP4kxRnohnw |
+| 09-22 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子清早上班，捡到3张纸条，打开还有自己名字：“我已20小时，没有进食进水，帮我，求你们......”报警后，民警和消防员翻窗救人 | https://mp.weixin.qq.com/s/BZz~zNwAge~E4u7s7mf4~w |
+| 09-22 10:00 | 公众号 | 红网 | 综合媒体 | 山西一煤企为抄近道拦腰截断明长城，持续损毁近20年，形成6米多宽缺口；知情人称举报了十年，“但就是没人管” | https://mp.weixin.qq.com/s/wERxUwFxuJtrP~YQPOjl0Q |
 | 09-22 09:00 | 公众号 | 中国市场监管报 | 行业媒体 | 全国城市联合招聘秋招启动；闲鱼回应“涉黄”，成立专项小组严打色情引流…… | https://mp.weixin.qq.com/s/~YIa427rMxTPidaCo9xFSg |
 | 09-22 09:00 | 公众号 | 央视财经 | 综合媒体 | 巴基斯坦实施空袭 | https://mp.weixin.qq.com/s/JNylEJ3Q4ElcEQrlVGKqaA |
 | 09-22 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 从马德里到上海，技能何以改变世界？ | https://mp.weixin.qq.com/s/KL3b~Is2OSVrGGCBf9nieg |
@@ -34,6 +42,7 @@
 | 09-22 08:00 | 公众号 | 河北省消保委 | 消协 | 您买的口腔护理产品靠谱吗?口腔清洁与健康用品消费调查报告发布→ | https://mp.weixin.qq.com/s/xIAR89fG4zy9P8S3Utcwnw |
 | 09-22 08:00 | 公众号 | 江苏省消保委 | 消协 | 您买的口腔护理产品靠谱吗？口腔清洁与健康用品消费调查报告发布→ | https://mp.weixin.qq.com/s/5Fxv4plw3tD4whGh~~3UMw |
 | 09-22 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 月饼选购有讲究 保质期贮存条件需留意 | https://mp.weixin.qq.com/s/RuOREtFj6rHUP-ppRoQOTg |
+| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 山楂片、椒盐花生米、糖醋蒜……山东通报了13批次不合格食品 | http://news.foodmate.net/2026/09/753569.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 俄罗斯通报进口中国蔬菜检疫性有害生物抽检结果 | http://news.foodmate.net/2026/09/753561.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 潍坊市市场监管局市公安局开展节前茶叶市场检查 | http://news.foodmate.net/2026/09/753560.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 买月饼看过来！西安抽检224批次，结果来了 | http://news.foodmate.net/2026/09/753559.html |
@@ -50,6 +59,7 @@
 | 09-22 | 网页 | 巨潮·*ST禾信 | 上市公司公告 | 广州禾信仪器股份有限公司关于收到上海证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688622&orgId=gfbj0871079&announcementId=1225575821&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·裕同科技 | 上市公司公告 | 2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002831&orgId=9900029473&announcementId=1225575820&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·硕世生物 | 上市公司公告 | 江苏硕世生物科技股份有限公司关于合伙企业变更执行事务合伙人暨股东权益变动的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688399&orgId=9900039223&announcementId=1225575815&announcementTime=2026-09-22 |
+| 09-22 | 网页 | 澎湃·质量观 | 行业媒体 | 伪造营业执照用于“幽灵外卖”等一批典型案例发布 | https://www.thepaper.cn/newsDetail_forward_34122250 |
 | 09-21 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平复信美国10所高校青年学生 | https://mp.weixin.qq.com/s/l-IKNRqHgMq~Ob-sTUlXOw |
 | 09-21 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 80后中国女科学家连续在三大国际顶刊发文 | https://mp.weixin.qq.com/s/KLzOu8E7Ca2sbwEcKWYAXQ |
 | 09-21 17:00 | 公众号 | 新京报 | 综合媒体 | 中国、马达加斯加警方首次联合打击电信网络诈骗，成功打掉马首都塔那那利佛等地区多个电信网络诈骗窝点 | https://mp.weixin.qq.com/s/xTEEV-A~ehEVB9nUkFMK2Q |
@@ -159,6 +169,5 @@
 | 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局公开征集2027年新疆食品安全抽检计划建议 | http://news.foodmate.net/2026/09/753517.html |
 | 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 今日导读：配料表的白砂糖，为什么被换掉了？；腊味厂猪肉脯病毒检测阳性，被立案；婴配食品标签大改，部分产品禁售（2026年9月21日） | http://news.foodmate.net/2026/09/753504.html |
 | 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局开展月饼专项抽检 月饼安全状况总体稳定 | http://news.foodmate.net/2026/09/753501.html |
-| 09-21 | 网页 | 食品伙伴网 | 抽检通报 | 45批次，合格率100%！杭州市萧山区月饼抽检最新结果来啦！ | http://news.foodmate.net/2026/09/753500.html |
 | 09-21 | 网页 | 澎湃·质量观 | 行业媒体 | 安徽泾县一宣纸生产企业违规标注“中国驰名商标”等字样被罚 | https://www.thepaper.cn/newsDetail_forward_34116394 |
 | 09-21 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局开展月饼专项抽检：个别产品超范围超限量使用防腐剂、着色剂 | https://www.thepaper.cn/newsDetail_forward_34115689 |
