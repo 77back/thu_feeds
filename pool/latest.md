@@ -1,17 +1,28 @@
-# 舆情候选池 0922（09-21 00:00 至今，212 条：公众号 189 + 网页 23）
+# 舆情候选池 0922（09-21 00:00 至今，223 条：公众号 200 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-23 | 网页 | 巨潮·扬州金泉 | 上市公司公告 | 关于完成工商变更登记并换发营业执照的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603307&orgId=9900046649&announcementId=1225576170&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·天味食品 | 上市公司公告 | 关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603317&orgId=9900023519&announcementId=1225576169&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·ST龙韵 | 上市公司公告 | 上海龙韵文创科技集团股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603729&orgId=9900023473&announcementId=1225576168&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·思美传媒 | 上市公司公告 | 思美传媒股份有限公司关于公司控股股东部分股份解除质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002712&orgId=9900022963&announcementId=1225576155&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·中粮糖业 | 上市公司公告 | 中粮糖业控股股份有限公司关于召开2026年第二次临时股东会通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600737&orgId=gssh0600737&announcementId=1225576153&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·键邦股份 | 上市公司公告 | 山东键邦新材料股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603285&orgId=9900053438&announcementId=1225576152&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·上海物贸 | 上市公司公告 | 关于公司高级管理人员离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600822&orgId=gssh0600822&announcementId=1225576151&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·爱建集团 | 上市公司公告 | 爱建集团关于控股股东部分股份质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600643&orgId=gssh0600643&announcementId=1225576149&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·恒兴新材 | 上市公司公告 | 第三届董事会第六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603276&orgId=9900047855&announcementId=1225576147&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·大明电子 | 上市公司公告 | 关于使用暂时闲置募集资金进行现金管理到期赎回并注销募集资金现金管理专用结算账户的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603376&orgId=9900057471&announcementId=1225576146&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·澳柯玛 | 上市公司公告 | 澳柯玛股份有限公司关于为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600336&orgId=gssh0600336&announcementId=1225576463&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·新凤鸣 | 上市公司公告 | 第七届董事会第三次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603225&orgId=9900023641&announcementId=1225576462&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·中国石化 | 上市公司公告 | 2026年半年度A股分红派息实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600028&orgId=gssh0600028&announcementId=1225576461&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·贵州燃气 | 上市公司公告 | 中诚信国际关于关注贵州燃气集团股份有限公司发行股份购买资产并募集配套资金暨关联交易的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600903&orgId=GD150574&announcementId=1225576460&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·路维光电 | 上市公司公告 | 路维光电股东询价转让结果报告书暨持股5%以上股东权益变动触及1%整数倍的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688401&orgId=gfbj0833550&announcementId=1225576458&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·同庆楼 | 上市公司公告 | 同庆楼第四届董事会第十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605108&orgId=9900033223&announcementId=1225576455&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·辰欣药业 | 上市公司公告 | 辰欣药业股份有限公司2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603367&orgId=9900024437&announcementId=1225576438&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·冠盛股份 | 上市公司公告 | 冠盛股份股权激励限制性股票回购注销实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605088&orgId=gfbj0834175&announcementId=1225576427&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·沪硅产业 | 上市公司公告 | 沪硅产业高级管理人员减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688126&orgId=9900039304&announcementId=1225576451&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·时代电气 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688187&orgId=gshk0003898&announcementId=1225576450&announcementTime=2026-09-23 |
+| 09-22 16:00 | 公众号 | 市说新语 | 监管·总局 | 中国质量万里行质量与品牌大会在京举行 | https://mp.weixin.qq.com/s/qJ~qmF~w4wricCEsgUfPFg |
+| 09-22 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 外交部：中方愿同美方一道，丰富中美建设性战略稳定关系的内涵 | https://mp.weixin.qq.com/s/p6gwRm3SqxN1LtGh4WkJWA |
+| 09-22 16:00 | 公众号 | 新京报 | 综合媒体 | 胡昌升任西藏自治区党委书记，吴晓军任甘肃省委书记，罗东川任青海省委书记 | https://mp.weixin.qq.com/s/lwAU5bKxNp2w0CeRx6tmKg |
+| 09-22 16:00 | 公众号 | 界面新闻 | 综合媒体 | 胡昌升任西藏自治区党委书记，吴晓军任甘肃省委书记，罗东川任青海省委书记 | https://mp.weixin.qq.com/s/KN1BHFlJk47JwnvuMXT0Ew |
+| 09-22 16:00 | 公众号 | 法治日报 | 综合媒体 | 父母离婚后打官司，迫使女儿站队，重点高中女孩突然辍学，她说：“我不敢考不好，不敢说累，不敢做自己”；最近，法官收到感谢信 | https://mp.weixin.qq.com/s/y60B-j~7Yauh~vCXlcYeYg |
+| 09-22 16:00 | 公众号 | 南方都市报 | 综合媒体 | 广州：本周四15时起，这些高速路段易拥堵 | https://mp.weixin.qq.com/s/6kwbP5lUG93yGuCJv7~DiA |
+| 09-22 16:00 | 公众号 | 极目新闻 | 综合媒体 | 美国称明天起伊朗全球航线都将停飞，凡是为伊朗航司提供信贷服务或燃油的国家都将被踢出美元体系，中方：一贯反对非法单边制裁 | https://mp.weixin.qq.com/s/pBqJXVUwBB68Uk6LSyTUgg |
+| 09-22 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 人工智能或将成为中美元首会晤议题？中方回应 | https://mp.weixin.qq.com/s/lP6uv7UP2Wjty90i1ZzqFw |
+| 09-22 16:00 | 公众号 | 红网 | 综合媒体 | 胡昌升任西藏自治区党委书记，吴晓军任甘肃省委书记，罗东川任青海省委书记 | https://mp.weixin.qq.com/s/m3Yq2vbRnBjbLdr9W2bPzQ |
+| 09-22 16:00 | 公众号 | 中国食品安全报 | 行业媒体 | 贾国龙最新发声 | https://mp.weixin.qq.com/s/IUkNLwNlmzGKGO1FZqXYlg |
+| 09-22 16:00 | 公众号 | 北京消协 | 消协 | 双节消费避坑！京津冀三地联合提示：这些广告套路要看清 | https://mp.weixin.qq.com/s/9hj41P6IlAeUMrHWkjAthg |
 | 09-22 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 金建希，“卖官鬻爵”，被判5年 | https://mp.weixin.qq.com/s/m1DsEbnDiLXKjnwG1Y6Vpw |
 | 09-22 15:00 | 公众号 | 央视财经 | 综合媒体 | 上交所发布《关于沈鼓集团相关情况的通报》 | https://mp.weixin.qq.com/s/brRV-Xqzu6QIN06if6r73A |
 | 09-22 15:00 | 公众号 | 新京报 | 综合媒体 | 闫某某（男，2004年生），不得录用为公务员 | https://mp.weixin.qq.com/s/F6aTXB8cIlnfnkuINqZfMw |
