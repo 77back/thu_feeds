@@ -1,7 +1,18 @@
-# 舆情候选池 0922（09-21 00:00 至今，177 条：公众号 154 + 网页 23）
+# 舆情候选池 0922（09-21 00:00 至今，188 条：公众号 165 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-22 12:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局党组理论学习中心组集体学习习近平总书记关于安全生产的重要论述 | https://mp.weixin.qq.com/s/OCFbRliMGvrbYQU~HFN7Rw |
+| 09-22 12:00 | 公众号 | 上海市消保委 | 消协 | 天塌了！用这种杯子喝水可能天天在喝细菌！尤其这几种人… | https://mp.weixin.qq.com/s/yNIhuD3xmgVWJ7vWjoIwTg |
+| 09-22 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 司美格鲁肽“回流药”，诺和诺德回应 | https://mp.weixin.qq.com/s/iPBEeHEKjEqNP4PQrPdnpA |
+| 09-22 12:00 | 公众号 | 央视财经 | 综合媒体 | 2026中国民营企业500强出炉！ | https://mp.weixin.qq.com/s/TKVRLbp5~W8o3hDx0jQmow |
+| 09-22 12:00 | 公众号 | 界面新闻 | 综合媒体 | 沃尔玛、山姆首席采购官换人 | https://mp.weixin.qq.com/s/w2uFCQEi2uxEibjJFTUnsA |
+| 09-22 12:00 | 公众号 | 新京报 | 综合媒体 | “沈城韩泫雅”，被处置 | https://mp.weixin.qq.com/s/OMA~7hGfJCJODhYKDySpYA |
+| 09-22 12:00 | 公众号 | 南方都市报 | 综合媒体 | 黄某某（男，24岁）开车与9辆电动自行车发生碰撞，2死6伤，广西刚刚通报 | https://mp.weixin.qq.com/s/47z8EtuvBTiIs5IPg8XPWQ |
+| 09-22 12:00 | 公众号 | 法治日报 | 综合媒体 | 拿冰淇淋砸头、在高校校园跪地喊“牛来”，网红“沈城韩泫雅”长期在人员密集区域或场所进行低俗、庸俗表演，账号被处置 | https://mp.weixin.qq.com/s/s6PGbT-30uczX3IET5LPMQ |
+| 09-22 12:00 | 公众号 | 极目新闻 | 综合媒体 | 军训期间谎称上厕所，男生擅自离校飞到上海旅游，并把整个过程发上网，校方：他说要退学，已在办理手续；目前其账号已被禁止关注 | https://mp.weixin.qq.com/s/UAO2U7JWux9avAhioZAMUg |
+| 09-22 12:00 | 公众号 | 中国新闻网 | 综合媒体 | “沈城韩泫雅”，被处置 | https://mp.weixin.qq.com/s/HzJOcftBhQ4UTIdGT7SfMQ |
+| 09-22 12:00 | 公众号 | 红网 | 综合媒体 | 我国发现超大型规模铜金矿，全国石油新增可采储量近7000万吨，天然气新增可采储量6100亿立方米 | https://mp.weixin.qq.com/s/FpFfW~t~Z1JWLXEsee~iBQ |
 | 09-22 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 根据“委托人”需求收费，定制“线上报复订单”，对不特定网民实施精神霸凌，致多人出现抑郁、厌学，网暴犯罪团伙被抓获 | https://mp.weixin.qq.com/s/VX~UKP0FmdnvEi~vDU2KmQ |
 | 09-22 11:00 | 公众号 | 界面新闻 | 综合媒体 | 洛阳钼业被厦门钨业索赔上亿元 | https://mp.weixin.qq.com/s/cl4RH9Lkfa7HHYDPM-tjLw |
 | 09-22 11:00 | 公众号 | 新京报 | 综合媒体 | “谢广坤”销售的东北酸菜被检不合格，平台已售超13万袋 | https://mp.weixin.qq.com/s/OcvI6xVWOfkeYCzKgKooOA |
@@ -61,6 +72,7 @@
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 宁波：月饼专项抽检：糖和油的“秘密”，藏不住了 | http://news.foodmate.net/2026/09/753543.html |
 | 09-22 | 网页 | 巨潮·平安电工 | 上市公司公告 | 董事会薪酬与考核委员会关于2026年股票期权与限制性股票激励计划首次授予激励对象名单的公示情况说明及核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001359&orgId=9900056197&announcementId=1225576038&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·军信股份 | 上市公司公告 | 关于发行H股并上市的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301109&orgId=gfbj0872664&announcementId=1225576040&announcementTime=2026-09-22 |
+| 09-22 | 网页 | 巨潮·圣诺生物 | 上市公司公告 | 关于子公司被FDA纳入66-40名单说明的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688117&orgId=9900041828&announcementId=1225576050&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·*ST亚士 | 上市公司公告 | 亚士创能关于公司庭外重组进展暨风险提示的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603378&orgId=9900030399&announcementId=1225575978&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·创业环保 | 上市公司公告 | 创业环保第十届董事会第十六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600874&orgId=gssh0600874&announcementId=1225575843&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·科陆电子 | 上市公司公告 | 关于参股公司被法院受理破产清算申请的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002121&orgId=9900002262&announcementId=1225575906&announcementTime=2026-09-22 |
@@ -68,7 +80,6 @@
 | 09-22 | 网页 | 巨潮·中矿资源 | 上市公司公告 | 关于赞比亚中央省Kitumba铜矿项目试生产暨投资进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002738&orgId=9900015289&announcementId=1225575856&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·ST百利 | 上市公司公告 | 关于董事辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603959&orgId=9900024644&announcementId=1225575836&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 巨潮·华媒控股 | 上市公司公告 | 第十一届董事会第二十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000607&orgId=gssz0000607&announcementId=1225575825&announcementTime=2026-09-22 |
-| 09-22 | 网页 | 巨潮·*ST禾信 | 上市公司公告 | 广州禾信仪器股份有限公司关于收到上海证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688622&orgId=gfbj0871079&announcementId=1225575821&announcementTime=2026-09-22 |
 | 09-22 | 网页 | 澎湃·质量观 | 行业媒体 | 伪造营业执照用于“幽灵外卖”等一批典型案例发布 | https://www.thepaper.cn/newsDetail_forward_34122250 |
 | 09-21 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平复信美国10所高校青年学生 | https://mp.weixin.qq.com/s/l-IKNRqHgMq~Ob-sTUlXOw |
 | 09-21 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 80后中国女科学家连续在三大国际顶刊发文 | https://mp.weixin.qq.com/s/KLzOu8E7Ca2sbwEcKWYAXQ |
