@@ -1,7 +1,15 @@
-# 舆情候选池 0923（09-22 00:00 至今，174 条：公众号 149 + 网页 25）
+# 舆情候选池 0923（09-22 00:00 至今，182 条：公众号 157 + 网页 25）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-23 11:00 | 公众号 | 中国市场监管报 | 行业媒体 | 企业境外反垄断合规指引修订草案公开征求意见 | https://mp.weixin.qq.com/s/fZ1dzdQUEaY4i3MdMRUU-Q |
+| 09-23 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 上市公司迈信林：付了2.66亿购买算力设备，啥也没收到，钱可能还退不了 | https://mp.weixin.qq.com/s/keNzfblRftfcQeErBLc0UQ |
+| 09-23 11:00 | 公众号 | 南方都市报 | 综合媒体 | 教育部：我国接受过高等教育人口达2.7亿 | https://mp.weixin.qq.com/s/dTQGcLXFq01BJhtZ7Sy9Ow |
+| 09-23 11:00 | 公众号 | 界面新闻 | 综合媒体 | 苹果新款Mac mini、Mac Studio正式发售：涨价后6999元起售 | https://mp.weixin.qq.com/s/j3Su2pkHVLFe-hg7HTuTBA |
+| 09-23 11:00 | 公众号 | 新京报 | 综合媒体 | 李乐成任安徽省委书记，周祖翼任河南省委书记，赵龙任福建省委书记 | https://mp.weixin.qq.com/s/T7IgVzMD~ZI~mKlzUaYI-Q |
+| 09-23 11:00 | 公众号 | 法治日报 | 综合媒体 | 六神花露水焕新包装引“围观” ，部分纹路在紫外光下呈荧光效果，有网友称“拿在手里像验钞”；企业回应：未使用印钞专用纸 | https://mp.weixin.qq.com/s/ZTYA75MZzK~5Dp1JXU3c-A |
+| 09-23 11:00 | 公众号 | 红网 | 综合媒体 | 李乐成任安徽省委书记，周祖翼任河南省委书记，赵龙任福建省委书记 | https://mp.weixin.qq.com/s/9f1Ksywq6ajj7yDkyaW8ow |
+| 09-23 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 安徽、河南、福建省委主要负责同志职务调整 | https://mp.weixin.qq.com/s/OyRIbOfviyGBb3MsDuZuLw |
 | 09-23 10:00 | 公众号 | 市说新语 | 监管·总局 | 习近平向第48届世界技能大赛致贺信 | https://mp.weixin.qq.com/s/~22V9j0WzBE8ZsvtXbkBHw |
 | 09-23 10:00 | 公众号 | 央视财经 | 综合媒体 | 别总盯着手机！马斯克“中国游”攻略上新 | https://mp.weixin.qq.com/s/PLGVII50wCT4gl4qZYT0TA |
 | 09-23 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 买重疾险10年后确诊结肠癌，泰康人寿以“遗传性疾病免责”为由拒赔 | https://mp.weixin.qq.com/s/suOruCk5WmV~SfL7Nf7Cow |
@@ -47,16 +55,19 @@
 | 09-23 08:00 | 公众号 | 北京消协 | 消协 | 民生商品检测过程向社会公开 北京市消协开展实验室开放活动 | https://mp.weixin.qq.com/s/gmZ4ERvGFe4klf0TUEUmsw |
 | 09-23 08:00 | 公众号 | 浙江消保委 | 消协 | 易卷边、支撑差、不透气？消保委现场实测20款弹力围腰，帮你避坑！ | https://mp.weixin.qq.com/s/c04fO9Yz9hOHHgjdHNIu7g |
 | 09-23 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 民生商品检测过程向社会公开 北京市消费者协会开展实验室开放活动 | https://mp.weixin.qq.com/s/-f6YveHQyxiyezduK1Kpjg |
+| 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 四川省市场监督管理局关于中秋、国庆节令食品安全监督抽检情况的通告（2026年第11号） | http://news.foodmate.net/2026/09/753646.html |
+| 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局食品安全监督抽检信息通告（2026年第10期） 第 51 号 | http://news.foodmate.net/2026/09/753645.html |
+| 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 澳门政府抽检市售月饼检测结果未见异常 | http://news.foodmate.net/2026/09/753632.html |
+| 09-23 | 网页 | 巨潮·建发致新 | 上市公司公告 | 独立董事提名人声明与承诺（商沛） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301584&orgId=9900056249&announcementId=1225578087&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·贝特利 | 上市公司公告 | 关于召开 2026 年第一次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301697&orgId=gfbj0834488&announcementId=1225578088&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·壹连科技 | 上市公司公告 | 关于对外担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301631&orgId=9900053341&announcementId=1225578078&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·银宝山新 | 上市公司公告 | 关于为全资子公司申请综合授信提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002786&orgId=9900023708&announcementId=1225578076&announcementTime=2026-09-23 |
+| 09-23 | 网页 | 巨潮·和顺科技 | 上市公司公告 | 关于完成工商变更登记并换发营业执照的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301237&orgId=gfbj0833566&announcementId=1225578077&announcementTime=2026-09-23 |
 | 09-23 | 网页 | 巨潮·滨化股份 | 上市公司公告 | H股公告-滨化股份2026中期报告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601678&orgId=9900010667&announcementId=1225578029&announcementTime=2026-09-23 |
 | 09-23 | 网页 | 巨潮·农 | 上市公司公告 | 关于增补董事的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000061&orgId=gssz0000061&announcementId=1225578012&announcementTime=2026-09-23 |
 | 09-23 | 网页 | 巨潮·硕世生物 | 上市公司公告 | 江苏硕世生物科技股份有限公司简式权益变动报告书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688399&orgId=9900039223&announcementId=1225577985&announcementTime=2026-09-23 |
 | 09-23 | 网页 | 巨潮·申科股份 | 上市公司公告 | 关于拟续聘会计师事务所的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002633&orgId=9900021749&announcementId=1225577972&announcementTime=2026-09-23 |
 | 09-23 | 网页 | 巨潮·*ST宝馨 | 上市公司公告 | 关于公司控股股东所持公司部分股份司法拍卖过户完成暨权益变动触及1%刻度及5%整数倍的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002514&orgId=9900016129&announcementId=1225577950&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·三人行 | 上市公司公告 | 开源证券股份有限公司关于三人行未来科技集团股份有限公司本次对外投资标的公司环保及节能情况之专项核查报告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605168&orgId=gfbj0832288&announcementId=1225577943&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·*ST美芝 | 上市公司公告 | 关于与投资人签署《投资协议》暨公司庭外重组进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002856&orgId=9900028823&announcementId=1225577942&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·安阳钢铁 | 上市公司公告 | 安阳钢铁股份有限公司向特定对象发行股票证券募集说明书（修订稿） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600569&orgId=gssh0600569&announcementId=1225577928&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·宏盛华源 | 上市公司公告 | 宏盛华源关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601096&orgId=9900052305&announcementId=1225577910&announcementTime=2026-09-23 |
-| 09-23 | 网页 | 巨潮·侨银股份 | 上市公司公告 | 关于调剂担保额度暨担保进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002973&orgId=9900037236&announcementId=1225577907&announcementTime=2026-09-23 |
 | 09-23 | 网页 | 澎湃·质量观 | 行业媒体 | 男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病” | https://www.thepaper.cn/newsDetail_forward_34125321 |
 | 09-22 17:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 愿人人享有汽车质量安全 | https://mp.weixin.qq.com/s/2Db6FJ68jIuIklDWT9JgMw |
 | 09-22 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候 | https://mp.weixin.qq.com/s/i8yOXv0LvKW2FyVO2Djoeg |
@@ -169,9 +180,6 @@
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 江苏：你买的月饼安全吗？抽检结果出炉 | http://news.foodmate.net/2026/09/753583.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省沈阳市市场监督管理局食品安全抽检信息通告（2026年9月14日） | http://news.foodmate.net/2026/09/753582.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 山楂片、椒盐花生米、糖醋蒜……山东通报了13批次不合格食品 | http://news.foodmate.net/2026/09/753569.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 俄罗斯通报进口中国蔬菜检疫性有害生物抽检结果 | http://news.foodmate.net/2026/09/753561.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 潍坊市市场监管局市公安局开展节前茶叶市场检查 | http://news.foodmate.net/2026/09/753560.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 买月饼看过来！西安抽检224批次，结果来了 | http://news.foodmate.net/2026/09/753559.html |
 | 09-22 | 网页 | 界面新闻·消费 | 综合媒体 | 美心月饼打六折冲上热搜，五星酒店月饼二手平台三折甩卖 | https://www.jiemian.com/article/15128477.html |
 | 09-22 | 网页 | 界面新闻·消费 | 综合媒体 | 沃尔玛超市从山姆调兵 | https://www.jiemian.com/article/15128461.html |
 | 09-22 | 网页 | 澎湃·质量观 | 行业媒体 | 尚德守法 共享食安——深化全链条监管，2026年全国食品安全宣传周启动 | https://www.thepaper.cn/newsDetail_forward_34125613 |
