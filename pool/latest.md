@@ -1,7 +1,17 @@
-# 舆情候选池 0923（09-22 00:00 至今，207 条：公众号 180 + 网页 27）
+# 舆情候选池 0923（09-22 00:00 至今，217 条：公众号 190 + 网页 27）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-23 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 知名品牌电视机抽查不合格 | https://mp.weixin.qq.com/s/fnaw29ZUtSBxulihqQZYiw |
+| 09-23 14:00 | 公众号 | 央视财经 | 综合媒体 | 埃及、卡塔尔、约旦、阿联酋、印度尼西亚、巴基斯坦、土耳其、沙特，联合呼吁 | https://mp.weixin.qq.com/s/sEFaXNIGwi~Prw-DtWyR2g |
+| 09-23 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 井柏然、孙千能否多参与两岸青年交流？国台办回应 | https://mp.weixin.qq.com/s/KCxGE0MOw5gLRGyEmp7~Nw |
+| 09-23 14:00 | 公众号 | 界面新闻 | 综合媒体 | 绿茶集团回应二股东“清仓” | https://mp.weixin.qq.com/s/2KnSW0AZB9xhwnDSQ-QtPg |
+| 09-23 14:00 | 公众号 | 新京报 | 综合媒体 | 张雪机车严正声明 | https://mp.weixin.qq.com/s/15H8IJgdIWwYDtDJjA0kWw |
+| 09-23 14:00 | 公众号 | 南方都市报 | 综合媒体 | 张雪机车：提高警惕，避免受骗 | https://mp.weixin.qq.com/s/JYy5G2xqOArITXBz06GtPA |
+| 09-23 14:00 | 公众号 | 法治日报 | 综合媒体 | 两男子伪造70张演唱会工作证，竟印着同一个人的名字和照片，50元1张销售卖出5张，被行拘 | https://mp.weixin.qq.com/s/3ku10mgfIjk-nDTVszdbOg |
+| 09-23 14:00 | 公众号 | 极目新闻 | 综合媒体 | 金建宇离世，年仅28岁 | https://mp.weixin.qq.com/s/NLr3d3kn1YjvFiU39TG85Q |
+| 09-23 14:00 | 公众号 | 红网 | 综合媒体 | 井柏然、孙千能否多参与两岸青年交流？国台办回应 | https://mp.weixin.qq.com/s/8JqdiSKNnF1LrQ~tFu6yMg |
+| 09-23 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 歌手潘玮柏公布病情，医生提醒 | https://mp.weixin.qq.com/s/yiuSgE7hMyJaXeQF117v2g |
 | 09-23 13:00 | 公众号 | 央视财经 | 综合媒体 | 央视财经专访马斯克，这些热点问题回应了！ | https://mp.weixin.qq.com/s/-rGQg6VRGSfKSCbZ1vYLEg |
 | 09-23 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 黄大发，二审维持死刑原判 | https://mp.weixin.qq.com/s/j3UevtuxREyCvWo2W~rYGA |
 | 09-23 13:00 | 公众号 | 新京报 | 综合媒体 | 年轻人为什么会为一包零食排队？ | https://mp.weixin.qq.com/s/8TRSCDQV71-PO5lpXnErLg |
@@ -78,6 +88,7 @@
 | 09-23 08:00 | 公众号 | 北京消协 | 消协 | 民生商品检测过程向社会公开 北京市消协开展实验室开放活动 | https://mp.weixin.qq.com/s/gmZ4ERvGFe4klf0TUEUmsw |
 | 09-23 08:00 | 公众号 | 浙江消保委 | 消协 | 易卷边、支撑差、不透气？消保委现场实测20款弹力围腰，帮你避坑！ | https://mp.weixin.qq.com/s/c04fO9Yz9hOHHgjdHNIu7g |
 | 09-23 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 民生商品检测过程向社会公开 北京市消费者协会开展实验室开放活动 | https://mp.weixin.qq.com/s/-f6YveHQyxiyezduK1Kpjg |
+| 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 广西市场监管部门严守中秋月饼安全防线 | http://news.foodmate.net/2026/09/753654.html |
 | 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 四川省市场监督管理局关于中秋、国庆节令食品安全监督抽检情况的通告（2026年第11号） | http://news.foodmate.net/2026/09/753646.html |
 | 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局食品安全监督抽检信息通告（2026年第10期） 第 51 号 | http://news.foodmate.net/2026/09/753645.html |
 | 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 澳门政府抽检市售月饼检测结果未见异常 | http://news.foodmate.net/2026/09/753632.html |
@@ -204,7 +215,6 @@
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 江苏省药监局在南京举办2026年全省药品化妆品抽检工作培训班 | http://news.foodmate.net/2026/09/617242.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 江苏：你买的月饼安全吗？抽检结果出炉 | http://news.foodmate.net/2026/09/753583.html |
 | 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省沈阳市市场监督管理局食品安全抽检信息通告（2026年9月14日） | http://news.foodmate.net/2026/09/753582.html |
-| 09-22 | 网页 | 食品伙伴网 | 抽检通报 | 山楂片、椒盐花生米、糖醋蒜……山东通报了13批次不合格食品 | http://news.foodmate.net/2026/09/753569.html |
 | 09-22 | 网页 | 界面新闻·消费 | 综合媒体 | 美心月饼打六折冲上热搜，五星酒店月饼二手平台三折甩卖 | https://www.jiemian.com/article/15128477.html |
 | 09-22 | 网页 | 界面新闻·消费 | 综合媒体 | 沃尔玛超市从山姆调兵 | https://www.jiemian.com/article/15128461.html |
 | 09-22 | 网页 | 澎湃·质量观 | 行业媒体 | 尚德守法 共享食安——深化全链条监管，2026年全国食品安全宣传周启动 | https://www.thepaper.cn/newsDetail_forward_34125613 |
