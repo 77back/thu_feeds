@@ -1,17 +1,25 @@
-# 舆情候选池 0923（09-22 00:00 至今，228 条：公众号 199 + 网页 29）
+# 舆情候选池 0923（09-22 00:00 至今，237 条：公众号 207 + 网页 30）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-24 | 网页 | 巨潮·至纯科技 | 上市公司公告 | 关于为控股子公司提供担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603690&orgId=9900023872&announcementId=1225578188&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·洪城环境 | 上市公司公告 | 江西洪城环境股份有限公司关于举办2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600461&orgId=gssh0600461&announcementId=1225578187&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·瑞可达 | 上市公司公告 | 关于 “瑞可转债”可选择回售的第三次提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688800&orgId=gfbj0831274&announcementId=1225578186&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·泰鸿万立 | 上市公司公告 | 浙江泰鸿万立科技股份有限公司关于公司高级管理人员离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603210&orgId=9900041926&announcementId=1225578177&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·力聚热能 | 上市公司公告 | 2026年第一次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603391&orgId=9900056301&announcementId=1225578176&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·动力源 | 上市公司公告 | 关于第九届董事会第十五次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600405&orgId=gssh0600405&announcementId=1225578172&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·百合股份 | 上市公司公告 | 威海百合生物技术股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划激励对象名单的核查意见及公示情况说明 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603102&orgId=9900039756&announcementId=1225578173&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·平高电气 | 上市公司公告 | 河南平高电气股份有限公司关于公司独立董事任期届满辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600312&orgId=gssh0600312&announcementId=1225578170&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·国药股份 | 上市公司公告 | 国药股份关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600511&orgId=gssh0600511&announcementId=1225578164&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·ST金鸿顺 | 上市公司公告 | 金鸿顺关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603922&orgId=9900032570&announcementId=1225578163&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·恒瑞医药 | 上市公司公告 | 恒瑞医药关于获得药物临床试验批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600276&orgId=gssh0600276&announcementId=1225578539&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·首开股份 | 上市公司公告 | 首开股份关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600376&orgId=gssh0600376&announcementId=1225578538&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·光大证券 | 上市公司公告 | 光大证券股份有限公司关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601788&orgId=qsgn0000085&announcementId=1225578536&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·能科科技 | 上市公司公告 | 第六届董事会第六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603859&orgId=9900028822&announcementId=1225578523&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·华润双鹤 | 上市公司公告 | 华润双鹤关于全资子公司华润紫竹药业有限公司盐酸普萘洛尔注射液通过仿制药质量和疗效一致性评价的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600062&orgId=gssh0600062&announcementId=1225578534&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·金田股份 | 上市公司公告 | 东方证券股份有限公司关于金田股份公开发行可转换公司债券第一次临时受托管理事务报告（2026年度） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601609&orgId=9900023721&announcementId=1225578533&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·云赛智联 | 上市公司公告 | 云赛智联2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600602&orgId=gssh0600602&announcementId=1225578519&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·济民健康 | 上市公司公告 | 济民健康管理股份有限公司股东减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603222&orgId=9900023635&announcementId=1225578531&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·晶科科技 | 上市公司公告 | 关于提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601778&orgId=9900038390&announcementId=1225578530&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·原尚股份 | 上市公司公告 | 广东原尚物流股份有限公司2026年第二次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603813&orgId=9900031908&announcementId=1225578529&announcementTime=2026-09-24 |
+| 09-23 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中国企业家代表团将随习主席一同访美吗？外交部回应 | https://mp.weixin.qq.com/s/y6LakvUfBPwjB~xyLBEz1Q |
+| 09-23 16:00 | 公众号 | 极目新闻 | 综合媒体 | 中国男足亚运队0比0战平阿联酋队，小组第一晋级八强；半场结束两队发生争吵，下半场两队再发冲突，王钰栋与对手互相掐脖，两人被罚黄牌 | https://mp.weixin.qq.com/s/8WHwEMDFcWv2cmDiPToDww |
+| 09-23 16:00 | 公众号 | 新京报 | 综合媒体 | 高市早苗呼吁删除《联合国宪章》中“敌国条款” 外交部回应 | https://mp.weixin.qq.com/s/HYr1KwGN8Kt2Tv6BaIhmhw |
+| 09-23 16:00 | 公众号 | 南方都市报 | 综合媒体 | “疯癫”恋陪本可让玩家亲身感受“强制爱”，恋陪会做掐脖动作宣告“对姐姐的爱”，广州一门店下架该剧本 | https://mp.weixin.qq.com/s/ECsw62l0mSKhujmtH0uMCw |
+| 09-23 16:00 | 公众号 | 界面新闻 | 综合媒体 | 高市早苗呼吁删除《联合国宪章》中“敌国条款”，中方回应 | https://mp.weixin.qq.com/s/340RHqgrs2oI3oKQTfiSQg |
+| 09-23 16:00 | 公众号 | 法治日报 | 综合媒体 | 丈夫无证驾驶，妻子与其换座企图逃避处罚，监控全拍录并当场固定违法证据！ | https://mp.weixin.qq.com/s/0Zt3tz0sdio1KjnoFAvkOQ |
+| 09-23 16:00 | 公众号 | 红网 | 综合媒体 | 日本首相呼吁删除《联合国宪章》中“敌国条款”，外交部回应 | https://mp.weixin.qq.com/s/iuuTQ0cz0a7fWtOUgoameA |
+| 09-23 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 高市早苗呼吁删除“敌国条款”，中方回应 | https://mp.weixin.qq.com/s/~SlGP4SCzeiWCM~TtDRBcQ |
 | 09-23 15:00 | 公众号 | 央视财经 | 综合媒体 | 暴雨，大暴雨！雨势即将增强！紧急提醒→ | https://mp.weixin.qq.com/s/k1IMI9-mphqL06JSC-DDZA |
 | 09-23 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 被误认为前厅长，开网约车的白师傅发声 | https://mp.weixin.qq.com/s/iylKZ2jsVjtFXM7j6xV8ew |
 | 09-23 15:00 | 公众号 | 新京报 | 综合媒体 | 马斯克：习近平主席是一位杰出的领导人 | https://mp.weixin.qq.com/s/yBqO0N7Kaf11bps6iTmaSw |
@@ -112,6 +120,7 @@
 | 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 新疆维吾尔自治区市场监督管理局食品安全监督抽检信息通告（2026年第10期） 第 51 号 | http://news.foodmate.net/2026/09/753645.html |
 | 09-23 | 网页 | 食品伙伴网 | 抽检通报 | 澳门政府抽检市售月饼检测结果未见异常 | http://news.foodmate.net/2026/09/753632.html |
 | 09-23 | 网页 | 界面新闻·消费 | 综合媒体 | 烘焙师的含金量已远不止“会做面包”｜新技能，新机遇 | https://www.jiemian.com/article/15123131.html |
+| 09-23 | 网页 | 澎湃·质量观 | 行业媒体 | 江苏宿迁市商品混凝土行业协会组织17家混凝土企业达成垄断协议，均被罚 | https://www.thepaper.cn/newsDetail_forward_34132837 |
 | 09-23 | 网页 | 澎湃·质量观 | 行业媒体 | 澎湃“抗生素牛蛙”报道新进展：汕头建立“一户一码、扫码溯源”牛蛙养殖全链条监管 | https://www.thepaper.cn/newsDetail_forward_34132103 |
 | 09-23 | 网页 | 澎湃·质量观 | 行业媒体 | 马三三乳业回应“纯牛奶倒出来是清水”：称系测试水包混入，向消费者致歉 | https://www.thepaper.cn/newsDetail_forward_34131175 |
 | 09-23 | 网页 | 澎湃·质量观 | 行业媒体 | 河南南召市监局：网络反映某月饼店涉嫌售卖过期月饼，已赴现场核查取证 | https://www.thepaper.cn/newsDetail_forward_34131138 |
