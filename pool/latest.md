@@ -1,17 +1,27 @@
-# 舆情候选池 0923（09-22 00:00 至今，237 条：公众号 207 + 网页 30）
+# 舆情候选池 0923（09-22 00:00 至今，247 条：公众号 217 + 网页 30）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-24 | 网页 | 巨潮·恒瑞医药 | 上市公司公告 | 恒瑞医药关于获得药物临床试验批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600276&orgId=gssh0600276&announcementId=1225578539&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·首开股份 | 上市公司公告 | 首开股份关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600376&orgId=gssh0600376&announcementId=1225578538&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·光大证券 | 上市公司公告 | 光大证券股份有限公司关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601788&orgId=qsgn0000085&announcementId=1225578536&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·能科科技 | 上市公司公告 | 第六届董事会第六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603859&orgId=9900028822&announcementId=1225578523&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·华润双鹤 | 上市公司公告 | 华润双鹤关于全资子公司华润紫竹药业有限公司盐酸普萘洛尔注射液通过仿制药质量和疗效一致性评价的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600062&orgId=gssh0600062&announcementId=1225578534&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·金田股份 | 上市公司公告 | 东方证券股份有限公司关于金田股份公开发行可转换公司债券第一次临时受托管理事务报告（2026年度） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601609&orgId=9900023721&announcementId=1225578533&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·云赛智联 | 上市公司公告 | 云赛智联2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600602&orgId=gssh0600602&announcementId=1225578519&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·济民健康 | 上市公司公告 | 济民健康管理股份有限公司股东减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603222&orgId=9900023635&announcementId=1225578531&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·晶科科技 | 上市公司公告 | 关于提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601778&orgId=9900038390&announcementId=1225578530&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·原尚股份 | 上市公司公告 | 广东原尚物流股份有限公司2026年第二次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603813&orgId=9900031908&announcementId=1225578529&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·佳力图 | 上市公司公告 | 603912：佳力图关于控股股东权益变动触及1%刻度的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603912&orgId=9900033668&announcementId=1225579433&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·先导基电 | 上市公司公告 | 上海先导基电科技股份有限公司股票交易异常波动公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600641&orgId=gssh0600641&announcementId=1225579432&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·英诺特 | 上市公司公告 | 关于2023年限制性股票激励计划首次授予部分第三个归属期、预留授予部分第二个归属期及2025年限制性股票激励计划首次授予部分第一个归属期归属结果暨股份上市的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688253&orgId=9900048398&announcementId=1225579431&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·苏农银行 | 上市公司公告 | 苏农银行关于独立董事任职期满离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603323&orgId=9900022945&announcementId=1225579428&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·龙旗科技 | 上市公司公告 | H股公告-翌日披露报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603341&orgId=9900031780&announcementId=1225579427&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·济高发展 | 上市公司公告 | 济高发展第十二届董事会第三次临时会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600807&orgId=gssh0600807&announcementId=1225579421&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·佰仁医疗 | 上市公司公告 | 佰仁医疗关于自愿披露创新产品复杂先天性心脏病带瓣补片获批注册的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688198&orgId=9900039164&announcementId=1225579425&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·福莱新材 | 上市公司公告 | 福莱新材关于2025年限制性股票激励计划首次授予部分第一个解除限售期解除限售条件成就暨上市的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605488&orgId=nssc1000227&announcementId=1225579423&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·华曙高科 | 上市公司公告 | 关于2025年限制性股票激励计划授予部分第一个归属期归属结果暨股份上市的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688433&orgId=9900056217&announcementId=1225579420&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·华达科技 | 上市公司公告 | 华达汽车科技股份有限公司投资者关系活动记录表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603358&orgId=9900029980&announcementId=1225579388&announcementTime=2026-09-24 |
+| 09-23 17:00 | 公众号 | 市说新语 | 监管·总局 | 浙江杭州：AI“云监管”，24小时自动巡检外卖后厨 | https://mp.weixin.qq.com/s/rl-sougsRCmRw3jFVtLJUA |
+| 09-23 17:00 | 公众号 | 央视财经 | 综合媒体 | “工位种菜”，爆火！销售额飙涨超200%！新商机来了…… | https://mp.weixin.qq.com/s/C-4iYdZRrSOpw4nyELCrCQ |
+| 09-23 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | “China Haul”火了：中国制造，正在被世界开箱 | https://mp.weixin.qq.com/s/4mu1SGKE6R1KIDZZCUUNpw |
+| 09-23 17:00 | 公众号 | 界面新闻 | 综合媒体 | 广告用活鱼做实验被指虐待动物，王饱饱回应 | https://mp.weixin.qq.com/s/zxFeXg2D00ScMxQJ2yfFxg |
+| 09-23 17:00 | 公众号 | 南方都市报 | 综合媒体 | “谢广坤”带货的酸菜翻车，检出禁用防腐剂，曾表示“咱那个酸菜腌制6个月，配料表啥也没有，一点科技狠活都没有” | https://mp.weixin.qq.com/s/tty6wdJr9Z4bbCVuvVAy9A |
+| 09-23 17:00 | 公众号 | 新京报 | 综合媒体 | “月饼卖不动了”，为啥？ | https://mp.weixin.qq.com/s/4uwn-tUrztC5qimjS9H2nA |
+| 09-23 17:00 | 公众号 | 法治日报 | 综合媒体 | 29岁女子查出1厘米结节，确诊癌症且已转移，她很纳闷：同事的结节明明更大却没事？医生提醒 | https://mp.weixin.qq.com/s/pgsqaxAVlUpVdYh5fMNjdg |
+| 09-23 17:00 | 公众号 | 极目新闻 | 综合媒体 | 武汉交警紧急提醒：10月1日，这些道路限时禁行 | https://mp.weixin.qq.com/s/go0WBtsME~KCx72QmcW4GQ |
+| 09-23 17:00 | 公众号 | 红网 | 综合媒体 | 湘超中秋大战来了：邵阳益阳同遭首败后狭路相逢，永州衡阳湘南德比......猜比分有奖！ | https://mp.weixin.qq.com/s/Wi0BJWTWWOsuY~urZiB~ZA |
+| 09-23 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 润润、雅雅被胡蜂攻击身亡，“伤口分别达300余处和700余处”，李某某当庭翻供，“不认罪、不认错、不道歉” | https://mp.weixin.qq.com/s/9ajnn9HqxP1z2mnKyYD9~g |
 | 09-23 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中国企业家代表团将随习主席一同访美吗？外交部回应 | https://mp.weixin.qq.com/s/y6LakvUfBPwjB~xyLBEz1Q |
 | 09-23 16:00 | 公众号 | 极目新闻 | 综合媒体 | 中国男足亚运队0比0战平阿联酋队，小组第一晋级八强；半场结束两队发生争吵，下半场两队再发冲突，王钰栋与对手互相掐脖，两人被罚黄牌 | https://mp.weixin.qq.com/s/8WHwEMDFcWv2cmDiPToDww |
 | 09-23 16:00 | 公众号 | 新京报 | 综合媒体 | 高市早苗呼吁删除《联合国宪章》中“敌国条款” 外交部回应 | https://mp.weixin.qq.com/s/HYr1KwGN8Kt2Tv6BaIhmhw |
