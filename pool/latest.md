@@ -1,7 +1,20 @@
-# 舆情候选池 0923（09-22 00:00 至今，182 条：公众号 157 + 网页 25）
+# 舆情候选池 0923（09-22 00:00 至今，195 条：公众号 170 + 网页 25）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-23 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 2026食品安全放心消费交流研讨会将在京举办 | https://mp.weixin.qq.com/s/D4l1bgBFt~rnDsYWg059Lw |
+| 09-23 12:00 | 公众号 | 上海市消保委 | 消协 | 苹果高管“不忍了”：不建议给iPhone贴膜，每次看到有人贴膜我就浑身不自在，原厂体验不香吗？ | https://mp.weixin.qq.com/s/xvWUtqixp9U9Sx5JsL4VGw |
+| 09-23 12:00 | 公众号 | 央视财经 | 综合媒体 | 安徽等3省省委主要负责同志职务调整 | https://mp.weixin.qq.com/s/~VSSjG~vwHkI-90BdlM43w |
+| 09-23 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 闲鱼：不存在涉未成年人淫秽信息，已就引流行为报案，但平台负有不可推卸的治理责任 | https://mp.weixin.qq.com/s/IJZTKlcEoD1U8NxqNDaUIA |
+| 09-23 12:00 | 公众号 | 南方都市报 | 综合媒体 | 官宣：每周至少半天校外实践教学，将在全国推行；深圳已探索义务教育学校每周半天计划，参与学生达65万人 | https://mp.weixin.qq.com/s/om~ecL7qvhaSIcfN5~205w |
+| 09-23 12:00 | 公众号 | 新京报 | 综合媒体 | 专访丘成桐：中国数学要成为世界一流，需要一代代年轻人在本土走出自己的路 | https://mp.weixin.qq.com/s/5bMLZ7emZ9-Mmy30La~Trw |
+| 09-23 12:00 | 公众号 | 界面新闻 | 综合媒体 | 王兴兴再登《财富》40岁以下商界精英榜，张雪、姚顺雨等首次入选 | https://mp.weixin.qq.com/s/R2FM2IYpXCqzMXFEipWkLg |
+| 09-23 12:00 | 公众号 | 法治日报 | 综合媒体 | 闲鱼公布调查结果：平台信息中未查到淫秽信息，更不存在涉未成年人淫秽内容，近期报道涉及违规聊天截图来自其他平台，已报案 | https://mp.weixin.qq.com/s/s8hLyBrw-2kfMTeHM9SsPw |
+| 09-23 12:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 轻工国赛早知道｜小型家用电器制造工赛项：不止是装配，更是全流程创新 | https://mp.weixin.qq.com/s/mfC~aGpC5sRn-MWnoNWlNg |
+| 09-23 12:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北省纪委监委最新通报 | https://mp.weixin.qq.com/s/lnYZBHABDMGguAR2mnHEkQ |
+| 09-23 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 金建宇离世，年仅28岁 | https://mp.weixin.qq.com/s/CRiaWSxmv91mTDoeXvSiWQ |
+| 09-23 12:00 | 公众号 | 红网 | 综合媒体 | 湖南28处高速路段应急车道临时开放（附全路段） | https://mp.weixin.qq.com/s/6BA04E2YoY4pxPTmZdmL5A |
+| 09-23 12:00 | 公众号 | 江苏省消保委 | 消协 | 江苏省消保委反对餐饮浪费倡议书 | https://mp.weixin.qq.com/s/B9-zGD4OxTEvTB3k1Fx3WA |
 | 09-23 11:00 | 公众号 | 中国市场监管报 | 行业媒体 | 企业境外反垄断合规指引修订草案公开征求意见 | https://mp.weixin.qq.com/s/fZ1dzdQUEaY4i3MdMRUU-Q |
 | 09-23 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 上市公司迈信林：付了2.66亿购买算力设备，啥也没收到，钱可能还退不了 | https://mp.weixin.qq.com/s/keNzfblRftfcQeErBLc0UQ |
 | 09-23 11:00 | 公众号 | 南方都市报 | 综合媒体 | 教育部：我国接受过高等教育人口达2.7亿 | https://mp.weixin.qq.com/s/dTQGcLXFq01BJhtZ7Sy9Ow |
