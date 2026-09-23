@@ -1,7 +1,17 @@
-# 舆情候选池 0923（09-22 00:00 至今，164 条：公众号 139 + 网页 25）
+# 舆情候选池 0923（09-22 00:00 至今，174 条：公众号 149 + 网页 25）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-23 10:00 | 公众号 | 市说新语 | 监管·总局 | 习近平向第48届世界技能大赛致贺信 | https://mp.weixin.qq.com/s/~22V9j0WzBE8ZsvtXbkBHw |
+| 09-23 10:00 | 公众号 | 央视财经 | 综合媒体 | 别总盯着手机！马斯克“中国游”攻略上新 | https://mp.weixin.qq.com/s/PLGVII50wCT4gl4qZYT0TA |
+| 09-23 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 买重疾险10年后确诊结肠癌，泰康人寿以“遗传性疾病免责”为由拒赔 | https://mp.weixin.qq.com/s/suOruCk5WmV~SfL7Nf7Cow |
+| 09-23 10:00 | 公众号 | 法治日报 | 综合媒体 | 中国法治国际论坛（2026）在深圳开幕 陈文清出席并讲话 | https://mp.weixin.qq.com/s/wanc7JuaBro3o6H~zVYG5A |
+| 09-23 10:00 | 公众号 | 新京报 | 综合媒体 | 汽车零重力座椅热销背后：乘员重度创伤风险为常规坐姿4.4倍，50km/h正面碰撞对脊柱冲击力堪比5楼坠落，“躺平”舒适之后，安全谁来兜底？ | https://mp.weixin.qq.com/s/fLTbantqTZbmXHYYWxiM2A |
+| 09-23 10:00 | 公众号 | 界面新闻 | 综合媒体 | 高通发布两款2纳米旗舰芯片 | https://mp.weixin.qq.com/s/cocAH1ceLs2yeQyeYAofVQ |
+| 09-23 10:00 | 公众号 | 南方都市报 | 综合媒体 | “明星的脸不要用”，普通人的“脸”被盯上！有人19.8元卖近500张“脸”，有商家发女网友直播画面做示例 | https://mp.weixin.qq.com/s/tksBIIzswNk08WaZrd9y6g |
+| 09-23 10:00 | 公众号 | 极目新闻 | 综合媒体 | 女子照顾住院父亲后深夜打车回家，身上只有13元，司机不愿伤其自尊，30元路费收取9元：我也是一名父亲，听到她说父亲住院很触动 | https://mp.weixin.qq.com/s/tk1a7OHolcgGgsOOg9T-UQ |
+| 09-23 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 该给机器人挤水分了 | https://mp.weixin.qq.com/s/V6CvcVfmEtOLQK-Carteig |
+| 09-23 10:00 | 公众号 | 北京市场监管 | 监管·地方 | 双节购物防缺斤短两！市市场监管局对13家零售连锁企业开展计量管理约谈指导 | https://mp.weixin.qq.com/s/1BzLzKEgNbZcLaDD-w4x1w |
 | 09-23 09:00 | 公众号 | 市说新语 | 监管·总局 | 今日秋分 | https://mp.weixin.qq.com/s/H-7xgF8eoViUThdFXmjlog |
 | 09-23 09:00 | 公众号 | 央视财经 | 综合媒体 | “沙特两战机，发动19次空袭” | https://mp.weixin.qq.com/s/Tks831sye58It9nxz2zJpA |
 | 09-23 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 专访｜吴心伯：中美元首再会晤“承上启下”，推动两国关系稳中有进 | https://mp.weixin.qq.com/s/IvfQQQv0nTNgAaVwhy8RTg |
