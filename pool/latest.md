@@ -1,7 +1,19 @@
-# 舆情候选池 0924（09-23 00:00 至今，199 条：公众号 166 + 网页 33）
+# 舆情候选池 0924（09-23 00:00 至今，212 条：公众号 178 + 网页 34）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-24 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 全国“小个专”及网约配送员群体党建工作现场推进会在江苏南京召开 | https://mp.weixin.qq.com/s/QjbigCN89tA4UikWMLEFGA |
+| 09-24 12:00 | 公众号 | 市说新语 | 监管·总局 | 刘桂平走访看望慰问退休老干部 | https://mp.weixin.qq.com/s/skjfzkI2OiyqGhalT9eygQ |
+| 09-24 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | DeepSeek最新论文，作者超130人，梁文锋最后署名 | https://mp.weixin.qq.com/s/gsyCruuXIq4dQuJ~DYTTZw |
+| 09-24 12:00 | 公众号 | 新京报 | 综合媒体 | 游本昌女儿：父亲安详离去，最后一句话是“我很舒服” | https://mp.weixin.qq.com/s/CGdULK64zsLwL4NuHDSe8A |
+| 09-24 12:00 | 公众号 | 央视财经 | 综合媒体 | 送别“济公”！表演艺术家游本昌去世 | https://mp.weixin.qq.com/s/4RkiftJjWCiaWVb2pWnFkg |
+| 09-24 12:00 | 公众号 | 界面新闻 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://mp.weixin.qq.com/s/-WaVAHjQNddQsMD38jylxA |
+| 09-24 12:00 | 公众号 | 法治日报 | 综合媒体 | 密密麻麻小圆洞，近期街头频现，不少人已“中招”！专家提醒：爱车千万别长时间停在这种树下…… | https://mp.weixin.qq.com/s/j4zY7ZkYwawgLhNVkv5OhA |
+| 09-24 12:00 | 公众号 | 南方都市报 | 综合媒体 | 广西宣布：婚假增加15天 | https://mp.weixin.qq.com/s/N9m9TGkXNRV4ty4UxQe6XA |
+| 09-24 12:00 | 公众号 | 极目新闻 | 综合媒体 | 游本昌去世，8天前刚过完93岁生日，女儿透露父亲走之前没任何病痛；52岁成主角，91岁再翻红，曾拒绝参与白玉兰评选 | https://mp.weixin.qq.com/s/p4l4s~P1-iKHhCjLTMKq2A |
+| 09-24 12:00 | 公众号 | 今晚报 | 综合媒体 | 送别“济公”！游本昌今晨去世 | https://mp.weixin.qq.com/s/bP44zdxc~A7Qn0-fUVazaA |
+| 09-24 12:00 | 公众号 | 红网 | 综合媒体 | 93岁游本昌因病逝世，女儿表示父亲走得非常安详，没有任何疼痛，也没有任何遗憾，最后一句话是“我很舒服” | https://mp.weixin.qq.com/s/Y21n12bXteLQ0zsAWQWH-w |
+| 09-24 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员游本昌去世，国家话剧院发布讣告，游本昌女儿：父亲没有任何病痛睡着就去了，超级安详 | https://mp.weixin.qq.com/s/abnjQa8DxGnp8Wf1p6sQ2g |
 | 09-24 11:00 | 公众号 | 上海市消保委 | 消协 | 山姆突然卖断货！有门店排起长队！热度飙至最高↗️上海这几天家家户户都在买！ | https://mp.weixin.qq.com/s/bYsBTlX649RUTD3gxrMsaw |
 | 09-24 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 焦雅辉任广西壮族自治区副主席 | https://mp.weixin.qq.com/s/kWHHdGFsQhOCAUULZlF8LA |
 | 09-24 11:00 | 公众号 | 上海市场监管 | 监管·地方 | 揭秘中秋顶流小圆饼 | https://mp.weixin.qq.com/s/jiL1GII-xMYpD-4SP-UWxQ |
@@ -72,9 +84,10 @@
 | 09-24 | 网页 | 巨潮·山东墨龙 | 上市公司公告 | 关于根据一般性授权配售新H股的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002490&orgId=gshk0000568&announcementId=1225580738&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·民德电子 | 上市公司公告 | 关于向特定对象发行股票申请获得深圳证券交易所上市审核中心审核通过的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300656&orgId=9900032174&announcementId=1225580736&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·震安科技 | 上市公司公告 | 震安科技股份有限公司关于向特定对象发行股票申请获深圳证券交易所上市审核中心审核通过的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300767&orgId=9900031451&announcementId=1225580734&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·诺诚健华 | 上市公司公告 | 诺诚健华医药有限公司关于子公司与礼来公司签署研发合作及授权许可协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688428&orgId=9900043455&announcementId=1225580763&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·普冉股份 | 上市公司公告 | 普冉半导体（上海）股份有限公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688766&orgId=nssc1000720&announcementId=1225580655&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·永茂泰 | 上市公司公告 | 关于取消2026年第一次临时股东会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605208&orgId=9900039946&announcementId=1225580626&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·康辰药业 | 上市公司公告 | 康辰药业关于2026年限制性股票激励计划首次授予结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603590&orgId=9900034526&announcementId=1225580575&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 世赛餐厅服务选手李文涛：把“端茶送水”的技术含量拉满｜新技能，新机遇 | https://www.jiemian.com/article/15119532.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://www.jiemian.com/article/15135545.html |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 充电器“120W”商标后续：广州一机构违法违规代理“120W”商标申请被警告 | https://www.thepaper.cn/newsDetail_forward_34139266 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 央媒调查：“职工食堂直供”怎么成了他人招揽生意的名头？ | https://www.thepaper.cn/newsDetail_forward_34138390 |
