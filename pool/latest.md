@@ -1,7 +1,28 @@
-# 舆情候选池 0924（09-23 00:00 至今，231 条：公众号 195 + 网页 36）
+# 舆情候选池 0924（09-23 00:00 至今，242 条：公众号 206 + 网页 36）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-25 | 网页 | 巨潮·腾龙股份 | 上市公司公告 | 常州腾龙汽车零部件股份有限公司关于第二期员工持股计划首次授予部分完成非交易过户的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603158&orgId=9900023476&announcementId=1225580913&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·圣泉集团 | 上市公司公告 | 圣泉集团第十届董事会第二十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605589&orgId=9900028008&announcementId=1225580912&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·天味食品 | 上市公司公告 | 关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603317&orgId=9900023519&announcementId=1225580910&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·阿特斯 | 上市公司公告 | 阿特斯阳光电力集团股份有限公司关于为控股子公司提供授信担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688472&orgId=9900032673&announcementId=1225580887&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·伯特利 | 上市公司公告 | 伯特利关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603596&orgId=gfbj0835470&announcementId=1225580886&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·健盛集团 | 上市公司公告 | 健盛集团关于公司参与认购私募基金份额的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603558&orgId=GD040373&announcementId=1225580885&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·浙江黎明 | 上市公司公告 | 关于公司为全资子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603048&orgId=9900047835&announcementId=1225580884&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·南卫股份 | 上市公司公告 | 南卫股份关于控股股东部分股份解除质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603880&orgId=9900031500&announcementId=1225580883&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·福莱蒽特 | 上市公司公告 | 杭州福莱蒽特股份有限公司关于为控股子公司提供担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605566&orgId=nssc1000534&announcementId=1225580882&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·恒尚节能 | 上市公司公告 | 恒尚节能：关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603137&orgId=9900048389&announcementId=1225580881&announcementTime=2026-09-25 |
+| 09-24 15:00 | 公众号 | 市说新语 | 监管·总局 | 《穴位贴敷用药规范》等四项针灸领域国家标准10月1日起实施 | https://mp.weixin.qq.com/s/fDcY~4rYbKj3XKMWtHinTA |
+| 09-24 15:00 | 公众号 | 央视财经 | 综合媒体 | 关于流感疫苗的接种提示 | https://mp.weixin.qq.com/s/y7B8qReR~ebBBUaLHTLROw |
+| 09-24 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 奥特曼在联合国发言：人类可能失去对AI未来发展的控制 | https://mp.weixin.qq.com/s/ChMBcwEDQnbwk5WhBuuDng |
+| 09-24 15:00 | 公众号 | 深圳市场监管 | 监管·地方 | 深圳市市场监督管理局召开党组（扩大）会议 | https://mp.weixin.qq.com/s/qilnL5dM3gqB5n0Zane2MQ |
+| 09-24 15:00 | 公众号 | 界面新闻 | 综合媒体 | 黑芝麻糊霉菌超标27倍！维维回应 | https://mp.weixin.qq.com/s/8ZsBbAXQeM-EjE-SeoyJZw |
+| 09-24 15:00 | 公众号 | 新京报 | 综合媒体 | 腾讯AI助手QClaw将停运 | https://mp.weixin.qq.com/s/FZuCjJZS-hu0g8Ai3ca6cQ |
+| 09-24 15:00 | 公众号 | 法治日报 | 综合媒体 | 随手将吃剩的猪排骨从17楼抛下，一女子当场被砸晕、头部血流不止，抛物者被判刑6个月 | https://mp.weixin.qq.com/s/WQTSRO3DjTWDWRS-wI5HNg |
+| 09-24 15:00 | 公众号 | 南方都市报 | 综合媒体 | 汕尾市纪委监委公开通报 | https://mp.weixin.qq.com/s/kKkqPFnhHyIkCfJjAO6Cvw |
+| 09-24 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 携程之后，四家平台再被调查的信号 | https://mp.weixin.qq.com/s/GYmEuWPTVUUeCVPYxUS7NA |
+| 09-24 15:00 | 公众号 | 红网 | 综合媒体 | 广东一男子伪装患精神病拒服兵役，当地发布处罚通报：不得录用为公务员，罚款50620元 | https://mp.weixin.qq.com/s/Oj5c28Lzifz0KQdhOa6Vxw |
+| 09-24 15:00 | 公众号 | 浙江消保委 | 消协 | 浙江省消保委发布中秋国庆长假预付式消费警示： 警惕“套路”，理性办卡 | https://mp.weixin.qq.com/s/7NvaDJeDJnXuakCBjpex3g |
 | 09-24 14:00 | 公众号 | 央视财经 | 综合媒体 | 多家品牌金饰价格下调 | https://mp.weixin.qq.com/s/b4KtC1R2GYv8zwGt~cTDqw |
 | 09-24 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 叶兆言：70岁的“老运动员”，还想多打一个赛季｜独家对话 | https://mp.weixin.qq.com/s/yWc7frsi9MCr~8jdbnJ2KQ |
 | 09-24 14:00 | 公众号 | 界面新闻 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://mp.weixin.qq.com/s/Y-5KlvU2PXh7tf-1Khj4wg |
@@ -94,16 +115,6 @@
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于中秋节令食品安全监督抽检情况的通告（2026年第16期） | http://news.foodmate.net/2026/09/753701.html |
-| 09-24 | 网页 | 巨潮·晶雪节能 | 上市公司公告 | 第四届董事会第十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301010&orgId=9900039811&announcementId=1225580760&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·奥尼电子 | 上市公司公告 | 关于全资子公司签署日常经营重大合同的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301189&orgId=gfbj0870575&announcementId=1225580758&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·弘信电子 | 上市公司公告 | 关于为子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300657&orgId=9900029434&announcementId=1225580759&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·游族网络 | 上市公司公告 | 关于为子公司提供担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002174&orgId=9900003663&announcementId=1225580757&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·山东墨龙 | 上市公司公告 | 关于根据一般性授权配售新H股的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002490&orgId=gshk0000568&announcementId=1225580738&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·民德电子 | 上市公司公告 | 关于向特定对象发行股票申请获得深圳证券交易所上市审核中心审核通过的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300656&orgId=9900032174&announcementId=1225580736&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·震安科技 | 上市公司公告 | 震安科技股份有限公司关于向特定对象发行股票申请获深圳证券交易所上市审核中心审核通过的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300767&orgId=9900031451&announcementId=1225580734&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·诺诚健华 | 上市公司公告 | 诺诚健华医药有限公司关于子公司与礼来公司签署研发合作及授权许可协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688428&orgId=9900043455&announcementId=1225580763&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·普冉股份 | 上市公司公告 | 普冉半导体（上海）股份有限公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688766&orgId=nssc1000720&announcementId=1225580655&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·永茂泰 | 上市公司公告 | 关于取消2026年第一次临时股东会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605208&orgId=9900039946&announcementId=1225580626&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://www.jiemian.com/article/15136731.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 世赛餐厅服务选手李文涛：把“端茶送水”的技术含量拉满｜新技能，新机遇 | https://www.jiemian.com/article/15119532.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://www.jiemian.com/article/15135545.html |
