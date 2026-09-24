@@ -1,7 +1,20 @@
-# 舆情候选池 0924（09-23 00:00 至今，185 条：公众号 153 + 网页 32）
+# 舆情候选池 0924（09-23 00:00 至今，199 条：公众号 166 + 网页 33）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-24 11:00 | 公众号 | 上海市消保委 | 消协 | 山姆突然卖断货！有门店排起长队！热度飙至最高↗️上海这几天家家户户都在买！ | https://mp.weixin.qq.com/s/bYsBTlX649RUTD3gxrMsaw |
+| 09-24 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 焦雅辉任广西壮族自治区副主席 | https://mp.weixin.qq.com/s/kWHHdGFsQhOCAUULZlF8LA |
+| 09-24 11:00 | 公众号 | 上海市场监管 | 监管·地方 | 揭秘中秋顶流小圆饼 | https://mp.weixin.qq.com/s/jiL1GII-xMYpD-4SP-UWxQ |
+| 09-24 11:00 | 公众号 | 深圳市场监管 | 监管·地方 | 直播带货新规 深圳市场监管权威解读《直播电商监督管理办法》 | https://mp.weixin.qq.com/s/cbGa7IV8MAaabNS4vaB~9g |
+| 09-24 11:00 | 公众号 | 界面新闻 | 综合媒体 | 游本昌去世 | https://mp.weixin.qq.com/s/rMuo7O4~ozjRDVdr9NZcbA |
+| 09-24 11:00 | 公众号 | 新京报 | 综合媒体 | 游本昌去世 | https://mp.weixin.qq.com/s/0wD0tlWqfAh8TBtSnqQ5vQ |
+| 09-24 11:00 | 公众号 | 法治日报 | 综合媒体 | 一业主与中介约定卖房“底价”240万，超出部分归中介，最终275万成交，业主反悔不愿支付35万，法院：利用信息优势赚差价，该约定无效 | https://mp.weixin.qq.com/s/gG3vUtDx1OIgpX9XUVShNg |
+| 09-24 11:00 | 公众号 | 南方都市报 | 综合媒体 | 创历史新高！文旅部：2025年，国内出游65.2亿人次、总花费6.3万亿元 | https://mp.weixin.qq.com/s/W5lHJdRE6-Wnyc3vveVEUQ |
+| 09-24 11:00 | 公众号 | 极目新闻 | 综合媒体 | 特朗普称将举行宴会欢迎习近平主席和夫人彭丽媛：唯一遗憾的是座位不够多，美国各界人士都想来！ | https://mp.weixin.qq.com/s/pkzuuwooDo2D5wE2THsjcA |
+| 09-24 11:00 | 公众号 | 红网 | 综合媒体 | 湖南大学定名100周年，校庆时间定了！ | https://mp.weixin.qq.com/s/WuIlvy4MU3cP5RUmzXh85A |
+| 09-24 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员游本昌去世 | https://mp.weixin.qq.com/s/GWWYt0zpvcdfhlhtEXdWPQ |
+| 09-24 11:00 | 公众号 | 北京消协 | 消协 | 北京市市场监管局曝光4起食品广告违法案件 | https://mp.weixin.qq.com/s/sMS8Rg7snLPhVgNs1TV02w |
+| 09-24 11:00 | 公众号 | 北京市场监管 | 监管·地方 | 北京市“无事不扰”清单再扩容，诚信企业经营更安心 | https://mp.weixin.qq.com/s/KMGQ~kMkjf~UgnNJ-3OA-Q |
 | 09-24 10:00 | 公众号 | 红网 | 综合媒体 | 湖南8市州高速公路限速优化，注意交通标志标牌！ | https://mp.weixin.qq.com/s/log7is9AX7j4yTCO4thgoA |
 | 09-24 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 1962年后首次：美国总统亲赴机场迎接释放何种讯息？ | https://mp.weixin.qq.com/s/FcEVs0w1m3wjVmc8YD1rjg |
 | 09-24 10:00 | 公众号 | 新京报 | 综合媒体 | 英国向中国返还12件流失文物艺术品 | https://mp.weixin.qq.com/s/7Curx6YzztJasfuP8VEnHg |
@@ -42,6 +55,7 @@
 | 09-24 08:00 | 公众号 | 红网 | 综合媒体 | 中央气象台：预计今早到明天，内蒙古、辽宁、河北、湖南、江西、浙江、福建、四川、重庆、广西、广东等地有短时强降水 | https://mp.weixin.qq.com/s/v60GXYEFitcn9wa9z7ifBQ |
 | 09-24 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 2026年全国食品安全宣传周·第五届中国食育大会丨2026年全国食品安全宣传周国家层面重点活动——第五届中国食育大会在北京举行 | https://mp.weixin.qq.com/s/hdV0Hrf8XwZ6EAiteLDVdA |
 | 09-24 08:00 | 公众号 | 食事求真 | 行业媒体 | 448亿营收创新高 蒙牛一体两翼跑赢存量乳业 | https://mp.weixin.qq.com/s/KPuW8exCe7jb7o-vK80gdQ |
+| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 案例二：安徽省亳州市谯城区人民检察院督促加强食用农产品承诺达标合格证及溯源监管行政公益诉讼案 | http://news.foodmate.net/2026/09/753745.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 新疆检出35批次不合格食品，有水磨年糕、果丹皮、风干牛肉等 | http://news.foodmate.net/2026/09/753728.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 靶向抽检守底线 全力护航双节食品安全｜｜兰州市市场监督管理局开展双节食品监督抽检工作 | http://news.foodmate.net/2026/09/753724.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 浙江中秋专项食品安全监督抽检结果公布，这2批次不合格月饼上黑榜 | http://news.foodmate.net/2026/09/753706.html |
@@ -51,17 +65,17 @@
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于中秋节令食品安全监督抽检情况的通告（2026年第16期） | http://news.foodmate.net/2026/09/753701.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局中秋专项食品安全监督抽检信息通告 | http://news.foodmate.net/2026/09/753698.html |
-| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局中秋专项食品安全监督抽检信息通告 | http://news.foodmate.net/2026/09/753698.html |
+| 09-24 | 网页 | 巨潮·晶雪节能 | 上市公司公告 | 第四届董事会第十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301010&orgId=9900039811&announcementId=1225580760&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·奥尼电子 | 上市公司公告 | 关于全资子公司签署日常经营重大合同的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301189&orgId=gfbj0870575&announcementId=1225580758&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·弘信电子 | 上市公司公告 | 关于为子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300657&orgId=9900029434&announcementId=1225580759&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 巨潮·游族网络 | 上市公司公告 | 关于为子公司提供担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002174&orgId=9900003663&announcementId=1225580757&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·山东墨龙 | 上市公司公告 | 关于根据一般性授权配售新H股的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002490&orgId=gshk0000568&announcementId=1225580738&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·民德电子 | 上市公司公告 | 关于向特定对象发行股票申请获得深圳证券交易所上市审核中心审核通过的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300656&orgId=9900032174&announcementId=1225580736&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·震安科技 | 上市公司公告 | 震安科技股份有限公司关于向特定对象发行股票申请获深圳证券交易所上市审核中心审核通过的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300767&orgId=9900031451&announcementId=1225580734&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·普冉股份 | 上市公司公告 | 普冉半导体（上海）股份有限公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688766&orgId=nssc1000720&announcementId=1225580655&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·永茂泰 | 上市公司公告 | 关于取消2026年第一次临时股东会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605208&orgId=9900039946&announcementId=1225580626&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·康辰药业 | 上市公司公告 | 康辰药业关于2026年限制性股票激励计划首次授予结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603590&orgId=9900034526&announcementId=1225580575&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·上峰材料 | 上市公司公告 | 关于公司控股股东的一致行动人减持股份计划期限届满暨实施情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000672&orgId=gssz0000672&announcementId=1225580562&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·江淮汽车 | 上市公司公告 | 江淮汽车股票交易异常波动公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600418&orgId=gssh0600418&announcementId=1225580522&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·光启技术 | 上市公司公告 | 关于调整部分募投项目、部分募投项目新增实施地点及实施期限延期的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002625&orgId=9900021556&announcementId=1225580520&announcementTime=2026-09-24 |
-| 09-24 | 网页 | 巨潮·冰轮环境 | 上市公司公告 | 关于部分董事、高级管理人员减持股份预披露公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000811&orgId=gssz0000811&announcementId=1225580516&announcementTime=2026-09-24 |
+| 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://www.jiemian.com/article/15135545.html |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 充电器“120W”商标后续：广州一机构违法违规代理“120W”商标申请被警告 | https://www.thepaper.cn/newsDetail_forward_34139266 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 央媒调查：“职工食堂直供”怎么成了他人招揽生意的名头？ | https://www.thepaper.cn/newsDetail_forward_34138390 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 马上测｜“睡前一垫一滴一夹”三步入睡？左点睡眠仪实测：高档位让人头晕恶心 | https://www.thepaper.cn/newsDetail_forward_34109306 |
