@@ -1,7 +1,15 @@
-# 舆情候选池 0924（09-23 00:00 至今，222 条：公众号 187 + 网页 35）
+# 舆情候选池 0924（09-23 00:00 至今，231 条：公众号 195 + 网页 36）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-24 14:00 | 公众号 | 央视财经 | 综合媒体 | 多家品牌金饰价格下调 | https://mp.weixin.qq.com/s/b4KtC1R2GYv8zwGt~cTDqw |
+| 09-24 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 叶兆言：70岁的“老运动员”，还想多打一个赛季｜独家对话 | https://mp.weixin.qq.com/s/yWc7frsi9MCr~8jdbnJ2KQ |
+| 09-24 14:00 | 公众号 | 界面新闻 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://mp.weixin.qq.com/s/Y-5KlvU2PXh7tf-1Khj4wg |
+| 09-24 14:00 | 公众号 | 法治日报 | 综合媒体 | 房产中介带看房，买方报41万元压价未能达成交易后，绕开中介私下以43.9万元高价与卖方签约；法院：以不正当手段逃避中介费，构成“跳单” | https://mp.weixin.qq.com/s/a6jZ0tkxg5sVh0JbfyLh9w |
+| 09-24 14:00 | 公众号 | 南方都市报 | 综合媒体 | 被问“给工人交五险一金了吗？双休吗”，有厂二代回应“什么能力匹配什么工资”；观点：追问员工待遇不应成为“送命题” | https://mp.weixin.qq.com/s/8qc~vndb7IDdMjpvPOsIBw |
+| 09-24 14:00 | 公众号 | 极目新闻 | 综合媒体 | 38岁男子因“超龄不好卖”被当赠品卖进电诈园区；靠会中医把脉给老板看病少遭毒打，却因记不住话术屡次被打，在泰国失联79天后获救 | https://mp.weixin.qq.com/s/wRk0qC~~-w8XOMaPB6Qs4Q |
+| 09-24 14:00 | 公众号 | 红网 | 综合媒体 | 我国将培育更多旅游名县和“宝藏小城” | https://mp.weixin.qq.com/s/TKbUZ43Vzg3oP8KDN3Al~A |
+| 09-24 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 特朗普打破美国60年外交惯例 | https://mp.weixin.qq.com/s/ksmsdRwehPsvQg2obkYG~A |
 | 09-24 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 击败日本队，国羽时隔12年再获亚运会女团冠军 | https://mp.weixin.qq.com/s/JBbDD3iwJgAGJlih0DRcCg |
 | 09-24 13:00 | 公众号 | 新京报 | 综合媒体 | 游本昌去世 | https://mp.weixin.qq.com/s/r7SbJ87fPIspMmuugQxCqg |
 | 09-24 13:00 | 公众号 | 界面新闻 | 综合媒体 | 广西：婚假增加15天 | https://mp.weixin.qq.com/s/o1A5nkKgMRhIR32cCpqvIQ |
@@ -76,6 +84,7 @@
 | 09-24 08:00 | 公众号 | 红网 | 综合媒体 | 中央气象台：预计今早到明天，内蒙古、辽宁、河北、湖南、江西、浙江、福建、四川、重庆、广西、广东等地有短时强降水 | https://mp.weixin.qq.com/s/v60GXYEFitcn9wa9z7ifBQ |
 | 09-24 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 2026年全国食品安全宣传周·第五届中国食育大会丨2026年全国食品安全宣传周国家层面重点活动——第五届中国食育大会在北京举行 | https://mp.weixin.qq.com/s/hdV0Hrf8XwZ6EAiteLDVdA |
 | 09-24 08:00 | 公众号 | 食事求真 | 行业媒体 | 448亿营收创新高 蒙牛一体两翼跑赢存量乳业 | https://mp.weixin.qq.com/s/KPuW8exCe7jb7o-vK80gdQ |
+| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 全部合格！珠海月饼专项抽检结果出炉 | http://news.foodmate.net/2026/09/753762.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 案例二：安徽省亳州市谯城区人民检察院督促加强食用农产品承诺达标合格证及溯源监管行政公益诉讼案 | http://news.foodmate.net/2026/09/753745.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 新疆检出35批次不合格食品，有水磨年糕、果丹皮、风干牛肉等 | http://news.foodmate.net/2026/09/753728.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 靶向抽检守底线 全力护航双节食品安全｜｜兰州市市场监督管理局开展双节食品监督抽检工作 | http://news.foodmate.net/2026/09/753724.html |
@@ -85,7 +94,6 @@
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于中秋节令食品安全监督抽检情况的通告（2026年第16期） | http://news.foodmate.net/2026/09/753701.html |
-| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局中秋专项食品安全监督抽检信息通告 | http://news.foodmate.net/2026/09/753698.html |
 | 09-24 | 网页 | 巨潮·晶雪节能 | 上市公司公告 | 第四届董事会第十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301010&orgId=9900039811&announcementId=1225580760&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·奥尼电子 | 上市公司公告 | 关于全资子公司签署日常经营重大合同的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301189&orgId=gfbj0870575&announcementId=1225580758&announcementTime=2026-09-24 |
 | 09-24 | 网页 | 巨潮·弘信电子 | 上市公司公告 | 关于为子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300657&orgId=9900029434&announcementId=1225580759&announcementTime=2026-09-24 |
@@ -99,6 +107,7 @@
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://www.jiemian.com/article/15136731.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 世赛餐厅服务选手李文涛：把“端茶送水”的技术含量拉满｜新技能，新机遇 | https://www.jiemian.com/article/15119532.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://www.jiemian.com/article/15135545.html |
+| 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | “大头瓶盖漏液”风波后：新国标公开征求意见，业内人士称可实现“先断后漏” | https://www.thepaper.cn/newsDetail_forward_34140046 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 充电器“120W”商标后续：广州一机构违法违规代理“120W”商标申请被警告 | https://www.thepaper.cn/newsDetail_forward_34139266 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 央媒调查：“职工食堂直供”怎么成了他人招揽生意的名头？ | https://www.thepaper.cn/newsDetail_forward_34138390 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 马上测｜“睡前一垫一滴一夹”三步入睡？左点睡眠仪实测：高档位让人头晕恶心 | https://www.thepaper.cn/newsDetail_forward_34109306 |
