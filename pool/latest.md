@@ -1,7 +1,19 @@
-# 舆情候选池 0924（09-23 00:00 至今，154 条：公众号 133 + 网页 21）
+# 舆情候选池 0924（09-23 00:00 至今，166 条：公众号 145 + 网页 21）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-24 09:00 | 公众号 | 中国市场监管报 | 行业媒体 | 全国“小个专”及网约配送员群体党建工作现场推进会在江苏南京召开 | https://mp.weixin.qq.com/s/5E-XOtfVVRyw-~sZCnOdhw |
+| 09-24 09:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 知名电动自行车抽查不合格 | https://mp.weixin.qq.com/s/B2Ur5oBC8awPywJ4QHVjWw |
+| 09-24 09:00 | 公众号 | 央视财经 | 综合媒体 | 深夜发射！圆满成功！ | https://mp.weixin.qq.com/s/08gllNxvhPwiheozp-XA-A |
+| 09-24 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 习近平抵达美国安德鲁斯空军基地发表书面讲话 | https://mp.weixin.qq.com/s/Od4tzKE8NAHDdfWIVNpoow |
+| 09-24 09:00 | 公众号 | 南方都市报 | 综合媒体 | 详讯丨习近平抵达华盛顿对美国进行国事访问 | https://mp.weixin.qq.com/s/zhD~T6O5cmFNgBoz1fvUMg |
+| 09-24 09:00 | 公众号 | 新京报 | 综合媒体 | 习近平抵达美国安德鲁斯空军基地发表书面讲话 | https://mp.weixin.qq.com/s/sAmatHemEEYYpjh8oiPIcw |
+| 09-24 09:00 | 公众号 | 界面新闻 | 综合媒体 | 习近平抵达美国安德鲁斯空军基地发表书面讲话 | https://mp.weixin.qq.com/s/kfevInX-GUZDeEND74R5fg |
+| 09-24 09:00 | 公众号 | 法治日报 | 综合媒体 | 习近平抵达华盛顿对美国进行国事访问 | https://mp.weixin.qq.com/s/6NIrefJvZQqEKW5khEQYiw |
+| 09-24 09:00 | 公众号 | 极目新闻 | 综合媒体 | 详讯 ｜ 习近平抵达华盛顿对美国进行国事访问 | https://mp.weixin.qq.com/s/JVm90BqFOyjDHufdBONO1w |
+| 09-24 09:00 | 公众号 | 红网 | 综合媒体 | 习近平抵达美国安德鲁斯空军基地发表书面讲话 | https://mp.weixin.qq.com/s/vFSRWMVwTCVZXJLav-xj4Q |
+| 09-24 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 习近平抵达美国安德鲁斯空军基地发表书面讲话 | https://mp.weixin.qq.com/s/JvNXVFMvUZUT~P9-5MpGiQ |
+| 09-24 09:00 | 公众号 | 四川省消委会 | 消协 | “礼遇四川”伴手礼评测活动在蓉举行——50款优质伴手礼获评 探索形成特色消费培育“四川实践” | https://mp.weixin.qq.com/s/Eiehk3deTjTSqzZatzqXNw |
 | 09-24 08:00 | 公众号 | 市说新语 | 监管·总局 | 全国“小个专”及网约配送员群体党建工作现场推进会在江苏南京召开 | https://mp.weixin.qq.com/s/xSwHhYS3YY96DM4rDFpsfg |
 | 09-24 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 广告赋能 川渝品牌提升后劲十足 | https://mp.weixin.qq.com/s/VewYXDiejBFdhOXCNTYtXw |
 | 09-24 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 中秋国庆双节消费提示：警惕朋友圈、微商等渠道的“私房手工”食品 | https://mp.weixin.qq.com/s/jkPT-A9eL1nzvoqvbOIL7Q |
