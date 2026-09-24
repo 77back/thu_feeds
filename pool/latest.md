@@ -1,17 +1,28 @@
-# 舆情候选池 0924（09-23 00:00 至今，242 条：公众号 206 + 网页 36）
+# 舆情候选池 0924（09-23 00:00 至今，256 条：公众号 217 + 网页 39）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-25 | 网页 | 巨潮·腾龙股份 | 上市公司公告 | 常州腾龙汽车零部件股份有限公司关于第二期员工持股计划首次授予部分完成非交易过户的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603158&orgId=9900023476&announcementId=1225580913&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·圣泉集团 | 上市公司公告 | 圣泉集团第十届董事会第二十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605589&orgId=9900028008&announcementId=1225580912&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·天味食品 | 上市公司公告 | 关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603317&orgId=9900023519&announcementId=1225580910&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·阿特斯 | 上市公司公告 | 阿特斯阳光电力集团股份有限公司关于为控股子公司提供授信担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688472&orgId=9900032673&announcementId=1225580887&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·伯特利 | 上市公司公告 | 伯特利关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603596&orgId=gfbj0835470&announcementId=1225580886&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·健盛集团 | 上市公司公告 | 健盛集团关于公司参与认购私募基金份额的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603558&orgId=GD040373&announcementId=1225580885&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·浙江黎明 | 上市公司公告 | 关于公司为全资子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603048&orgId=9900047835&announcementId=1225580884&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·南卫股份 | 上市公司公告 | 南卫股份关于控股股东部分股份解除质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603880&orgId=9900031500&announcementId=1225580883&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·福莱蒽特 | 上市公司公告 | 杭州福莱蒽特股份有限公司关于为控股子公司提供担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605566&orgId=nssc1000534&announcementId=1225580882&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·恒尚节能 | 上市公司公告 | 恒尚节能：关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603137&orgId=9900048389&announcementId=1225580881&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·中复神鹰 | 上市公司公告 | 关于持股5%以上股东权益变动触及5%刻度的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688295&orgId=9900051393&announcementId=1225581481&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·国睿科技 | 上市公司公告 | 国睿科技股份有限公司关于召开2026年第一次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600562&orgId=gssh0600562&announcementId=1225581480&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·深高速 | 上市公司公告 | 第九届董事会第六十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600548&orgId=gssh0600548&announcementId=1225581473&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·广安爱众 | 上市公司公告 | 四川广安爱众股份有限公司关于2026年半年度业绩说明会召开情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600979&orgId=gssh0600979&announcementId=1225581470&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·道生天合 | 上市公司公告 | 道生天合第三届董事会第三次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601026&orgId=9900046850&announcementId=1225581469&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·海立股份 | 上市公司公告 | 海立股份2026年第二次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600619&orgId=gssh0600619&announcementId=1225581465&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·诺唯赞 | 上市公司公告 | 诺唯赞关于持股5%以上股东减持股份计划完成暨减持结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688105&orgId=9900046657&announcementId=1225581464&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·恒源煤电 | 上市公司公告 | 关于安徽恒源煤电股份有限公司投资理财业务的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600971&orgId=gssh0600971&announcementId=1225581463&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·恒盛能源 | 上市公司公告 | 恒盛能源股份有限公司关于2026年半年度业绩说明会召开情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605580&orgId=gfbj0872062&announcementId=1225581461&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·神工股份 | 上市公司公告 | 锦州神工半导体股份有限公司关于2024年限制性股票激励计划首次授予部分第二个归属期及预留授予部分第一个归属期归属结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688233&orgId=9900039220&announcementId=1225581457&announcementTime=2026-09-25 |
+| 09-24 16:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局无条件批准通威股份收购丽豪清能股权案 | https://mp.weixin.qq.com/s/E5tNWYvmsC0M~xBsld7k~A |
+| 09-24 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 是否邀请特朗普出席APEC深圳峰会？外交部回应 | https://mp.weixin.qq.com/s/VJpa-UmHz9N2sT~NZDGCfA |
+| 09-24 16:00 | 公众号 | 央视财经 | 综合媒体 | 国家继续对成品油价格实施调控 | https://mp.weixin.qq.com/s/UiK-y8vXiC0HQzdawGOQsA |
+| 09-24 16:00 | 公众号 | 新京报 | 综合媒体 | 中方是否同意延长“贸易休战”？外交部回应 | https://mp.weixin.qq.com/s/VGrRM3UeuSPMe9kjrJQSWQ |
+| 09-24 16:00 | 公众号 | 界面新闻 | 综合媒体 | 今晚油价上调 | https://mp.weixin.qq.com/s/tJEpjE-ggG66hWD1SJpIMg |
+| 09-24 16:00 | 公众号 | 南方都市报 | 综合媒体 | 10月1日0时到10月7日24时，7座及以下小客车上高速免费；中秋假期高速不免费 | https://mp.weixin.qq.com/s/9a7PYtSgAIkdNWn4kE34Kg |
+| 09-24 16:00 | 公众号 | 法治日报 | 综合媒体 | 男孩患重度地中海贫血，隔三周就要输血，民辅警两年多来接力献血近万毫升：“尽量帮孩子延续生命，希望他能撑到凑够钱做手术那一天……” | https://mp.weixin.qq.com/s/Fdi9~SaD~1-WnE70oODeyg |
+| 09-24 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 台海巡部门计划将“连江舰”赠送给菲律宾，该舰已登记为菲律宾执法船，国防部：民进党当局罔顾菲律宾海警曾射杀台湾渔民的惨剧 | https://mp.weixin.qq.com/s/TLNuiWpHyw9n2bA-R2WLng |
+| 09-24 16:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北油价定了：明起，92号、95号、0号分别涨至每升8.62元、9.23元、8.29元，加满一箱92号汽油将多花15.5元 | https://mp.weixin.qq.com/s/pm1KnRHBbXgaiPBXxb2ntg |
+| 09-24 16:00 | 公众号 | 红网 | 综合媒体 | 中国资源循环集团有限公司原党委书记、董事长刘宇被“双开” | https://mp.weixin.qq.com/s/4lGnsr5R8bT2lMvbhxX-4w |
+| 09-24 16:00 | 公众号 | 河北省消保委 | 消协 | 石家庄市各县（市、区）同步开展2026年“3·15金秋购物节”系列主题活动 | https://mp.weixin.qq.com/s/pJWNKfonJT7tw~X8Wzg2zw |
 | 09-24 15:00 | 公众号 | 市说新语 | 监管·总局 | 《穴位贴敷用药规范》等四项针灸领域国家标准10月1日起实施 | https://mp.weixin.qq.com/s/fDcY~4rYbKj3XKMWtHinTA |
 | 09-24 15:00 | 公众号 | 央视财经 | 综合媒体 | 关于流感疫苗的接种提示 | https://mp.weixin.qq.com/s/y7B8qReR~ebBBUaLHTLROw |
 | 09-24 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 奥特曼在联合国发言：人类可能失去对AI未来发展的控制 | https://mp.weixin.qq.com/s/ChMBcwEDQnbwk5WhBuuDng |
@@ -118,6 +129,9 @@
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://www.jiemian.com/article/15136731.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 世赛餐厅服务选手李文涛：把“端茶送水”的技术含量拉满｜新技能，新机遇 | https://www.jiemian.com/article/15119532.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://www.jiemian.com/article/15135545.html |
+| 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 市监总局发布新版《有机产品认证目录》：删除312种产品 | https://www.thepaper.cn/newsDetail_forward_34141180 |
+| 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 市监总局拟出台行政处罚裁量规定：解决基层“同案不同罚”等问题 | https://www.thepaper.cn/newsDetail_forward_34141009 |
+| 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 市监总局在冀浙闽开展电子计价秤计量监管试点工作，严打“鬼称” | https://www.thepaper.cn/newsDetail_forward_34141013 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | “大头瓶盖漏液”风波后：新国标公开征求意见，业内人士称可实现“先断后漏” | https://www.thepaper.cn/newsDetail_forward_34140046 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 充电器“120W”商标后续：广州一机构违法违规代理“120W”商标申请被警告 | https://www.thepaper.cn/newsDetail_forward_34139266 |
 | 09-24 | 网页 | 澎湃·质量观 | 行业媒体 | 央媒调查：“职工食堂直供”怎么成了他人招揽生意的名头？ | https://www.thepaper.cn/newsDetail_forward_34138390 |
