@@ -1,17 +1,30 @@
-# 舆情候选池 0924（09-23 00:00 至今，256 条：公众号 217 + 网页 39）
+# 舆情候选池 0924（09-23 00:00 至今，266 条：公众号 227 + 网页 39）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-25 | 网页 | 巨潮·中复神鹰 | 上市公司公告 | 关于持股5%以上股东权益变动触及5%刻度的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688295&orgId=9900051393&announcementId=1225581481&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·国睿科技 | 上市公司公告 | 国睿科技股份有限公司关于召开2026年第一次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600562&orgId=gssh0600562&announcementId=1225581480&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·深高速 | 上市公司公告 | 第九届董事会第六十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600548&orgId=gssh0600548&announcementId=1225581473&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·广安爱众 | 上市公司公告 | 四川广安爱众股份有限公司关于2026年半年度业绩说明会召开情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600979&orgId=gssh0600979&announcementId=1225581470&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·道生天合 | 上市公司公告 | 道生天合第三届董事会第三次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601026&orgId=9900046850&announcementId=1225581469&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·海立股份 | 上市公司公告 | 海立股份2026年第二次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600619&orgId=gssh0600619&announcementId=1225581465&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·诺唯赞 | 上市公司公告 | 诺唯赞关于持股5%以上股东减持股份计划完成暨减持结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688105&orgId=9900046657&announcementId=1225581464&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·恒源煤电 | 上市公司公告 | 关于安徽恒源煤电股份有限公司投资理财业务的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600971&orgId=gssh0600971&announcementId=1225581463&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·恒盛能源 | 上市公司公告 | 恒盛能源股份有限公司关于2026年半年度业绩说明会召开情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605580&orgId=gfbj0872062&announcementId=1225581461&announcementTime=2026-09-25 |
-| 09-25 | 网页 | 巨潮·神工股份 | 上市公司公告 | 锦州神工半导体股份有限公司关于2024年限制性股票激励计划首次授予部分第二个归属期及预留授予部分第一个归属期归属结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688233&orgId=9900039220&announcementId=1225581457&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 江苏省市场监督管理局关于17批次食品抽检不合格情况的通告（2026年第8号） | http://news.foodmate.net/2026/09/753794.html |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第9期） | http://news.foodmate.net/2026/09/753793.html |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监督管理局2026年第11期食品安全监督抽检信息通告 | http://news.foodmate.net/2026/09/753792.html |
+| 09-25 | 网页 | 巨潮·奥比中光 | 上市公司公告 | 关于向香港联交所递交境外上市股份（H股）发行上市申请并刊发申请资料的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688322&orgId=9900048777&announcementId=1225582361&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·莱伯泰科 | 上市公司公告 | 股票交易异常波动暨风险提示公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688056&orgId=9900031826&announcementId=1225582360&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·中科星图 | 上市公司公告 | 中科星图股份有限公司关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688568&orgId=9900038994&announcementId=1225582359&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·*ST卓然 | 上市公司公告 | 关于公司股票可能被实施重大违法强制退市的第三次风险提示公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688121&orgId=9900041733&announcementId=1225582358&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·中国石化 | 上市公司公告 | 中国石化H股公告-翌日披露表格 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600028&orgId=gssh0600028&announcementId=1225582356&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·长盈通 | 上市公司公告 | 2024年限制性股票激励计划授予部分第二个归属期归属结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688143&orgId=9900052407&announcementId=1225582355&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·绿城水务 | 上市公司公告 | 广西绿城水务集团股份有限公司第五届董事会第三十七次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601368&orgId=9900023964&announcementId=1225582260&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·利通电子 | 上市公司公告 | 603629：利通电子关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603629&orgId=9900035548&announcementId=1225582287&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·健康元 | 上市公司公告 | 健康元药业集团股份有限公司2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600380&orgId=gssh0600380&announcementId=1225582262&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 巨潮·德新科技 | 上市公司公告 | 德力西新能源科技股份有限公司关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603032&orgId=9900030090&announcementId=1225582278&announcementTime=2026-09-25 |
+| 09-24 17:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 中秋国庆双节至 拒绝“舌尖上的浪费” | https://mp.weixin.qq.com/s/xO7vfl-OVeenfVE94jD1Sw |
+| 09-24 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | “一垫一滴一夹” 就能快速入睡？网红睡眠仪实测：高档位头晕恶心，评价两极分化 | https://mp.weixin.qq.com/s/QbZUbnwCAkd3DLcc-CAowA |
+| 09-24 17:00 | 公众号 | 界面新闻 | 综合媒体 | 【逝者】游本昌：清骨一生，爷叔走好 | https://mp.weixin.qq.com/s/fQ5LehuV3udjGXWtm9OWgQ |
+| 09-24 17:00 | 公众号 | 新京报 | 综合媒体 | 北京：商品房预售需封顶，优先选择现房销售 | https://mp.weixin.qq.com/s/BKwPPya3V9ki5MxrKbwMXQ |
+| 09-24 17:00 | 公众号 | 法治日报 | 综合媒体 | 广东一男子伪装患精神病拒服兵役，官方通报：不得录用为公务员，不得招录、聘用为国企和事业单位工作人员，两年内不得办理升（复）学手续 | https://mp.weixin.qq.com/s/QR6L7sumC3FK02FY~xPxoQ |
+| 09-24 17:00 | 公众号 | 南方都市报 | 综合媒体 | 李勇平任潮州市委书记，徐晓霞任云浮市委书记 | https://mp.weixin.qq.com/s/BC9mobd7wyak8nZeG6gfww |
+| 09-24 17:00 | 公众号 | 极目新闻 | 综合媒体 | 19℃！湖北将有中雨、大雨、暴雨 | https://mp.weixin.qq.com/s/LwmyeaVYBOvXmhs~pInMSQ |
+| 09-24 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 游本昌留给世界的最后一句话 | https://mp.weixin.qq.com/s/ANziAoK5rJ3G9lR3J7QO0Q |
+| 09-24 17:00 | 公众号 | 红网 | 综合媒体 | 新一届娄底市委领导班子选举产生 | https://mp.weixin.qq.com/s/qmU1GMYThj4fwW3zDGn9eA |
+| 09-24 17:00 | 公众号 | 北京市场监管 | 监管·地方 | 刘桂平在京调研中秋国庆节前食品安全、特种设备安全及重要民生商品稳价保质等工作 | https://mp.weixin.qq.com/s/axERtx-w1JHOqQw3Tkb6Eg |
 | 09-24 16:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局无条件批准通威股份收购丽豪清能股权案 | https://mp.weixin.qq.com/s/E5tNWYvmsC0M~xBsld7k~A |
 | 09-24 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 是否邀请特朗普出席APEC深圳峰会？外交部回应 | https://mp.weixin.qq.com/s/VJpa-UmHz9N2sT~NZDGCfA |
 | 09-24 16:00 | 公众号 | 央视财经 | 综合媒体 | 国家继续对成品油价格实施调控 | https://mp.weixin.qq.com/s/UiK-y8vXiC0HQzdawGOQsA |
@@ -116,16 +129,13 @@
 | 09-24 08:00 | 公众号 | 红网 | 综合媒体 | 中央气象台：预计今早到明天，内蒙古、辽宁、河北、湖南、江西、浙江、福建、四川、重庆、广西、广东等地有短时强降水 | https://mp.weixin.qq.com/s/v60GXYEFitcn9wa9z7ifBQ |
 | 09-24 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 2026年全国食品安全宣传周·第五届中国食育大会丨2026年全国食品安全宣传周国家层面重点活动——第五届中国食育大会在北京举行 | https://mp.weixin.qq.com/s/hdV0Hrf8XwZ6EAiteLDVdA |
 | 09-24 08:00 | 公众号 | 食事求真 | 行业媒体 | 448亿营收创新高 蒙牛一体两翼跑赢存量乳业 | https://mp.weixin.qq.com/s/KPuW8exCe7jb7o-vK80gdQ |
+| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 2026年上海市月饼食品安全抽检信息 | http://news.foodmate.net/2026/09/753789.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 全部合格！珠海月饼专项抽检结果出炉 | http://news.foodmate.net/2026/09/753762.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 案例二：安徽省亳州市谯城区人民检察院督促加强食用农产品承诺达标合格证及溯源监管行政公益诉讼案 | http://news.foodmate.net/2026/09/753745.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 新疆检出35批次不合格食品，有水磨年糕、果丹皮、风干牛肉等 | http://news.foodmate.net/2026/09/753728.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 靶向抽检守底线 全力护航双节食品安全｜｜兰州市市场监督管理局开展双节食品监督抽检工作 | http://news.foodmate.net/2026/09/753724.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 浙江中秋专项食品安全监督抽检结果公布，这2批次不合格月饼上黑榜 | http://news.foodmate.net/2026/09/753706.html |
 | 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 注意！海南这6批次月饼抽检不合格，检出菌落总数、脱氢乙酸及其钠盐不合格 | http://news.foodmate.net/2026/09/753704.html |
-| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
-| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
-| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 海南省市场监督管理局关于187批次月饼抽样检验结果的通告（2026年第18期） | http://news.foodmate.net/2026/09/753702.html |
-| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于中秋节令食品安全监督抽检情况的通告（2026年第16期） | http://news.foodmate.net/2026/09/753701.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://www.jiemian.com/article/15136731.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 世赛餐厅服务选手李文涛：把“端茶送水”的技术含量拉满｜新技能，新机遇 | https://www.jiemian.com/article/15119532.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 山姆低糖、宠物月饼卖爆了，有代购加价近百元出售 | https://www.jiemian.com/article/15135545.html |
