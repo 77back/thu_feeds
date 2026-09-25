@@ -1,10 +1,21 @@
-# 舆情候选池 0925（09-24 00:00 至今，211 条：公众号 175 + 网页 36）
+# 舆情候选池 0925（09-24 00:00 至今，222 条：公众号 186 + 网页 36）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
 | 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第10期） | http://news.foodmate.net/2026/09/753802.html |
 | 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于2026年中秋国庆保健食品专项监督抽检信息的通告（2026年第44期） | http://news.foodmate.net/2026/09/753803.html |
 | 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第33期） | http://news.foodmate.net/2026/09/753804.html |
+| 09-25 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 它被称为“长寿蔬菜”，过节吃起来！ | https://mp.weixin.qq.com/s/Aa2X-cLZF9vodAWh-saKKw |
+| 09-25 14:00 | 公众号 | 央视财经 | 综合媒体 | 高铁，上新！国庆假期前开通运营→ | https://mp.weixin.qq.com/s/YWBL4TtkgqRkd7I8YVYuaA |
+| 09-25 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 新华社：亚运失利再度暴露中国男乒过度依赖王楚钦，阵容深度不足 | https://mp.weixin.qq.com/s/c~Xw7GSHE5Bi54QzyNl2yg |
+| 09-25 14:00 | 公众号 | 新京报 | 综合媒体 | 新华社：决赛失利，再次暴露出中国男乒当下过度依赖王楚钦、阵容深度不足等问题短板 | https://mp.weixin.qq.com/s/s0CKOsmR-BvPJOwaqG2LYw |
+| 09-25 14:00 | 公众号 | 界面新闻 | 综合媒体 | 低糖平价月饼拿下今年中秋人气担当 | https://mp.weixin.qq.com/s/AS5WqwzugcZYh2uDxsAe5g |
+| 09-25 14:00 | 公众号 | 法治日报 | 综合媒体 | 山东年迈失独夫妇因家中线路老化引发火灾，20多万元现金被烧成“黑炭”，粘连结块、一碰就碎；银行最终为其兑换13.12万元 | https://mp.weixin.qq.com/s/D0v-X51MeUgVEhGAqcUMJw |
+| 09-25 14:00 | 公众号 | 南方都市报 | 综合媒体 | 范德繁任汕尾市代市长 | https://mp.weixin.qq.com/s/5RK1I8e3oPxcYxDViuwyZQ |
+| 09-25 14:00 | 公众号 | 极目新闻 | 综合媒体 | 39岁男演员宣布当爸！曾自曝太太是圈外人，比自己小5岁多 | https://mp.weixin.qq.com/s/kEYka9wKc18xzgtuGbVjLQ |
+| 09-25 14:00 | 公众号 | 红网 | 综合媒体 | 女子在闲鱼上62折购买往返车票，出行时发现均被取消！12306提醒：低价代购车票，可能潜藏涉诈风险 | https://mp.weixin.qq.com/s/yzGHt6tsaXqEEujBjw~B0A |
+| 09-25 14:00 | 公众号 | 中国新闻网 | 综合媒体 | “赛考斯”回应被习近平主席提及：太不可思议了！听到习主席讲我们的故事，我的电量直接回至满格，今晚会很难入睡 | https://mp.weixin.qq.com/s/5kmv9of-ONM4VZEJdavWaQ |
+| 09-25 14:00 | 公众号 | 北京消协 | 消协 | @京津冀经营者：双节价格红线不能碰！三地联合提醒告诫 | https://mp.weixin.qq.com/s/Vp~7KCLzVQJ4Er25Zx0O9g |
 | 09-25 13:00 | 公众号 | 央视财经 | 综合媒体 | 官宣！总台中秋晚会节目单来了！ | https://mp.weixin.qq.com/s/s0EO3xxwpOJ2vkMrMB~r8g |
 | 09-25 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 详讯丨习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴 | https://mp.weixin.qq.com/s/Mw~ttp1ddvzu2rGkeb-SyA |
 | 09-25 13:00 | 公众号 | 界面新闻 | 综合媒体 | 特斯拉中国，降价 | https://mp.weixin.qq.com/s/6xUgC0XZecrQ91iVGXMQhg |
