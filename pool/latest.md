@@ -1,7 +1,19 @@
-# 舆情候选池 0925（09-24 00:00 至今，192 条：公众号 166 + 网页 26）
+# 舆情候选池 0925（09-24 00:00 至今，211 条：公众号 175 + 网页 36）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第10期） | http://news.foodmate.net/2026/09/753802.html |
+| 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于2026年中秋国庆保健食品专项监督抽检信息的通告（2026年第44期） | http://news.foodmate.net/2026/09/753803.html |
+| 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第33期） | http://news.foodmate.net/2026/09/753804.html |
+| 09-25 13:00 | 公众号 | 央视财经 | 综合媒体 | 官宣！总台中秋晚会节目单来了！ | https://mp.weixin.qq.com/s/s0EO3xxwpOJ2vkMrMB~r8g |
+| 09-25 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 详讯丨习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴 | https://mp.weixin.qq.com/s/Mw~ttp1ddvzu2rGkeb-SyA |
+| 09-25 13:00 | 公众号 | 界面新闻 | 综合媒体 | 特斯拉中国，降价 | https://mp.weixin.qq.com/s/6xUgC0XZecrQ91iVGXMQhg |
+| 09-25 13:00 | 公众号 | 南方都市报 | 综合媒体 | 哭笑不得！广东人大量手搓“宝螊灯”刷屏，网友：很可爱，扔远点 | https://mp.weixin.qq.com/s/G3Q-ZS8ext3xrLUP-2tnvg |
+| 09-25 13:00 | 公众号 | 法治日报 | 综合媒体 | 突然爆火！单依纯、汪苏泷、杨迪等明星都在跳，医院紧急提醒 | https://mp.weixin.qq.com/s/LtwLeZaL9S4DXBalSZJI4g |
+| 09-25 13:00 | 公众号 | 红网 | 综合媒体 | 全线通车更近一步！长沙高铁西站东高架沥青摊铺完成 | https://mp.weixin.qq.com/s/HPaw8Ch9E9GkJcuKEWSmlQ |
+| 09-25 13:00 | 公众号 | 极目新闻 | 综合媒体 | 先头部队已到！今天的武汉太火爆 | https://mp.weixin.qq.com/s/L6SNSAbUAT5PNZfD7SBnEA |
+| 09-25 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 这条推送，仅你和月亮可见 | https://mp.weixin.qq.com/s/MOZFNUhNP72cVJVOI5t~rg |
+| 09-25 13:00 | 公众号 | 中国食品安全报 | 行业媒体 | 要闻 ｜ 刘桂平在京调研中秋国庆节前食品安全、特种设备安全及重要民生商品稳价保质等工作 | https://mp.weixin.qq.com/s/JDvqWKIYV7Auk~HdkSPNHQ |
 | 09-25 12:00 | 公众号 | 市说新语 | 监管·总局 | 习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文） | https://mp.weixin.qq.com/s/41KiNUTTiQn1GzcjcE2-7g |
 | 09-25 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 中秋快乐！ | https://mp.weixin.qq.com/s/r7zkzLlWL4tA-I6G0mSLXA |
 | 09-25 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 访美第二日：从“五军仪仗队”到国宴的历史细节 | https://mp.weixin.qq.com/s/C-TboJz9wUOyx1whSYqqow |
@@ -54,6 +66,10 @@
 | 09-25 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 习近平主席夫妇抵达白宫出席欢迎宴会，特朗普总统夫妇热情迎接（现场视频） | https://mp.weixin.qq.com/s/oY27fwTdnV2uTgPPepgHWg |
 | 09-25 08:00 | 公众号 | 食事求真 | 行业媒体 | 独董游晓6年到期东鹏提前换班 林氏兄弟纹丝不 | https://mp.weixin.qq.com/s/T24zbtth~pqGQ2E36rle9A |
 | 09-25 08:00 | 公众号 | 四川省消委会 | 消协 | 9月智慧315·维权观察——全国消协智慧315平台“阳光公开” | https://mp.weixin.qq.com/s/rJT~nSbTwIr2etHC-rhPkQ |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 江苏省市场监督管理局关于17批次食品抽检不合格情况的通告（2026年第8号） | http://news.foodmate.net/2026/09/753794.html |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第9期） | http://news.foodmate.net/2026/09/753793.html |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监督管理局2026年第11期食品安全监督抽检信息通告 | http://news.foodmate.net/2026/09/753792.html |
+| 09-25 | 网页 | 食品伙伴网 | 抽检通报 | 株洲市市场监督管理局开展中秋食品专项抽检 | http://news.foodmate.net/2026/09/753756.html |
 | 09-25 | 网页 | 巨潮·湘财股份 | 上市公司公告 | 湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600095&orgId=gssh0600095&announcementId=1225583316&announcementTime=2026-09-25 |
 | 09-25 | 网页 | 巨潮·源杰科技 | 上市公司公告 | 陕西源杰半导体科技股份有限公司股东减持股份计划公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688498&orgId=9900052124&announcementId=1225583302&announcementTime=2026-09-25 |
 | 09-25 | 网页 | 巨潮·明阳智能 | 上市公司公告 | 关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601615&orgId=9900036760&announcementId=1225583231&announcementTime=2026-09-25 |
@@ -180,6 +196,9 @@
 | 09-24 08:00 | 公众号 | 红网 | 综合媒体 | 中央气象台：预计今早到明天，内蒙古、辽宁、河北、湖南、江西、浙江、福建、四川、重庆、广西、广东等地有短时强降水 | https://mp.weixin.qq.com/s/v60GXYEFitcn9wa9z7ifBQ |
 | 09-24 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 2026年全国食品安全宣传周·第五届中国食育大会丨2026年全国食品安全宣传周国家层面重点活动——第五届中国食育大会在北京举行 | https://mp.weixin.qq.com/s/hdV0Hrf8XwZ6EAiteLDVdA |
 | 09-24 08:00 | 公众号 | 食事求真 | 行业媒体 | 448亿营收创新高 蒙牛一体两翼跑赢存量乳业 | https://mp.weixin.qq.com/s/KPuW8exCe7jb7o-vK80gdQ |
+| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 2026年上海市月饼食品安全抽检信息 | http://news.foodmate.net/2026/09/753789.html |
+| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 全部合格！珠海月饼专项抽检结果出炉 | http://news.foodmate.net/2026/09/753762.html |
+| 09-24 | 网页 | 食品伙伴网 | 抽检通报 | 案例二：安徽省亳州市谯城区人民检察院督促加强食用农产品承诺达标合格证及溯源监管行政公益诉讼案 | http://news.foodmate.net/2026/09/753745.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 一公斤71块多，牛肉价格涨至两年多新高 | https://www.jiemian.com/article/15139628.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | KPRO肯律轻食全国门店突破600家 现场发布“均衡好轻食”主张和《肯律7天能量食谱》 | https://www.jiemian.com/article/15139444.html |
 | 09-24 | 网页 | 界面新闻·消费 | 综合媒体 | 新疆奶马三三品控跟不上卖货功夫 | https://www.jiemian.com/article/15136731.html |
