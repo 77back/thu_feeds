@@ -1,10 +1,16 @@
-# 舆情候选池 0925（09-24 00:00 至今，185 条：公众号 151 + 网页 34）
+# 舆情候选池 0925（09-24 00:00 至今，192 条：公众号 157 + 网页 35）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
 | 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第10期） | http://news.foodmate.net/2026/09/753802.html |
 | 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于2026年中秋国庆保健食品专项监督抽检信息的通告（2026年第44期） | http://news.foodmate.net/2026/09/753803.html |
 | 09-26 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第33期） | http://news.foodmate.net/2026/09/753804.html |
+| 09-25 11:00 | 公众号 | 新京报 | 综合媒体 | 王皓发声：这次输了，我们要把这个“输”变成一件好事 | https://mp.weixin.qq.com/s/uyIRu~qSgx5pSvY-tGhERw |
+| 09-25 11:00 | 公众号 | 法治日报 | 综合媒体 | 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会，高清大图来了！ | https://mp.weixin.qq.com/s/tZSlq22TRMK9l83jNQ0Ikg |
+| 09-25 11:00 | 公众号 | 南方都市报 | 综合媒体 | 王皓发声，回应丢冠 | https://mp.weixin.qq.com/s/yTX-j2nFjrtyv3o4iIhFfw |
+| 09-25 11:00 | 公众号 | 极目新闻 | 综合媒体 | 王楚钦/孙颖莎3比0胜松岛辉空/张本美和，晋级亚运会乒乓球混双半决赛 | https://mp.weixin.qq.com/s/KJ52PzY1-wzVNgOodtoSZQ |
+| 09-25 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 详讯丨习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴 | https://mp.weixin.qq.com/s/3Gk9rz7S1E0gIqz8nfAvVA |
+| 09-25 11:00 | 公众号 | 红网 | 综合媒体 | 湖南株洲中小学秋假时间定了 | https://mp.weixin.qq.com/s/YpwODCnc0G0z8aB00CUvwQ |
 | 09-25 10:00 | 公众号 | 央视财经 | 综合媒体 | 债券ETF，迈入万亿元时代 | https://mp.weixin.qq.com/s/f2aJfbPJrI8cDV1fiBmVrQ |
 | 09-25 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 多家企业连休13天：有6人小公司，也有“民企500强” | https://mp.weixin.qq.com/s/ixHaI9zNdXmTNN~9IzKgIQ |
 | 09-25 10:00 | 公众号 | 界面新闻 | 综合媒体 | 习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文） | https://mp.weixin.qq.com/s/~MGb9KrHpUcx83PFY7ddMQ |
@@ -56,6 +62,7 @@
 | 09-25 | 网页 | 巨潮·长园集团 | 上市公司公告 | 关于持股5%以上股东所持股份被轮候冻结的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600525&orgId=gssh0600525&announcementId=1225583183&announcementTime=2026-09-25 |
 | 09-25 | 网页 | 巨潮·中际旭创 | 上市公司公告 | 关于股份回购结果暨股份变动公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300308&orgId=9900022016&announcementId=1225583167&announcementTime=2026-09-25 |
 | 09-25 | 网页 | 巨潮·倍轻松 | 上市公司公告 | 关于财务总监辞任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688793&orgId=gfbj0837027&announcementId=1225583142&announcementTime=2026-09-25 |
+| 09-25 | 网页 | 界面新闻·消费 | 综合媒体 | 蓝带传授厨艺，上海试炼大厨｜魔都技能工厂 | https://www.jiemian.com/article/15138454.html |
 | 09-24 17:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 中秋国庆双节至 拒绝“舌尖上的浪费” | https://mp.weixin.qq.com/s/xO7vfl-OVeenfVE94jD1Sw |
 | 09-24 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | “一垫一滴一夹” 就能快速入睡？网红睡眠仪实测：高档位头晕恶心，评价两极分化 | https://mp.weixin.qq.com/s/QbZUbnwCAkd3DLcc-CAowA |
 | 09-24 17:00 | 公众号 | 界面新闻 | 综合媒体 | 【逝者】游本昌：清骨一生，爷叔走好 | https://mp.weixin.qq.com/s/fQ5LehuV3udjGXWtm9OWgQ |
