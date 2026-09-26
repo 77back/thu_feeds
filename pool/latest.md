@@ -1,7 +1,17 @@
-# 舆情候选池 0926（09-25 00:00 至今，140 条：公众号 121 + 网页 19）
+# 舆情候选池 0926（09-25 00:00 至今，150 条：公众号 131 + 网页 19）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-26 11:00 | 公众号 | 央视财经 | 综合媒体 | 刘欢病逝 | https://mp.weixin.qq.com/s/N2aVRqWtavW-Gc4ZBFpeBw |
+| 09-26 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 刘欢病逝，遵照生前遗愿，丧事从简，不举行遗体告别仪式和追悼会 | https://mp.weixin.qq.com/s/Srr9I7Bye7PbrJkXLvmy7w |
+| 09-26 11:00 | 公众号 | 新京报 | 综合媒体 | 著名音乐家刘欢去世 | https://mp.weixin.qq.com/s/NfjUGzERhGWkQEGIYBVHQw |
+| 09-26 11:00 | 公众号 | 界面新闻 | 综合媒体 | 涉侵权被判赔57亿美元，苹果称将上诉 | https://mp.weixin.qq.com/s/yfHj2w006diRvqcF9P3-sA |
+| 09-26 11:00 | 公众号 | 法治日报 | 综合媒体 | 刘欢去世 | https://mp.weixin.qq.com/s/qOnkCCt77FLcjg7pwfTRjg |
+| 09-26 11:00 | 公众号 | 极目新闻 | 综合媒体 | 刘欢去世，单位讣告透露最后遗愿，吉克隽逸头像已变黑；一年前女儿结婚，今年1月最后一次公开演出；曾透露自己得了“股骨头缺血性坏死” | https://mp.weixin.qq.com/s/fVe1SXoC9rXCH5Sjl74LjQ |
+| 09-26 11:00 | 公众号 | 南方都市报 | 综合媒体 | 刘欢去世，不举行遗体告别仪式和追悼会 | https://mp.weixin.qq.com/s/n-r~OHKgSL-PCUDLDDjpUw |
+| 09-26 11:00 | 公众号 | 红网 | 综合媒体 | 著名音乐家刘欢在上海病逝，享年63岁 | https://mp.weixin.qq.com/s/Ziie2xND79HzFo0lSEwGPQ |
+| 09-26 11:00 | 公众号 | 今晚报 | 综合媒体 | 刘欢去世！ | https://mp.weixin.qq.com/s/ebBnGF~CjRShw1E9pR0F0A |
+| 09-26 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 音乐家刘欢病逝，享年63岁 | https://mp.weixin.qq.com/s/e2ai0qIqaNzJ4GNoaTmWIQ |
 | 09-26 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 被网暴的符文迪、韩雅平，把“恶意”甩在了身后 | https://mp.weixin.qq.com/s/w55NZSHkl7DN4ED9FZ4Jvw |
 | 09-26 10:00 | 公众号 | 界面新闻 | 综合媒体 | 市值逼近5万亿美元！苹果创历史收盘新高 | https://mp.weixin.qq.com/s/sXY7IJOLezNmRnsfWkQiqw |
 | 09-26 10:00 | 公众号 | 新京报 | 综合媒体 | 陈芋汐/卢为获女子双人10米台金牌 | https://mp.weixin.qq.com/s/8LZEjsPr20-Dmh8GvZpMWg |
