@@ -1,7 +1,13 @@
-# 舆情候选池 0927（09-26 00:00 至今，134 条：公众号 129 + 网页 5）
+# 舆情候选池 0927（09-26 00:00 至今，140 条：公众号 135 + 网页 5）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-27 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 景区砸3000万招NPC，已有7000人报名，负责人：并非“拍脑袋”决定 | https://mp.weixin.qq.com/s/s8BOsjJBUiSz~7g9akg5~g |
+| 09-27 12:00 | 公众号 | 界面新闻 | 综合媒体 | 网红训狗师潘宏败诉 | https://mp.weixin.qq.com/s/EK1-UwKnoHYq8ljwOoCPMg |
+| 09-27 12:00 | 公众号 | 南方都市报 | 综合媒体 | Q3季度末星动蓄力~全球通星动日邀你抽大奖！ | https://mp.weixin.qq.com/s/3I6hEZ7S~9nyaFmIL5WfAA |
+| 09-27 12:00 | 公众号 | 极目新闻 | 综合媒体 | 49岁男艺人突然去世！其作品红极一时，是不少人的童年回忆 | https://mp.weixin.qq.com/s/Ib4Ut9Fhc90HqeQohAeYEA |
+| 09-27 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 千万粉丝网红潘宏，败诉 | https://mp.weixin.qq.com/s/zliGTfhc875nKmvHimgvcw |
+| 09-27 12:00 | 公众号 | 红网 | 综合媒体 | 湖南省安全生产委员会办公室关于深入开展电动自行车、电动摩托车安全隐患全链条整治“回头看”的通告 | https://mp.weixin.qq.com/s/GLC-0qv2-HMOF~obs8toXg |
 | 09-27 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 1.56亿项目开标半年未定标：一中标单位，早已被列为严重不良行为信用惩戒企业 | https://mp.weixin.qq.com/s/hAqt-RAxeJeKuQ~5N~M0PA |
 | 09-27 11:00 | 公众号 | 深圳市场监管 | 监管·地方 | 陈文清主持召开专题会议强调 依法从严查处危害食品安全违法犯罪 守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/fTxyuUVXE2vSbM4vZJpNbA |
 | 09-27 11:00 | 公众号 | 新京报 | 综合媒体 | 潘宏败诉 | https://mp.weixin.qq.com/s/Ce1SHXLcFbN3fjh6D6RVhQ |
