@@ -1,7 +1,16 @@
-# 舆情候选池 0927（09-26 00:00 至今，106 条：公众号 102 + 网页 4）
+# 舆情候选池 0927（09-26 00:00 至今，116 条：公众号 111 + 网页 5）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-27 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 南部战区发声 | https://mp.weixin.qq.com/s/evK5eROdeazAmoTFkiUmUw |
+| 09-27 09:00 | 公众号 | 法治日报 | 综合媒体 | 广西南丹通报“教师被强制自费培训”：成立专项调查组进行全面调查核实 | https://mp.weixin.qq.com/s/OlE0Chj0DtDm33ahTkK3MQ |
+| 09-27 09:00 | 公众号 | 新京报 | 综合媒体 | 中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训 | https://mp.weixin.qq.com/s/Zl7nsndWuT7sC9Qa0uQuYg |
+| 09-27 09:00 | 公众号 | 南方都市报 | 综合媒体 | 南部战区，刚刚发声！ | https://mp.weixin.qq.com/s/ryqUApuYS6yztfXHir-nlw |
+| 09-27 09:00 | 公众号 | 极目新闻 | 综合媒体 | 大熊猫“平平”“福双”今日启程赴美，均出生于2020年，开启为期十年的旅居生活 | https://mp.weixin.qq.com/s/XxQ0r6-poe-PYwq4L1JTUA |
+| 09-27 09:00 | 公众号 | 今晚报 | 综合媒体 | 中国移动、中国电信、中国联通，集中叫停！ | https://mp.weixin.qq.com/s/uGUBLVbYsFBqK7eiWHOwug |
+| 09-27 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 吴林逝世 | https://mp.weixin.qq.com/s/kYZgaSV6Mzd7eaO~Ip1b2Q |
+| 09-27 09:00 | 公众号 | 红网 | 综合媒体 | 中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训 | https://mp.weixin.qq.com/s/gfq6XlNCNcbxkIAHQ3gZNw |
+| 09-27 09:00 | 公众号 | 食事求真 | 行业媒体 | 邮政牵手肯德基 北京双节跑出全城漫游新玩法 | https://mp.weixin.qq.com/s/WMcEw2rEdPycb-e4cxtCHw |
 | 09-27 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 陈文清主持召开专题会议强调 依法从严查处危害食品安全违法犯罪 守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/zGjJifL19ulI5b~HKP-vOg |
 | 09-27 08:00 | 公众号 | 市说新语 | 监管·总局 | 陈文清主持召开专题会议强调 依法从严查处危害食品安全违法犯罪 守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/aBxzEojAN4Yqx2Wp7dVtYw |
 | 09-27 08:00 | 公众号 | 澎湃新闻 | 综合媒体 | 澎湃报道后，广西南丹：成立专项调查组 | https://mp.weixin.qq.com/s/047zXyuZqja~1phC6GMamQ |
@@ -17,6 +26,7 @@
 | 09-27 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 巴基斯坦发生爆炸 ｜ 晨报来了 | https://mp.weixin.qq.com/s/5dQRSRJHDypwmtca5wqg4A |
 | 09-27 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 中共中央政治局委员、中央政法委书记陈文清主持召开专题会议强调，依法从严查处危害食品安全违法犯罪，守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/MXVDZsjiUxHZ8Nh5OvA-kA |
 | 09-27 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 膏满黄肥正当时：大闸蟹极简食安手册 | https://mp.weixin.qq.com/s/fuiaL7nfCTIDATmmn8KOVw |
+| 09-27 | 网页 | 澎湃·质量观 | 行业媒体 | 大理通报导游在大巴车上胁迫游客购物：固定证据后罚款六千元 | https://www.thepaper.cn/newsDetail_forward_34157042 |
 | 09-26 17:00 | 公众号 | 央视财经 | 综合媒体 | “销量暴涨超1600%”！中秋爆款，在欧洲火了！ | https://mp.weixin.qq.com/s/lNhFuQkD0vZbvXlrsYZCmQ |
 | 09-26 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 本世纪以来，中国男足首次打进亚运四强 | https://mp.weixin.qq.com/s/NU7eL1PaM0lrUpqvuYbjyQ |
 | 09-26 17:00 | 公众号 | 新京报 | 综合媒体 | 中国队时隔28年重返亚运男足四强 | https://mp.weixin.qq.com/s/CSnHuuoBj-spmpvhMyVZ3g |
