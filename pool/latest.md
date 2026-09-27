@@ -1,7 +1,14 @@
-# 舆情候选池 0927（09-26 00:00 至今，127 条：公众号 122 + 网页 5）
+# 舆情候选池 0927（09-26 00:00 至今，134 条：公众号 129 + 网页 5）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-27 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 1.56亿项目开标半年未定标：一中标单位，早已被列为严重不良行为信用惩戒企业 | https://mp.weixin.qq.com/s/hAqt-RAxeJeKuQ~5N~M0PA |
+| 09-27 11:00 | 公众号 | 深圳市场监管 | 监管·地方 | 陈文清主持召开专题会议强调 依法从严查处危害食品安全违法犯罪 守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/fTxyuUVXE2vSbM4vZJpNbA |
+| 09-27 11:00 | 公众号 | 新京报 | 综合媒体 | 潘宏败诉 | https://mp.weixin.qq.com/s/Ce1SHXLcFbN3fjh6D6RVhQ |
+| 09-27 11:00 | 公众号 | 法治日报 | 综合媒体 | 用户以为交的是话费，实际是在还贷款，三大运营商全面叫停“0元购机”：一旦欠费停机贷款随即逾期，个人征信跟着受损 | https://mp.weixin.qq.com/s/Hp0VwXTDCGl2O-q0eiWZrQ |
+| 09-27 11:00 | 公众号 | 南方都市报 | 综合媒体 | 广州知名景区招“野人”：上班发疯，日入200元！网友：好喜欢这种带薪发疯的机会 | https://mp.weixin.qq.com/s/sPk43PJkQ2cVuRuZrO4d4A |
+| 09-27 11:00 | 公众号 | 今晚报 | 综合媒体 | 知名歌手向网友求助 | https://mp.weixin.qq.com/s/9SAvrHKHulVlwUOjSR9-YA |
+| 09-27 11:00 | 公众号 | 红网 | 综合媒体 | 导游曹某某胁迫游客购物，大理官方通报：罚款6000元 | https://mp.weixin.qq.com/s/JYlOmSZEnblVCmRULqvk6A |
 | 09-27 10:00 | 公众号 | 央视财经 | 综合媒体 | 以军发动空袭 | https://mp.weixin.qq.com/s/jhJmKq1-V328d2iwICs7oQ |
 | 09-27 10:00 | 公众号 | 上海市场监管 | 监管·地方 | 一种加速衰老的“咖啡”，你可能经常喝 | https://mp.weixin.qq.com/s/HaS~b9kAq0KlNAZ3fPyEWQ |
 | 09-27 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 大理通报：导游曹某某被罚6000元 | https://mp.weixin.qq.com/s/ZaIAzC3C4CjEwHo0hXHkuA |
