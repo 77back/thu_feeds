@@ -1,7 +1,15 @@
-# 舆情候选池 0927（09-26 00:00 至今，146 条：公众号 141 + 网页 5）
+# 舆情候选池 0927（09-26 00:00 至今，154 条：公众号 149 + 网页 5）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-27 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 这些电饭锅抽查不合格，你家在用吗？ | https://mp.weixin.qq.com/s/jSVffhCKyk2LkIRNX7xrCA |
+| 09-27 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 多名学生反映吃华科大定制月饼拉肚子，涉事品牌“已派员入校处理”，校医院：暂未接诊病例 | https://mp.weixin.qq.com/s/OlWp4Emu9FlwPb9D1pAAag |
+| 09-27 14:00 | 公众号 | 界面新闻 | 综合媒体 | 豆包手机助手致歉 | https://mp.weixin.qq.com/s/T~Jjgsc7Hg-zXBgMwtfBEA |
+| 09-27 14:00 | 公众号 | 极目新闻 | 综合媒体 | 约快递员上门取件，15岁女儿按母亲指示从5楼往下扔快递时坠亡，父母起诉索赔74万，法院：四方均有错，快递公司赔偿29.6万 | https://mp.weixin.qq.com/s/11mkDKFsXk1qgadkSB9EmQ |
+| 09-27 14:00 | 公众号 | 新京报 | 综合媒体 | 普京：这算什么，过家家？ | https://mp.weixin.qq.com/s/pQZPPZ7F5lce5ciG1D771g |
+| 09-27 14:00 | 公众号 | 南方都市报 | 综合媒体 | 市委书记、市长等132名领导手机号全部公布！当地通告：电话若未接听，还可短信沟通 | https://mp.weixin.qq.com/s/l5C0jy4Z4hNCpK-d9mgnQA |
+| 09-27 14:00 | 公众号 | 红网 | 综合媒体 | 湖南第七金！湖南高速蹦床选手严浪宇实现卫冕 | https://mp.weixin.qq.com/s/Kldw9sSbAPuWqL53BJH5mg |
+| 09-27 14:00 | 公众号 | 北京市场监管 | 监管·地方 | 直播销售有毒、有害减肥压片糖果，北京法院判了 | https://mp.weixin.qq.com/s/UvQyPjLCBg~RdEK4QIfNpw |
 | 09-27 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中国移动、中国电信、中国联通，集中叫停 | https://mp.weixin.qq.com/s/GxqDkQ4FfivX7Dx-71nE3w |
 | 09-27 13:00 | 公众号 | 央视财经 | 综合媒体 | 又一高铁，来了！新建10座高铁站！经过你家吗→ | https://mp.weixin.qq.com/s/mq4trWaHMPjrUENb7PIi8Q |
 | 09-27 13:00 | 公众号 | 法治日报 | 综合媒体 | 在济南治疗的9岁患癌男孩病情加重，歌手吴克群向网友求助：希望帮他实现愿望；苏醒、陆虎、陈楚生、陈赫、张韶涵等多位艺人出镜送祝福 | https://mp.weixin.qq.com/s/jR69ajvKvjpppkXrMcFW1g |
