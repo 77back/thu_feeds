@@ -1,17 +1,24 @@
-# 舆情候选池 0927（09-26 00:00 至今，168 条：公众号 153 + 网页 15）
+# 舆情候选池 0927（09-26 00:00 至今，175 条：公众号 160 + 网页 15）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 | 网页 | 巨潮·百利天恒 | 上市公司公告 | 四川百利天恒药业股份有限公司自愿披露关于宜泽康?（伦康依隆妥单抗，BL-B01D1/iza-bren）用于既往经含铂化疗治疗失败的复发性或转移性胆道癌患者纳入突破性治疗品种名单的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688506&orgId=9900024957&announcementId=1225583799&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·华统股份 | 上市公司公告 | 关于控股子公司签署企业拆迁《补偿协议书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002840&orgId=9900023469&announcementId=1225583795&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·可立克 | 上市公司公告 | 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002782&orgId=9900023239&announcementId=1225583788&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·华东医药 | 上市公司公告 | 关于全资子公司创新GLP-1靶点口服小分子激动剂HDM1002片减重Ⅲ期研究获得积极顶线结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000963&orgId=gssz0000963&announcementId=1225583787&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·松芝股份 | 上市公司公告 | 关于2026年员工持股计划开户完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002454&orgId=9900013510&announcementId=1225583786&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·华宝股份 | 上市公司公告 | 华宝科技股份有限公司关于参股公司转让其控股子公司股份的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300741&orgId=GD165419&announcementId=1225583785&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·罗博特科 | 上市公司公告 | 关于境外上市外资股（H股）公开发行价格的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300757&orgId=9900035543&announcementId=1225583783&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·金盾股份 | 上市公司公告 | 关于近期中标项目的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300411&orgId=9900023879&announcementId=1225583782&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·晨丰科技 | 上市公司公告 | 晨丰科技董事会薪酬与考核委员会关于公司2026年限制性股票激励计划预留授予相关事项的核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603685&orgId=9900034224&announcementId=1225583755&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·金煤科技 | 上市公司公告 | 关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600844&orgId=gssh0600844&announcementId=1225583780&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·华纳药厂 | 上市公司公告 | 关于控股股东股权结构发生变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688799&orgId=9900033718&announcementId=1225583779&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·春风动力 | 上市公司公告 | 春风动力董事会薪酬与考核委员会关于公司2027年至2028年员工持股计划相关事宜的核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603129&orgId=9900032725&announcementId=1225583778&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·王府井 | 上市公司公告 | 王府井关于毕节国贸购物中心对外营业的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600859&orgId=gssh0600859&announcementId=1225583777&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·毕得医药 | 上市公司公告 | 关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688073&orgId=9900048184&announcementId=1225583752&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·中衡设计 | 上市公司公告 | 中衡设计2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603017&orgId=9900023640&announcementId=1225583725&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·海正药业 | 上市公司公告 | 简式权益变动报告书（金浦浙展） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600267&orgId=gssh0600267&announcementId=1225583772&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·海博思创 | 上市公司公告 | 北京海博思创科技股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688411&orgId=9900059116&announcementId=1225583771&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·红板科技 | 上市公司公告 | 关于2026年股票期权激励计划首次授予登记完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603459&orgId=9900063205&announcementId=1225583770&announcementTime=2026-09-28 |
+| 09-27 16:00 | 公众号 | 央视财经 | 综合媒体 | 最新通报：“击落超600架无人机” | https://mp.weixin.qq.com/s/g1Damz5jRYqKaXnXZmfxGw |
+| 09-27 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 主管部门2次公示通车时间，均未兑现，官方致歉 | https://mp.weixin.qq.com/s/k7erYkK~suYgNNslEIsQ0Q |
+| 09-27 16:00 | 公众号 | 新京报 | 综合媒体 | 张雪机车团队多人在意大利被盗 | https://mp.weixin.qq.com/s/ImYcZ2IIFYC5TgeTkI5hpA |
+| 09-27 16:00 | 公众号 | 南方都市报 | 综合媒体 | “阿嬷”官宣：9月30日全网首播！“淑柔”发出第一条微博 | https://mp.weixin.qq.com/s/bQYy48nM4WZlVAaNKkYT0A |
+| 09-27 16:00 | 公众号 | 法治日报 | 综合媒体 | 孩子3年里频繁生病查不出原因，家长拆开衣柜全家人傻眼……很多人家里都有，隐蔽不起眼，赶紧自查！ | https://mp.weixin.qq.com/s/Z9ZD~i8SMx5KBIJT5HYV8Q |
+| 09-27 16:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 中秋档电影市场热度持续走高 | https://mp.weixin.qq.com/s/isn5-x74gzScwtyczlqIAw |
+| 09-27 16:00 | 公众号 | 红网 | 综合媒体 | 王曼昱3天内两胜张本美和，孙颖莎胜早田希娜，国乒提前包揽女单冠亚军 | https://mp.weixin.qq.com/s/ZXhkmabUSzliD1q0xbeujQ |
 | 09-27 15:00 | 公众号 | 法治日报 | 综合媒体 | 女子网恋大学生男友，为维系双方感情，自愿为男友购置衣物、数码产品并多次进行转账，累计花费11万余元，分手后女方起诉索偿，法院：驳回 | https://mp.weixin.qq.com/s/rWAi4JkLZm1ZeNAnYdgQWA |
 | 09-27 15:00 | 公众号 | 南方都市报 | 综合媒体 | “人救出来不到两分钟，火势就失控了”！广东高速上突发，女子被困，头部多处流血，被紧急从车内拖出 | https://mp.weixin.qq.com/s/q8euw88uhGpTT3NkGMZ7YA |
 | 09-27 15:00 | 公众号 | 红网 | 综合媒体 | 河南一技校101名毕业生入职北大，校方称：“我们的学生虽然没考上北大清华，但他们能去北大清华工作”，已向顶尖科研平台输送496人 | https://mp.weixin.qq.com/s/bO2AHSfvqpN6NjQA7W06sw |
