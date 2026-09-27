@@ -1,4 +1,4 @@
-# 舆情候选池 0927（09-26 00:00 至今，175 条：公众号 160 + 网页 15）
+# 舆情候选池 0927（09-26 00:00 至今，181 条：公众号 166 + 网页 15）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
@@ -12,6 +12,12 @@
 | 09-28 | 网页 | 巨潮·金盾股份 | 上市公司公告 | 关于近期中标项目的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300411&orgId=9900023879&announcementId=1225583782&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·晨丰科技 | 上市公司公告 | 晨丰科技董事会薪酬与考核委员会关于公司2026年限制性股票激励计划预留授予相关事项的核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603685&orgId=9900034224&announcementId=1225583755&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·金煤科技 | 上市公司公告 | 关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600844&orgId=gssh0600844&announcementId=1225583780&announcementTime=2026-09-28 |
+| 09-27 17:00 | 公众号 | 央视财经 | 综合媒体 | 下半年来“最强冷空气”，或要来了！冷到像初冬，紧急提醒→ | https://mp.weixin.qq.com/s/PMcSLVjyuy-FNTSBBrA2cQ |
+| 09-27 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/M8Vbl-CyR-f~kZRcGombSA |
+| 09-27 17:00 | 公众号 | 南方都市报 | 综合媒体 | 昨晚突发！知名4A级景区，女演员从高空坠下，最新消息 | https://mp.weixin.qq.com/s/0SjuP3OVN~SePf~4VTW-ug |
+| 09-27 17:00 | 公众号 | 极目新闻 | 综合媒体 | 突发意外！女演员从高处坠落，现场画面曝光 | https://mp.weixin.qq.com/s/wk5s7F565UwPHfoXVFTRrw |
+| 09-27 17:00 | 公众号 | 中国新闻网 | 综合媒体 | “求求你们，不要在（再）买原价高铁票了”，女子62折购买往返车票，乘车当天发现被取消；紧急提醒：已有多人中招 | https://mp.weixin.qq.com/s/WMtyOOnMWt2FQoIV6S9GHg |
+| 09-27 17:00 | 公众号 | 红网 | 综合媒体 | “给12306微信公众号发信息就能抢到票”，12306辟谣：从未与第三方合作，通过第三方平台购票不仅不会增加成功率，反而会更慢或购票失败 | https://mp.weixin.qq.com/s/tgpFg7XUmQnzL2Mp4fO8Vw |
 | 09-27 16:00 | 公众号 | 央视财经 | 综合媒体 | 最新通报：“击落超600架无人机” | https://mp.weixin.qq.com/s/g1Damz5jRYqKaXnXZmfxGw |
 | 09-27 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 主管部门2次公示通车时间，均未兑现，官方致歉 | https://mp.weixin.qq.com/s/k7erYkK~suYgNNslEIsQ0Q |
 | 09-27 16:00 | 公众号 | 新京报 | 综合媒体 | 张雪机车团队多人在意大利被盗 | https://mp.weixin.qq.com/s/ImYcZ2IIFYC5TgeTkI5hpA |
