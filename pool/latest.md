@@ -1,7 +1,16 @@
-# 舆情候选池 0928（09-27 00:00 至今，122 条：公众号 110 + 网页 12）
+# 舆情候选池 0928（09-27 00:00 至今，131 条：公众号 119 + 网页 12）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 商务部解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/ysxv0-PZP5xnDHblgVlYqw |
+| 09-28 11:00 | 公众号 | 法治日报 | 综合媒体 | 军工单位临时聘用人员张某，为在亲友面前“有面子”，偷拍军事装备发到家庭群，导致信息迅速扩散……获刑5年 | https://mp.weixin.qq.com/s/5mCwDYq99WzGv7C-K-eusg |
+| 09-28 11:00 | 公众号 | 新京报 | 综合媒体 | 企业主黄某彬，累计骗取多地招商补贴超1亿元，目前在逃 | https://mp.weixin.qq.com/s/6rV2dlpYBERqzKwhLMtVwQ |
+| 09-28 11:00 | 公众号 | 界面新闻 | 综合媒体 | 多元、反流量、善待新人：刘欢留给我们的音乐“遗产” | https://mp.weixin.qq.com/s/L9Cix25V8R56W1c6Jjj8ug |
+| 09-28 11:00 | 公众号 | 南方都市报 | 综合媒体 | 一地通告：市委书记、市长等132名领导手机号全部公布；观点：值得肯定，但不算制度创新，20多年前起已有地方试水，真正的考验在公布之后 | https://mp.weixin.qq.com/s/3dEbaN~7L0W09F4qz0pnYg |
+| 09-28 11:00 | 公众号 | 极目新闻 | 综合媒体 | 今天，全湖北人都在等9点58分！ | https://mp.weixin.qq.com/s/DrFRgS~eufXIuU0kJJoaOg |
+| 09-28 11:00 | 公众号 | 今晚报 | 综合媒体 | 痛别！鲜学福逝世 | https://mp.weixin.qq.com/s/dhE6r-OW1PiNZdORgC~QKA |
+| 09-28 11:00 | 公众号 | 红网 | 综合媒体 | 教育部原党组成员、副部长鲁昕接受审查调查 | https://mp.weixin.qq.com/s/l7mhuaoOEaqWwPbERsM3Bw |
+| 09-28 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 鲁昕被查（附简历） | https://mp.weixin.qq.com/s/kVO20VBVQQ51EA6wv0TDEQ |
 | 09-28 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 如何理解中美“建设性战略稳定关系”的新内涵 | https://mp.weixin.qq.com/s/uApCdnGahoydbK6GXPSkpg |
 | 09-28 10:00 | 公众号 | 新京报 | 综合媒体 | 商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/gj2xtyagXe0VvVAjnfZFxA |
 | 09-28 10:00 | 公众号 | 法治日报 | 综合媒体 | “在街头疾驰的出租车后备箱绑着一个人”，警方回应：大学生着急赶火车求助，车里坐不下，的哥让其坐后备箱，的哥已被停运并处罚 | https://mp.weixin.qq.com/s/gkkjwL3FpVEN2QD7wzwzlw |
@@ -34,6 +43,9 @@
 | 09-28 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 武契奇辞职 | https://mp.weixin.qq.com/s/d~tF7gcsBBu3ci94fwCQGw |
 | 09-28 08:00 | 公众号 | 江苏省消保委 | 消协 | “智联家居·美好生活”环省行活动在无锡举行 | https://mp.weixin.qq.com/s/NCdm46ZZrA~mbLvaQS4buQ |
 | 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 海南通报19批次不合格食品，有海南米露酒、老婆饼、安溪铁观音等 | http://news.foodmate.net/2026/09/753876.html |
+| 09-28 | 网页 | 巨潮·天奇股份 | 上市公司公告 | 关于公司为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002009&orgId=gssz0002009&announcementId=1225583876&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·高澜股份 | 上市公司公告 | 关于出售参股公司股权的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300499&orgId=9900023095&announcementId=1225583875&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·风光股份 | 上市公司公告 | 营口风光新材料股份有限公司关于营口厂区改造完成并恢复生产的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301100&orgId=9900041644&announcementId=1225583874&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·先导智能 | 上市公司公告 | H股公告-翌日披露报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300450&orgId=9900023846&announcementId=1225583847&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·百利天恒 | 上市公司公告 | 四川百利天恒药业股份有限公司自愿披露关于宜泽康?（伦康依隆妥单抗，BL-B01D1/iza-bren）用于既往经含铂化疗治疗失败的复发性或转移性胆道癌患者纳入突破性治疗品种名单的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688506&orgId=9900024957&announcementId=1225583799&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华统股份 | 上市公司公告 | 关于控股子公司签署企业拆迁《补偿协议书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002840&orgId=9900023469&announcementId=1225583795&announcementTime=2026-09-28 |
@@ -41,9 +53,6 @@
 | 09-28 | 网页 | 巨潮·华东医药 | 上市公司公告 | 关于全资子公司创新GLP-1靶点口服小分子激动剂HDM1002片减重Ⅲ期研究获得积极顶线结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000963&orgId=gssz0000963&announcementId=1225583787&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·松芝股份 | 上市公司公告 | 关于2026年员工持股计划开户完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002454&orgId=9900013510&announcementId=1225583786&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华宝股份 | 上市公司公告 | 华宝科技股份有限公司关于参股公司转让其控股子公司股份的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300741&orgId=GD165419&announcementId=1225583785&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·罗博特科 | 上市公司公告 | 关于境外上市外资股（H股）公开发行价格的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300757&orgId=9900035543&announcementId=1225583783&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·金盾股份 | 上市公司公告 | 关于近期中标项目的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300411&orgId=9900023879&announcementId=1225583782&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·晨丰科技 | 上市公司公告 | 晨丰科技董事会薪酬与考核委员会关于公司2026年限制性股票激励计划预留授予相关事项的核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603685&orgId=9900034224&announcementId=1225583755&announcementTime=2026-09-28 |
 | 09-27 17:00 | 公众号 | 央视财经 | 综合媒体 | 下半年来“最强冷空气”，或要来了！冷到像初冬，紧急提醒→ | https://mp.weixin.qq.com/s/PMcSLVjyuy-FNTSBBrA2cQ |
 | 09-27 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/M8Vbl-CyR-f~kZRcGombSA |
 | 09-27 17:00 | 公众号 | 南方都市报 | 综合媒体 | 昨晚突发！知名4A级景区，女演员从高空坠下，最新消息 | https://mp.weixin.qq.com/s/0SjuP3OVN~SePf~4VTW-ug |
