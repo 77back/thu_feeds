@@ -1,7 +1,16 @@
-# 舆情候选池 0928（09-27 00:00 至今，105 条：公众号 94 + 网页 11）
+# 舆情候选池 0928（09-27 00:00 至今，114 条：公众号 103 + 网页 11）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 09:00 | 公众号 | 央视财经 | 综合媒体 | 美伊谈判，再传大消息！ | https://mp.weixin.qq.com/s/TBgkpFs0q5ZocZI0NRdmSw |
+| 09-28 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 世赛大幕落下，掌声为谁响起 | https://mp.weixin.qq.com/s/MZ00RdxO5~bb3oyRjp6BCA |
+| 09-28 09:00 | 公众号 | 界面新闻 | 综合媒体 | 蔚来与吉利，战略交易达成 | https://mp.weixin.qq.com/s/~NLiWvtxG-PaUhQc7NwI-w |
+| 09-28 09:00 | 公众号 | 新京报 | 综合媒体 | 长征·村志｜贵州乐境村：一名红军烈士跨越91年的归途 | https://mp.weixin.qq.com/s/uf9dwU6cYgHRYDdn-heWJA |
+| 09-28 09:00 | 公众号 | 法治日报 | 综合媒体 | 企业员工王升，记二等功，奖励20000元！ | https://mp.weixin.qq.com/s/5kDv47cFjLFdSfoYX708GA |
+| 09-28 09:00 | 公众号 | 南方都市报 | 综合媒体 | 教师称“成绩排名靠后，被强制自费培训”，广西官方通报 | https://mp.weixin.qq.com/s/ZM3YRPo6YGVy1zDtT-92xg |
+| 09-28 09:00 | 公众号 | 今晚报 | 综合媒体 | 知名歌手演唱会迟到，上演真实版“人在囧途” | https://mp.weixin.qq.com/s/vuTwZqpmiIlfvYdkve8ILg |
+| 09-28 09:00 | 公众号 | 红网 | 综合媒体 | 国安部：境外间谍情报机关鼓吹虚拟货币“隐蔽”流转，输送间谍经费，严重威胁我国家秘密安全 | https://mp.weixin.qq.com/s/HhTalwrYXubKER4Vr0rgTQ |
+| 09-28 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 连某明（男，44岁），前往卫生间途中被升降平台夹伤倒地，当场宣告死亡，官方公布事故报告 | https://mp.weixin.qq.com/s/0ei2ARTcS01H60uqzeB97Q |
 | 09-28 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 用敌敌畏给餐厅消杀公司被罚2万元；“谢广坤”销售东北酸菜，被检不合格；女子被拔头发剃光头治白发却无效果…… | https://mp.weixin.qq.com/s/RpdotHJCY1xJ-ljOW~HXTA |
 | 09-28 08:00 | 公众号 | 市说新语 | 监管·总局 | 陈文清主持召开专题会议强调 依法从严查处危害食品安全违法犯罪 守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/VSoa3Akq-J~lwpHF2pDP1g |
 | 09-28 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 2026食品安全放心消费交流研讨会！倒计时2天 | https://mp.weixin.qq.com/s/6qJtHdc8ZL~E33bOGq1EzQ |
