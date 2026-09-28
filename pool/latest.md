@@ -1,7 +1,14 @@
-# 舆情候选池 0928（09-27 00:00 至今，143 条：公众号 131 + 网页 12）
+# 舆情候选池 0928（09-27 00:00 至今，151 条：公众号 138 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 13:00 | 公众号 | 新京报 | 综合媒体 | “蚕丝卫生巾”里，真的有蚕丝吗？ | https://mp.weixin.qq.com/s/vevzGDlpZjjt0GUSLUDXig |
+| 09-28 13:00 | 公众号 | 法治日报 | 综合媒体 | 不停给12306公众号发信息，15分钟就能候补成功？紧急提醒 | https://mp.weixin.qq.com/s/EPB3PrybOeU0DeIcQ9ZrXQ |
+| 09-28 13:00 | 公众号 | 界面新闻 | 综合媒体 | 神秘“太空兔”抢占全球模型调用榜榜首，网友推测为MiniMax新模型 | https://mp.weixin.qq.com/s/FB~9lRAy6uI2V51MDn8Zsw |
+| 09-28 13:00 | 公众号 | 南方都市报 | 综合媒体 | “邪修抢票法”热传，12306紧急辟谣 | https://mp.weixin.qq.com/s/jcwaqPPX5ol137G8LEDoWQ |
+| 09-28 13:00 | 公众号 | 红网 | 综合媒体 | 下半年“最强冷空气”要来了！国庆长沙最低温或将跌至17°C | https://mp.weixin.qq.com/s/WXusuuQ7zsAvTQJvYHUGSg |
+| 09-28 13:00 | 公众号 | 极目新闻 | 综合媒体 | 30岁男子因母亲关心表哥心生妒忌，为独占母爱聚餐时在啤酒里下毒，致使表哥和四名饭店人员中毒；法院判了：故意杀人罪，获刑六年 | https://mp.weixin.qq.com/s/fVcf34W4R638mt~-83w29w |
+| 09-28 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/0Twdl1bB7TpEl1eC~1q4IQ |
 | 09-28 12:00 | 公众号 | 中国市场监管报 | 行业媒体 | 北京释放7亿只小蜂治毛毛虫；大熊猫“平平”“福双”启程赴美…… | https://mp.weixin.qq.com/s/7S6rnyc0NzWjNO~zhofB-A |
 | 09-28 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 2026食品安全放心消费交流研讨会！倒计时1天 | https://mp.weixin.qq.com/s/9bZtt06tFrSNDo2UaEd2dA |
 | 09-28 12:00 | 公众号 | 上海市消保委 | 消协 | 14岁男孩肾功能98%损坏，确诊肾衰竭！医生：这个习惯戒不掉就是把孩子往透析室送 | https://mp.weixin.qq.com/s/LqWMX109ou8OAewdzgfN8Q |
@@ -65,6 +72,7 @@
 | 09-28 | 网页 | 巨潮·华统股份 | 上市公司公告 | 关于控股子公司签署企业拆迁《补偿协议书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002840&orgId=9900023469&announcementId=1225583795&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·可立克 | 上市公司公告 | 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002782&orgId=9900023239&announcementId=1225583788&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华东医药 | 上市公司公告 | 关于全资子公司创新GLP-1靶点口服小分子激动剂HDM1002片减重Ⅲ期研究获得积极顶线结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000963&orgId=gssz0000963&announcementId=1225583787&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 160年坚守，雀巢把“营养、健康与幸福生活”落到中国餐桌 | https://www.jiemian.com/article/15144411.html |
 | 09-27 17:00 | 公众号 | 央视财经 | 综合媒体 | 下半年来“最强冷空气”，或要来了！冷到像初冬，紧急提醒→ | https://mp.weixin.qq.com/s/PMcSLVjyuy-FNTSBBrA2cQ |
 | 09-27 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/M8Vbl-CyR-f~kZRcGombSA |
 | 09-27 17:00 | 公众号 | 南方都市报 | 综合媒体 | 昨晚突发！知名4A级景区，女演员从高空坠下，最新消息 | https://mp.weixin.qq.com/s/0SjuP3OVN~SePf~4VTW-ug |
