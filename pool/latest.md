@@ -1,7 +1,17 @@
-# 舆情候选池 0928（09-27 00:00 至今，151 条：公众号 138 + 网页 13）
+# 舆情候选池 0928（09-27 00:00 至今，164 条：公众号 148 + 网页 16）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 14:00 | 公众号 | 央视财经 | 综合媒体 | 北汽原董事长徐和谊，被判死缓 | https://mp.weixin.qq.com/s/wp861DYiZO0CRDk6ptJ5Jw |
+| 09-28 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 对手穿错鞋子，中国队递补获得金银牌 | https://mp.weixin.qq.com/s/UPrJCwuHWkGN8p-QIviPOA |
+| 09-28 14:00 | 公众号 | 今晚报 | 综合媒体 | 一上地铁就乐了！这趟藏满相声包袱的专列几号线能坐上？ | https://mp.weixin.qq.com/s/wkm74-wuCyB60ybsI4d~Yg |
+| 09-28 14:00 | 公众号 | 界面新闻 | 综合媒体 | 接连发生智能体失控事故， OpenAI再次暂停前沿模型训练 | https://mp.weixin.qq.com/s/8shd3EgYMPW5DHB6HHDX2g |
+| 09-28 14:00 | 公众号 | 新京报 | 综合媒体 | 武契奇发声 | https://mp.weixin.qq.com/s/m-A~pVcR4PJR5ebM3Q06ZA |
+| 09-28 14:00 | 公众号 | 南方都市报 | 综合媒体 | 冷空气要来了！广州天气提醒：最高温将下降3~5℃ | https://mp.weixin.qq.com/s/LORYzVZlFLvVWOfT-fe-6w |
+| 09-28 14:00 | 公众号 | 法治日报 | 综合媒体 | 网络咨询“同城约”，被诱导充值23000元后账户异常，男子携带18000元现金驾车从淮南前往合肥，警方迅速启动高速拦截 | https://mp.weixin.qq.com/s/D~B5uFfTE5Ie1rvVK~R37g |
+| 09-28 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 莎拉·布莱曼悼念刘欢 | https://mp.weixin.qq.com/s/K15VbbmAM9ZYLpFPlKXAmA |
+| 09-28 14:00 | 公众号 | 红网 | 综合媒体 | 中国选手递补获得亚运会女子马拉松竞走金银牌，因对手穿错鞋：鞋子未在世界田联鞋子库中注册 | https://mp.weixin.qq.com/s/xwZQLmzfKJJ9Iml8TBQYlw |
+| 09-28 14:00 | 公众号 | 北京市场监管 | 监管·地方 | 以标准促治理、护安全、惠民生 ——北京发布39项地方标准，6项全国首创 | https://mp.weixin.qq.com/s/E~NYxj54F0Dk97gbWOxdqw |
 | 09-28 13:00 | 公众号 | 新京报 | 综合媒体 | “蚕丝卫生巾”里，真的有蚕丝吗？ | https://mp.weixin.qq.com/s/vevzGDlpZjjt0GUSLUDXig |
 | 09-28 13:00 | 公众号 | 法治日报 | 综合媒体 | 不停给12306公众号发信息，15分钟就能候补成功？紧急提醒 | https://mp.weixin.qq.com/s/EPB3PrybOeU0DeIcQ9ZrXQ |
 | 09-28 13:00 | 公众号 | 界面新闻 | 综合媒体 | 神秘“太空兔”抢占全球模型调用榜榜首，网友推测为MiniMax新模型 | https://mp.weixin.qq.com/s/FB~9lRAy6uI2V51MDn8Zsw |
@@ -61,6 +71,8 @@
 | 09-28 08:00 | 公众号 | 红网 | 综合媒体 | 央视曝假助农直播间：声称“公益助农”，“原价298元、直播间仅售39元”，大豆油冒充核桃油等卖了310万 | https://mp.weixin.qq.com/s/4oc~XUjXdHhFZUp9QbB19w |
 | 09-28 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 武契奇辞职 | https://mp.weixin.qq.com/s/d~tF7gcsBBu3ci94fwCQGw |
 | 09-28 08:00 | 公众号 | 江苏省消保委 | 消协 | “智联家居·美好生活”环省行活动在无锡举行 | https://mp.weixin.qq.com/s/NCdm46ZZrA~mbLvaQS4buQ |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 广西壮族自治区市场监督管理局食品安全监督抽检信息通告（2026年第117期） | http://news.foodmate.net/2026/09/753907.html |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 2026年“丝绸之路经济带”食品抽检联动机制风险预警交流会议在武威召开 | http://news.foodmate.net/2026/09/753900.html |
 | 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 海南通报19批次不合格食品，有海南米露酒、老婆饼、安溪铁观音等 | http://news.foodmate.net/2026/09/753876.html |
 | 09-28 | 网页 | 巨潮·天奇股份 | 上市公司公告 | 关于公司为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002009&orgId=gssz0002009&announcementId=1225583876&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·高澜股份 | 上市公司公告 | 关于出售参股公司股权的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300499&orgId=9900023095&announcementId=1225583875&announcementTime=2026-09-28 |
@@ -73,6 +85,7 @@
 | 09-28 | 网页 | 巨潮·可立克 | 上市公司公告 | 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002782&orgId=9900023239&announcementId=1225583788&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华东医药 | 上市公司公告 | 关于全资子公司创新GLP-1靶点口服小分子激动剂HDM1002片减重Ⅲ期研究获得积极顶线结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000963&orgId=gssz0000963&announcementId=1225583787&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 160年坚守，雀巢把“营养、健康与幸福生活”落到中国餐桌 | https://www.jiemian.com/article/15144411.html |
+| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 强化食品安全全链条监管，国务院食安办发布第三批典型案例 | https://www.thepaper.cn/newsDetail_forward_34164397 |
 | 09-27 17:00 | 公众号 | 央视财经 | 综合媒体 | 下半年来“最强冷空气”，或要来了！冷到像初冬，紧急提醒→ | https://mp.weixin.qq.com/s/PMcSLVjyuy-FNTSBBrA2cQ |
 | 09-27 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/M8Vbl-CyR-f~kZRcGombSA |
 | 09-27 17:00 | 公众号 | 南方都市报 | 综合媒体 | 昨晚突发！知名4A级景区，女演员从高空坠下，最新消息 | https://mp.weixin.qq.com/s/0SjuP3OVN~SePf~4VTW-ug |
