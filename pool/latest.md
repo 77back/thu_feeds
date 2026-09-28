@@ -1,7 +1,19 @@
-# 舆情候选池 0928（09-27 00:00 至今，131 条：公众号 119 + 网页 12）
+# 舆情候选池 0928（09-27 00:00 至今，143 条：公众号 131 + 网页 12）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 12:00 | 公众号 | 中国市场监管报 | 行业媒体 | 北京释放7亿只小蜂治毛毛虫；大熊猫“平平”“福双”启程赴美…… | https://mp.weixin.qq.com/s/7S6rnyc0NzWjNO~zhofB-A |
+| 09-28 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 2026食品安全放心消费交流研讨会！倒计时1天 | https://mp.weixin.qq.com/s/9bZtt06tFrSNDo2UaEd2dA |
+| 09-28 12:00 | 公众号 | 上海市消保委 | 消协 | 14岁男孩肾功能98%损坏，确诊肾衰竭！医生：这个习惯戒不掉就是把孩子往透析室送 | https://mp.weixin.qq.com/s/LqWMX109ou8OAewdzgfN8Q |
+| 09-28 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 北汽原董事长徐和谊，被判死缓 | https://mp.weixin.qq.com/s/BS9b4N3PObQZUjnvbct6nA |
+| 09-28 12:00 | 公众号 | 央视财经 | 综合媒体 | 黄金白银，显著下跌 | https://mp.weixin.qq.com/s/ZzKjozVti5C-~aobRg2atw |
+| 09-28 12:00 | 公众号 | 新京报 | 综合媒体 | 厨师谢鹏，记二等功 | https://mp.weixin.qq.com/s/zCi-Oqd99eENS~8EJOovpQ |
+| 09-28 12:00 | 公众号 | 南方都市报 | 综合媒体 | 商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况 | https://mp.weixin.qq.com/s/dPAwodkxYJzC18n~lBnh2w |
+| 09-28 12:00 | 公众号 | 界面新闻 | 综合媒体 | 北汽原董事长徐和谊，被判死缓 | https://mp.weixin.qq.com/s/dkE28YqVCsIxVj2qS5XSKQ |
+| 09-28 12:00 | 公众号 | 法治日报 | 综合媒体 | “贷款中介集体删除朋友圈”冲上热搜，“秒批”广告全部从朋友圈消失；9月30日起新规划下营销“红线”，头部助贷放贷平台业绩断崖下滑 | https://mp.weixin.qq.com/s/NJlhuck3JJgZP9IYik40BQ |
+| 09-28 12:00 | 公众号 | 极目新闻 | 综合媒体 | 北汽原董事长徐和谊因受贿、洗钱，一审被判死缓 | https://mp.weixin.qq.com/s/YLdWTdUNZLlNzYhjdumUvw |
+| 09-28 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况 | https://mp.weixin.qq.com/s/R33M8VmUJGYg6WywcD62ew |
+| 09-28 12:00 | 公众号 | 红网 | 综合媒体 | 商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况 | https://mp.weixin.qq.com/s/A0Kr-5z5E7zD43KwFPzT7A |
 | 09-28 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 商务部解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/ysxv0-PZP5xnDHblgVlYqw |
 | 09-28 11:00 | 公众号 | 法治日报 | 综合媒体 | 军工单位临时聘用人员张某，为在亲友面前“有面子”，偷拍军事装备发到家庭群，导致信息迅速扩散……获刑5年 | https://mp.weixin.qq.com/s/5mCwDYq99WzGv7C-K-eusg |
 | 09-28 11:00 | 公众号 | 新京报 | 综合媒体 | 企业主黄某彬，累计骗取多地招商补贴超1亿元，目前在逃 | https://mp.weixin.qq.com/s/6rV2dlpYBERqzKwhLMtVwQ |
@@ -47,12 +59,12 @@
 | 09-28 | 网页 | 巨潮·高澜股份 | 上市公司公告 | 关于出售参股公司股权的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300499&orgId=9900023095&announcementId=1225583875&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·风光股份 | 上市公司公告 | 营口风光新材料股份有限公司关于营口厂区改造完成并恢复生产的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301100&orgId=9900041644&announcementId=1225583874&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·先导智能 | 上市公司公告 | H股公告-翌日披露报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300450&orgId=9900023846&announcementId=1225583847&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·恒玄科技 | 上市公司公告 | 关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688608&orgId=nssc1000367&announcementId=1225583878&announcementTime=2026-09-28 |
+| 09-28 | 网页 | 巨潮·虹软科技 | 上市公司公告 | 关于以集中竞价交易方式回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688088&orgId=9900038968&announcementId=1225583877&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·百利天恒 | 上市公司公告 | 四川百利天恒药业股份有限公司自愿披露关于宜泽康?（伦康依隆妥单抗，BL-B01D1/iza-bren）用于既往经含铂化疗治疗失败的复发性或转移性胆道癌患者纳入突破性治疗品种名单的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688506&orgId=9900024957&announcementId=1225583799&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华统股份 | 上市公司公告 | 关于控股子公司签署企业拆迁《补偿协议书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002840&orgId=9900023469&announcementId=1225583795&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·可立克 | 上市公司公告 | 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002782&orgId=9900023239&announcementId=1225583788&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华东医药 | 上市公司公告 | 关于全资子公司创新GLP-1靶点口服小分子激动剂HDM1002片减重Ⅲ期研究获得积极顶线结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000963&orgId=gssz0000963&announcementId=1225583787&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·松芝股份 | 上市公司公告 | 关于2026年员工持股计划开户完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002454&orgId=9900013510&announcementId=1225583786&announcementTime=2026-09-28 |
-| 09-28 | 网页 | 巨潮·华宝股份 | 上市公司公告 | 华宝科技股份有限公司关于参股公司转让其控股子公司股份的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300741&orgId=GD165419&announcementId=1225583785&announcementTime=2026-09-28 |
 | 09-27 17:00 | 公众号 | 央视财经 | 综合媒体 | 下半年来“最强冷空气”，或要来了！冷到像初冬，紧急提醒→ | https://mp.weixin.qq.com/s/PMcSLVjyuy-FNTSBBrA2cQ |
 | 09-27 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/M8Vbl-CyR-f~kZRcGombSA |
 | 09-27 17:00 | 公众号 | 南方都市报 | 综合媒体 | 昨晚突发！知名4A级景区，女演员从高空坠下，最新消息 | https://mp.weixin.qq.com/s/0SjuP3OVN~SePf~4VTW-ug |
