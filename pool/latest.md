@@ -1,17 +1,27 @@
-# 舆情候选池 0928（09-27 00:00 至今，189 条：公众号 168 + 网页 21）
+# 舆情候选池 0928（09-27 00:00 至今，201 条：公众号 178 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-29 | 网页 | 巨潮·兆新股份 | 上市公司公告 | 2026年第三次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002256&orgId=9900004931&announcementId=1225584215&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·博俊科技 | 上市公司公告 | 第五届董事会第二十九次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300926&orgId=9900039855&announcementId=1225584208&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·恒而达 | 上市公司公告 | 2026年第三次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300946&orgId=9900041410&announcementId=1225584206&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·朗姿股份 | 上市公司公告 | 关于为全资子公司提供担保并接受关联方担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002612&orgId=9900021326&announcementId=1225584203&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·宏润建设 | 上市公司公告 | 关于股东所持公司部分股份解除质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002062&orgId=9900000362&announcementId=1225584202&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·川能动力 | 上市公司公告 | 关于控股股东权益变动进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000155&orgId=gssz0000155&announcementId=1225584201&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·晶澳科技 | 上市公司公告 | 关于2025年股票期权激励计划部分股票期权注销完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002459&orgId=9900013788&announcementId=1225584194&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·鑫铂股份 | 上市公司公告 | 关于公司为子公司向银行申请授信额度提供最高额担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=003038&orgId=9900041546&announcementId=1225584193&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·思美传媒 | 上市公司公告 | 思美传媒股份有限公司关于为子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002712&orgId=9900022963&announcementId=1225584192&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·德展健康 | 上市公司公告 | 关于全资子公司创新药WYY获得美国FDA新药临床试验批准通知的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000813&orgId=gssz0000813&announcementId=1225584191&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·兴业股份 | 上市公司公告 | 兴业股份关于召开2026年第一次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603928&orgId=9900023749&announcementId=1225585020&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·千金药业 | 上市公司公告 | 千金药业关于董事辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600479&orgId=gssh0600479&announcementId=1225585024&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·盛剑科技 | 上市公司公告 | 盛剑科技2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603324&orgId=9900041728&announcementId=1225585021&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·威高骨科 | 上市公司公告 | 山东威高骨科材料股份有限公司2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688161&orgId=nssc1000274&announcementId=1225584987&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·科林电气 | 上市公司公告 | 第五届董事会第十七次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603050&orgId=9900023860&announcementId=1225584988&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·贵研铂业 | 上市公司公告 | 云南省贵金属新材料控股集团股份有限公司关于调整2026年中期利润分配每股分配比例的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600459&orgId=gssh0600459&announcementId=1225584986&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·成都先导 | 上市公司公告 | 成都先导药物开发股份有限公司关于2026年度第一期科技创新债券发行结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688222&orgId=9900039916&announcementId=1225584985&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·诚邦股份 | 上市公司公告 | 诚邦智芯科技股份有限公司关于涉及诉讼的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603316&orgId=9900030890&announcementId=1225584984&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·深圳新星 | 上市公司公告 | 关于对外担保进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603978&orgId=9900031492&announcementId=1225584983&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·云意电气 | 上市公司公告 | 关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300304&orgId=9900021923&announcementId=1225584973&announcementTime=2026-09-29 |
+| 09-28 17:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局发布13项食品快速检测方法 | https://mp.weixin.qq.com/s/O4a2nBpZk8auvaRKzS95zg |
+| 09-28 17:00 | 公众号 | 中国市场监管报 | 行业媒体 | 国务院食安办发布强化食品安全全链条监管创新案例（第三批） | https://mp.weixin.qq.com/s/UaRbwD9SGyGxzmTK--Ltvw |
+| 09-28 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 伊朗外长：已为“末日战争”做好准备 | https://mp.weixin.qq.com/s/-2mcH3SQBaCMDBV1bXunJw |
+| 09-28 17:00 | 公众号 | 上海市场监管 | 监管·地方 | 喜报！ | https://mp.weixin.qq.com/s/~K4VXy85WEluA~AB0c30Ag |
+| 09-28 17:00 | 公众号 | 法治日报 | 综合媒体 | 调查报告披露：江西一超载渣土车右转未让直行，撞上载母女3人的电动车，碾压9岁女童致其当场遇难，肇事司机已被采取刑事强制措施 | https://mp.weixin.qq.com/s/XTLTNMBWSiMRC0exmf6pEg |
+| 09-28 17:00 | 公众号 | 界面新闻 | 综合媒体 | 央视曝光“一口福”39元核桃油实为大豆油，半年卖了310万 | https://mp.weixin.qq.com/s/MUwK258FiFs~t-KR3b5VfQ |
+| 09-28 17:00 | 公众号 | 南方都市报 | 综合媒体 | 又发现一具女尸，此前已有10名女性遇害，多数为年轻女性，遇害前遭受严重性侵……南非警方调查未取得突破，引发当地对“连环杀手”的恐慌 | https://mp.weixin.qq.com/s/ACmI2moLxo0hxb3xGvqBjA |
+| 09-28 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 郭建被查 | https://mp.weixin.qq.com/s/PH7QZmeNSWBDNsan7k2oTg |
+| 09-28 17:00 | 公众号 | 极目新闻 | 综合媒体 | 武汉造！全球首款可升降立标MPV在北京上市 | https://mp.weixin.qq.com/s/7Mg8LHGuYViSwVsODwUUMA |
+| 09-28 17:00 | 公众号 | 红网 | 综合媒体 | 湖南省娄底市工业和信息化局党组书记、局长梁小兵接受审查调查 | https://mp.weixin.qq.com/s/Jq49f9Eb0WBbFSavkiPd3A |
 | 09-28 16:00 | 公众号 | 央视财经 | 综合媒体 | 利好来了！万亿级产业，七部门重要部署→ | https://mp.weixin.qq.com/s/Qmy7Bgp7IDT0do0wVWdSXg |
 | 09-28 16:00 | 公众号 | 今晚报 | 综合媒体 | 油价调整通知 | https://mp.weixin.qq.com/s/vc9Ah5D6M32tKqBeKb3m~A |
 | 09-28 16:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北证监局原党委书记、局长王广幼被开除党籍 | https://mp.weixin.qq.com/s/NWPAFqcuxlbsCrt-KBY~eA |
@@ -109,6 +119,8 @@
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 央视曝光“一口福”39元核桃油实为大豆油，半年卖了310万 | https://www.jiemian.com/article/15144748.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 贾国龙儿子入股西贝旗下公司成实控人，此前创立壮壮酒馆 | https://www.jiemian.com/article/15144917.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 160年坚守，雀巢把“营养、健康与幸福生活”落到中国餐桌 | https://www.jiemian.com/article/15144411.html |
+| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 重庆九龙坡教委回应“校服印花开胶、缝线开线”：已责成督促供货企业抓紧落实售后整改 | https://www.thepaper.cn/newsDetail_forward_34165094 |
+| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 新版再生纸浆国家标准落地，严禁使用医疗用纸等不洁原料 | https://www.thepaper.cn/newsDetail_forward_34165309 |
 | 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局发布13项食品快检方法，可查18种风险物质 | https://www.thepaper.cn/newsDetail_forward_34165107 |
 | 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 强化食品安全全链条监管，国务院食安办发布第三批典型案例 | https://www.thepaper.cn/newsDetail_forward_34164397 |
 | 09-27 17:00 | 公众号 | 央视财经 | 综合媒体 | 下半年来“最强冷空气”，或要来了！冷到像初冬，紧急提醒→ | https://mp.weixin.qq.com/s/PMcSLVjyuy-FNTSBBrA2cQ |
