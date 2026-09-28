@@ -1,7 +1,14 @@
-# 舆情候选池 0928（09-27 00:00 至今，114 条：公众号 103 + 网页 11）
+# 舆情候选池 0928（09-27 00:00 至今，122 条：公众号 110 + 网页 12）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-28 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 如何理解中美“建设性战略稳定关系”的新内涵 | https://mp.weixin.qq.com/s/uApCdnGahoydbK6GXPSkpg |
+| 09-28 10:00 | 公众号 | 新京报 | 综合媒体 | 商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/gj2xtyagXe0VvVAjnfZFxA |
+| 09-28 10:00 | 公众号 | 法治日报 | 综合媒体 | “在街头疾驰的出租车后备箱绑着一个人”，警方回应：大学生着急赶火车求助，车里坐不下，的哥让其坐后备箱，的哥已被停运并处罚 | https://mp.weixin.qq.com/s/gkkjwL3FpVEN2QD7wzwzlw |
+| 09-28 10:00 | 公众号 | 界面新闻 | 综合媒体 | 塞尔维亚总统武契奇辞职，将竞选政府总理 | https://mp.weixin.qq.com/s/S7rJ6DRwKa4sh~oaoeEc4Q |
+| 09-28 10:00 | 公众号 | 南方都市报 | 综合媒体 | 商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/5IYzdRBg2F9IScVusP4e4g |
+| 09-28 10:00 | 公众号 | 红网 | 综合媒体 | 取得积极共识！商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/hyQrrhjZCOj7VF7VlZS1cg |
+| 09-28 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 不停给12306公众号发信息，15分钟就能候补成功？紧急提醒 | https://mp.weixin.qq.com/s/9eq~gGgXyM2W-Qk5ZPvf-g |
 | 09-28 09:00 | 公众号 | 央视财经 | 综合媒体 | 美伊谈判，再传大消息！ | https://mp.weixin.qq.com/s/TBgkpFs0q5ZocZI0NRdmSw |
 | 09-28 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 世赛大幕落下，掌声为谁响起 | https://mp.weixin.qq.com/s/MZ00RdxO5~bb3oyRjp6BCA |
 | 09-28 09:00 | 公众号 | 界面新闻 | 综合媒体 | 蔚来与吉利，战略交易达成 | https://mp.weixin.qq.com/s/~NLiWvtxG-PaUhQc7NwI-w |
@@ -26,6 +33,7 @@
 | 09-28 08:00 | 公众号 | 红网 | 综合媒体 | 央视曝假助农直播间：声称“公益助农”，“原价298元、直播间仅售39元”，大豆油冒充核桃油等卖了310万 | https://mp.weixin.qq.com/s/4oc~XUjXdHhFZUp9QbB19w |
 | 09-28 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 武契奇辞职 | https://mp.weixin.qq.com/s/d~tF7gcsBBu3ci94fwCQGw |
 | 09-28 08:00 | 公众号 | 江苏省消保委 | 消协 | “智联家居·美好生活”环省行活动在无锡举行 | https://mp.weixin.qq.com/s/NCdm46ZZrA~mbLvaQS4buQ |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 海南通报19批次不合格食品，有海南米露酒、老婆饼、安溪铁观音等 | http://news.foodmate.net/2026/09/753876.html |
 | 09-28 | 网页 | 巨潮·先导智能 | 上市公司公告 | H股公告-翌日披露报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300450&orgId=9900023846&announcementId=1225583847&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·百利天恒 | 上市公司公告 | 四川百利天恒药业股份有限公司自愿披露关于宜泽康?（伦康依隆妥单抗，BL-B01D1/iza-bren）用于既往经含铂化疗治疗失败的复发性或转移性胆道癌患者纳入突破性治疗品种名单的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688506&orgId=9900024957&announcementId=1225583799&announcementTime=2026-09-28 |
 | 09-28 | 网页 | 巨潮·华统股份 | 上市公司公告 | 关于控股子公司签署企业拆迁《补偿协议书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002840&orgId=9900023469&announcementId=1225583795&announcementTime=2026-09-28 |
