@@ -1,7 +1,16 @@
-# 舆情候选池 0929（09-28 00:00 至今，148 条：公众号 122 + 网页 26）
+# 舆情候选池 0929（09-28 00:00 至今，160 条：公众号 131 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-29 09:00 | 公众号 | 央视财经 | 综合媒体 | 重开霍尔木兹海峡？新进展来了！ | https://mp.weixin.qq.com/s/haiDzHXyu5O5mkzkzktDpg |
+| 09-29 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 25岁青年捐建村小教学楼已烂尾12年，“愿再出资，但手续不全，不敢私自修缮” | https://mp.weixin.qq.com/s/g5PwohtTR~irF5OfUVKyFQ |
+| 09-29 09:00 | 公众号 | 界面新闻 | 综合媒体 | OpenAI紧急叫停最新模型发布计划 | https://mp.weixin.qq.com/s/6aCm-kj8lkPbh8jOKNzdcQ |
+| 09-29 09:00 | 公众号 | 新京报 | 综合媒体 | 贵州龙里发生一起交通事故，致7人死亡 | https://mp.weixin.qq.com/s/L18sWtv58LWOepIvxcD-dQ |
+| 09-29 09:00 | 公众号 | 法治日报 | 综合媒体 | 贵州龙山一辆实载7人的小轿车与半挂车发生交通事故，造成小轿车上7人死亡 | https://mp.weixin.qq.com/s/KykLybP7eh1Vm5gzKxXOGA |
+| 09-29 09:00 | 公众号 | 南方都市报 | 综合媒体 | 一地宣布：禁止全市中小学、中职学生带手机进校 | https://mp.weixin.qq.com/s/c3NW10FeEgki7jT8OF1jJA |
+| 09-29 09:00 | 公众号 | 今晚报 | 综合媒体 | 大雨、暴雨、雷暴大风、冰雹来袭！冷空气降温大幕拉开 | https://mp.weixin.qq.com/s/kh5UHFv1jgyJtRwEV~ijEw |
+| 09-29 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 女子吃“分手饭”醉酒摔伤后身亡，男友半夜发现其头部出血未立即送医，用烟丝、卫生纸止血后回屋睡觉，一审被判赔28万元 | https://mp.weixin.qq.com/s/4rES1ZUOOqAWQx3LnTP-Ag |
+| 09-29 09:00 | 公众号 | 红网 | 综合媒体 | 贵州发生一起交通事故，致7人死亡 | https://mp.weixin.qq.com/s/UVcw2GnnyE7R45TJPXuA8A |
 | 09-29 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 13项食品快速检测方法发布，可快速筛查18种风险物质残留 | https://mp.weixin.qq.com/s/ElBCHu7YAP1KMetKW6hVUA |
 | 09-29 08:00 | 公众号 | 市说新语 | 监管·总局 | 习近平等党和国家领导人将出席烈士纪念日向人民英雄敬献花篮仪式 | https://mp.weixin.qq.com/s/ytDyjmNUcCn4x1pKnqLq1g |
 | 09-29 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 一批“铁拳”行动典型案例曝光！ | https://mp.weixin.qq.com/s/gPrnCpIKw~oC2XzzdmX2Dg |
@@ -25,6 +34,9 @@
 | 09-29 08:00 | 公众号 | 浙江消保委 | 消协 | “优化消费环境”主题论文征集活动开始啦 | https://mp.weixin.qq.com/s/ebM3NOBLgVFMX88JoQblnw |
 | 09-29 08:00 | 公众号 | 四川省消委会 | 消协 | 市场监管总局曝光一批充电宝质量安全典型案例！ | https://mp.weixin.qq.com/s/1s6mjlBMv50Bda8yAtym2A |
 | 09-29 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 国务院食安办发布强化食品安全全链条监管创新案例，北京一案例入选 | https://mp.weixin.qq.com/s/BLWaULYffDZCb1JdqdpIgw |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于23批次食品不合格情况的通告（2026年第43期） | http://news.foodmate.net/2026/09/753970.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 重庆通报17批次不合格食品，有酿造酱油、白酒、土蜂蜜等 | http://news.foodmate.net/2026/09/753968.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 以案释法｜聊城市市场监督管理局查处某食品有限公司生产超限量使用食品添加剂食品案 | http://news.foodmate.net/2026/09/753964.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 德阳市市场监管局完成2026年食品安全抽检核查处置“回头看”暨交叉评查 | http://news.foodmate.net/2026/09/753951.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 2026年9月食品行业舆情盘点 | http://news.foodmate.net/2026/09/753933.html |
 | 09-29 | 网页 | 巨潮·清溢光电 | 上市公司公告 | 关于高端半导体掩膜版研发进展的自愿性披露公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688138&orgId=9900031655&announcementId=1225586361&announcementTime=2026-09-29 |
