@@ -1,7 +1,16 @@
-# 舆情候选池 0929（09-28 00:00 至今，181 条：公众号 161 + 网页 20）
+# 舆情候选池 0929（09-28 00:00 至今，200 条：公众号 170 + 网页 30）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-29 13:00 | 公众号 | 中国消费者报 | 行业媒体 | 以食安之盾 守烟火日常 | https://mp.weixin.qq.com/s/JEtGdrl~GPk3pbrgIQaqhA |
+| 09-29 13:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管总局召开深化群众身边不正之风和腐败问题集中整治工作调度推进会 | https://mp.weixin.qq.com/s/aQhuljWeT89lgoIb0YwD6w |
+| 09-29 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 包揽男单金银牌，但国乒男队每个人的课题各不相同 | https://mp.weixin.qq.com/s/LKKJnYSpE5DeZLHSsW89xg |
+| 09-29 13:00 | 公众号 | 新京报 | 综合媒体 | 鲍师傅超长蛋挞“全是皮没蛋液”，别让网红美食只剩下镜头颜值 | https://mp.weixin.qq.com/s/41-bFYkEOLkeG88lPTaZXg |
+| 09-29 13:00 | 公众号 | 界面新闻 | 综合媒体 | 万事达信用卡批量盗刷事件，最新进展 | https://mp.weixin.qq.com/s/83CZr3gg2~kg~h2phBHCSQ |
+| 09-29 13:00 | 公众号 | 法治日报 | 综合媒体 | 男子“仅退款”被商家拒绝，怀恨在心，3年恶意下单2700次，900余家网店遭殃！法院：以破坏生产经营罪定罪处罚 | https://mp.weixin.qq.com/s/kbkt0Z3OHd982ZyyftqMSg |
+| 09-29 13:00 | 公众号 | 南方都市报 | 综合媒体 | 网友称在连锁店吃火锅，发现锅边有蠕动白虫，当地市监局回应 | https://mp.weixin.qq.com/s/KSLNRuxnL~sXR2LcfFGU4w |
+| 09-29 13:00 | 公众号 | 今晚报 | 综合媒体 | 那英临时加唱《弯弯的月亮》致敬刘欢，未提前报备，网友担心会被罚款，文旅局回应了 | https://mp.weixin.qq.com/s/zl-pZnlS~MO2Ez9dIjgbRQ |
+| 09-29 13:00 | 公众号 | 红网 | 综合媒体 | 国庆别再只去张家界看山了！湖南发布5条跨区域宝藏线路 | https://mp.weixin.qq.com/s/j6DxOmYZ5Jh70nUjiJjLuA |
 | 09-29 12:00 | 公众号 | 市说新语 | 监管·总局 | 国务院常务会听取新污染物治理进展情况汇报 | https://mp.weixin.qq.com/s/RxFE1OCzyqo5YF3klVIFfQ |
 | 09-29 12:00 | 公众号 | 上海市消保委 | 消协 | “第一次感觉离死亡这么近”！男子称只因喝了几口鱼汤！孩子哭着喊“爸爸不要死”… | https://mp.weixin.qq.com/s/MWHo0GmbNIkV-x5cezwZDQ |
 | 09-29 12:00 | 公众号 | 央视财经 | 综合媒体 | 与14亿中国人息息相关！这场发布会，信息量巨大 | https://mp.weixin.qq.com/s/T0tha83vaazFr9JnTxFGWw |
@@ -64,6 +73,12 @@
 | 09-29 08:00 | 公众号 | 浙江消保委 | 消协 | “优化消费环境”主题论文征集活动开始啦 | https://mp.weixin.qq.com/s/ebM3NOBLgVFMX88JoQblnw |
 | 09-29 08:00 | 公众号 | 四川省消委会 | 消协 | 市场监管总局曝光一批充电宝质量安全典型案例！ | https://mp.weixin.qq.com/s/1s6mjlBMv50Bda8yAtym2A |
 | 09-29 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 国务院食安办发布强化食品安全全链条监管创新案例，北京一案例入选 | https://mp.weixin.qq.com/s/BLWaULYffDZCb1JdqdpIgw |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 青海省市场监督管理局关于食品安全抽检信息的通告〔2026〕年第5号 | http://news.foodmate.net/2026/09/753987.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于23批次食品不合格情况的通告（2026年第43期） | http://news.foodmate.net/2026/09/753970.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 重庆通报17批次不合格食品，有酿造酱油、白酒、土蜂蜜等 | http://news.foodmate.net/2026/09/753968.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 以案释法｜聊城市市场监督管理局查处某食品有限公司生产超限量使用食品添加剂食品案 | http://news.foodmate.net/2026/09/753964.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 德阳市市场监管局完成2026年食品安全抽检核查处置“回头看”暨交叉评查 | http://news.foodmate.net/2026/09/753951.html |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 2026年9月食品行业舆情盘点 | http://news.foodmate.net/2026/09/753933.html |
 | 09-29 | 网页 | 巨潮·晨化股份 | 上市公司公告 | 关于使用自有闲置资金进行现金管理的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300610&orgId=9900030880&announcementId=1225586458&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·安联锐视 | 上市公司公告 | 关于完成工商备案的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301042&orgId=9900023025&announcementId=1225586457&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·天奇股份 | 上市公司公告 | 募集说明书（注册稿） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002009&orgId=gssz0002009&announcementId=1225586456&announcementTime=2026-09-29 |
@@ -174,6 +189,10 @@
 | 09-28 08:00 | 公众号 | 红网 | 综合媒体 | 央视曝假助农直播间：声称“公益助农”，“原价298元、直播间仅售39元”，大豆油冒充核桃油等卖了310万 | https://mp.weixin.qq.com/s/4oc~XUjXdHhFZUp9QbB19w |
 | 09-28 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 武契奇辞职 | https://mp.weixin.qq.com/s/d~tF7gcsBBu3ci94fwCQGw |
 | 09-28 08:00 | 公众号 | 江苏省消保委 | 消协 | “智联家居·美好生活”环省行活动在无锡举行 | https://mp.weixin.qq.com/s/NCdm46ZZrA~mbLvaQS4buQ |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局深入推进食品抽检核查处置创新试点工作 | http://news.foodmate.net/2026/09/753914.html |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局扎实开展食品抽检核查处置技术帮扶工作 | http://news.foodmate.net/2026/09/753913.html |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 广西壮族自治区市场监督管理局食品安全监督抽检信息通告（2026年第117期） | http://news.foodmate.net/2026/09/753907.html |
+| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 2026年“丝绸之路经济带”食品抽检联动机制风险预警交流会议在武威召开 | http://news.foodmate.net/2026/09/753900.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 物美一把年纪从头学做硬折扣 | https://www.jiemian.com/article/15146494.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 央视曝光“一口福”39元核桃油实为大豆油，半年卖了310万 | https://www.jiemian.com/article/15144748.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 贾国龙儿子入股西贝旗下公司成实控人，此前创立壮壮酒馆 | https://www.jiemian.com/article/15144917.html |
