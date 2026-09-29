@@ -1,7 +1,17 @@
-# 舆情候选池 0929（09-28 00:00 至今，200 条：公众号 170 + 网页 30）
+# 舆情候选池 0929（09-28 00:00 至今，211 条：公众号 180 + 网页 31）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-29 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 紧急提醒！这些药抽检不合格 蒙脱石散、奥美拉唑、瑞舒伐他汀…… | https://mp.weixin.qq.com/s/KRktySgeS3Z3nQfs823IQg |
+| 09-29 14:00 | 公众号 | 央视财经 | 综合媒体 | 大范围降温来了！紧急提醒→ | https://mp.weixin.qq.com/s/Hh746E0UEHTYACb8OsQ7vA |
+| 09-29 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 大学需要提升对优秀教师的识别能力 | https://mp.weixin.qq.com/s/Mq4iQ8iqHcWjQTjIZWl0yQ |
+| 09-29 14:00 | 公众号 | 新京报 | 综合媒体 | 成都文旅局回应“那英演唱会缅怀刘欢即兴演唱《弯弯的月亮》一事” | https://mp.weixin.qq.com/s/5yWo5ZWZNoDZNk7GEbR9EQ |
+| 09-29 14:00 | 公众号 | 界面新闻 | 综合媒体 | 那英成都演唱会为缅怀刘欢加唱《弯弯的月亮》，官方通报 | https://mp.weixin.qq.com/s/zmZYLs1KkkmoE70ztqrW4Q |
+| 09-29 14:00 | 公众号 | 法治日报 | 综合媒体 | 前夫虚构夫妻共同债务，女子莫名背上近百万元借款成“老赖”：银行账户被冻结、存款被划扣、被列入失信名单和限高……检察机关还原真相 | https://mp.weixin.qq.com/s/hzsJFmfxwRmEC3n8qi~Igg |
+| 09-29 14:00 | 公众号 | 南方都市报 | 综合媒体 | “宝马车撞入公积金中心办公楼”，官方：豆某某（女，32岁）操作失误驶入 | https://mp.weixin.qq.com/s/3RDRiOKrJ8iP47R1Zin3fw |
+| 09-29 14:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北省人民政府致贺电 | https://mp.weixin.qq.com/s/dlTT~kZ1nA8hOx0-tMECqA |
+| 09-29 14:00 | 公众号 | 红网 | 综合媒体 | 湖南20余家上市公司董秘变更，“90后”崭露头角 | https://mp.weixin.qq.com/s/0G~jyeIpmeMWordTwRvWBQ |
+| 09-29 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 官方通报那英演唱会加唱《弯弯的月亮》 | https://mp.weixin.qq.com/s/EM2Lxe1mheB7LnCh4ZDENw |
 | 09-29 13:00 | 公众号 | 中国消费者报 | 行业媒体 | 以食安之盾 守烟火日常 | https://mp.weixin.qq.com/s/JEtGdrl~GPk3pbrgIQaqhA |
 | 09-29 13:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管总局召开深化群众身边不正之风和腐败问题集中整治工作调度推进会 | https://mp.weixin.qq.com/s/aQhuljWeT89lgoIb0YwD6w |
 | 09-29 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 包揽男单金银牌，但国乒男队每个人的课题各不相同 | https://mp.weixin.qq.com/s/LKKJnYSpE5DeZLHSsW89xg |
@@ -89,6 +99,7 @@
 | 09-29 | 网页 | 巨潮·海目星 | 上市公司公告 | 海目星：第三届董事会第二十六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688559&orgId=9900041799&announcementId=1225586296&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·*ST华幸 | 上市公司公告 | 华夏幸福基业股份有限公司关于与产业投资人签署《重整投资协议》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600340&orgId=gssh0600340&announcementId=1225586286&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·ST美克 | 上市公司公告 | 美克国际家居用品股份有限公司关于与财务投资人签署《重整投资协议》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600337&orgId=gssh0600337&announcementId=1225586280&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 界面快评｜商家千里取香菜，“仅退款”不能只是拉偏架 | https://www.jiemian.com/article/15149841.html |
 | 09-29 | 网页 | 澎湃·质量观 | 行业媒体 | 甘肃天水一天然气公司强制搭售波纹管被罚：进价每米6元，卖60元 | https://www.thepaper.cn/newsDetail_forward_34170016 |
 | 09-28 17:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局发布13项食品快速检测方法 | https://mp.weixin.qq.com/s/O4a2nBpZk8auvaRKzS95zg |
 | 09-28 17:00 | 公众号 | 中国市场监管报 | 行业媒体 | 国务院食安办发布强化食品安全全链条监管创新案例（第三批） | https://mp.weixin.qq.com/s/UaRbwD9SGyGxzmTK--Ltvw |
