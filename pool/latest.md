@@ -1,7 +1,17 @@
-# 舆情候选池 0929（09-28 00:00 至今，168 条：公众号 139 + 网页 29）
+# 舆情候选池 0929（09-28 00:00 至今，178 条：公众号 149 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-29 11:00 | 公众号 | 市说新语 | 监管·总局 | 李强主持召开国务院常务会议 研究宏观政策发力提效、促进有效投资有关工作等 | https://mp.weixin.qq.com/s/CMnW1gXuRXC-bQZJxz~5Ng |
+| 09-29 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 热议“副教授刘欢”是缅怀，更是对人才评价的多元思考 | https://mp.weixin.qq.com/s/OWVJLz~qnD6xOgj0wyTzJw |
+| 09-29 11:00 | 公众号 | 新京报 | 综合媒体 | 迷山8天，17岁少年靠喝山泉水走出大兴安岭林区，体重降20斤 | https://mp.weixin.qq.com/s/xLiKHEtOROer72qJrN3DQg |
+| 09-29 11:00 | 公众号 | 界面新闻 | 综合媒体 | AMD史上第二大收购：82亿美元拿下李飞飞初创公司 | https://mp.weixin.qq.com/s/bRiFXuCU7UF4zhwJMO3Lrw |
+| 09-29 11:00 | 公众号 | 法治日报 | 综合媒体 | 送修手机后，男子发现自己的相册被偷窥15分钟，文件、聊天类应用均有使用痕迹，维修人员被行拘7日；私自翻看他人手机隐私，属于违法行为 | https://mp.weixin.qq.com/s/tVywVUKU1D1g8rB1E6y3~Q |
+| 09-29 11:00 | 公众号 | 南方都市报 | 综合媒体 | 黎炳盛任东莞市代市长 | https://mp.weixin.qq.com/s/FNTF~ir79CHX1zbJr8ADqA |
+| 09-29 11:00 | 公众号 | 极目新闻 | 综合媒体 | 贵州龙里警方：王某某（男，19岁）酒后驾驶一辆小轿车（核载5人，实载7人），与停放在道路右侧的重型半挂牵引车追尾，造成7人死亡 | https://mp.weixin.qq.com/s/x~OmdKmzYq5QuJijGa6AyA |
+| 09-29 11:00 | 公众号 | 今晚报 | 综合媒体 | 女演员发视频求助：我现在还是蒙的…… | https://mp.weixin.qq.com/s/eWn-D3HLOnzu4KtPoU3cPA |
+| 09-29 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 李亚鹏再次回应医院现状：很感谢房东，将房租降了相当的比例，嫣然医院可能再坚持几年（附完整采访视频） | https://mp.weixin.qq.com/s/RE-bwq4I5yW4C1h4O8W5SQ |
+| 09-29 11:00 | 公众号 | 红网 | 综合媒体 | 湖南公开征集人社领域涉黑涉恶违法犯罪线索 | https://mp.weixin.qq.com/s/LofH4EYZlsvrI2rGsJuYtA |
 | 09-29 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/Nf1SpQD5g9KUVdoJEVOi4w |
 | 09-29 10:00 | 公众号 | 新京报 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/f8n5b6X61RahSRXDTxRNhQ |
 | 09-29 10:00 | 公众号 | 界面新闻 | 综合媒体 | 广汽集团涨停 | https://mp.weixin.qq.com/s/Fox5hla7K2FBPEaOGsc9vg |
@@ -42,21 +52,22 @@
 | 09-29 08:00 | 公众号 | 浙江消保委 | 消协 | “优化消费环境”主题论文征集活动开始啦 | https://mp.weixin.qq.com/s/ebM3NOBLgVFMX88JoQblnw |
 | 09-29 08:00 | 公众号 | 四川省消委会 | 消协 | 市场监管总局曝光一批充电宝质量安全典型案例！ | https://mp.weixin.qq.com/s/1s6mjlBMv50Bda8yAtym2A |
 | 09-29 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 国务院食安办发布强化食品安全全链条监管创新案例，北京一案例入选 | https://mp.weixin.qq.com/s/BLWaULYffDZCb1JdqdpIgw |
+| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 青海省市场监督管理局关于食品安全抽检信息的通告〔2026〕年第5号 | http://news.foodmate.net/2026/09/753987.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于23批次食品不合格情况的通告（2026年第43期） | http://news.foodmate.net/2026/09/753970.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 重庆通报17批次不合格食品，有酿造酱油、白酒、土蜂蜜等 | http://news.foodmate.net/2026/09/753968.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 以案释法｜聊城市市场监督管理局查处某食品有限公司生产超限量使用食品添加剂食品案 | http://news.foodmate.net/2026/09/753964.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 德阳市市场监管局完成2026年食品安全抽检核查处置“回头看”暨交叉评查 | http://news.foodmate.net/2026/09/753951.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 2026年9月食品行业舆情盘点 | http://news.foodmate.net/2026/09/753933.html |
+| 09-29 | 网页 | 巨潮·晨化股份 | 上市公司公告 | 关于使用自有闲置资金进行现金管理的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300610&orgId=9900030880&announcementId=1225586458&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·安联锐视 | 上市公司公告 | 关于完成工商备案的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301042&orgId=9900023025&announcementId=1225586457&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·天奇股份 | 上市公司公告 | 募集说明书（注册稿） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002009&orgId=gssz0002009&announcementId=1225586456&announcementTime=2026-09-29 |
+| 09-29 | 网页 | 巨潮·江龙船艇 | 上市公司公告 | 关于签订重大销售合同的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300589&orgId=9900030788&announcementId=1225586459&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·清溢光电 | 上市公司公告 | 关于高端半导体掩膜版研发进展的自愿性披露公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688138&orgId=9900031655&announcementId=1225586361&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·长鑫科技 | 上市公司公告 | 关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688825&orgId=9920000008&announcementId=1225586334&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·海目星 | 上市公司公告 | 海目星：第三届董事会第二十六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688559&orgId=9900041799&announcementId=1225586296&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·*ST华幸 | 上市公司公告 | 华夏幸福基业股份有限公司关于与产业投资人签署《重整投资协议》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600340&orgId=gssh0600340&announcementId=1225586286&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·ST美克 | 上市公司公告 | 美克国际家居用品股份有限公司关于与财务投资人签署《重整投资协议》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600337&orgId=gssh0600337&announcementId=1225586280&announcementTime=2026-09-29 |
 | 09-29 | 网页 | 巨潮·广汽集团 | 上市公司公告 | 广汽集团关于暂不召开股东会审议本次重组相关事宜的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601238&orgId=9900006006&announcementId=1225586274&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·九鼎新材 | 上市公司公告 | 关于修订《公司章程》及相应制度的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002201&orgId=9900003944&announcementId=1225586247&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·*ST宝馨 | 上市公司公告 | 关于公司控股股东所持公司部分股份司法拍卖过户完成暨权益变动触及1%刻度的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002514&orgId=9900016129&announcementId=1225586236&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·*ST泉为 | 上市公司公告 | 关于累计诉讼、仲裁事项进展情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300716&orgId=9900034391&announcementId=1225586235&announcementTime=2026-09-29 |
-| 09-29 | 网页 | 巨潮·蓝丰生化 | 上市公司公告 | 关于认购对象出具特定期间不减持公司股票承诺函的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002513&orgId=9900016128&announcementId=1225586218&announcementTime=2026-09-29 |
 | 09-28 17:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局发布13项食品快速检测方法 | https://mp.weixin.qq.com/s/O4a2nBpZk8auvaRKzS95zg |
 | 09-28 17:00 | 公众号 | 中国市场监管报 | 行业媒体 | 国务院食安办发布强化食品安全全链条监管创新案例（第三批） | https://mp.weixin.qq.com/s/UaRbwD9SGyGxzmTK--Ltvw |
 | 09-28 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 伊朗外长：已为“末日战争”做好准备 | https://mp.weixin.qq.com/s/-2mcH3SQBaCMDBV1bXunJw |
@@ -160,7 +171,6 @@
 | 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局扎实开展食品抽检核查处置技术帮扶工作 | http://news.foodmate.net/2026/09/753913.html |
 | 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 广西壮族自治区市场监督管理局食品安全监督抽检信息通告（2026年第117期） | http://news.foodmate.net/2026/09/753907.html |
 | 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 2026年“丝绸之路经济带”食品抽检联动机制风险预警交流会议在武威召开 | http://news.foodmate.net/2026/09/753900.html |
-| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 海南通报19批次不合格食品，有海南米露酒、老婆饼、安溪铁观音等 | http://news.foodmate.net/2026/09/753876.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 物美一把年纪从头学做硬折扣 | https://www.jiemian.com/article/15146494.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 央视曝光“一口福”39元核桃油实为大豆油，半年卖了310万 | https://www.jiemian.com/article/15144748.html |
 | 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 贾国龙儿子入股西贝旗下公司成实控人，此前创立壮壮酒馆 | https://www.jiemian.com/article/15144917.html |
