@@ -1,17 +1,26 @@
-# 舆情候选池 0929（09-28 00:00 至今，231 条：公众号 199 + 网页 32）
+# 舆情候选池 0929（09-28 00:00 至今，241 条：公众号 208 + 网页 33）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-30 | 网页 | 巨潮·国睿科技 | 上市公司公告 | 国睿科技股份有限公司2026年第一次临时股东会资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600562&orgId=gssh0600562&announcementId=1225587099&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·松发股份 | 上市公司公告 | 关于完成工商变更登记并换发营业执照的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603268&orgId=9900023730&announcementId=1225587088&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·江化微 | 上市公司公告 | 江阴江化微电子材料股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603078&orgId=9900030584&announcementId=1225587097&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·晋亿实业 | 上市公司公告 | 晋亿实业股份有限公司2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601002&orgId=9900002005&announcementId=1225587096&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·原尚股份 | 上市公司公告 | 原尚股份董事会薪酬与考核委员会关于公司2026年股票期权与限制性股票激励计划激励对象名单的公示情况说明及核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603813&orgId=9900031908&announcementId=1225587095&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·易德龙 | 上市公司公告 | 苏州易德龙科技股份有限公司关于召开2026年第五次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603380&orgId=9900032569&announcementId=1225587080&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·春秋航空 | 上市公司公告 | 春秋航空关于召开2026年第一次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601021&orgId=9900023129&announcementId=1225587093&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·长华集团 | 上市公司公告 | 长华集团关于持股5%以上股东权益变动触及1%刻度的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605018&orgId=9900039843&announcementId=1225587090&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·百川能源 | 上市公司公告 | 百川能源关于注销产业投资发展基金的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600681&orgId=gssh0600681&announcementId=1225587086&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·ST洲际 | 上市公司公告 | 洲际油气股份有限公司关于公司股票被实施其他风险警示相关事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600759&orgId=gssh0600759&announcementId=1225587085&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·世茂能源 | 上市公司公告 | 宁波世茂能源股份有限公司关于2026年半年度业绩暨现金分红说明会召开情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605028&orgId=9900041666&announcementId=1225587969&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·优刻得 | 上市公司公告 | 优刻得第三届董事会第十九次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688158&orgId=9900039004&announcementId=1225587968&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·ST百利 | 上市公司公告 | 关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603959&orgId=9900024644&announcementId=1225587964&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·山东高速 | 上市公司公告 | 山东高速股份有限公司关于子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600350&orgId=gssh0600350&announcementId=1225587953&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·宝光股份 | 上市公司公告 | 宝光股份2026年第一次临时股东会之法律意见书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600379&orgId=gssh0600379&announcementId=1225587952&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·圣泉集团 | 上市公司公告 | 圣泉集团关于开立募集资金现金管理专户并签订监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605589&orgId=9900028008&announcementId=1225587948&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·盛景微 | 上市公司公告 | 关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603375&orgId=9900051392&announcementId=1225587929&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·菱电电控 | 上市公司公告 | 菱电电控关于增加2026年度日常关联交易预计的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688667&orgId=9900041562&announcementId=1225587927&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·亚振家居 | 上市公司公告 | 关于第五届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603389&orgId=9900026793&announcementId=1225587925&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·白云电器 | 上市公司公告 | 白云电器关于2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603861&orgId=9900032270&announcementId=1225587915&announcementTime=2026-09-30 |
+| 09-29 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/L5Vu1YG4mScqBY-GURfrOA |
+| 09-29 17:00 | 公众号 | 新京报 | 综合媒体 | 能降温、能助儿童远视发育？这些墨镜的宣传“水分”太大 | https://mp.weixin.qq.com/s/33O1b7WeX7jef5TCM4KVlA |
+| 09-29 17:00 | 公众号 | 法治日报 | 综合媒体 | 因公牺牲一年后，他的警号021544，正式重启！ | https://mp.weixin.qq.com/s/l8EEMmnuVJyDGpOpXf9eiQ |
+| 09-29 17:00 | 公众号 | 界面新闻 | 综合媒体 | 数字人假扮医生带货：严打AI虚假广告向医疗领域渗透 | https://mp.weixin.qq.com/s/i-GQ8tI8R7EgqLy28FyoAg |
+| 09-29 17:00 | 公众号 | 南方都市报 | 综合媒体 | 李运辞去广东省人民政府副省长职务 | https://mp.weixin.qq.com/s/QJPTRXO6h0uQklvTEecjHw |
+| 09-29 17:00 | 公众号 | 极目新闻 | 综合媒体 | 中国女足雨中0比2不敌朝鲜队，无缘名古屋亚运会决赛 | https://mp.weixin.qq.com/s/RR-W0dBZYu9hseEQ2PMTVg |
+| 09-29 17:00 | 公众号 | 北京消协 | 消协 | 你买的充电宝合规吗？5起质量安全案例公布 | https://mp.weixin.qq.com/s/jq94DuuWGKyV3mSIoXSOlA |
+| 09-29 17:00 | 公众号 | 红网 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/~glOE96TZ4jvXVLth9lDyQ |
+| 09-29 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 29岁女子与同事双双查出结节，自己0.8cm×1cm的结节确诊癌症且已转移，同事的结节明明更大却没事，医生提醒 | https://mp.weixin.qq.com/s/tBXGMUT9Hw75L6K1Z1-HVA |
 | 09-29 16:00 | 公众号 | 央视财经 | 综合媒体 | 俄罗斯警告日本 | https://mp.weixin.qq.com/s/LfDSRp67TSTpSEdxEpa4sw |
 | 09-29 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中美俄元首将于深圳APEC期间会晤？外交部回应 | https://mp.weixin.qq.com/s/9zu8SvJusy5fSYyojSBdLg |
 | 09-29 16:00 | 公众号 | 新京报 | 综合媒体 | 那英临时加唱《弯弯的月亮》：规则之下还有温度在 | https://mp.weixin.qq.com/s/CL6Eqh5sTmX0GswmnkJmVw |
@@ -120,6 +129,7 @@
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 以案释法｜聊城市市场监督管理局查处某食品有限公司生产超限量使用食品添加剂食品案 | http://news.foodmate.net/2026/09/753964.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 德阳市市场监管局完成2026年食品安全抽检核查处置“回头看”暨交叉评查 | http://news.foodmate.net/2026/09/753951.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 2026年9月食品行业舆情盘点 | http://news.foodmate.net/2026/09/753933.html |
+| 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 一坐一忘和德克士都在努力接住卡戴珊带来的流量 | https://www.jiemian.com/article/15151420.html |
 | 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 界面快评｜商家千里取香菜，“仅退款”不能只是拉偏架 | https://www.jiemian.com/article/15149841.html |
 | 09-29 | 网页 | 澎湃·质量观 | 行业媒体 | 鲍师傅超长蛋挞被吐槽全是挞皮无挞液，官方客服：可申请退款 | https://www.thepaper.cn/newsDetail_forward_34171581 |
 | 09-29 | 网页 | 澎湃·质量观 | 行业媒体 | 甘肃天水一天然气公司强制搭售波纹管被罚：进价每米6元，卖60元 | https://www.thepaper.cn/newsDetail_forward_34170016 |
