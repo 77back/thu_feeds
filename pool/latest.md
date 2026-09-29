@@ -1,7 +1,15 @@
-# 舆情候选池 0929（09-28 00:00 至今，160 条：公众号 131 + 网页 29）
+# 舆情候选池 0929（09-28 00:00 至今，168 条：公众号 139 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-29 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/Nf1SpQD5g9KUVdoJEVOi4w |
+| 09-29 10:00 | 公众号 | 新京报 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/f8n5b6X61RahSRXDTxRNhQ |
+| 09-29 10:00 | 公众号 | 界面新闻 | 综合媒体 | 广汽集团涨停 | https://mp.weixin.qq.com/s/Fox5hla7K2FBPEaOGsc9vg |
+| 09-29 10:00 | 公众号 | 法治日报 | 综合媒体 | 老人卖房替儿还贷百万，称儿子儿媳拿钱后与他断绝来往，只好起诉要钱，儿媳称微信说过“感谢爸爸鼎力相助”，足以说明钱是赠与；法官说法 | https://mp.weixin.qq.com/s/DlQ5i1NOzT~oc6BB6VHI2A |
+| 09-29 10:00 | 公众号 | 极目新闻 | 综合媒体 | 贵州今天凌晨突发，小轿车上7人死亡 | https://mp.weixin.qq.com/s/2ZzJ-sN~EiOPY9HvixI-VQ |
+| 09-29 10:00 | 公众号 | 南方都市报 | 综合媒体 | 教育部：坚决拥护党中央决定 | https://mp.weixin.qq.com/s/H2BB7t9ET6L16VLbE032-w |
+| 09-29 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/WekTOLVqBjZ81QwzJnEJPw |
+| 09-29 10:00 | 公众号 | 食事求真 | 行业媒体 | 百年青啤利润连创新高 数字化把啤酒厂变成用户平台 | https://mp.weixin.qq.com/s/C~iplfx-pmB9fLfFURt1Gw |
 | 09-29 09:00 | 公众号 | 央视财经 | 综合媒体 | 重开霍尔木兹海峡？新进展来了！ | https://mp.weixin.qq.com/s/haiDzHXyu5O5mkzkzktDpg |
 | 09-29 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 25岁青年捐建村小教学楼已烂尾12年，“愿再出资，但手续不全，不敢私自修缮” | https://mp.weixin.qq.com/s/g5PwohtTR~irF5OfUVKyFQ |
 | 09-29 09:00 | 公众号 | 界面新闻 | 综合媒体 | OpenAI紧急叫停最新模型发布计划 | https://mp.weixin.qq.com/s/6aCm-kj8lkPbh8jOKNzdcQ |
