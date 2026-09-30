@@ -1,7 +1,18 @@
-# 舆情候选池 0930（09-29 00:00 至今，198 条：公众号 170 + 网页 28）
+# 舆情候选池 0930（09-29 00:00 至今，210 条：公众号 181 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-30 13:00 | 公众号 | 市说新语 | 监管·总局 | 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席 | https://mp.weixin.qq.com/s/XGsWRB2X-w6MNmsVcjWDlQ |
+| 09-30 13:00 | 公众号 | 中国市场监管报 | 行业媒体 | 10月起，这些新规将影响你我生活 | https://mp.weixin.qq.com/s/WqQ8eoh3NoyCiKCCGkl0cA |
+| 09-30 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中共中央批准：徐建任重庆市委常委 | https://mp.weixin.qq.com/s/6jNHqtRD3z4fzSAPvTncRg |
+| 09-30 13:00 | 公众号 | 央视财经 | 综合媒体 | 南部战区、中国海警发布！ | https://mp.weixin.qq.com/s/4FxQsT3Hm0GeMkZGMIZp9Q |
+| 09-30 13:00 | 公众号 | 法治日报 | 综合媒体 | 广东72岁阿婆出境旅游，递上护照时边检民警愣住了：护照页上写着“旅行日记”……边检提醒：出境游前先查护照 | https://mp.weixin.qq.com/s/1Toq3ErqBVx4uy1gSBd8yA |
+| 09-30 13:00 | 公众号 | 新京报 | 综合媒体 | “航班乘务员下跪”真相是啥，得尽快有个说法 | https://mp.weixin.qq.com/s/EBVUHT53nxD0zHtLXpKNnw |
+| 09-30 13:00 | 公众号 | 界面新闻 | 综合媒体 | 炒到500元，稻城亚丁国庆多日预约名额已约满 | https://mp.weixin.qq.com/s/ipnWaqxsXRmwEHs9fHt~mw |
+| 09-30 13:00 | 公众号 | 南方都市报 | 综合媒体 | 胡歌难掩悲痛，止不住落泪 | https://mp.weixin.qq.com/s/LCqNxmcy~TV97C5n~05ttg |
+| 09-30 13:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 从提供货架到定义产品：中国零售商加速布局自有品牌 | https://mp.weixin.qq.com/s/5DfBUU0Yc-iQnrc~Reur-A |
+| 09-30 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员万千惠发文求助 | https://mp.weixin.qq.com/s/KAl9R4J3W6Vc2qtln7C9oQ |
+| 09-30 13:00 | 公众号 | 红网 | 综合媒体 | 中央批准，徐建任重庆市委常委 | https://mp.weixin.qq.com/s/w6KFxP2GwZoa2txlkn0V4A |
 | 09-30 12:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——除醛产品消费提示 | https://mp.weixin.qq.com/s/-Li4Rj9w9B4j~MFewLkdiw |
 | 09-30 12:00 | 公众号 | 上海市消保委 | 消协 | 8.59元香菜遭“仅退款”？卖家从徐州赶到上海“上门取菜”，油费加过路费花费千元！评论区网友为这吵翻了… | https://mp.weixin.qq.com/s/-m-dM0foc49a4y063kbU8Q |
 | 09-30 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行，习近平等党和国家领导人出席 | https://mp.weixin.qq.com/s/mWN-n~2m6RQJehe2c0jpvw |
@@ -77,6 +88,7 @@
 | 09-30 | 网页 | 巨潮·北新建材 | 上市公司公告 | 关于申请发行债务融资工具获准注册的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000786&orgId=gssz0000786&announcementId=1225589597&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·苏 | 上市公司公告 | 关于公司董事辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002032&orgId=gssz0002032&announcementId=1225589592&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·国光股份 | 上市公司公告 | 关于使用闲置自有资金购买理财产品的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002749&orgId=9900023788&announcementId=1225589590&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | 【逝者】恒安联合创办人施文博：卫生巾普及的推动者 | https://www.jiemian.com/article/15155049.html |
 | 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | 寄错月饼礼盒并被质疑“捂嘴”，Tiffany中国致歉 | https://www.jiemian.com/article/15153639.html |
 | 09-29 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/L5Vu1YG4mScqBY-GURfrOA |
 | 09-29 17:00 | 公众号 | 新京报 | 综合媒体 | 能降温、能助儿童远视发育？这些墨镜的宣传“水分”太大 | https://mp.weixin.qq.com/s/33O1b7WeX7jef5TCM4KVlA |
