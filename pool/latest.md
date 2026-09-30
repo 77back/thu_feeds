@@ -1,17 +1,43 @@
-# 舆情候选池 0929（09-28 00:00 至今，241 条：公众号 208 + 网页 33）
+# 舆情候选池 0930（09-29 00:00 至今，160 条：公众号 134 + 网页 26）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 09-30 | 网页 | 巨潮·世茂能源 | 上市公司公告 | 宁波世茂能源股份有限公司关于2026年半年度业绩暨现金分红说明会召开情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605028&orgId=9900041666&announcementId=1225587969&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·优刻得 | 上市公司公告 | 优刻得第三届董事会第十九次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688158&orgId=9900039004&announcementId=1225587968&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·ST百利 | 上市公司公告 | 关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603959&orgId=9900024644&announcementId=1225587964&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·山东高速 | 上市公司公告 | 山东高速股份有限公司关于子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600350&orgId=gssh0600350&announcementId=1225587953&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·宝光股份 | 上市公司公告 | 宝光股份2026年第一次临时股东会之法律意见书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600379&orgId=gssh0600379&announcementId=1225587952&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·圣泉集团 | 上市公司公告 | 圣泉集团关于开立募集资金现金管理专户并签订监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605589&orgId=9900028008&announcementId=1225587948&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·盛景微 | 上市公司公告 | 关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603375&orgId=9900051392&announcementId=1225587929&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·菱电电控 | 上市公司公告 | 菱电电控关于增加2026年度日常关联交易预计的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688667&orgId=9900041562&announcementId=1225587927&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·亚振家居 | 上市公司公告 | 关于第五届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603389&orgId=9900026793&announcementId=1225587925&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·白云电器 | 上市公司公告 | 白云电器关于2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603861&orgId=9900032270&announcementId=1225587915&announcementTime=2026-09-30 |
+| 09-30 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管部门中秋节期间抽检月饼6418批次，检出50批次不合格 | https://mp.weixin.qq.com/s/Pv3vx5hikF~VPZ24wMaVJw |
+| 09-30 08:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局部署各地全力保障中秋假期食品安全 | https://mp.weixin.qq.com/s/V1e0w-TCiHWTz3ehh5DdBg |
+| 09-30 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 市场监管总局召开深化群众身边不正之风和腐败问题集中整治工作调度推进会 | https://mp.weixin.qq.com/s/nMrNnQ15EfnqPMPCv6pC5w |
+| 09-30 08:00 | 公众号 | 中国消费者协会 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/UR11m6Ti-~SOh0d-tjVuUQ |
+| 09-30 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 就事论市 ｜ 盲盒经济，不能丢掉诚信底色 | https://mp.weixin.qq.com/s/03ZR4SHQlYGHuhF~x827vg |
+| 09-30 08:00 | 公众号 | 央视财经 | 综合媒体 | 山河永念，英雄不朽！ | https://mp.weixin.qq.com/s/bpalpRUORTECo2SnIqsnaw |
+| 09-30 08:00 | 公众号 | 黑猫投诉 | 投诉平台 | “Tiffany捂嘴”上热搜！女子消费超20万元珠宝，赠礼月饼被销售换成散装桃酥！Tiffany  中国区负责人致歉 | https://mp.weixin.qq.com/s/Zkh7FwhwhPLijRTeaPoAqQ |
+| 09-30 08:00 | 公众号 | 上海市场监管 | 监管·地方 | 金秋新粮上市季！“你点我检”守护市民“米袋子”安全 | https://mp.weixin.qq.com/s/-JuxHpWcxIE3281OUrSd6Q |
+| 09-30 08:00 | 公众号 | 澎湃新闻 | 综合媒体 | 恒安集团：董事局主席施文博逝世 | https://mp.weixin.qq.com/s/MOMM55C2EcHycPGt23wsMQ |
+| 09-30 08:00 | 公众号 | 深圳市场监管 | 监管·地方 | 深圳市市场监督管理局召开国庆假期重点工作部署会 | https://mp.weixin.qq.com/s/Iy8aPDcqSTlSoV8P-KbR2Q |
+| 09-30 08:00 | 公众号 | 新京报 | 综合媒体 | 逝者丨游本昌：“我也当回归游戏神通，济世为公” | https://mp.weixin.qq.com/s/6bvb8tU09ps4tJOxiGrCLg |
+| 09-30 08:00 | 公众号 | 界面新闻 | 综合媒体 | 数字文创，成都的世界级新“特产” | https://mp.weixin.qq.com/s/FHE5IYWB5BuNyvUOMwbrfQ |
+| 09-30 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 刘铁铎，被查 | https://mp.weixin.qq.com/s/IF~0Up2vV3VbllNftiD91g |
+| 09-30 08:00 | 公众号 | 法治日报 | 综合媒体 | 男子醉乘网约车多次要求下车并辱骂司机，停车后自行离去，次日在河道发现其遗体，家属向司机、平台及河道管理方索赔，法院判了｜朝闻法治 | https://mp.weixin.qq.com/s/kfnsVY0sKHQkbWKMxOCnPw |
+| 09-30 08:00 | 公众号 | 南方都市报 | 综合媒体 | 经党中央、国务院批准，中央生态环境保护督察组分别向辽宁、吉林等多地反馈督察情况 | https://mp.weixin.qq.com/s/Uoe8r7rgNjWbZlU0zZXMAA |
+| 09-30 08:00 | 公众号 | 消费日报官方平台 | 行业媒体 | “溜溜凳”涉事品牌方发布声明，称产品送第三方检测显示合标，废旧木材回收生产符合国家规定 | https://mp.weixin.qq.com/s/dc7EUs2cXqGy9aLpr4NKHg |
+| 09-30 08:00 | 公众号 | 极目新闻 | 综合媒体 | 26岁男子体内取出248枚“金豆”！平常特别爱吃这些……医生郑重提醒 | https://mp.weixin.qq.com/s/nAFDCCgzRzHBfoPdDzs0Ig |
+| 09-30 08:00 | 公众号 | 今晚报 | 综合媒体 | 突发讣告！25岁网红博主去世，曾自述患癌前生活习惯 | https://mp.weixin.qq.com/s/Kb6FstlWq92RjM1fjxFadw |
+| 09-30 08:00 | 公众号 | 红网 | 综合媒体 | 10月起，这些新规将影响你我生活 | https://mp.weixin.qq.com/s/o5O1yHnru~iCy4IMqCaWyA |
+| 09-30 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 要闻 ｜ 农业农村部：采取“三个进一步”，切实守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/l5MjwktWWdhG0zyi3zs2wQ |
+| 09-30 08:00 | 公众号 | 河北省消保委 | 消协 | 乐享假日丨河北省消保委发布国庆消费提示 | https://mp.weixin.qq.com/s/ox15QomBy~ROM18eY2e~vA |
+| 09-30 08:00 | 公众号 | 江苏省消保委 | 消协 | 和解故事｜酷暑家电遇故障，苏宁易购以温情服务守护独居老人 | https://mp.weixin.qq.com/s/lxN4GFKYo57Kd0ekdHM4iA |
+| 09-30 08:00 | 公众号 | 浙江消保委 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/ujxJja75ykeNjXTpg7m4ag |
+| 09-30 08:00 | 公众号 | 四川省消委会 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/h8Xs8faDsiXZ55heKpCvpg |
+| 09-30 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 市市场监管局党组书记、局长高念东“四不两直”检查国庆假日特种设备和食品安全工作 | https://mp.weixin.qq.com/s/qxZ46AMLK1bCXX6i7HVLHw |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 兰州市西固区市场监督管理局开展香辛调味料监督抽检 | http://news.foodmate.net/2026/09/754055.html |
+| 09-30 | 网页 | 巨潮·雅创电子 | 上市公司公告 | 雅创电子发行股份及支付现金购买资产并募集配套资金报告书（草案）（修订稿） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301099&orgId=nssc1000560&announcementId=1225589553&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·广合科技 | 上市公司公告 | H股公告-建议采纳A股激励计划及H股激励计划 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001389&orgId=9900046622&announcementId=1225589564&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·先导智能 | 上市公司公告 | H股公告-翌日披露报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300450&orgId=9900023846&announcementId=1225589533&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·英唐智控 | 上市公司公告 | 第六届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300131&orgId=9900014589&announcementId=1225589534&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·沃尔核材 | 上市公司公告 | 关于控股子公司申请向不特定合格投资者公开发行股票并在北京证券交易所上市的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002130&orgId=9900002702&announcementId=1225589532&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·农业银行 | 上市公司公告 | 农业银行2026年度第二次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601288&orgId=jjxt0000020&announcementId=1225589491&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·杰普特 | 上市公司公告 | 关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688025&orgId=gfbj0870105&announcementId=1225589482&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·千里科技 | 上市公司公告 | 重庆千里科技股份有限公司关于召开2026年第四次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601777&orgId=9900016000&announcementId=1225589445&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·科森科技 | 上市公司公告 | 关于暂不召开股东会审议本次向特定对象发行A股股票相关事宜的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603626&orgId=9900029914&announcementId=1225589406&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·*ST禾信 | 上市公司公告 | 第四届董事会独立董事专门会议第九次会议决议 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688622&orgId=gfbj0871079&announcementId=1225588735&announcementTime=2026-09-30 |
 | 09-29 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/L5Vu1YG4mScqBY-GURfrOA |
 | 09-29 17:00 | 公众号 | 新京报 | 综合媒体 | 能降温、能助儿童远视发育？这些墨镜的宣传“水分”太大 | https://mp.weixin.qq.com/s/33O1b7WeX7jef5TCM4KVlA |
 | 09-29 17:00 | 公众号 | 法治日报 | 综合媒体 | 因公牺牲一年后，他的警号021544，正式重启！ | https://mp.weixin.qq.com/s/l8EEMmnuVJyDGpOpXf9eiQ |
@@ -129,117 +155,10 @@
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 以案释法｜聊城市市场监督管理局查处某食品有限公司生产超限量使用食品添加剂食品案 | http://news.foodmate.net/2026/09/753964.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 德阳市市场监管局完成2026年食品安全抽检核查处置“回头看”暨交叉评查 | http://news.foodmate.net/2026/09/753951.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 2026年9月食品行业舆情盘点 | http://news.foodmate.net/2026/09/753933.html |
+| 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 从纽约到曼谷，喜茶出海重点还是品牌 | https://www.jiemian.com/article/15152253.html |
+| 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | YOYO跑出2亿月销，名创优品的原创IP生意走到哪一步了？ | https://www.jiemian.com/article/15150947.html |
 | 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 一坐一忘和德克士都在努力接住卡戴珊带来的流量 | https://www.jiemian.com/article/15151420.html |
 | 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 界面快评｜商家千里取香菜，“仅退款”不能只是拉偏架 | https://www.jiemian.com/article/15149841.html |
+| 09-29 | 网页 | 澎湃·质量观 | 行业媒体 | 广东惠州给酒店民宿预定设1小时“冷静期”：期间取消订单应全额退款 | https://www.thepaper.cn/newsDetail_forward_34172410 |
 | 09-29 | 网页 | 澎湃·质量观 | 行业媒体 | 鲍师傅超长蛋挞被吐槽全是挞皮无挞液，官方客服：可申请退款 | https://www.thepaper.cn/newsDetail_forward_34171581 |
 | 09-29 | 网页 | 澎湃·质量观 | 行业媒体 | 甘肃天水一天然气公司强制搭售波纹管被罚：进价每米6元，卖60元 | https://www.thepaper.cn/newsDetail_forward_34170016 |
-| 09-28 17:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局发布13项食品快速检测方法 | https://mp.weixin.qq.com/s/O4a2nBpZk8auvaRKzS95zg |
-| 09-28 17:00 | 公众号 | 中国市场监管报 | 行业媒体 | 国务院食安办发布强化食品安全全链条监管创新案例（第三批） | https://mp.weixin.qq.com/s/UaRbwD9SGyGxzmTK--Ltvw |
-| 09-28 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 伊朗外长：已为“末日战争”做好准备 | https://mp.weixin.qq.com/s/-2mcH3SQBaCMDBV1bXunJw |
-| 09-28 17:00 | 公众号 | 上海市场监管 | 监管·地方 | 喜报！ | https://mp.weixin.qq.com/s/~K4VXy85WEluA~AB0c30Ag |
-| 09-28 17:00 | 公众号 | 法治日报 | 综合媒体 | 调查报告披露：江西一超载渣土车右转未让直行，撞上载母女3人的电动车，碾压9岁女童致其当场遇难，肇事司机已被采取刑事强制措施 | https://mp.weixin.qq.com/s/XTLTNMBWSiMRC0exmf6pEg |
-| 09-28 17:00 | 公众号 | 界面新闻 | 综合媒体 | 央视曝光“一口福”39元核桃油实为大豆油，半年卖了310万 | https://mp.weixin.qq.com/s/MUwK258FiFs~t-KR3b5VfQ |
-| 09-28 17:00 | 公众号 | 南方都市报 | 综合媒体 | 又发现一具女尸，此前已有10名女性遇害，多数为年轻女性，遇害前遭受严重性侵……南非警方调查未取得突破，引发当地对“连环杀手”的恐慌 | https://mp.weixin.qq.com/s/ACmI2moLxo0hxb3xGvqBjA |
-| 09-28 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 郭建被查 | https://mp.weixin.qq.com/s/PH7QZmeNSWBDNsan7k2oTg |
-| 09-28 17:00 | 公众号 | 极目新闻 | 综合媒体 | 武汉造！全球首款可升降立标MPV在北京上市 | https://mp.weixin.qq.com/s/7Mg8LHGuYViSwVsODwUUMA |
-| 09-28 17:00 | 公众号 | 红网 | 综合媒体 | 湖南省娄底市工业和信息化局党组书记、局长梁小兵接受审查调查 | https://mp.weixin.qq.com/s/Jq49f9Eb0WBbFSavkiPd3A |
-| 09-28 16:00 | 公众号 | 央视财经 | 综合媒体 | 利好来了！万亿级产业，七部门重要部署→ | https://mp.weixin.qq.com/s/Qmy7Bgp7IDT0do0wVWdSXg |
-| 09-28 16:00 | 公众号 | 今晚报 | 综合媒体 | 油价调整通知 | https://mp.weixin.qq.com/s/vc9Ah5D6M32tKqBeKb3m~A |
-| 09-28 16:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北证监局原党委书记、局长王广幼被开除党籍 | https://mp.weixin.qq.com/s/NWPAFqcuxlbsCrt-KBY~eA |
-| 09-28 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 殡葬店为婚礼“让路”，和睦邻里找到最优解 | https://mp.weixin.qq.com/s/kdSdNshOAGqOXGwEE3RZUw |
-| 09-28 16:00 | 公众号 | 新京报 | 综合媒体 | 外交部：中方在TikTok问题上的立场是一贯的、明确的 | https://mp.weixin.qq.com/s/8XNktt3EDebWRJAcUdQJmQ |
-| 09-28 16:00 | 公众号 | 法治日报 | 综合媒体 | AI智能体自己绕过防护闯进澳洲政府网站，不仅偷看了内部文件，还试图往服务器里写东西，悄无声息持续了两个多月，直到工程师复盘时才发现 | https://mp.weixin.qq.com/s/k9K9-UDf6aD6rs0G-z3Ohw |
-| 09-28 16:00 | 公众号 | 南方都市报 | 综合媒体 | 尼泊尔雪崩，已致4人遇难 | https://mp.weixin.qq.com/s/AE6AxGxTzqfHINi5u1VJdw |
-| 09-28 16:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 不停给12306公众号发信息就能抢到票？官方辟谣 | https://mp.weixin.qq.com/s/OHuQ6TYoSwij6r4b3pggxw |
-| 09-28 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 特朗普谈与习近平主席的会晤：过去三天非常Amazing！ | https://mp.weixin.qq.com/s/HUJDXFWK5xnf6Evfssl-VA |
-| 09-28 16:00 | 公众号 | 红网 | 综合媒体 | 中国队夺得亚运会电子竞技王者荣耀金牌，队长一诺成为第一位两获亚运金牌的电竞项目运动员 | https://mp.weixin.qq.com/s/hSWYj9cUefUlhbPOSBCi6w |
-| 09-28 15:00 | 公众号 | 市说新语 | 监管·总局 | 国务院食安办发布强化食品安全全链条监管创新案例（第三批） | https://mp.weixin.qq.com/s/uyBIjT8PytytXWTB~KR7AQ |
-| 09-28 15:00 | 公众号 | 中国消费者报 | 行业媒体 | 市场监管总局曝光一批充电宝质量安全典型案例！ | https://mp.weixin.qq.com/s/dkTsGQMQEmvHVGtGk7gDfQ |
-| 09-28 15:00 | 公众号 | 央视财经 | 综合媒体 | AI数字人“亲测有效”？虚拟医生带货卖药，责任谁来担？ | https://mp.weixin.qq.com/s/B2o7Uvk3s5oJKJSBP0pMhw |
-| 09-28 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国乒男单，提前包揽金银牌 | https://mp.weixin.qq.com/s/nwjWkgCM5OnP36layRKZEw |
-| 09-28 15:00 | 公众号 | 新京报 | 综合媒体 | 四川一水电站职工在巡查时失联超5天：人已找到，确认遇难 | https://mp.weixin.qq.com/s/TQebiw-XsA025HvE8bLdjQ |
-| 09-28 15:00 | 公众号 | 南方都市报 | 综合媒体 | 国防军工单位临时聘用人员张某，为“有面子”偷拍正在研发的新型军事装备照片，发家庭群后被迅速转发扩散，造成严重失泄密，获刑 | https://mp.weixin.qq.com/s/Iq5dG0xnZjeve9lFX5Q4ww |
-| 09-28 15:00 | 公众号 | 界面新闻 | 综合媒体 | 黄金、白银大跌 | https://mp.weixin.qq.com/s/--J7iG-fRo9~BZjdKBr1~g |
-| 09-28 15:00 | 公众号 | 法治日报 | 综合媒体 | 《只进一扇门》 | https://mp.weixin.qq.com/s/ElR7e2SwyZDlPzWOzwp3yw |
-| 09-28 15:00 | 公众号 | 极目新闻 | 综合媒体 | 武汉市人民政府最新通告 | https://mp.weixin.qq.com/s/NLPM4zhIQ1xD2b6Jc3bleA |
-| 09-28 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 当手机“主动理解意图”，用户收获的是什么？ | https://mp.weixin.qq.com/s/ZV2Lb0WTYLXOJg4nDykWZw |
-| 09-28 14:00 | 公众号 | 央视财经 | 综合媒体 | 北汽原董事长徐和谊，被判死缓 | https://mp.weixin.qq.com/s/wp861DYiZO0CRDk6ptJ5Jw |
-| 09-28 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 对手穿错鞋子，中国队递补获得金银牌 | https://mp.weixin.qq.com/s/UPrJCwuHWkGN8p-QIviPOA |
-| 09-28 14:00 | 公众号 | 今晚报 | 综合媒体 | 一上地铁就乐了！这趟藏满相声包袱的专列几号线能坐上？ | https://mp.weixin.qq.com/s/wkm74-wuCyB60ybsI4d~Yg |
-| 09-28 14:00 | 公众号 | 界面新闻 | 综合媒体 | 接连发生智能体失控事故， OpenAI再次暂停前沿模型训练 | https://mp.weixin.qq.com/s/8shd3EgYMPW5DHB6HHDX2g |
-| 09-28 14:00 | 公众号 | 新京报 | 综合媒体 | 武契奇发声 | https://mp.weixin.qq.com/s/m-A~pVcR4PJR5ebM3Q06ZA |
-| 09-28 14:00 | 公众号 | 南方都市报 | 综合媒体 | 冷空气要来了！广州天气提醒：最高温将下降3~5℃ | https://mp.weixin.qq.com/s/LORYzVZlFLvVWOfT-fe-6w |
-| 09-28 14:00 | 公众号 | 法治日报 | 综合媒体 | 网络咨询“同城约”，被诱导充值23000元后账户异常，男子携带18000元现金驾车从淮南前往合肥，警方迅速启动高速拦截 | https://mp.weixin.qq.com/s/D~B5uFfTE5Ie1rvVK~R37g |
-| 09-28 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 莎拉·布莱曼悼念刘欢 | https://mp.weixin.qq.com/s/K15VbbmAM9ZYLpFPlKXAmA |
-| 09-28 14:00 | 公众号 | 红网 | 综合媒体 | 中国选手递补获得亚运会女子马拉松竞走金银牌，因对手穿错鞋：鞋子未在世界田联鞋子库中注册 | https://mp.weixin.qq.com/s/xwZQLmzfKJJ9Iml8TBQYlw |
-| 09-28 14:00 | 公众号 | 北京市场监管 | 监管·地方 | 以标准促治理、护安全、惠民生 ——北京发布39项地方标准，6项全国首创 | https://mp.weixin.qq.com/s/E~NYxj54F0Dk97gbWOxdqw |
-| 09-28 13:00 | 公众号 | 新京报 | 综合媒体 | “蚕丝卫生巾”里，真的有蚕丝吗？ | https://mp.weixin.qq.com/s/vevzGDlpZjjt0GUSLUDXig |
-| 09-28 13:00 | 公众号 | 法治日报 | 综合媒体 | 不停给12306公众号发信息，15分钟就能候补成功？紧急提醒 | https://mp.weixin.qq.com/s/EPB3PrybOeU0DeIcQ9ZrXQ |
-| 09-28 13:00 | 公众号 | 界面新闻 | 综合媒体 | 神秘“太空兔”抢占全球模型调用榜榜首，网友推测为MiniMax新模型 | https://mp.weixin.qq.com/s/FB~9lRAy6uI2V51MDn8Zsw |
-| 09-28 13:00 | 公众号 | 南方都市报 | 综合媒体 | “邪修抢票法”热传，12306紧急辟谣 | https://mp.weixin.qq.com/s/jcwaqPPX5ol137G8LEDoWQ |
-| 09-28 13:00 | 公众号 | 红网 | 综合媒体 | 下半年“最强冷空气”要来了！国庆长沙最低温或将跌至17°C | https://mp.weixin.qq.com/s/WXusuuQ7zsAvTQJvYHUGSg |
-| 09-28 13:00 | 公众号 | 极目新闻 | 综合媒体 | 30岁男子因母亲关心表哥心生妒忌，为独占母爱聚餐时在啤酒里下毒，致使表哥和四名饭店人员中毒；法院判了：故意杀人罪，获刑六年 | https://mp.weixin.qq.com/s/fVcf34W4R638mt~-83w29w |
-| 09-28 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 吴克群，公开向网友求助 | https://mp.weixin.qq.com/s/0Twdl1bB7TpEl1eC~1q4IQ |
-| 09-28 12:00 | 公众号 | 中国市场监管报 | 行业媒体 | 北京释放7亿只小蜂治毛毛虫；大熊猫“平平”“福双”启程赴美…… | https://mp.weixin.qq.com/s/7S6rnyc0NzWjNO~zhofB-A |
-| 09-28 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 2026食品安全放心消费交流研讨会！倒计时1天 | https://mp.weixin.qq.com/s/9bZtt06tFrSNDo2UaEd2dA |
-| 09-28 12:00 | 公众号 | 上海市消保委 | 消协 | 14岁男孩肾功能98%损坏，确诊肾衰竭！医生：这个习惯戒不掉就是把孩子往透析室送 | https://mp.weixin.qq.com/s/LqWMX109ou8OAewdzgfN8Q |
-| 09-28 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 北汽原董事长徐和谊，被判死缓 | https://mp.weixin.qq.com/s/BS9b4N3PObQZUjnvbct6nA |
-| 09-28 12:00 | 公众号 | 央视财经 | 综合媒体 | 黄金白银，显著下跌 | https://mp.weixin.qq.com/s/ZzKjozVti5C-~aobRg2atw |
-| 09-28 12:00 | 公众号 | 新京报 | 综合媒体 | 厨师谢鹏，记二等功 | https://mp.weixin.qq.com/s/zCi-Oqd99eENS~8EJOovpQ |
-| 09-28 12:00 | 公众号 | 南方都市报 | 综合媒体 | 商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况 | https://mp.weixin.qq.com/s/dPAwodkxYJzC18n~lBnh2w |
-| 09-28 12:00 | 公众号 | 界面新闻 | 综合媒体 | 北汽原董事长徐和谊，被判死缓 | https://mp.weixin.qq.com/s/dkE28YqVCsIxVj2qS5XSKQ |
-| 09-28 12:00 | 公众号 | 法治日报 | 综合媒体 | “贷款中介集体删除朋友圈”冲上热搜，“秒批”广告全部从朋友圈消失；9月30日起新规划下营销“红线”，头部助贷放贷平台业绩断崖下滑 | https://mp.weixin.qq.com/s/NJlhuck3JJgZP9IYik40BQ |
-| 09-28 12:00 | 公众号 | 极目新闻 | 综合媒体 | 北汽原董事长徐和谊因受贿、洗钱，一审被判死缓 | https://mp.weixin.qq.com/s/YLdWTdUNZLlNzYhjdumUvw |
-| 09-28 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况 | https://mp.weixin.qq.com/s/R33M8VmUJGYg6WywcD62ew |
-| 09-28 12:00 | 公众号 | 红网 | 综合媒体 | 商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况 | https://mp.weixin.qq.com/s/A0Kr-5z5E7zD43KwFPzT7A |
-| 09-28 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 商务部解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/ysxv0-PZP5xnDHblgVlYqw |
-| 09-28 11:00 | 公众号 | 法治日报 | 综合媒体 | 军工单位临时聘用人员张某，为在亲友面前“有面子”，偷拍军事装备发到家庭群，导致信息迅速扩散……获刑5年 | https://mp.weixin.qq.com/s/5mCwDYq99WzGv7C-K-eusg |
-| 09-28 11:00 | 公众号 | 新京报 | 综合媒体 | 企业主黄某彬，累计骗取多地招商补贴超1亿元，目前在逃 | https://mp.weixin.qq.com/s/6rV2dlpYBERqzKwhLMtVwQ |
-| 09-28 11:00 | 公众号 | 界面新闻 | 综合媒体 | 多元、反流量、善待新人：刘欢留给我们的音乐“遗产” | https://mp.weixin.qq.com/s/L9Cix25V8R56W1c6Jjj8ug |
-| 09-28 11:00 | 公众号 | 南方都市报 | 综合媒体 | 一地通告：市委书记、市长等132名领导手机号全部公布；观点：值得肯定，但不算制度创新，20多年前起已有地方试水，真正的考验在公布之后 | https://mp.weixin.qq.com/s/3dEbaN~7L0W09F4qz0pnYg |
-| 09-28 11:00 | 公众号 | 极目新闻 | 综合媒体 | 今天，全湖北人都在等9点58分！ | https://mp.weixin.qq.com/s/DrFRgS~eufXIuU0kJJoaOg |
-| 09-28 11:00 | 公众号 | 今晚报 | 综合媒体 | 痛别！鲜学福逝世 | https://mp.weixin.qq.com/s/dhE6r-OW1PiNZdORgC~QKA |
-| 09-28 11:00 | 公众号 | 红网 | 综合媒体 | 教育部原党组成员、副部长鲁昕接受审查调查 | https://mp.weixin.qq.com/s/l7mhuaoOEaqWwPbERsM3Bw |
-| 09-28 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 鲁昕被查（附简历） | https://mp.weixin.qq.com/s/kVO20VBVQQ51EA6wv0TDEQ |
-| 09-28 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 如何理解中美“建设性战略稳定关系”的新内涵 | https://mp.weixin.qq.com/s/uApCdnGahoydbK6GXPSkpg |
-| 09-28 10:00 | 公众号 | 新京报 | 综合媒体 | 商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/gj2xtyagXe0VvVAjnfZFxA |
-| 09-28 10:00 | 公众号 | 法治日报 | 综合媒体 | “在街头疾驰的出租车后备箱绑着一个人”，警方回应：大学生着急赶火车求助，车里坐不下，的哥让其坐后备箱，的哥已被停运并处罚 | https://mp.weixin.qq.com/s/gkkjwL3FpVEN2QD7wzwzlw |
-| 09-28 10:00 | 公众号 | 界面新闻 | 综合媒体 | 塞尔维亚总统武契奇辞职，将竞选政府总理 | https://mp.weixin.qq.com/s/S7rJ6DRwKa4sh~oaoeEc4Q |
-| 09-28 10:00 | 公众号 | 南方都市报 | 综合媒体 | 商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/5IYzdRBg2F9IScVusP4e4g |
-| 09-28 10:00 | 公众号 | 红网 | 综合媒体 | 取得积极共识！商务部美大司负责人解读第八轮中美经贸磋商成果 | https://mp.weixin.qq.com/s/hyQrrhjZCOj7VF7VlZS1cg |
-| 09-28 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 不停给12306公众号发信息，15分钟就能候补成功？紧急提醒 | https://mp.weixin.qq.com/s/9eq~gGgXyM2W-Qk5ZPvf-g |
-| 09-28 09:00 | 公众号 | 央视财经 | 综合媒体 | 美伊谈判，再传大消息！ | https://mp.weixin.qq.com/s/TBgkpFs0q5ZocZI0NRdmSw |
-| 09-28 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 世赛大幕落下，掌声为谁响起 | https://mp.weixin.qq.com/s/MZ00RdxO5~bb3oyRjp6BCA |
-| 09-28 09:00 | 公众号 | 界面新闻 | 综合媒体 | 蔚来与吉利，战略交易达成 | https://mp.weixin.qq.com/s/~NLiWvtxG-PaUhQc7NwI-w |
-| 09-28 09:00 | 公众号 | 新京报 | 综合媒体 | 长征·村志｜贵州乐境村：一名红军烈士跨越91年的归途 | https://mp.weixin.qq.com/s/uf9dwU6cYgHRYDdn-heWJA |
-| 09-28 09:00 | 公众号 | 法治日报 | 综合媒体 | 企业员工王升，记二等功，奖励20000元！ | https://mp.weixin.qq.com/s/5kDv47cFjLFdSfoYX708GA |
-| 09-28 09:00 | 公众号 | 南方都市报 | 综合媒体 | 教师称“成绩排名靠后，被强制自费培训”，广西官方通报 | https://mp.weixin.qq.com/s/ZM3YRPo6YGVy1zDtT-92xg |
-| 09-28 09:00 | 公众号 | 今晚报 | 综合媒体 | 知名歌手演唱会迟到，上演真实版“人在囧途” | https://mp.weixin.qq.com/s/vuTwZqpmiIlfvYdkve8ILg |
-| 09-28 09:00 | 公众号 | 红网 | 综合媒体 | 国安部：境外间谍情报机关鼓吹虚拟货币“隐蔽”流转，输送间谍经费，严重威胁我国家秘密安全 | https://mp.weixin.qq.com/s/HhTalwrYXubKER4Vr0rgTQ |
-| 09-28 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 连某明（男，44岁），前往卫生间途中被升降平台夹伤倒地，当场宣告死亡，官方公布事故报告 | https://mp.weixin.qq.com/s/0ei2ARTcS01H60uqzeB97Q |
-| 09-28 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 用敌敌畏给餐厅消杀公司被罚2万元；“谢广坤”销售东北酸菜，被检不合格；女子被拔头发剃光头治白发却无效果…… | https://mp.weixin.qq.com/s/RpdotHJCY1xJ-ljOW~HXTA |
-| 09-28 08:00 | 公众号 | 市说新语 | 监管·总局 | 陈文清主持召开专题会议强调 依法从严查处危害食品安全违法犯罪 守护好人民群众“舌尖上的安全” | https://mp.weixin.qq.com/s/VSoa3Akq-J~lwpHF2pDP1g |
-| 09-28 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 2026食品安全放心消费交流研讨会！倒计时2天 | https://mp.weixin.qq.com/s/6qJtHdc8ZL~E33bOGq1EzQ |
-| 09-28 08:00 | 公众号 | 澎湃新闻 | 综合媒体 | 多地节俭迎国庆：旧国旗清洗检修后重复使用，一地利旧率达82% | https://mp.weixin.qq.com/s/FQgqlAbyS3l2~JHp64w7vA |
-| 09-28 08:00 | 公众号 | 央视财经 | 综合媒体 | 10万元→199元！这个机器人核心零部件，凭什么降了99.8%？ | https://mp.weixin.qq.com/s/X5U3SIJunqAUfdTrrWnjIQ |
-| 09-28 08:00 | 公众号 | 上海市场监管 | 监管·地方 | 2026年中秋假期市场监管投诉举报情况分析 | https://mp.weixin.qq.com/s/mIncJDWPnI6dDPxK5ejzyQ |
-| 09-28 08:00 | 公众号 | 新京报 | 综合媒体 | 好汉刘欢 | https://mp.weixin.qq.com/s/LvoaoXioPEvuQmPvtBUFvA |
-| 09-28 08:00 | 公众号 | 界面新闻 | 综合媒体 | 王曼昱夺金，国乒实现女单亚运会八连冠 | https://mp.weixin.qq.com/s/dhIa6lVCGhMbFNWpStsgDQ |
-| 09-28 08:00 | 公众号 | 法治日报 | 综合媒体 | 下水反水、早起排队上厕所？北京70年筒子楼原拆原建，新家带独立厨卫和电梯；其“核心密码”是居民99%同意，大家商量着办 | https://mp.weixin.qq.com/s/-TdHyHdHVsRmcbJ69V2PbA |
-| 09-28 08:00 | 公众号 | 南方都市报 | 综合媒体 | 冲上热搜！比尔·盖茨发出警告：或足以造成“10亿人死亡” | https://mp.weixin.qq.com/s/SaYgGE8EOhpE8gEbchsrhw |
-| 09-28 08:00 | 公众号 | 极目新闻 | 综合媒体 | 演员佘诗曼食物中毒，体重跌破90斤 | https://mp.weixin.qq.com/s/mrmSo95q1iD0~F77I8WmcA |
-| 09-28 08:00 | 公众号 | 今晚报 | 综合媒体 | 知名女星食物中毒，体重新低不足90斤 | https://mp.weixin.qq.com/s/YjHYHVIdao8~EcsoyIcyqQ |
-| 09-28 08:00 | 公众号 | 红网 | 综合媒体 | 央视曝假助农直播间：声称“公益助农”，“原价298元、直播间仅售39元”，大豆油冒充核桃油等卖了310万 | https://mp.weixin.qq.com/s/4oc~XUjXdHhFZUp9QbB19w |
-| 09-28 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 武契奇辞职 | https://mp.weixin.qq.com/s/d~tF7gcsBBu3ci94fwCQGw |
-| 09-28 08:00 | 公众号 | 江苏省消保委 | 消协 | “智联家居·美好生活”环省行活动在无锡举行 | https://mp.weixin.qq.com/s/NCdm46ZZrA~mbLvaQS4buQ |
-| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局深入推进食品抽检核查处置创新试点工作 | http://news.foodmate.net/2026/09/753914.html |
-| 09-28 | 网页 | 食品伙伴网 | 抽检通报 | 市场监管总局扎实开展食品抽检核查处置技术帮扶工作 | http://news.foodmate.net/2026/09/753913.html |
-| 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 物美一把年纪从头学做硬折扣 | https://www.jiemian.com/article/15146494.html |
-| 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 央视曝光“一口福”39元核桃油实为大豆油，半年卖了310万 | https://www.jiemian.com/article/15144748.html |
-| 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 贾国龙儿子入股西贝旗下公司成实控人，此前创立壮壮酒馆 | https://www.jiemian.com/article/15144917.html |
-| 09-28 | 网页 | 界面新闻·消费 | 综合媒体 | 160年坚守，雀巢把“营养、健康与幸福生活”落到中国餐桌 | https://www.jiemian.com/article/15144411.html |
-| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 湖北赤壁通报“连锁火锅串串店发现虫卵”：责令商家限期整改 | https://www.thepaper.cn/newsDetail_forward_34166936 |
-| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 重庆九龙坡教委回应“校服印花开胶、缝线开线”：已责成督促供货企业抓紧落实售后整改 | https://www.thepaper.cn/newsDetail_forward_34165094 |
-| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 新版再生纸浆国家标准落地，严禁使用医疗用纸等不洁原料 | https://www.thepaper.cn/newsDetail_forward_34165309 |
-| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局发布13项食品快检方法，可查18种风险物质 | https://www.thepaper.cn/newsDetail_forward_34165107 |
-| 09-28 | 网页 | 澎湃·质量观 | 行业媒体 | 强化食品安全全链条监管，国务院食安办发布第三批典型案例 | https://www.thepaper.cn/newsDetail_forward_34164397 |
