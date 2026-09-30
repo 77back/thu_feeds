@@ -1,7 +1,24 @@
-# 舆情候选池 0930（09-29 00:00 至今，232 条：公众号 192 + 网页 40）
+# 舆情候选池 0930（09-29 00:00 至今，239 条：公众号 199 + 网页 40）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-01 | 网页 | 巨潮·*ST京化 | 上市公司公告 | 公司第十二届董事会第七次会议决议公告(2026-061) | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600889&orgId=gssh0600889&announcementId=1225589775&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·药康生物 | 上市公司公告 | 关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688046&orgId=9900051414&announcementId=1225589794&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·众鑫股份 | 上市公司公告 | 关于股份回购进展情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603091&orgId=9900056873&announcementId=1225589792&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·浙版传媒 | 上市公司公告 | 浙江出版传媒股份有限公司2026年第二次临时股东会会议材料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601921&orgId=9900041882&announcementId=1225589789&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·华懋科技 | 上市公司公告 | 华懋科技关于因申报文件财务资料及评估数据更新收到上海证券交易所中止发行股份及支付现金购买资产并募集配套资金暨关联交易审核通知的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603306&orgId=9900029307&announcementId=1225589788&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·重庆燃气 | 上市公司公告 | 重庆燃气第四届董事会第四十一次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600917&orgId=9900029304&announcementId=1225589787&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·云中马 | 上市公司公告 | 浙江云中马股份有限公司关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603130&orgId=9900048363&announcementId=1225589776&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·佰仁医疗 | 上市公司公告 | 佰仁医疗关于股份回购实施结果的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688198&orgId=9900039164&announcementId=1225589783&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·南网科技 | 上市公司公告 | 南网科技：关于公司副总经理辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688248&orgId=9900048083&announcementId=1225589782&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·豪悦护理 | 上市公司公告 | 关于子公司完成设立登记的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605009&orgId=9900039806&announcementId=1225589780&announcementTime=2026-10-01 |
+| 09-30 15:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局办公厅联合公安部刑侦局发布反诈提示：警惕“挂名法人”陷阱 | https://mp.weixin.qq.com/s/e~LCGaGvFJWtBDhC88WC4Q |
+| 09-30 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | “空姐下跪”热搜高挂，真相不该再迟到 | https://mp.weixin.qq.com/s/otzDPPvIP1LU7IPYDxfDig |
+| 09-30 15:00 | 公众号 | 新京报 | 综合媒体 | 长沙某高校副教授被指与前妻欠款数百万，十余年不还被“限高”，当事双方发声 | https://mp.weixin.qq.com/s/w1V2Pm-~YxFb0adnx-INcg |
+| 09-30 15:00 | 公众号 | 界面新闻 | 综合媒体 | 云南石林终止青桔美团电动车运营，两公司曾就落选提出异议 | https://mp.weixin.qq.com/s/TzJZ3ILIFHraJFgso2MNjg |
+| 09-30 15:00 | 公众号 | 南方都市报 | 综合媒体 | 多景区紧急通知：国庆门票售罄；九寨沟：1日-5日售罄；稻城亚丁：5日前已约满；故宫博物院：1日-6日约满；三星堆博物馆：1日-6日已售罄 | https://mp.weixin.qq.com/s/6O5DzLpzkxc7Ojw1VkM2vQ |
+| 09-30 15:00 | 公众号 | 极目新闻 | 综合媒体 | 武汉一区官宣：国庆停车免费！机关大院、公共停车场都开放 | https://mp.weixin.qq.com/s/I2T7qd3WZY8X0RQuKrrcww |
+| 09-30 15:00 | 公众号 | 红网 | 综合媒体 | 巴新警方破获涉电诈和人口贩运窝点，有中国公民被拘，中使馆提醒：高度警惕“海外高薪就业”陷阱，勿从事电诈违法活动 | https://mp.weixin.qq.com/s/PJaxN6AFwNxZBRoJQ6EqzA |
 | 09-30 14:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 这两款电冰箱“冷冻能力、储藏温度”不合格！ | https://mp.weixin.qq.com/s/63iWvXL16koY3CNJ7LXVOA |
 | 09-30 14:00 | 公众号 | 央视财经 | 综合媒体 | 工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行，集体公告！ | https://mp.weixin.qq.com/s/vJ~-1j1WiTiZw2UcB6t2NA |
 | 09-30 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 女职工被控殴打男同事致耳膜穿孔判刑8个月，最高法指令再审这起9年前的案子 | https://mp.weixin.qq.com/s/Tbmfxt6bu4FxHBsSh7XNZA |
@@ -96,16 +113,6 @@
 | 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 新疆检出35批次不合格食品，有水磨年糕、蜂蜜、风干牛肉等 | http://news.foodmate.net/2026/09/754084.html |
 | 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 浙江这9批次食品抽检不合格，有蘑菇麻薯、桃酥、红糖等 | http://news.foodmate.net/2026/09/754080.html |
 | 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 兰州市西固区市场监督管理局开展香辛调味料监督抽检 | http://news.foodmate.net/2026/09/754055.html |
-| 09-30 | 网页 | 巨潮·海融科技 | 上市公司公告 | 关于使用闲置自有资金进行现金管理的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300915&orgId=9900035512&announcementId=1225589598&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·美格智能 | 上市公司公告 | 关于合资公司注册成立的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002881&orgId=9900032572&announcementId=1225589593&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·新乡化纤 | 上市公司公告 | 关于控股股东新乡白鹭投资集团有限公司解除部分股份质押的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000949&orgId=gssz0000949&announcementId=1225589588&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·首航新能 | 上市公司公告 | 关于公司为子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301658&orgId=9900055971&announcementId=1225589599&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·长安汽车 | 上市公司公告 | 第十届董事会第二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000625&orgId=gssz0000625&announcementId=1225589594&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·维通利 | 上市公司公告 | 关于新增募集资金专户并签订募集资金四方监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001393&orgId=9900063182&announcementId=1225589589&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·广康生化 | 上市公司公告 | 关于全资子公司建设项目部分装置进入试生产阶段的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300804&orgId=9900041419&announcementId=1225589600&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·北新建材 | 上市公司公告 | 关于申请发行债务融资工具获准注册的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000786&orgId=gssz0000786&announcementId=1225589597&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·苏 | 上市公司公告 | 关于公司董事辞职的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002032&orgId=gssz0002032&announcementId=1225589592&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·国光股份 | 上市公司公告 | 关于使用闲置自有资金购买理财产品的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002749&orgId=9900023788&announcementId=1225589590&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | 【逝者】恒安联合创办人施文博：卫生巾普及的推动者 | https://www.jiemian.com/article/15155049.html |
 | 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | 寄错月饼礼盒并被质疑“捂嘴”，Tiffany中国致歉 | https://www.jiemian.com/article/15153639.html |
 | 09-29 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/L5Vu1YG4mScqBY-GURfrOA |
