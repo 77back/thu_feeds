@@ -1,7 +1,19 @@
-# 舆情候选池 0930（09-29 00:00 至今，186 条：公众号 158 + 网页 28）
+# 舆情候选池 0930（09-29 00:00 至今，198 条：公众号 170 + 网页 28）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-30 12:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——除醛产品消费提示 | https://mp.weixin.qq.com/s/-Li4Rj9w9B4j~MFewLkdiw |
+| 09-30 12:00 | 公众号 | 上海市消保委 | 消协 | 8.59元香菜遭“仅退款”？卖家从徐州赶到上海“上门取菜”，油费加过路费花费千元！评论区网友为这吵翻了… | https://mp.weixin.qq.com/s/-m-dM0foc49a4y063kbU8Q |
+| 09-30 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行，习近平等党和国家领导人出席 | https://mp.weixin.qq.com/s/mWN-n~2m6RQJehe2c0jpvw |
+| 09-30 12:00 | 公众号 | 广东市场监管 | 监管·地方 | 广东省市场监督管理局党组部署国庆和APEC会议期间市场监管领域安全监管工作 | https://mp.weixin.qq.com/s/P0V-FwDbIx0TK~4HWmRG8Q |
+| 09-30 12:00 | 公众号 | 新京报 | 综合媒体 | 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行，习近平等党和国家领导人出席 | https://mp.weixin.qq.com/s/Q7mLbLJ0h7M~~iT92AeQhQ |
+| 09-30 12:00 | 公众号 | 界面新闻 | 综合媒体 | “国补”来了！第四批625亿元资金已下达 | https://mp.weixin.qq.com/s/GXhgBodqjSQoALJFROyr7g |
+| 09-30 12:00 | 公众号 | 南方都市报 | 综合媒体 | 《兰香如故》被指在台湾开播即爆火，获称“2026年黑马神剧”，国台办回应 | https://mp.weixin.qq.com/s/86abv4u4NOX1rFrZAlYbdQ |
+| 09-30 12:00 | 公众号 | 法治日报 | 综合媒体 | 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席 | https://mp.weixin.qq.com/s/Rgvd1eyFcPGhxGaTymYuYQ |
+| 09-30 12:00 | 公众号 | 极目新闻 | 综合媒体 | 胡歌陈龙双双哭了 | https://mp.weixin.qq.com/s/9VRgTLZ17SVhIg5HrRtGeA |
+| 09-30 12:00 | 公众号 | 今晚报 | 综合媒体 | 演员胡歌，现场送别 | https://mp.weixin.qq.com/s/2ccVzlCInZpKVQHyJY0tRA |
+| 09-30 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 众星送别游本昌：胡歌连夜从长沙赶来，落泪送别 | https://mp.weixin.qq.com/s/SY3IaxGjIqsqR~cTXBsYdw |
+| 09-30 12:00 | 公众号 | 红网 | 综合媒体 | 孙炜任合肥工业大学党委书记，此前曾担任湖南大学党委副书记 | https://mp.weixin.qq.com/s/AcT1~Tqc22NWXgiCgjXOSw |
 | 09-30 11:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——户外野餐可以这样选用一次性餐具 | https://mp.weixin.qq.com/s/wvtHrP7uVTe-~YP2IxjdUg |
 | 09-30 11:00 | 公众号 | 央视财经 | 综合媒体 | 易会满被提起公诉 | https://mp.weixin.qq.com/s/u1y4M~nH0ESQrQXYoI3DWg |
 | 09-30 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 最高检原副检察长张穹逝世 | https://mp.weixin.qq.com/s/Lc90qEeCvRdfWVsdHe7bWA |
