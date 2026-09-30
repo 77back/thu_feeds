@@ -1,17 +1,28 @@
-# 舆情候选池 0930（09-29 00:00 至今，241 条：公众号 211 + 网页 30）
+# 舆情候选池 0930（09-29 00:00 至今，264 条：公众号 222 + 网页 42）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-01 | 网页 | 巨潮·华锐精密 | 上市公司公告 | 关于完成工商变更登记并换发营业执照的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688059&orgId=9900041578&announcementId=1225590319&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·中复神鹰 | 上市公司公告 | 关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688295&orgId=9900051393&announcementId=1225590318&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·五矿发展 | 上市公司公告 | 五矿发展股份有限公司第十届董事会第十九次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600058&orgId=gssh0600058&announcementId=1225590301&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·中国中车 | 上市公司公告 | 中国中车H股市场公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601766&orgId=9900005127&announcementId=1225590316&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·绿的谐波 | 上市公司公告 | 关于变更保荐代表人的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688017&orgId=9900041602&announcementId=1225590315&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·中国银行 | 上市公司公告 | H股公告-截至二零二六年九月三十日止之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601988&orgId=jjxt0000028&announcementId=1225590313&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·华新建材 | 上市公司公告 | 2026年第三次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600801&orgId=gssh0600801&announcementId=1225590312&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·深圳新星 | 上市公司公告 | 关于对外担保进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603978&orgId=9900031492&announcementId=1225590310&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·复星医药 | 上市公司公告 | 复星医药H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600196&orgId=gssh0600196&announcementId=1225590308&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·永臻股份 | 上市公司公告 | 关于对外投资储能项目进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603381&orgId=9900058333&announcementId=1225590307&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·普元信息 | 上市公司公告 | 普元信息技术股份有限公司关于核心技术人员离职暨新增认定核心技术人员的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688118&orgId=9900023069&announcementId=1225591192&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·品高股份 | 上市公司公告 | 品高股份2026年第三次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688227&orgId=9900044736&announcementId=1225591191&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·红豆股份 | 上市公司公告 | 红豆股份简式权益变动报告书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600400&orgId=gssh0600400&announcementId=1225591190&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·海程邦达 | 上市公司公告 | 2026年第三次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603836&orgId=9900041685&announcementId=1225591154&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·伊利股份 | 上市公司公告 | 内蒙古伊利实业集团股份有限公司关于为全资子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600887&orgId=gssh0600887&announcementId=1225591147&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·莱斯信息 | 上市公司公告 | 莱斯信息2026年第一次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688631&orgId=9900023202&announcementId=1225591130&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·江西铜业 | 上市公司公告 | 江西铜业股份有限公司第十届董事会第二十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600362&orgId=gssh0600362&announcementId=1225591150&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·江南新材 | 上市公司公告 | 2026年第二次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603124&orgId=9900048190&announcementId=1225591144&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·西部黄金 | 上市公司公告 | 西部黄金股份有限公司简式权益变动报告书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601069&orgId=9900023646&announcementId=1225591132&announcementTime=2026-10-01 |
+| 10-01 | 网页 | 巨潮·农业银行 | 上市公司公告 | 农业银行H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601288&orgId=jjxt0000020&announcementId=1225591139&announcementTime=2026-10-01 |
+| 09-30 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电 | https://mp.weixin.qq.com/s/JYOH7cmrh512i0HlTmrS0g |
+| 09-30 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 小学组织“自愿捐款”却实名接龙，家委会权责边界需厘清 | https://mp.weixin.qq.com/s/c6lD29C4IjxVyYIQZ5gqQQ |
+| 09-30 17:00 | 公众号 | 界面新闻 | 综合媒体 | 中国队无缘亚运男足决赛 | https://mp.weixin.qq.com/s/C1RVLwpexwmpXTyRtP4A2A |
+| 09-30 17:00 | 公众号 | 新京报 | 综合媒体 | 东航通报“空姐下跪事件” | https://mp.weixin.qq.com/s/dVyDyZb3Df~bl1a96obBMQ |
+| 09-30 17:00 | 公众号 | 南方都市报 | 综合媒体 | 东方航空回应“空姐下跪向乘客道歉事件”：旅客情绪激动，连续使用粗俗过激言语，并威胁脚踢乘务员，乘务员受到惊吓 | https://mp.weixin.qq.com/s/BsUqCl9ZfxvpqpdVxWGtHQ |
+| 09-30 17:00 | 公众号 | 法治日报 | 综合媒体 | 东航通报“空姐下跪事件”：旅客未有明显外伤或肿胀，员工已恢复正常工作，正协同相关方对事件过程进行全面复盘取证 | https://mp.weixin.qq.com/s/fhk4a4cD63AzxNTg7infzA |
+| 09-30 17:00 | 公众号 | 极目新闻 | 综合媒体 | 爆了！第一波已到武汉！请提前准备 | https://mp.weixin.qq.com/s/rpo5w~-ggjrIdXGUQvQLsg |
+| 09-30 17:00 | 公众号 | 今晚报 | 综合媒体 | 又一演员突发意外！惠英红称：车窗被砸、包被抢！ | https://mp.weixin.qq.com/s/5TNa4bNvEg8bX3Z9SlI4Dg |
+| 09-30 17:00 | 公众号 | 红网 | 综合媒体 | 小泉进次郎放出“不设禁忌讨论核武器和核潜艇”狂言，中方：拥有核武器不是日方想不想讨论的问题，没有讨价还价的余地 | https://mp.weixin.qq.com/s/kFiK2ivGhHxxPHk4~2G8tw |
+| 09-30 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 空姐下跪求乘客谅解？东航回应 | https://mp.weixin.qq.com/s/ShjIFlISXTpAH6fqat5YgA |
+| 09-30 17:00 | 公众号 | 浙江消保委 | 消协 | 补贴15%，每件最高1500元！浙江省消费品以旧换新智能家居购新补贴操作指引来了 | https://mp.weixin.qq.com/s/E~MZ9TbMdbGkXESD7YkEww |
 | 09-30 16:00 | 公众号 | 市说新语 | 监管·总局 | 2026食品安全放心消费交流研讨会在京召开 | https://mp.weixin.qq.com/s/mjlkYCA7ddOc3B0wXwq5ug |
 | 09-30 16:00 | 公众号 | 央视财经 | 综合媒体 | 楼市大消息！广州重磅发布 | https://mp.weixin.qq.com/s/CQcaR3H1-WOF5eRAwM18fw |
 | 09-30 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | “阿宝”送别“爷叔”，难掩悲痛，止不住落泪 | https://mp.weixin.qq.com/s/T8oap2SFfNdLJbtIMszRCA |
@@ -24,6 +35,7 @@
 | 09-30 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 迪拜航空客机传出劫机警报，载有约180人 | https://mp.weixin.qq.com/s/AXFzJBSD1tEUcdvtTaSCeA |
 | 09-30 16:00 | 公众号 | 红网 | 综合媒体 | 湘籍英烈张超纪念馆开馆，生前驾驶的歼-15，首次对外公开展示 | https://mp.weixin.qq.com/s/6RJAC7a04h83Jec8msfwdw |
 | 09-30 16:00 | 公众号 | 河北省消保委 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/vH8ZO6dSXemmnp59f3MZug |
+| 09-30 15:50 | 网页 | 食品伙伴网 | 产经动态 | 内含福利｜《2026功能食品原料汇编》重磅发布：1000+原料收录，研发必备工具 | https://news.foodmate.net/2026/09/754116.html |
 | 09-30 15:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局办公厅联合公安部刑侦局发布反诈提示：警惕“挂名法人”陷阱 | https://mp.weixin.qq.com/s/e~LCGaGvFJWtBDhC88WC4Q |
 | 09-30 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | “空姐下跪”热搜高挂，真相不该再迟到 | https://mp.weixin.qq.com/s/otzDPPvIP1LU7IPYDxfDig |
 | 09-30 15:00 | 公众号 | 新京报 | 综合媒体 | 长沙某高校副教授被指与前妻欠款数百万，十余年不还被“限高”，当事双方发声 | https://mp.weixin.qq.com/s/w1V2Pm-~YxFb0adnx-INcg |
@@ -76,6 +88,10 @@
 | 09-30 11:00 | 公众号 | 红网 | 综合媒体 | 湖南75岁老人开“二元理发店”：20余年不涨价，剪过五代人 | https://mp.weixin.qq.com/s/R~-N0cQ~h0hASMmXHbFPbA |
 | 09-30 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 国台办：台湾问题是中美关系中最重要的问题 | https://mp.weixin.qq.com/s/uY9vc9ZHuvRzoHskPyvDUA |
 | 09-30 11:00 | 公众号 | 北京市场监管 | 监管·地方 | 京津冀晋蒙五地共筑计量协作新格局 | https://mp.weixin.qq.com/s/Tz5Hwozmp61rDyNdDeKK7Q |
+| 09-30 10:47 | 网页 | 食品伙伴网 | 产经动态 | 2026年中秋餐饮市场消费动态分析 | https://news.foodmate.net/2026/09/754093.html |
+| 09-30 10:33 | 网页 | 食品伙伴网 | 产经动态 | 山东菏泽创新实施肉牛增量提质行动取得积极成效 | https://news.foodmate.net/2026/09/754090.html |
+| 09-30 10:12 | 网页 | 食品伙伴网 | 产经动态 | 数智技术助力黄淮海麦玉轮作精准生产 | https://news.foodmate.net/2026/09/754088.html |
+| 09-30 10:12 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：雨润辟谣退出火腿肠赛道；可口可乐中国系统今年总投资超40亿；海底捞多地门店迎来婚宴订单（2026年9月30日） | https://news.foodmate.net/2026/09/754086.html |
 | 09-30 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 金与正回应“地雷爆炸事件” | https://mp.weixin.qq.com/s/DtP5B6Va5iaO1h1WL7iizA |
 | 09-30 10:00 | 公众号 | 极目新闻 | 综合媒体 | 老人卖房替儿还贷126万元，儿子儿媳拿钱后与他断绝来往，老人起诉要钱，被告方：儿媳说过“感谢爸爸鼎力相助”，说明钱是赠与！法院判了 | https://mp.weixin.qq.com/s/XpTvUkE7P31IMU2iXY-ZMA |
 | 09-30 10:00 | 公众号 | 法治日报 | 综合媒体 | 最后机会赢奖品！答题赢腾讯视频会员卡，手慢无→ | https://mp.weixin.qq.com/s/fLvEqhXioYme4KjDcyQH3A |
@@ -89,6 +105,8 @@
 | 09-30 09:00 | 公众号 | 界面新闻 | 综合媒体 | 美国机票价格创十年新高 | https://mp.weixin.qq.com/s/1Qid~ks8uFN0NfpTJlC10g |
 | 09-30 09:00 | 公众号 | 南方都市报 | 综合媒体 | 邻居家突然起火，女子报警后按要求上传起火视频，手机却跳出开屏广告，结果误触，整个页面被关掉……观点：流量岂能凌驾于生命之上 | https://mp.weixin.qq.com/s/S3V9rIgF4lDmg7f-eSNoLA |
 | 09-30 09:00 | 公众号 | 红网 | 综合媒体 | 国庆假期如何就医？长沙各大医院门、急诊安排看这里 | https://mp.weixin.qq.com/s/wJUDDFDtUd5lS1fgHNSCvw |
+| 09-30 08:27 | 网页 | 食品伙伴网 | 产经动态 | 从 “近海” 到 “深蓝”：一座座海洋牧场拔海而起，背后是怎样的产业链机会？ | https://news.foodmate.net/2026/09/754043.html |
+| 09-30 08:18 | 网页 | 食品伙伴网 | 产经动态 | 鸡胸肉加工全攻略：从保水嫩化到风味定型，破解干柴缩水痛点 | https://news.foodmate.net/2026/09/754038.html |
 | 09-30 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管部门中秋节期间抽检月饼6418批次，检出50批次不合格 | https://mp.weixin.qq.com/s/Pv3vx5hikF~VPZ24wMaVJw |
 | 09-30 08:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局部署各地全力保障中秋假期食品安全 | https://mp.weixin.qq.com/s/V1e0w-TCiHWTz3ehh5DdBg |
 | 09-30 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 市场监管总局召开深化群众身边不正之风和腐败问题集中整治工作调度推进会 | https://mp.weixin.qq.com/s/nMrNnQ15EfnqPMPCv6pC5w |
@@ -131,6 +149,9 @@
 | 09-29 17:00 | 公众号 | 北京消协 | 消协 | 你买的充电宝合规吗？5起质量安全案例公布 | https://mp.weixin.qq.com/s/jq94DuuWGKyV3mSIoXSOlA |
 | 09-29 17:00 | 公众号 | 红网 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/~glOE96TZ4jvXVLth9lDyQ |
 | 09-29 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 29岁女子与同事双双查出结节，自己0.8cm×1cm的结节确诊癌症且已转移，同事的结节明明更大却没事，医生提醒 | https://mp.weixin.qq.com/s/tBXGMUT9Hw75L6K1Z1-HVA |
+| 09-29 16:36 | 网页 | 食品伙伴网 | 产经动态 | 农业农村部会同有关部门加力推进农药兽药综合整治工作 | https://news.foodmate.net/2026/09/754025.html |
+| 09-29 16:35 | 网页 | 食品伙伴网 | 产经动态 | 9月29日：“农产品批发价格200指数”比昨天下降0.48个点 | https://news.foodmate.net/2026/09/754024.html |
+| 09-29 16:33 | 网页 | 食品伙伴网 | 产经动态 | 9月第4周（9月21—27日）生猪和猪肉价格稳中有跌 | https://news.foodmate.net/2026/09/754023.html |
 | 09-29 16:00 | 公众号 | 央视财经 | 综合媒体 | 俄罗斯警告日本 | https://mp.weixin.qq.com/s/LfDSRp67TSTpSEdxEpa4sw |
 | 09-29 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中美俄元首将于深圳APEC期间会晤？外交部回应 | https://mp.weixin.qq.com/s/9zu8SvJusy5fSYyojSBdLg |
 | 09-29 16:00 | 公众号 | 新京报 | 综合媒体 | 那英临时加唱《弯弯的月亮》：规则之下还有温度在 | https://mp.weixin.qq.com/s/CL6Eqh5sTmX0GswmnkJmVw |
@@ -191,6 +212,7 @@
 | 09-29 11:00 | 公众号 | 今晚报 | 综合媒体 | 女演员发视频求助：我现在还是蒙的…… | https://mp.weixin.qq.com/s/eWn-D3HLOnzu4KtPoU3cPA |
 | 09-29 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 李亚鹏再次回应医院现状：很感谢房东，将房租降了相当的比例，嫣然医院可能再坚持几年（附完整采访视频） | https://mp.weixin.qq.com/s/RE-bwq4I5yW4C1h4O8W5SQ |
 | 09-29 11:00 | 公众号 | 红网 | 综合媒体 | 湖南公开征集人社领域涉黑涉恶违法犯罪线索 | https://mp.weixin.qq.com/s/LofH4EYZlsvrI2rGsJuYtA |
+| 09-29 10:20 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：2026年阳澄湖大闸蟹预计全年产量约1.01万吨；瑞幸全球门店总数超过38000家；康师傅栀栀奶绿上市（2026年9月29日） | https://news.foodmate.net/2026/09/753974.html |
 | 09-29 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/Nf1SpQD5g9KUVdoJEVOi4w |
 | 09-29 10:00 | 公众号 | 新京报 | 综合媒体 | 习近平给四川大学全体师生回信 | https://mp.weixin.qq.com/s/f8n5b6X61RahSRXDTxRNhQ |
 | 09-29 10:00 | 公众号 | 界面新闻 | 综合媒体 | 广汽集团涨停 | https://mp.weixin.qq.com/s/Fox5hla7K2FBPEaOGsc9vg |
@@ -208,6 +230,7 @@
 | 09-29 09:00 | 公众号 | 今晚报 | 综合媒体 | 大雨、暴雨、雷暴大风、冰雹来袭！冷空气降温大幕拉开 | https://mp.weixin.qq.com/s/kh5UHFv1jgyJtRwEV~ijEw |
 | 09-29 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 女子吃“分手饭”醉酒摔伤后身亡，男友半夜发现其头部出血未立即送医，用烟丝、卫生纸止血后回屋睡觉，一审被判赔28万元 | https://mp.weixin.qq.com/s/4rES1ZUOOqAWQx3LnTP-Ag |
 | 09-29 09:00 | 公众号 | 红网 | 综合媒体 | 贵州发生一起交通事故，致7人死亡 | https://mp.weixin.qq.com/s/UVcw2GnnyE7R45TJPXuA8A |
+| 09-29 08:43 | 网页 | 食品伙伴网 | 产经动态 | 真空滚揉参数优化全指南：让出品率再提 3% | https://news.foodmate.net/2026/09/753947.html |
 | 09-29 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 13项食品快速检测方法发布，可快速筛查18种风险物质残留 | https://mp.weixin.qq.com/s/ElBCHu7YAP1KMetKW6hVUA |
 | 09-29 08:00 | 公众号 | 市说新语 | 监管·总局 | 习近平等党和国家领导人将出席烈士纪念日向人民英雄敬献花篮仪式 | https://mp.weixin.qq.com/s/ytDyjmNUcCn4x1pKnqLq1g |
 | 09-29 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 一批“铁拳”行动典型案例曝光！ | https://mp.weixin.qq.com/s/gPrnCpIKw~oC2XzzdmX2Dg |
