@@ -1,7 +1,14 @@
-# 舆情候选池 0930（09-29 00:00 至今，160 条：公众号 134 + 网页 26）
+# 舆情候选池 0930（09-29 00:00 至今，167 条：公众号 141 + 网页 26）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-30 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | AI眼镜头部品牌海外启动召回，“可能造成严重烫伤，甚至可能导致死亡”，国内官方已下架但未公示原因，第三方仍在售 | https://mp.weixin.qq.com/s/0yjTh~SX0UCS5oBYI3Uf4w |
+| 09-30 09:00 | 公众号 | 央视财经 | 综合媒体 | 美伊冲突，传来新消息 | https://mp.weixin.qq.com/s/~dV-DGlU5~9y6T8Sfm8SnA |
+| 09-30 09:00 | 公众号 | 新京报 | 综合媒体 | 56岁武契奇：辞职不退场 | https://mp.weixin.qq.com/s/pHaHxEHQs96c95i~JQUfdw |
+| 09-30 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 金与正发出警告 | https://mp.weixin.qq.com/s/xdw9sjBNgllfAspCHt9mNw |
+| 09-30 09:00 | 公众号 | 界面新闻 | 综合媒体 | 美国机票价格创十年新高 | https://mp.weixin.qq.com/s/1Qid~ks8uFN0NfpTJlC10g |
+| 09-30 09:00 | 公众号 | 南方都市报 | 综合媒体 | 邻居家突然起火，女子报警后按要求上传起火视频，手机却跳出开屏广告，结果误触，整个页面被关掉……观点：流量岂能凌驾于生命之上 | https://mp.weixin.qq.com/s/S3V9rIgF4lDmg7f-eSNoLA |
+| 09-30 09:00 | 公众号 | 红网 | 综合媒体 | 国庆假期如何就医？长沙各大医院门、急诊安排看这里 | https://mp.weixin.qq.com/s/wJUDDFDtUd5lS1fgHNSCvw |
 | 09-30 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管部门中秋节期间抽检月饼6418批次，检出50批次不合格 | https://mp.weixin.qq.com/s/Pv3vx5hikF~VPZ24wMaVJw |
 | 09-30 08:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局部署各地全力保障中秋假期食品安全 | https://mp.weixin.qq.com/s/V1e0w-TCiHWTz3ehh5DdBg |
 | 09-30 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 市场监管总局召开深化群众身边不正之风和腐败问题集中整治工作调度推进会 | https://mp.weixin.qq.com/s/nMrNnQ15EfnqPMPCv6pC5w |
@@ -33,11 +40,11 @@
 | 09-30 | 网页 | 巨潮·先导智能 | 上市公司公告 | H股公告-翌日披露报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300450&orgId=9900023846&announcementId=1225589533&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·英唐智控 | 上市公司公告 | 第六届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300131&orgId=9900014589&announcementId=1225589534&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·沃尔核材 | 上市公司公告 | 关于控股子公司申请向不特定合格投资者公开发行股票并在北京证券交易所上市的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002130&orgId=9900002702&announcementId=1225589532&announcementTime=2026-09-30 |
+| 09-30 | 网页 | 巨潮·瑞泰新材 | 上市公司公告 | 关于增加2026年度日常关联交易预计的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301238&orgId=9900046654&announcementId=1225586570&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·农业银行 | 上市公司公告 | 农业银行2026年度第二次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601288&orgId=jjxt0000020&announcementId=1225589491&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·杰普特 | 上市公司公告 | 关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688025&orgId=gfbj0870105&announcementId=1225589482&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·千里科技 | 上市公司公告 | 重庆千里科技股份有限公司关于召开2026年第四次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601777&orgId=9900016000&announcementId=1225589445&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·科森科技 | 上市公司公告 | 关于暂不召开股东会审议本次向特定对象发行A股股票相关事宜的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603626&orgId=9900029914&announcementId=1225589406&announcementTime=2026-09-30 |
-| 09-30 | 网页 | 巨潮·*ST禾信 | 上市公司公告 | 第四届董事会独立董事专门会议第九次会议决议 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688622&orgId=gfbj0871079&announcementId=1225588735&announcementTime=2026-09-30 |
 | 09-29 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国务院任免国家工作人员 | https://mp.weixin.qq.com/s/L5Vu1YG4mScqBY-GURfrOA |
 | 09-29 17:00 | 公众号 | 新京报 | 综合媒体 | 能降温、能助儿童远视发育？这些墨镜的宣传“水分”太大 | https://mp.weixin.qq.com/s/33O1b7WeX7jef5TCM4KVlA |
 | 09-29 17:00 | 公众号 | 法治日报 | 综合媒体 | 因公牺牲一年后，他的警号021544，正式重启！ | https://mp.weixin.qq.com/s/l8EEMmnuVJyDGpOpXf9eiQ |
