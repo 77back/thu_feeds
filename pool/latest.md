@@ -1,7 +1,13 @@
-# 舆情候选池 0930（09-29 00:00 至今，167 条：公众号 141 + 网页 26）
+# 舆情候选池 0930（09-29 00:00 至今，174 条：公众号 147 + 网页 27）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 09-30 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 金与正回应“地雷爆炸事件” | https://mp.weixin.qq.com/s/DtP5B6Va5iaO1h1WL7iizA |
+| 09-30 10:00 | 公众号 | 极目新闻 | 综合媒体 | 老人卖房替儿还贷126万元，儿子儿媳拿钱后与他断绝来往，老人起诉要钱，被告方：儿媳说过“感谢爸爸鼎力相助”，说明钱是赠与！法院判了 | https://mp.weixin.qq.com/s/XpTvUkE7P31IMU2iXY-ZMA |
+| 09-30 10:00 | 公众号 | 法治日报 | 综合媒体 | 最后机会赢奖品！答题赢腾讯视频会员卡，手慢无→ | https://mp.weixin.qq.com/s/fLvEqhXioYme4KjDcyQH3A |
+| 09-30 10:00 | 公众号 | 南方都市报 | 综合媒体 | 已相继发现11具女性尸体，多数人曾遭严重性侵，南非总统发声，宣布4点措施：查明全国未决的谋杀、强奸和袭击妇女案，90天内制定调查计划 | https://mp.weixin.qq.com/s/fzX1x07RH-Jd3889P-aoUw |
+| 09-30 10:00 | 公众号 | 今晚报 | 综合媒体 | 天津正大量出现，看得头皮发麻！对人体有害吗？紧急提醒： 这些白色“小兜兜”千万别碰 | https://mp.weixin.qq.com/s/q-GbVxM-wNldsKikZFACMA |
+| 09-30 10:00 | 公众号 | 红网 | 综合媒体 | 金鹰节首设微短剧荣誉单元，多项荣誉在长沙揭晓 | https://mp.weixin.qq.com/s/OiwIv1goSAiCEFESO5fM6w |
 | 09-30 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | AI眼镜头部品牌海外启动召回，“可能造成严重烫伤，甚至可能导致死亡”，国内官方已下架但未公示原因，第三方仍在售 | https://mp.weixin.qq.com/s/0yjTh~SX0UCS5oBYI3Uf4w |
 | 09-30 09:00 | 公众号 | 央视财经 | 综合媒体 | 美伊冲突，传来新消息 | https://mp.weixin.qq.com/s/~dV-DGlU5~9y6T8Sfm8SnA |
 | 09-30 09:00 | 公众号 | 新京报 | 综合媒体 | 56岁武契奇：辞职不退场 | https://mp.weixin.qq.com/s/pHaHxEHQs96c95i~JQUfdw |
@@ -34,6 +40,8 @@
 | 09-30 08:00 | 公众号 | 浙江消保委 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/ujxJja75ykeNjXTpg7m4ag |
 | 09-30 08:00 | 公众号 | 四川省消委会 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/h8Xs8faDsiXZ55heKpCvpg |
 | 09-30 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 市市场监管局党组书记、局长高念东“四不两直”检查国庆假日特种设备和食品安全工作 | https://mp.weixin.qq.com/s/qxZ46AMLK1bCXX6i7HVLHw |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 新疆检出35批次不合格食品，有水磨年糕、蜂蜜、风干牛肉等 | http://news.foodmate.net/2026/09/754084.html |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 浙江这9批次食品抽检不合格，有蘑菇麻薯、桃酥、红糖等 | http://news.foodmate.net/2026/09/754080.html |
 | 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 兰州市西固区市场监督管理局开展香辛调味料监督抽检 | http://news.foodmate.net/2026/09/754055.html |
 | 09-30 | 网页 | 巨潮·雅创电子 | 上市公司公告 | 雅创电子发行股份及支付现金购买资产并募集配套资金报告书（草案）（修订稿） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301099&orgId=nssc1000560&announcementId=1225589553&announcementTime=2026-09-30 |
 | 09-30 | 网页 | 巨潮·广合科技 | 上市公司公告 | H股公告-建议采纳A股激励计划及H股激励计划 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001389&orgId=9900046622&announcementId=1225589564&announcementTime=2026-09-30 |
@@ -161,7 +169,6 @@
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 重庆通报17批次不合格食品，有酿造酱油、白酒、土蜂蜜等 | http://news.foodmate.net/2026/09/753968.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 以案释法｜聊城市市场监督管理局查处某食品有限公司生产超限量使用食品添加剂食品案 | http://news.foodmate.net/2026/09/753964.html |
 | 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 德阳市市场监管局完成2026年食品安全抽检核查处置“回头看”暨交叉评查 | http://news.foodmate.net/2026/09/753951.html |
-| 09-29 | 网页 | 食品伙伴网 | 抽检通报 | 2026年9月食品行业舆情盘点 | http://news.foodmate.net/2026/09/753933.html |
 | 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 从纽约到曼谷，喜茶出海重点还是品牌 | https://www.jiemian.com/article/15152253.html |
 | 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | YOYO跑出2亿月销，名创优品的原创IP生意走到哪一步了？ | https://www.jiemian.com/article/15150947.html |
 | 09-29 | 网页 | 界面新闻·消费 | 综合媒体 | 一坐一忘和德克士都在努力接住卡戴珊带来的流量 | https://www.jiemian.com/article/15151420.html |
