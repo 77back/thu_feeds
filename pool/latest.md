@@ -1,7 +1,17 @@
-# 舆情候选池 1001（09-30 00:00 至今，189 条：公众号 175 + 网页 14）
+# 舆情候选池 1001（09-30 00:00 至今，214 条：公众号 185 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-01 13:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 降温了 厨房里三个“小太阳”帮你暖身祛寒 | https://mp.weixin.qq.com/s/68z~sZEOGU49z3FnpRq1Nw |
+| 10-01 13:00 | 公众号 | 央视财经 | 综合媒体 | 网友：专家手握“191”？足够先进，可以展示🤩 | https://mp.weixin.qq.com/s/zTR2tfPsqI6O0xLovjOKXw |
+| 10-01 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 沪昆高速怀化段发生一起交通事故，致6人死亡、4人受伤 | https://mp.weixin.qq.com/s/NrZ1qEODsVy2CUc5duMmoQ |
+| 10-01 13:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 镜览盛世万象 定格家国欢颜 | https://mp.weixin.qq.com/s/knxPBhw914vrgpZQ6By1mg |
+| 10-01 13:00 | 公众号 | 新京报 | 综合媒体 | 湖南高速警察七支队发布警情通报 | https://mp.weixin.qq.com/s/tiYsIWn4SiVCGjXRy371oA |
+| 10-01 13:00 | 公众号 | 法治日报 | 综合媒体 | 警方通报：沪昆高速怀化段发生一起交通事故，造成6人死亡、4人受伤，57岁男子因涉嫌疲劳驾驶，已被公安机关控制 | https://mp.weixin.qq.com/s/BslXsDl3cVl2H8seBYzSWQ |
+| 10-01 13:00 | 公众号 | 南方都市报 | 综合媒体 | 今日凌晨2时许，沪昆高速怀化段突发车祸，致6死4伤，4车受损 | https://mp.weixin.qq.com/s/tGYk0dmLDrw4XdvMm4u65g |
+| 10-01 13:00 | 公众号 | 极目新闻 | 综合媒体 | 今晚长江烟花秀，10个神秘亮点首次曝光！第9个必看 | https://mp.weixin.qq.com/s/3s-Xp1rM6bzpktbUVmUKHQ |
+| 10-01 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 国庆，中国每天“搬运”一个美国 | https://mp.weixin.qq.com/s/vHRThdl0S4ETjwJpUi0mvA |
+| 10-01 13:00 | 公众号 | 红网 | 综合媒体 | 国庆我来拍：你与国旗同框的样子，真好看 | https://mp.weixin.qq.com/s/rbPgFwQapqsmdcoUR-ykTg |
 | 10-01 12:00 | 公众号 | 中国消费者报 | 行业媒体 | 祝福祖国！ | https://mp.weixin.qq.com/s/qaEolwzF80Nnax7YkFmEFg |
 | 10-01 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 寒武纪：原副总经理梁军变更诉讼请求，索赔金额由42.87亿元调整为278.32亿元 | https://mp.weixin.qq.com/s/GSk5LdkDzQIxn5kBSKHUqQ |
 | 10-01 12:00 | 公众号 | 央视财经 | 综合媒体 | 武汉发布楼市新政 | https://mp.weixin.qq.com/s/~DS1E~NkhdJfGObUaqkUDQ |
@@ -12,6 +22,9 @@
 | 10-01 12:00 | 公众号 | 红网 | 综合媒体 | 高铁凌晨通知候补成功，广东一网友早上起床发现车开走了，12306回应：无法退票，但可在当日24:00前办理一次改签 | https://mp.weixin.qq.com/s/e5tzD7TyvZr3WDtBnZYAHQ |
 | 10-01 12:00 | 公众号 | 北京消协 | 消协 | 国庆选购礼品注意！市场监管总局、中消协发布保健食品消费提示 | https://mp.weixin.qq.com/s/sQegCkSA-FjZIDMsvCan2A |
 | 10-01 12:00 | 公众号 | 南方都市报 | 综合媒体 | “飞机正在俯冲，我们全都冲了过去，把袭击者拽了出来，我拉起操纵杆”，乘客还原迪拜客机险情，飞机2分钟内急降超5000米 | https://mp.weixin.qq.com/s/~wKqTIT6cYW1FDz4Wgj5vg |
+| 10-01 11:42 | 网页 | 食品伙伴网 | 产经动态 | 明工厂不是 “作秀”：肉制品企业重建消费者信任的 6 个落地打法 | https://news.foodmate.net/2026/10/754134.html |
+| 10-01 11:11 | 网页 | 食品伙伴网 | 产经动态 | 9月第4周（采集日为9月24日）畜产品和饲料集贸市场价格情况 | https://news.foodmate.net/2026/10/754124.html |
+| 10-01 11:06 | 网页 | 食品伙伴网 | 产经动态 | 9月30日：“农产品批发价格200指数”比昨天上0.04个点 | https://news.foodmate.net/2026/10/754121.html |
 | 10-01 11:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——电动自行车头盔消费提示 | https://mp.weixin.qq.com/s/76irnOe-5NWyXio4Eutr1A |
 | 10-01 11:00 | 公众号 | 央视财经 | 综合媒体 | “人造太阳”，有新进展！ | https://mp.weixin.qq.com/s/B1biE~69TBcGACfZEgsAdQ |
 | 10-01 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 原央视主持人阿丘，被通报 | https://mp.weixin.qq.com/s/x1PWlkk4geM5ydG8FcOMbA |
@@ -97,6 +110,7 @@
 | 09-30 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 迪拜航空客机传出劫机警报，载有约180人 | https://mp.weixin.qq.com/s/AXFzJBSD1tEUcdvtTaSCeA |
 | 09-30 16:00 | 公众号 | 红网 | 综合媒体 | 湘籍英烈张超纪念馆开馆，生前驾驶的歼-15，首次对外公开展示 | https://mp.weixin.qq.com/s/6RJAC7a04h83Jec8msfwdw |
 | 09-30 16:00 | 公众号 | 河北省消保委 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/vH8ZO6dSXemmnp59f3MZug |
+| 09-30 15:50 | 网页 | 食品伙伴网 | 产经动态 | 内含福利｜《2026功能食品原料汇编》重磅发布：1000+原料收录，研发必备工具 | https://news.foodmate.net/2026/09/754116.html |
 | 09-30 15:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局办公厅联合公安部刑侦局发布反诈提示：警惕“挂名法人”陷阱 | https://mp.weixin.qq.com/s/e~LCGaGvFJWtBDhC88WC4Q |
 | 09-30 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | “空姐下跪”热搜高挂，真相不该再迟到 | https://mp.weixin.qq.com/s/otzDPPvIP1LU7IPYDxfDig |
 | 09-30 15:00 | 公众号 | 新京报 | 综合媒体 | 长沙某高校副教授被指与前妻欠款数百万，十余年不还被“限高”，当事双方发声 | https://mp.weixin.qq.com/s/w1V2Pm-~YxFb0adnx-INcg |
@@ -149,6 +163,10 @@
 | 09-30 11:00 | 公众号 | 红网 | 综合媒体 | 湖南75岁老人开“二元理发店”：20余年不涨价，剪过五代人 | https://mp.weixin.qq.com/s/R~-N0cQ~h0hASMmXHbFPbA |
 | 09-30 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 国台办：台湾问题是中美关系中最重要的问题 | https://mp.weixin.qq.com/s/uY9vc9ZHuvRzoHskPyvDUA |
 | 09-30 11:00 | 公众号 | 北京市场监管 | 监管·地方 | 京津冀晋蒙五地共筑计量协作新格局 | https://mp.weixin.qq.com/s/Tz5Hwozmp61rDyNdDeKK7Q |
+| 09-30 10:47 | 网页 | 食品伙伴网 | 产经动态 | 2026年中秋餐饮市场消费动态分析 | https://news.foodmate.net/2026/09/754093.html |
+| 09-30 10:33 | 网页 | 食品伙伴网 | 产经动态 | 山东菏泽创新实施肉牛增量提质行动取得积极成效 | https://news.foodmate.net/2026/09/754090.html |
+| 09-30 10:12 | 网页 | 食品伙伴网 | 产经动态 | 数智技术助力黄淮海麦玉轮作精准生产 | https://news.foodmate.net/2026/09/754088.html |
+| 09-30 10:12 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：雨润辟谣退出火腿肠赛道；可口可乐中国系统今年总投资超40亿；海底捞多地门店迎来婚宴订单（2026年9月30日） | https://news.foodmate.net/2026/09/754086.html |
 | 09-30 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 金与正回应“地雷爆炸事件” | https://mp.weixin.qq.com/s/DtP5B6Va5iaO1h1WL7iizA |
 | 09-30 10:00 | 公众号 | 极目新闻 | 综合媒体 | 老人卖房替儿还贷126万元，儿子儿媳拿钱后与他断绝来往，老人起诉要钱，被告方：儿媳说过“感谢爸爸鼎力相助”，说明钱是赠与！法院判了 | https://mp.weixin.qq.com/s/XpTvUkE7P31IMU2iXY-ZMA |
 | 09-30 10:00 | 公众号 | 法治日报 | 综合媒体 | 最后机会赢奖品！答题赢腾讯视频会员卡，手慢无→ | https://mp.weixin.qq.com/s/fLvEqhXioYme4KjDcyQH3A |
@@ -162,6 +180,8 @@
 | 09-30 09:00 | 公众号 | 界面新闻 | 综合媒体 | 美国机票价格创十年新高 | https://mp.weixin.qq.com/s/1Qid~ks8uFN0NfpTJlC10g |
 | 09-30 09:00 | 公众号 | 南方都市报 | 综合媒体 | 邻居家突然起火，女子报警后按要求上传起火视频，手机却跳出开屏广告，结果误触，整个页面被关掉……观点：流量岂能凌驾于生命之上 | https://mp.weixin.qq.com/s/S3V9rIgF4lDmg7f-eSNoLA |
 | 09-30 09:00 | 公众号 | 红网 | 综合媒体 | 国庆假期如何就医？长沙各大医院门、急诊安排看这里 | https://mp.weixin.qq.com/s/wJUDDFDtUd5lS1fgHNSCvw |
+| 09-30 08:27 | 网页 | 食品伙伴网 | 产经动态 | 从 “近海” 到 “深蓝”：一座座海洋牧场拔海而起，背后是怎样的产业链机会？ | https://news.foodmate.net/2026/09/754043.html |
+| 09-30 08:18 | 网页 | 食品伙伴网 | 产经动态 | 鸡胸肉加工全攻略：从保水嫩化到风味定型，破解干柴缩水痛点 | https://news.foodmate.net/2026/09/754038.html |
 | 09-30 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管部门中秋节期间抽检月饼6418批次，检出50批次不合格 | https://mp.weixin.qq.com/s/Pv3vx5hikF~VPZ24wMaVJw |
 | 09-30 08:00 | 公众号 | 市说新语 | 监管·总局 | 市场监管总局部署各地全力保障中秋假期食品安全 | https://mp.weixin.qq.com/s/V1e0w-TCiHWTz3ehh5DdBg |
 | 09-30 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 市场监管总局召开深化群众身边不正之风和腐败问题集中整治工作调度推进会 | https://mp.weixin.qq.com/s/nMrNnQ15EfnqPMPCv6pC5w |
@@ -187,6 +207,11 @@
 | 09-30 08:00 | 公众号 | 浙江消保委 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/ujxJja75ykeNjXTpg7m4ag |
 | 09-30 08:00 | 公众号 | 四川省消委会 | 消协 | 市场监管总局、中国消费者协会联合发布保健食品消费提示 | https://mp.weixin.qq.com/s/h8Xs8faDsiXZ55heKpCvpg |
 | 09-30 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 市市场监管局党组书记、局长高念东“四不两直”检查国庆假日特种设备和食品安全工作 | https://mp.weixin.qq.com/s/qxZ46AMLK1bCXX6i7HVLHw |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 今日导读：饼干生产许可新版细则发布；EKANG牌进口胶囊检出污染物；警惕！助眠、减肥食品暗藏非法添加物（2026年9月30日） | http://news.foodmate.net/2026/09/754104.html |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 上海市市场监督管理局2026年第26期省级食品安全抽检信息 | http://news.foodmate.net/2026/09/754099.html |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 新疆检出35批次不合格食品，有水磨年糕、蜂蜜、风干牛肉等 | http://news.foodmate.net/2026/09/754084.html |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 浙江这9批次食品抽检不合格，有蘑菇麻薯、桃酥、红糖等 | http://news.foodmate.net/2026/09/754080.html |
+| 09-30 | 网页 | 食品伙伴网 | 抽检通报 | 兰州市西固区市场监督管理局开展香辛调味料监督抽检 | http://news.foodmate.net/2026/09/754055.html |
 | 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | “千店千面”能否重振星巴克中国？ | https://www.jiemian.com/article/15155766.html |
 | 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | 【逝者】恒安联合创办人施文博：卫生巾普及的推动者 | https://www.jiemian.com/article/15155049.html |
 | 09-30 | 网页 | 界面新闻·消费 | 综合媒体 | 寄错月饼礼盒并被质疑“捂嘴”，Tiffany中国致歉 | https://www.jiemian.com/article/15153639.html |
