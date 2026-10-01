@@ -1,7 +1,15 @@
-# 舆情候选池 1001（09-30 00:00 至今，227 条：公众号 198 + 网页 29）
+# 舆情候选池 1001（09-30 00:00 至今，235 条：公众号 206 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-01 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 水管工冲进驾驶舱救人后，身着血衣和总理拥抱并致歉：我好几次想拿回行李，换件干净衣服再来见你 | https://mp.weixin.qq.com/s/SPBgFim89kOfRguo4z1Rpg |
+| 10-01 16:00 | 公众号 | 界面新闻 | 综合媒体 | 华为赛力斯准备“复合”？问界合作模式或再调整 | https://mp.weixin.qq.com/s/Nh4El6TykN~LnhdX3sBCOg |
+| 10-01 16:00 | 公众号 | 法治日报 | 综合媒体 | 浙江慈溪通报“男子上山失联多日”：已找到失联人员王某某，经确认已无生命体征，提醒户外登山注意安全 | https://mp.weixin.qq.com/s/FPqVMu0B9Cd0GXYYbNCH4g |
+| 10-01 16:00 | 公众号 | 南方都市报 | 综合媒体 | 汕头、潮州、揭阳，三地大扫除 | https://mp.weixin.qq.com/s/9Vm2ehnCeP135xwhlwUyDw |
+| 10-01 16:00 | 公众号 | 极目新闻 | 综合媒体 | 高铁候补凌晨兑现当天早上车票，网友睡醒后车已开走，12306提醒：系统默认候补24小时都会自动兑现，注意设置截止兑现时间 | https://mp.weixin.qq.com/s/XmGw2WbzxfYBicqQosXqmQ |
+| 10-01 16:00 | 公众号 | 今晚报 | 综合媒体 | 一声国庆，一代人的记忆符号！由国庆的“国庆”故事 | https://mp.weixin.qq.com/s/29JXjBv~voe4RulV9M-81g |
+| 10-01 16:00 | 公众号 | 红网 | 综合媒体 | 最低13℃！未来三天湖南局地暴雨，并伴有7至9级阵风 | https://mp.weixin.qq.com/s/5kTCiYJ6e6Aztqbixlda7w |
+| 10-01 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 王某某被找到，已无生命体征 | https://mp.weixin.qq.com/s/zclm3PiRHovUHyIHfOSj~w |
 | 10-01 15:00 | 公众号 | 央视财经 | 综合媒体 | 霍尔木兹海峡大消息！“多艘船只遭袭”→ | https://mp.weixin.qq.com/s/FtyLyPVeNhPFRXolxK-kAQ |
 | 10-01 15:00 | 公众号 | 上海市场监管 | 监管·地方 | 火锅里的贡菜，到底是不是莴笋干？答案出乎意料 | https://mp.weixin.qq.com/s/Fe~lqvCP-7PyVYskaGqPOA |
 | 10-01 15:00 | 公众号 | 今晚报 | 综合媒体 | 天津人的“草地自由”实现了！从“只看不能踩”到坐下就能玩！看看你家门口有吗 | https://mp.weixin.qq.com/s/a~ECe-bqX8gi1upBqmBVig |
