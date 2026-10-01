@@ -1,7 +1,20 @@
-# 舆情候选池 1001（09-30 00:00 至今，181 条：公众号 155 + 网页 26）
+# 舆情候选池 1001（09-30 00:00 至今，194 条：公众号 165 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-01 11:42 | 网页 | 食品伙伴网 | 产经动态 | 明工厂不是 “作秀”：肉制品企业重建消费者信任的 6 个落地打法 | https://news.foodmate.net/2026/10/754134.html |
+| 10-01 11:11 | 网页 | 食品伙伴网 | 产经动态 | 9月第4周（采集日为9月24日）畜产品和饲料集贸市场价格情况 | https://news.foodmate.net/2026/10/754124.html |
+| 10-01 11:06 | 网页 | 食品伙伴网 | 产经动态 | 9月30日：“农产品批发价格200指数”比昨天上0.04个点 | https://news.foodmate.net/2026/10/754121.html |
+| 10-01 11:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——电动自行车头盔消费提示 | https://mp.weixin.qq.com/s/76irnOe-5NWyXio4Eutr1A |
+| 10-01 11:00 | 公众号 | 央视财经 | 综合媒体 | “人造太阳”，有新进展！ | https://mp.weixin.qq.com/s/B1biE~69TBcGACfZEgsAdQ |
+| 10-01 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 原央视主持人阿丘，被通报 | https://mp.weixin.qq.com/s/x1PWlkk4geM5ydG8FcOMbA |
+| 10-01 11:00 | 公众号 | 极目新闻 | 综合媒体 | 原央视主持人阿丘，被通报 | https://mp.weixin.qq.com/s/0Li~msdHWN0hbWotnvL5MA |
+| 10-01 11:00 | 公众号 | 界面新闻 | 综合媒体 | 迪拜客机事件是“未遂恐袭”？大选前以色列如临大敌 | https://mp.weixin.qq.com/s/Lwa1LweLa0XgGt7p6twhtg |
+| 10-01 11:00 | 公众号 | 南方都市报 | 综合媒体 | 周深在人民日报发文 | https://mp.weixin.qq.com/s/G7fDnSUBzFMRwJDAP0eXjw |
+| 10-01 11:00 | 公众号 | 法治日报 | 综合媒体 | 10月起，这些新规将影响你我生活！ | https://mp.weixin.qq.com/s/7fN7VwQp0w0gImVAh96q7w |
+| 10-01 11:00 | 公众号 | 今晚报 | 综合媒体 | 地铁8号线有座特色车站！深渊镜里藏着细节，穿行中仿佛走进一座校园 | https://mp.weixin.qq.com/s/rXn2fOxahTMjCUlWpEHc8A |
+| 10-01 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 高铁凌晨通知候补成功，网友早上起床发现车已经开走了，12306回应 | https://mp.weixin.qq.com/s/MO40gdd6F18QeIufUv9dfA |
+| 10-01 11:00 | 公众号 | 红网 | 综合媒体 | 强闯我使馆日本前自卫队队员不认“胁迫罪”，但承认被控的“侵入建筑物罪”和“违反《枪刀法》罪”；此前检方认定其具有刑事责任能力 | https://mp.weixin.qq.com/s/v2J7hG3jzWjq~-DlQYjPPQ |
 | 10-01 10:00 | 公众号 | 央视财经 | 综合媒体 | 价格“大跳水”！你爱吃的“它”，卖爆了 | https://mp.weixin.qq.com/s/Hf5S6eHLdRMfUL54TaWwCA |
 | 10-01 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | “县农业农村局欠12.5万元两年多”，澎湃报道后，当天就结清了 | https://mp.weixin.qq.com/s/dWLjZdGTzZQaMbe5rKO0TQ |
 | 10-01 10:00 | 公众号 | 界面新闻 | 综合媒体 | 武汉发布楼市新政 | https://mp.weixin.qq.com/s/uzG4xpfqGDFm~JJMEQlXGA |
