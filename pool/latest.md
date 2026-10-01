@@ -1,7 +1,14 @@
-# 舆情候选池 1001（09-30 00:00 至今，235 条：公众号 206 + 网页 29）
+# 舆情候选池 1001（09-30 00:00 至今，232 条：公众号 213 + 网页 19）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-01 17:00 | 公众号 | 新京报 | 综合媒体 | 迪拜航空客机事件，一场针对以色列的“独狼”行动？ | https://mp.weixin.qq.com/s/HM0Z1jtpsCAEImFuSptX2g |
+| 10-01 17:00 | 公众号 | 深圳市场监管 | 监管·地方 | 祝福祖国，生日快乐！ | https://mp.weixin.qq.com/s/vRrmoIFTm3CoLlYhlQU1zQ |
+| 10-01 17:00 | 公众号 | 南方都市报 | 综合媒体 | 中华文化促进会：正式明确邱孟煌（阿丘）先生官方身份，为本工委会正式任职的副主任 | https://mp.weixin.qq.com/s/OmTYpc3VdLu3PlOMmDaNUA |
+| 10-01 17:00 | 公众号 | 极目新闻 | 综合媒体 | “往年十一从未见过”！全部售罄、爆满！武汉有人早上10点就开始排队，还有人提前两个月预订 | https://mp.weixin.qq.com/s/XUuFB-KKc6328yxxbkzRWQ |
+| 10-01 17:00 | 公众号 | 今晚报 | 综合媒体 | 天津“小阿勒泰”藏着著名老天津 | https://mp.weixin.qq.com/s/ZnzxJ-IAcbRDwtHHap7s1A |
+| 10-01 17:00 | 公众号 | 红网 | 综合媒体 | 长沙一车主等3小时掐点下高速省257元：去参加朋友婚礼，省下的钱可以覆盖来回电费，结余加到份子钱里，该省省该花花 | https://mp.weixin.qq.com/s/3NnSvFQs4-ce1c5Gldw~hw |
+| 10-01 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 女囚派克，被注射两剂死刑药物后仍有心跳，“还能听到她打鼾的声音”，行刑失败“接受抢救” | https://mp.weixin.qq.com/s/OmTQw~rMj0QCdcV3sEgWqw |
 | 10-01 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 水管工冲进驾驶舱救人后，身着血衣和总理拥抱并致歉：我好几次想拿回行李，换件干净衣服再来见你 | https://mp.weixin.qq.com/s/SPBgFim89kOfRguo4z1Rpg |
 | 10-01 16:00 | 公众号 | 界面新闻 | 综合媒体 | 华为赛力斯准备“复合”？问界合作模式或再调整 | https://mp.weixin.qq.com/s/Nh4El6TykN~LnhdX3sBCOg |
 | 10-01 16:00 | 公众号 | 法治日报 | 综合媒体 | 浙江慈溪通报“男子上山失联多日”：已找到失联人员王某某，经确认已无生命体征，提醒户外登山注意安全 | https://mp.weixin.qq.com/s/FPqVMu0B9Cd0GXYYbNCH4g |
@@ -98,16 +105,6 @@
 | 10-01 08:00 | 公众号 | 江苏省消保委 | 消协 | 为你的家当好参谋——“智联家居·美好生活环省行”推广活动走进扬州 | https://mp.weixin.qq.com/s/Y-myWxoJFed75GSkDoY1dw |
 | 10-01 08:00 | 公众号 | 食事求真 | 行业媒体 | 鲜立方战略显效 新乳业净利增17%跑赢营收 | https://mp.weixin.qq.com/s/AHnHxr066N9O5FmAW~URVA |
 | 10-01 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 岁岁坚守，日日如初 | https://mp.weixin.qq.com/s/I~XJRJp9F~GPAeOzkIuD4g |
-| 10-01 | 网页 | 巨潮·ST葫芦娃 | 上市公司公告 | 海南葫芦娃药业集团股份有限公司关于公司股票被实施其他风险警示相关事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605199&orgId=9900039731&announcementId=1225592295&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·江淮汽车 | 上市公司公告 | 江淮汽车股票交易异常波动公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600418&orgId=gssh0600418&announcementId=1225592195&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·华发股份 | 上市公司公告 | 华发股份关于控股子公司减资的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600325&orgId=gssh0600325&announcementId=1225592181&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·寒武纪 | 上市公司公告 | 关于离职高管诉讼进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688256&orgId=nssc1000595&announcementId=1225592148&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·四川成渝 | 上市公司公告 | 四川成渝关于召开2026年第五次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601107&orgId=9900007387&announcementId=1225592126&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·晶丰明源 | 上市公司公告 | 上海晶丰明源半导体股份有限公司第四届董事会第十一次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688368&orgId=9900036061&announcementId=1225592113&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·立航科技 | 上市公司公告 | 成都立航科技股份有限公司关于控股股东向公司提供借款暨关联交易的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603261&orgId=9900039859&announcementId=1225592082&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·宁德时代 | 上市公司公告 | 第四届董事会第二十次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300750&orgId=GD165627&announcementId=1225592059&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·厦门空港 | 上市公司公告 | 厦门空港第十一届董事会第四次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600897&orgId=gssh0600897&announcementId=1225592037&announcementTime=2026-10-01 |
-| 10-01 | 网页 | 巨潮·长源东谷 | 上市公司公告 | 襄阳长源东谷实业股份有限公司回购实施进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603950&orgId=9900037311&announcementId=1225591983&announcementTime=2026-10-01 |
 | 09-30 17:00 | 公众号 | 市说新语 | 监管·总局 | 习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电 | https://mp.weixin.qq.com/s/JYOH7cmrh512i0HlTmrS0g |
 | 09-30 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 小学组织“自愿捐款”却实名接龙，家委会权责边界需厘清 | https://mp.weixin.qq.com/s/c6lD29C4IjxVyYIQZ5gqQQ |
 | 09-30 17:00 | 公众号 | 界面新闻 | 综合媒体 | 中国队无缘亚运男足决赛 | https://mp.weixin.qq.com/s/C1RVLwpexwmpXTyRtP4A2A |
