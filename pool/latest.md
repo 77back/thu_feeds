@@ -1,7 +1,16 @@
-# 舆情候选池 1002（10-01 00:00 至今，132 条：公众号 119 + 网页 13）
+# 舆情候选池 1002（10-01 00:00 至今，138 条：公众号 128 + 网页 10）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 10:00 | 公众号 | 央视财经 | 综合媒体 | 金价银价油价，都涨了！ | https://mp.weixin.qq.com/s/jHiBrBW0Xcy3r-gdMBo1YQ |
+| 10-02 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 许鞍华公开复盘失败作品之后 | https://mp.weixin.qq.com/s/2I64K4~2HGPrhn6-FRBOQQ |
+| 10-02 10:00 | 公众号 | 界面新闻 | 综合媒体 | 英伟达市值一夜涨超4000亿元 | https://mp.weixin.qq.com/s/lFn9wWSllyY4ybLcthI5Eg |
+| 10-02 10:00 | 公众号 | 新京报 | 综合媒体 | “大哥，你不丑！” | https://mp.weixin.qq.com/s/SU-JNgY7lk6PD1WtkBSv7g |
+| 10-02 10:00 | 公众号 | 法治日报 | 综合媒体 | 国庆假期第一天，有车主掐点下高速省下257元过路费：在服务区等了3个小时，省下的钱能覆盖来回电费，结余加到份子钱里，“该省省该花花” | https://mp.weixin.qq.com/s/mnrzWNSVhjGO~XpZiNjqVw |
+| 10-02 10:00 | 公众号 | 南方都市报 | 综合媒体 | 桂林文促会：确为副主任，向阿丘诚恳致歉 | https://mp.weixin.qq.com/s/P7kFFZdAMFekJA7589PGIA |
+| 10-02 10:00 | 公众号 | 极目新闻 | 综合媒体 | 女子在KTV唱歌2小时，20多天后发现自己和朋友的3台手机拍照均出现紫色斑点，质疑镜头被氛围灯灼伤，店家：无法确定与包房内灯光有关 | https://mp.weixin.qq.com/s/-dRwPM1o~87W7alJHor76g |
+| 10-02 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 女子落地杭州机场后，哭着打电话给丈夫：包不见了，恐怕要损失几十万元生意！濒临崩溃时，一通电话打了过来 | https://mp.weixin.qq.com/s/lFXj2jqCXQDWnpAwDZtlZA |
+| 10-02 10:00 | 公众号 | 红网 | 综合媒体 | 国庆假期开启，网络涌现的“低价票、内部票”是真是假？这些诈骗套路要当心 | https://mp.weixin.qq.com/s/bmCL-tK~Yfz77D0okV0Cjw |
 | 10-02 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 大槐树下：根祖圣地生出文旅新活力 | https://mp.weixin.qq.com/s/jkGkE1jDbpbVEnLEP1slyQ |
 | 10-02 09:00 | 公众号 | 新京报 | 综合媒体 | 中方代表28个国家作共同发言 | https://mp.weixin.qq.com/s/5Wd9cU2kIKWzdgrGk4P2yQ |
 | 10-02 09:00 | 公众号 | 南方都市报 | 综合媒体 | “这雷声大到我差点从床上滚下来”！广东天气提醒：非必要不外出 | https://mp.weixin.qq.com/s/6RxU2HKlrWFmIZhbaZI01Q |
@@ -69,9 +78,6 @@
 | 10-01 12:00 | 公众号 | 红网 | 综合媒体 | 高铁凌晨通知候补成功，广东一网友早上起床发现车开走了，12306回应：无法退票，但可在当日24:00前办理一次改签 | https://mp.weixin.qq.com/s/e5tzD7TyvZr3WDtBnZYAHQ |
 | 10-01 12:00 | 公众号 | 北京消协 | 消协 | 国庆选购礼品注意！市场监管总局、中消协发布保健食品消费提示 | https://mp.weixin.qq.com/s/sQegCkSA-FjZIDMsvCan2A |
 | 10-01 12:00 | 公众号 | 南方都市报 | 综合媒体 | “飞机正在俯冲，我们全都冲了过去，把袭击者拽了出来，我拉起操纵杆”，乘客还原迪拜客机险情，飞机2分钟内急降超5000米 | https://mp.weixin.qq.com/s/~wKqTIT6cYW1FDz4Wgj5vg |
-| 10-01 11:42 | 网页 | 食品伙伴网 | 产经动态 | 明工厂不是 “作秀”：肉制品企业重建消费者信任的 6 个落地打法 | https://news.foodmate.net/2026/10/754134.html |
-| 10-01 11:11 | 网页 | 食品伙伴网 | 产经动态 | 9月第4周（采集日为9月24日）畜产品和饲料集贸市场价格情况 | https://news.foodmate.net/2026/10/754124.html |
-| 10-01 11:06 | 网页 | 食品伙伴网 | 产经动态 | 9月30日：“农产品批发价格200指数”比昨天上0.04个点 | https://news.foodmate.net/2026/10/754121.html |
 | 10-01 11:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——电动自行车头盔消费提示 | https://mp.weixin.qq.com/s/76irnOe-5NWyXio4Eutr1A |
 | 10-01 11:00 | 公众号 | 央视财经 | 综合媒体 | “人造太阳”，有新进展！ | https://mp.weixin.qq.com/s/B1biE~69TBcGACfZEgsAdQ |
 | 10-01 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 原央视主持人阿丘，被通报 | https://mp.weixin.qq.com/s/x1PWlkk4geM5ydG8FcOMbA |
