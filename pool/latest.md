@@ -1,7 +1,13 @@
-# 舆情候选池 1002（10-01 00:00 至今，126 条：公众号 113 + 网页 13）
+# 舆情候选池 1002（10-01 00:00 至今，132 条：公众号 119 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 大槐树下：根祖圣地生出文旅新活力 | https://mp.weixin.qq.com/s/jkGkE1jDbpbVEnLEP1slyQ |
+| 10-02 09:00 | 公众号 | 新京报 | 综合媒体 | 中方代表28个国家作共同发言 | https://mp.weixin.qq.com/s/5Wd9cU2kIKWzdgrGk4P2yQ |
+| 10-02 09:00 | 公众号 | 南方都市报 | 综合媒体 | “这雷声大到我差点从床上滚下来”！广东天气提醒：非必要不外出 | https://mp.weixin.qq.com/s/6RxU2HKlrWFmIZhbaZI01Q |
+| 10-02 09:00 | 公众号 | 法治日报 | 综合媒体 | 以为近就没事？酒驾刚出餐馆就被拦，男子悔到自扇耳光 | https://mp.weixin.qq.com/s/x9UaWhhV3N1Hql~CC59jtw |
+| 10-02 09:00 | 公众号 | 今晚报 | 综合媒体 | 降雨+7级大风！天津冷空气，此时到→ | https://mp.weixin.qq.com/s/x3w6-0qunYnqSvXtoRcrsA |
+| 10-02 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员万千惠已求助中使馆 | https://mp.weixin.qq.com/s/ljYQ8FjJv2MKK4PmVTuAZg |
 | 10-02 08:00 | 公众号 | 市说新语 | 监管·总局 | 刘桂平同志检查国庆节期间值班值守和市场监管工作 | https://mp.weixin.qq.com/s/L55w75burc1g2ZBoCZmAsA |
 | 10-02 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 刘桂平同志检查国庆节期间值班值守和市场监管工作 | https://mp.weixin.qq.com/s/FdvUYySY0vIzqi8J4ifLYA |
 | 10-02 08:00 | 公众号 | 央视财经 | 综合媒体 | 海外刷屏！这个中国景区，老外组团来了 | https://mp.weixin.qq.com/s/U1Tcx1an6~o0-3FTyOfvlw |
