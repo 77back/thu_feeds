@@ -1,7 +1,16 @@
-# 舆情候选池 1002（10-01 00:00 至今，188 条：公众号 174 + 网页 14）
+# 舆情候选池 1002（10-01 00:00 至今，197 条：公众号 183 + 网页 14）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 实探宁波鲸途海洋乐园：表演人员用棍子挑逗、激怒鳄鱼，专家：存在攻击风险 | https://mp.weixin.qq.com/s/IqQ~6sOd62gAw5e6idmAMA |
+| 10-02 17:00 | 公众号 | 新京报 | 综合媒体 | 中国驻泰使馆：接到有关上海音乐教师失联的求助 | https://mp.weixin.qq.com/s/UVoQNaj6b2xTAJ8TExm5dA |
+| 10-02 17:00 | 公众号 | 界面新闻 | 综合媒体 | 博主“星火社”致歉 | https://mp.weixin.qq.com/s/XHPCUAmuHkEhwRcHJDm9QQ |
+| 10-02 17:00 | 公众号 | 深圳市场监管 | 监管·地方 | “三心”守护 圳享“双节”｜国庆假期出行，这些特种设备安全知识请牢记！ | https://mp.weixin.qq.com/s/RW-Q40zIlEjm19mLuf7MdA |
+| 10-02 17:00 | 公众号 | 南方都市报 | 综合媒体 | 大使馆：接到上海一名音乐教师上周在曼谷失联的求助，已敦促泰国警方尽快查明当事人下落 | https://mp.weixin.qq.com/s/4pgaiwvtItDAAIYub8YyJQ |
+| 10-02 17:00 | 公众号 | 法治日报 | 综合媒体 | 上海一教师中秋节当天在泰国失联，中国驻泰国大使馆：已接到有关求助，并敦促泰国警方尽快查明当事人下落，目前案件正在侦办中 | https://mp.weixin.qq.com/s/r5NW~xVVZJZVivMpNelVuA |
+| 10-02 17:00 | 公众号 | 极目新闻 | 综合媒体 | 演员万千惠已求助中国大使馆 | https://mp.weixin.qq.com/s/bz2wpSVZDuCDANOE2C3jOg |
+| 10-02 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 司机倒车撞上劳斯莱斯被认定全责，因无授权维修点从海南拖车至吉林维修，拖车费17000元，维修费46600元，法院判了 | https://mp.weixin.qq.com/s/TPAUfGkBuoGuRdrECZkDPA |
+| 10-02 17:00 | 公众号 | 红网 | 综合媒体 | 中国驻泰国大使馆回应：已接到上海一音乐教师在曼谷失联的求助，此前多位网友在社交媒体上发布寻人启事 | https://mp.weixin.qq.com/s/2WmsDhP-nfUWBzTqiP~9JQ |
 | 10-02 16:25 | 网页 | 食品伙伴网 | 产经动态 | 权威发布丨2026产季苹果产销形势分析报告 | https://news.foodmate.net/2026/10/754148.html |
 | 10-02 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | “给车排队充电像食堂打饭”，最晚派了100多号、最久等了3个钟头 | https://mp.weixin.qq.com/s/uMvqeZQ0Vdr3qZXgd3iqAg |
 | 10-02 16:00 | 公众号 | 新京报 | 综合媒体 | 中国队包揽金银！王曦雨获得亚运会网球女单金牌 | https://mp.weixin.qq.com/s/bgv~mTt6FFgO-OejwxSBTQ |
