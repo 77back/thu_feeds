@@ -1,7 +1,15 @@
-# 舆情候选池 1002（10-01 00:00 至今，172 条：公众号 159 + 网页 13）
+# 舆情候选池 1002（10-01 00:00 至今，180 条：公众号 167 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 当女儿在故乡的草坪上光脚奔跑 | https://mp.weixin.qq.com/s/zZx9z9ZWgMY18smpJy4S-A |
+| 10-02 15:00 | 公众号 | 上海市场监管 | 监管·地方 | 这种饮料除了“上瘾”，还会让你抑郁、焦虑！尤其女性要少喝 | https://mp.weixin.qq.com/s/gE5AH-PxLV5gauAnH5Zhgw |
+| 10-02 15:00 | 公众号 | 新京报 | 综合媒体 | 莫氏鸡煲归于平淡，网红店终究要扎根烟火 | https://mp.weixin.qq.com/s/h6sCBs9j1fQ2hY0fFMYODA |
+| 10-02 15:00 | 公众号 | 法治日报 | 综合媒体 | 成都街头一男子拔走执勤交警摩托车钥匙：看到交警处理违停，想起自己之前被处罚经历，心生不满；被行拘5日 | https://mp.weixin.qq.com/s/LCV~iQsygyFhj7zJgNSfDA |
+| 10-02 15:00 | 公众号 | 南方都市报 | 综合媒体 | 游客反映“潮州古城外的滨江长廊将收费”，当地回应 | https://mp.weixin.qq.com/s/OnVJdWcDvHpfF3IvgS1TUg |
+| 10-02 15:00 | 公众号 | 极目新闻 | 综合媒体 | 全城仰望烟花，他们“背对”烟花 | https://mp.weixin.qq.com/s/IHJJr2KxdhS54hNAS2Ymeg |
+| 10-02 15:00 | 公众号 | 红网 | 综合媒体 | 阳江站一名旅客徒手扒车门，阻挡列车车门关闭，广州南车站发布情况说明 | https://mp.weixin.qq.com/s/OIFFvCUw-AjIbcQgU~6NwQ |
+| 10-02 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 这种息肉，几乎100%会癌变！一定要当心 | https://mp.weixin.qq.com/s/E3aZ7NtsC4iUgAP~AdDPXA |
 | 10-02 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | “女子扒车门阻挡高铁车门关闭”，广州南车站通报 | https://mp.weixin.qq.com/s/gnDufTyirzIFeTCehgV3yQ |
 | 10-02 14:00 | 公众号 | 央视财经 | 综合媒体 | “美国航母出动，增兵万人” | https://mp.weixin.qq.com/s/umL~0xH7FJyvnC~q8~wSoQ |
 | 10-02 14:00 | 公众号 | 新京报 | 综合媒体 | 马斯克将重返特朗普政府，参与牵头“子午线计划” | https://mp.weixin.qq.com/s/MYGA55~AyE4qrKtUZisTlw |
