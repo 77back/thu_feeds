@@ -1,7 +1,15 @@
-# 舆情候选池 1002（10-01 00:00 至今，145 条：公众号 135 + 网页 10）
+# 舆情候选池 1002（10-01 00:00 至今，156 条：公众号 143 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 12:00 | 公众号 | 央视财经 | 综合媒体 | 营收暴涨1200%！“巨头”被曝：即将冲刺IPO | https://mp.weixin.qq.com/s/l3iaXQe3BddLxOYxpZatMQ |
+| 10-02 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | “音乐教师在泰国失联”，校方回应 | https://mp.weixin.qq.com/s/lvtiu7ydVopW2SHbn2fcAw |
+| 10-02 12:00 | 公众号 | 法治日报 | 综合媒体 | 南京38岁男子归家心切，一口气连开7个小时长途，到家后双腿胀痛、胸闷气喘险些猝死；医生提醒：长途久坐不动易诱发静脉血栓，需适时休息 | https://mp.weixin.qq.com/s/Bgykta8WMpTh90dk8ZUv-w |
+| 10-02 12:00 | 公众号 | 界面新闻 | 综合媒体 | 新奥玄龙-50U实现氢硼聚变反应，照亮“无中子聚变”新路径 | https://mp.weixin.qq.com/s/MeuIv34aXPjBeb4Y9mT4~g |
+| 10-02 12:00 | 公众号 | 南方都市报 | 综合媒体 | C罗确认离开，7号球衣已易主 | https://mp.weixin.qq.com/s/nwr09OVr4FCqqv7a5uqbWw |
+| 10-02 12:00 | 公众号 | 极目新闻 | 综合媒体 | 一觉醒来，30岁男子双下肢瘫痪、大小便失禁 ，前一晚200多斤的他为了缓解酸痛，腰下垫枕睡觉，差点酿悲剧；医生：不是人人都适合垫腰睡 | https://mp.weixin.qq.com/s/jU3zMwGi9UN2QMR3JzAyfQ |
+| 10-02 12:00 | 公众号 | 红网 | 综合媒体 | 交通运输部提醒：假期充电特别繁忙服务区清单发布！可提前查询 | https://mp.weixin.qq.com/s/lM6VyAoL4KRf0PfMkBo0jA |
+| 10-02 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 中使馆发声：此案是国际社会前所未闻的恶性事件，日方如何处理，中方拭目以待 | https://mp.weixin.qq.com/s/7uZ0brfQ2wmy8cZHCmVrlg |
 | 10-02 11:00 | 公众号 | 界面新闻 | 综合媒体 | 多家车企公布前三季度销量：上汽反超比亚迪重回第一，理想退守新势力末位 | https://mp.weixin.qq.com/s/kiznv-HpSluzpWOXgbsu9Q |
 | 10-02 11:00 | 公众号 | 新京报 | 综合媒体 | 又一个军士学院，正式成立 | https://mp.weixin.qq.com/s/3Z3CpQodH2Z5RvXwg8q7iA |
 | 10-02 11:00 | 公众号 | 法治日报 | 综合媒体 | 突发：沙特发动空袭 | https://mp.weixin.qq.com/s/AyE-08~FAYdSO7J6b2ekxg |
@@ -85,6 +93,9 @@
 | 10-01 12:00 | 公众号 | 红网 | 综合媒体 | 高铁凌晨通知候补成功，广东一网友早上起床发现车开走了，12306回应：无法退票，但可在当日24:00前办理一次改签 | https://mp.weixin.qq.com/s/e5tzD7TyvZr3WDtBnZYAHQ |
 | 10-01 12:00 | 公众号 | 北京消协 | 消协 | 国庆选购礼品注意！市场监管总局、中消协发布保健食品消费提示 | https://mp.weixin.qq.com/s/sQegCkSA-FjZIDMsvCan2A |
 | 10-01 12:00 | 公众号 | 南方都市报 | 综合媒体 | “飞机正在俯冲，我们全都冲了过去，把袭击者拽了出来，我拉起操纵杆”，乘客还原迪拜客机险情，飞机2分钟内急降超5000米 | https://mp.weixin.qq.com/s/~wKqTIT6cYW1FDz4Wgj5vg |
+| 10-01 11:42 | 网页 | 食品伙伴网 | 产经动态 | 明工厂不是 “作秀”：肉制品企业重建消费者信任的 6 个落地打法 | https://news.foodmate.net/2026/10/754134.html |
+| 10-01 11:11 | 网页 | 食品伙伴网 | 产经动态 | 9月第4周（采集日为9月24日）畜产品和饲料集贸市场价格情况 | https://news.foodmate.net/2026/10/754124.html |
+| 10-01 11:06 | 网页 | 食品伙伴网 | 产经动态 | 9月30日：“农产品批发价格200指数”比昨天上0.04个点 | https://news.foodmate.net/2026/10/754121.html |
 | 10-01 11:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——电动自行车头盔消费提示 | https://mp.weixin.qq.com/s/76irnOe-5NWyXio4Eutr1A |
 | 10-01 11:00 | 公众号 | 央视财经 | 综合媒体 | “人造太阳”，有新进展！ | https://mp.weixin.qq.com/s/B1biE~69TBcGACfZEgsAdQ |
 | 10-01 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 原央视主持人阿丘，被通报 | https://mp.weixin.qq.com/s/x1PWlkk4geM5ydG8FcOMbA |
