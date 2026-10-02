@@ -1,7 +1,15 @@
-# 舆情候选池 1002（10-01 00:00 至今，156 条：公众号 143 + 网页 13）
+# 舆情候选池 1002（10-01 00:00 至今，164 条：公众号 151 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 13:00 | 公众号 | 中国消费者报 | 行业媒体 | 刘桂平同志检查国庆节期间值班值守和市场监管工作 | https://mp.weixin.qq.com/s/oh1OK2aecsKWXbCIaqFHTg |
+| 10-02 13:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 妇女儿童用品抽查结果公布 涉及自由点、苏菲、奈丝公主、洁婷的卫生巾，Babycare、包大人、安而康、盛夏光年的纸尿裤… | https://mp.weixin.qq.com/s/9CdLJFY-QFmzx7VTHSabDA |
+| 10-02 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 诺奖倒计时：“减肥神药”和“失眠良药”，两项耗时40年的研究，成大热门 | https://mp.weixin.qq.com/s/Q0UzPQGsTR8ADc67sgxrfA |
+| 10-02 13:00 | 公众号 | 新京报 | 综合媒体 | “在国外被中国男演员救了一命”，女子称在印尼潜水遇意外，危急关头被演员章涛救下 | https://mp.weixin.qq.com/s/ePjQ2~Ajul0S5Cp~qqtGRg |
+| 10-02 13:00 | 公众号 | 南方都市报 | 综合媒体 | 女子扒车门试图阻止高铁关门，官方通报 | https://mp.weixin.qq.com/s/U0mZq-lhv7zJ0x5EyP0q2g |
+| 10-02 13:00 | 公众号 | 法治日报 | 综合媒体 | 女子扒车门试图阻止高铁车门关闭，广州南车站通报：儿童旅客发现物品遗落，独自返回寻找，未能下车；女性旅客乘坐后续列车，将其安全接回 | https://mp.weixin.qq.com/s/bBPqh8pkPjRmfSIULgxr~g |
+| 10-02 13:00 | 公众号 | 极目新闻 | 综合媒体 | 这就，下雪了？！ | https://mp.weixin.qq.com/s/uPSbreRQfq9AwiQslsvbrw |
+| 10-02 13:00 | 公众号 | 红网 | 综合媒体 | 免费寄存！长沙“无人行李站”上新！ | https://mp.weixin.qq.com/s/FPvXANyERrujgpn6EfCp7Q |
 | 10-02 12:00 | 公众号 | 央视财经 | 综合媒体 | 营收暴涨1200%！“巨头”被曝：即将冲刺IPO | https://mp.weixin.qq.com/s/l3iaXQe3BddLxOYxpZatMQ |
 | 10-02 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | “音乐教师在泰国失联”，校方回应 | https://mp.weixin.qq.com/s/lvtiu7ydVopW2SHbn2fcAw |
 | 10-02 12:00 | 公众号 | 法治日报 | 综合媒体 | 南京38岁男子归家心切，一口气连开7个小时长途，到家后双腿胀痛、胸闷气喘险些猝死；医生提醒：长途久坐不动易诱发静脉血栓，需适时休息 | https://mp.weixin.qq.com/s/Bgykta8WMpTh90dk8ZUv-w |
