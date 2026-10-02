@@ -1,7 +1,14 @@
-# 舆情候选池 1002（10-01 00:00 至今，138 条：公众号 128 + 网页 10）
+# 舆情候选池 1002（10-01 00:00 至今，145 条：公众号 135 + 网页 10）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 11:00 | 公众号 | 界面新闻 | 综合媒体 | 多家车企公布前三季度销量：上汽反超比亚迪重回第一，理想退守新势力末位 | https://mp.weixin.qq.com/s/kiznv-HpSluzpWOXgbsu9Q |
+| 10-02 11:00 | 公众号 | 新京报 | 综合媒体 | 又一个军士学院，正式成立 | https://mp.weixin.qq.com/s/3Z3CpQodH2Z5RvXwg8q7iA |
+| 10-02 11:00 | 公众号 | 法治日报 | 综合媒体 | 突发：沙特发动空袭 | https://mp.weixin.qq.com/s/AyE-08~FAYdSO7J6b2ekxg |
+| 10-02 11:00 | 公众号 | 极目新闻 | 综合媒体 | 43岁男子用土豆当主食，1个月花300元，半年瘦了25斤，脂肪肝好转，血压、血糖稳了；网友：这应该是最便宜的减肥法了 | https://mp.weixin.qq.com/s/byO1lFc425VdIl0ubr~yBw |
+| 10-02 11:00 | 公众号 | 南方都市报 | 综合媒体 | 中方投下反对票 | https://mp.weixin.qq.com/s/KLFKGTrOI4O4ijHXr2l0aQ |
+| 10-02 11:00 | 公众号 | 今晚报 | 综合媒体 | 事关知名主持人，已启动调查程序 | https://mp.weixin.qq.com/s/rdcPvU0O1s-DsxF0pLphtg |
+| 10-02 11:00 | 公众号 | 红网 | 综合媒体 | 国庆假期冷空气来袭，多地气温将创新低，贵州、湖南、湖北等多地出现6至12℃降温；西南地区、江南、华南等部分地区有暴雨或大暴雨 | https://mp.weixin.qq.com/s/hIqCo9QtwCbiSgrtSRFlMw |
 | 10-02 10:00 | 公众号 | 央视财经 | 综合媒体 | 金价银价油价，都涨了！ | https://mp.weixin.qq.com/s/jHiBrBW0Xcy3r-gdMBo1YQ |
 | 10-02 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 许鞍华公开复盘失败作品之后 | https://mp.weixin.qq.com/s/2I64K4~2HGPrhn6-FRBOQQ |
 | 10-02 10:00 | 公众号 | 界面新闻 | 综合媒体 | 英伟达市值一夜涨超4000亿元 | https://mp.weixin.qq.com/s/lFn9wWSllyY4ybLcthI5Eg |
