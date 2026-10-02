@@ -1,7 +1,15 @@
-# 舆情候选池 1002（10-01 00:00 至今，164 条：公众号 151 + 网页 13）
+# 舆情候选池 1002（10-01 00:00 至今，172 条：公众号 159 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-02 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | “女子扒车门阻挡高铁车门关闭”，广州南车站通报 | https://mp.weixin.qq.com/s/gnDufTyirzIFeTCehgV3yQ |
+| 10-02 14:00 | 公众号 | 央视财经 | 综合媒体 | “美国航母出动，增兵万人” | https://mp.weixin.qq.com/s/umL~0xH7FJyvnC~q8~wSoQ |
+| 10-02 14:00 | 公众号 | 新京报 | 综合媒体 | 马斯克将重返特朗普政府，参与牵头“子午线计划” | https://mp.weixin.qq.com/s/MYGA55~AyE4qrKtUZisTlw |
+| 10-02 14:00 | 公众号 | 法治日报 | 综合媒体 | 演员万千惠已求助中国大使馆 | https://mp.weixin.qq.com/s/cuiK1Y92Sm65vTRrQZagsQ |
+| 10-02 14:00 | 公众号 | 南方都市报 | 综合媒体 | “芳村片区客流较大”！广州地铁最新提醒 | https://mp.weixin.qq.com/s/RTVskHrGGjlZosvlnNgoOg |
+| 10-02 14:00 | 公众号 | 红网 | 综合媒体 | 国庆假期自驾上高速，ETC这样用才省心→ | https://mp.weixin.qq.com/s/GMMYVzRDPGm5ucwt85zeOQ |
+| 10-02 14:00 | 公众号 | 今晚报 | 综合媒体 | 盒马客服：不建议频繁食用 | https://mp.weixin.qq.com/s/4zWkzGQSwwK5hH4YE5wCmQ |
+| 10-02 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 普京：中国车又便宜又好，很快我们都将开上中国车 | https://mp.weixin.qq.com/s/6X~JOVL0enwHlXncygSYGg |
 | 10-02 13:00 | 公众号 | 中国消费者报 | 行业媒体 | 刘桂平同志检查国庆节期间值班值守和市场监管工作 | https://mp.weixin.qq.com/s/oh1OK2aecsKWXbCIaqFHTg |
 | 10-02 13:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 妇女儿童用品抽查结果公布 涉及自由点、苏菲、奈丝公主、洁婷的卫生巾，Babycare、包大人、安而康、盛夏光年的纸尿裤… | https://mp.weixin.qq.com/s/9CdLJFY-QFmzx7VTHSabDA |
 | 10-02 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 诺奖倒计时：“减肥神药”和“失眠良药”，两项耗时40年的研究，成大热门 | https://mp.weixin.qq.com/s/Q0UzPQGsTR8ADc67sgxrfA |
