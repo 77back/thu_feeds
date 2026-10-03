@@ -1,7 +1,13 @@
-# 舆情候选池 1003（10-02 00:00 至今，128 条：公众号 127 + 网页 1）
+# 舆情候选池 1003（10-02 00:00 至今，133 条：公众号 133 + 网页 0）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-03 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 新华社：留给中国女足的时间，不多了 | https://mp.weixin.qq.com/s/cfSYLKfflSmi2jfNA1JMFQ |
+| 10-03 13:00 | 公众号 | 新京报 | 综合媒体 | 迪拜航空被刺机长与莫迪通话 | https://mp.weixin.qq.com/s/k7uXwxCln6pbkvMABYBRMQ |
+| 10-03 13:00 | 公众号 | 法治日报 | 综合媒体 | 陕西小哥坐高铁往返1200公里去武汉买奶茶，帮人买两杯自己喝一杯，下午出发晚上就到家，当事人：大部分时间都在坐车并不累 | https://mp.weixin.qq.com/s/POmr2ScTlnq9jEHolEuqbg |
+| 10-03 13:00 | 公众号 | 南方都市报 | 综合媒体 | 24岁女子连吃2小时自助被送急诊，胃被撑大，吐不出来也无法正常排便，开刀取出3斤重残渣……医生提醒：管住嘴！ | https://mp.weixin.qq.com/s/DAJBxXutnLowzAlkEZ9oBQ |
+| 10-03 13:00 | 公众号 | 极目新闻 | 综合媒体 | 医院副院长郑建民发生意外去世，年仅54岁，事发当天工作到凌晨4点 | https://mp.weixin.qq.com/s/TS9ugOlBDulYI5erUwx~cg |
+| 10-03 13:00 | 公众号 | 红网 | 综合媒体 | 这个国庆假期，长沙坡子街派出所门前依旧火爆，打卡热度不减 | https://mp.weixin.qq.com/s/a5xFI6Af~zWuOCqFP6yumw |
 | 10-03 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 这座高速服务区，凭什么一天吸引近8万人 | https://mp.weixin.qq.com/s/1s83ItA~1AF1Dq-A1I96rw |
 | 10-03 12:00 | 公众号 | 央视财经 | 综合媒体 | 总票房破300亿！不止于观影，中国电影全链升级 | https://mp.weixin.qq.com/s/o-2-w8IsYxDWJ4RxEMu67w |
 | 10-03 12:00 | 公众号 | 红网 | 综合媒体 | 韶山毛泽东同志故居景区发布限流提示：10月3日至6日，故居预约人数已接近最大承载量 | https://mp.weixin.qq.com/s/KLhh~2XvWmx-l1Rs5aXY-Q |
@@ -55,7 +61,6 @@
 | 10-02 17:00 | 公众号 | 极目新闻 | 综合媒体 | 演员万千惠已求助中国大使馆 | https://mp.weixin.qq.com/s/bz2wpSVZDuCDANOE2C3jOg |
 | 10-02 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 司机倒车撞上劳斯莱斯被认定全责，因无授权维修点从海南拖车至吉林维修，拖车费17000元，维修费46600元，法院判了 | https://mp.weixin.qq.com/s/TPAUfGkBuoGuRdrECZkDPA |
 | 10-02 17:00 | 公众号 | 红网 | 综合媒体 | 中国驻泰国大使馆回应：已接到上海一音乐教师在曼谷失联的求助，此前多位网友在社交媒体上发布寻人启事 | https://mp.weixin.qq.com/s/2WmsDhP-nfUWBzTqiP~9JQ |
-| 10-02 16:25 | 网页 | 食品伙伴网 | 产经动态 | 权威发布丨2026产季苹果产销形势分析报告 | https://news.foodmate.net/2026/10/754148.html |
 | 10-02 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | “给车排队充电像食堂打饭”，最晚派了100多号、最久等了3个钟头 | https://mp.weixin.qq.com/s/uMvqeZQ0Vdr3qZXgd3iqAg |
 | 10-02 16:00 | 公众号 | 新京报 | 综合媒体 | 中国队包揽金银！王曦雨获得亚运会网球女单金牌 | https://mp.weixin.qq.com/s/bgv~mTt6FFgO-OejwxSBTQ |
 | 10-02 16:00 | 公众号 | 法治日报 | 综合媒体 | 济南一小区12楼马桶倒灌，泡坏了地板门套，物业查出是湿巾、卫生巾把主管道堵了，但找不到“真凶”，法院判楼上6户和受损业主平摊损失 | https://mp.weixin.qq.com/s/mwsUw5DbXIfG~p2LFCp1Aw |
