@@ -1,7 +1,15 @@
-# 舆情候选池 1004（10-03 00:00 至今，121 条：公众号 120 + 网页 1）
+# 舆情候选池 1004（10-03 00:00 至今，129 条：公众号 128 + 网页 1）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 在正定，看见一座古城的不一样 | https://mp.weixin.qq.com/s/WPsR1Smeo-oPqeTY7y1a9g |
+| 10-04 12:00 | 公众号 | 央视财经 | 综合媒体 | 港交所：要推出人民币计价黄金期货 | https://mp.weixin.qq.com/s/gwF6tXKbe0pH0EpJvr2EIg |
+| 10-04 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子谈恋爱“嗅到商机”，女友生日时送出520元红包，却没等到对方回1314元，直接报警说被骗；女友：再也不想和他见面 | https://mp.weixin.qq.com/s/Pgmm~~eaOKsHh~0IAHXkeg |
+| 10-04 12:00 | 公众号 | 新京报 | 综合媒体 | 李健演唱会唱《情怨》缅怀刘欢，“歌手怀念歌手最好的方式就是，翻唱他的歌曲” | https://mp.weixin.qq.com/s/9XjW3nroSAN4Yc25sydl3g |
+| 10-04 12:00 | 公众号 | 界面新闻 | 综合媒体 | 百慕大起飞失联飞机残骸被发现，机上6人仍下落不明 | https://mp.weixin.qq.com/s/43OyuydGXqEj-ZsIFN-c0g |
+| 10-04 12:00 | 公众号 | 法治日报 | 综合媒体 | 男子被拍到国庆假期在高速打开智驾后睡着，拍摄者发声：多次按喇叭对方都没醒，“后来有一段堵车，估计刹车把他弄醒了……” | https://mp.weixin.qq.com/s/g8TI-2~88Th~es468Dd05Q |
+| 10-04 12:00 | 公众号 | 南方都市报 | 综合媒体 | 亚运会MVP公布：于子迪（中国游泳运动员，即将年满14岁）、汶颂（泰国短跑运动员，20岁）当选 | https://mp.weixin.qq.com/s/VI6iFtS~jc1izIwo61tpfQ |
+| 10-04 12:00 | 公众号 | 红网 | 综合媒体 | 汶颂、于子迪当选第20届亚运会最有价值运动员 | https://mp.weixin.qq.com/s/Qx2DE0DzCG5KCRybadCezw |
 | 10-04 11:00 | 公众号 | 中国市场监管报 | 行业媒体 | 开市客杏干添加剂超标被罚32万元；寄错月饼礼盒并被质疑“捂嘴”，Tiffany中国致歉...... | https://mp.weixin.qq.com/s/8pevmj7IJQ6Be-pZOlSrag |
 | 10-04 11:00 | 公众号 | 上海市场监管 | 监管·地方 | 这几个喝水习惯，快改掉！很多人以为很健康 | https://mp.weixin.qq.com/s/HiEPyRLG6mo-ENxYBMMm6Q |
 | 10-04 11:00 | 公众号 | 新京报 | 综合媒体 | 研考报名流程，有新变化 | https://mp.weixin.qq.com/s/Nh7gynitypXpfGbOwBjFgw |
