@@ -1,7 +1,15 @@
-# 舆情候选池 1004（10-03 00:00 至今，143 条：公众号 142 + 网页 1）
+# 舆情候选池 1004（10-03 00:00 至今，150 条：公众号 150 + 网页 0）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 15:00 | 公众号 | 央视财经 | 综合媒体 | 俄罗斯外交部发出警告 | https://mp.weixin.qq.com/s/vnnQBHFzcsmCDiRnPVdbIA |
+| 10-04 15:00 | 公众号 | 新京报 | 综合媒体 | 一医疗飞机从百慕大飞往波士顿途中失联，最后录音曝光！起飞后飞机骤降3000米，残骸已找到 | https://mp.weixin.qq.com/s/Qe9oSlM97vullk-A13-eaw |
+| 10-04 15:00 | 公众号 | 法治日报 | 综合媒体 | 一名驻冲绳美国士兵涉嫌在酒店抢劫杀害一名女子，高市早苗：发生如此极其残忍、凶恶的事件，令人深感遗憾，日本政府已向美方提出强烈抗议 | https://mp.weixin.qq.com/s/JfevON6PNq1kpa58Lp-kfw |
+| 10-04 15:00 | 公众号 | 界面新闻 | 综合媒体 | 品牌方与马拉松坐自行车作弊博主终止合作 | https://mp.weixin.qq.com/s/uvnvwVj9hANTlWbINaTv7A |
+| 10-04 15:00 | 公众号 | 南方都市报 | 综合媒体 | 高市早苗：发生如此极其残忍、凶恶的事件，令人深感遗憾；日方强烈要求美方最大限度地配合调查，严肃军纪 | https://mp.weixin.qq.com/s/7yddRDh-3JPx7NupMqpHGg |
+| 10-04 15:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北省委省政府致贺电 | https://mp.weixin.qq.com/s/LA1FcSV8esQR0c6SDkRaog |
+| 10-04 15:00 | 公众号 | 北京市场监管 | 监管·地方 | 山羊？绵羊？一件好羊绒衫该如何选购 | https://mp.weixin.qq.com/s/Pr0gIuIzvxac004a92yERA |
+| 10-04 15:00 | 公众号 | 红网 | 综合媒体 | 约满，限流！湖南热门景区最新预约情况来了 | https://mp.weixin.qq.com/s/279oXhqJXtS-CbigkGKcYA |
 | 10-04 14:00 | 公众号 | 央视财经 | 综合媒体 | 白宫成立“超级智能工作组” | https://mp.weixin.qq.com/s/~Zwuxb-ZPH9cnuS3I10Xpw |
 | 10-04 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 山西安泽：县域发展不在高楼，变化藏于山乡日常 | https://mp.weixin.qq.com/s/FKLGc2qZy5ZLmzOYtwq39Q |
 | 10-04 14:00 | 公众号 | 法治日报 | 综合媒体 | 2032年布里斯班奥运会会徽提前泄露，组委会索性直接发布 | https://mp.weixin.qq.com/s/OelGU3-2NO8nrVeyuAn2HQ |
@@ -34,7 +42,6 @@
 | 10-04 11:00 | 公众号 | 极目新闻 | 综合媒体 | 反转了！竟然是假的，确认系摆拍 | https://mp.weixin.qq.com/s/d6ULFthhl2ORMTaAHTvuIA |
 | 10-04 11:00 | 公众号 | 今晚报 | 综合媒体 | 打车去南大，下车结账时，天津师傅一句话，游客直接发到网上刷屏 | https://mp.weixin.qq.com/s/LPWfG~AfZCNC6~kib3D9sQ |
 | 10-04 11:00 | 公众号 | 红网 | 综合媒体 | 国安部披露：个别境外组织以“旅游”“科考”为名，深入我国生态敏感区，或借“医疗检测”非法采集人血样，窃取我国基因资源与研究数据 | https://mp.weixin.qq.com/s/kuc31xV~Xbrrqb0t9Aa3eA |
-| 10-04 10:27 | 网页 | 食品伙伴网 | 产经动态 | 第39周（9月21日-9月27日）山东省畜产品市场行情分析 | https://news.foodmate.net/2026/10/754186.html |
 | 10-04 10:00 | 公众号 | 央视财经 | 综合媒体 | 从百慕大起飞，一架飞机失联 | https://mp.weixin.qq.com/s/lxOHF1gKkx6FlaTDskjq7g |
 | 10-04 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | “能看海的地铁”通了，半岛县象山准备好了 | https://mp.weixin.qq.com/s/SZLmeTo7kq3nYjVX8SVCMg |
 | 10-04 10:00 | 公众号 | 红网 | 综合媒体 | 交通运输部动态研判：今天，江苏、四川、广东、湖南、浙江等33个高速路段易拥堵，河北、河南、辽宁等30个服务区充电特别繁忙 | https://mp.weixin.qq.com/s/P03e0gqlkYfqKg~ojrrN7g |
