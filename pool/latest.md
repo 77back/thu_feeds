@@ -1,7 +1,14 @@
-# 舆情候选池 1004（10-03 00:00 至今，129 条：公众号 128 + 网页 1）
+# 舆情候选池 1004（10-03 00:00 至今，136 条：公众号 135 + 网页 1）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 于子迪，MVP！ | https://mp.weixin.qq.com/s/FDs3yB7WAXOzJP50FlnSzQ |
+| 10-04 13:00 | 公众号 | 新京报 | 综合媒体 | 于子迪，MVP | https://mp.weixin.qq.com/s/KKjYKgKPmP3FvNvgouPSLA |
+| 10-04 13:00 | 公众号 | 深圳市场监管 | 监管·地方 | “三心”守护 圳享“双节”｜新型消费要安心，速看这份“问答小贴士”→ | https://mp.weixin.qq.com/s/sL6MrmB1Zq1TVjBHQkQejw |
+| 10-04 13:00 | 公众号 | 法治日报 | 综合媒体 | 游客报冰岛外国团，发现除了导游全是中国人，当事人：因为外国团便宜一半就报了，北极圈地广人稀的荒原处处是乡音，感到非常亲切 | https://mp.weixin.qq.com/s/XnME5fYSDxaaJXH90ZieQg |
+| 10-04 13:00 | 公众号 | 南方都市报 | 综合媒体 | 民警与歹徒殊死搏斗，生命定格在28岁，倒下时妻子怀孕4个月，从未见过爸爸的女儿如今考入他的母校…… | https://mp.weixin.qq.com/s/ypPKhkf6N9EsivuOITvGIw |
+| 10-04 13:00 | 公众号 | 极目新闻 | 综合媒体 | 男子买127元蜜雪冰城零食抽中近4000元电动车，门店负责人：目前已被抽走3辆，还有金条等奖品 | https://mp.weixin.qq.com/s/dKiCuWIlZ3SdYwMdMWBqZQ |
+| 10-04 13:00 | 公众号 | 红网 | 综合媒体 | “天安门执勤岗哨小猫”全网刷屏，国庆期间它又来了，执勤武警回应：它可能在寻找一个有安全感的人 | https://mp.weixin.qq.com/s/Wi~1zwTbyZ~OKDf~XghSkA |
 | 10-04 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 在正定，看见一座古城的不一样 | https://mp.weixin.qq.com/s/WPsR1Smeo-oPqeTY7y1a9g |
 | 10-04 12:00 | 公众号 | 央视财经 | 综合媒体 | 港交所：要推出人民币计价黄金期货 | https://mp.weixin.qq.com/s/gwF6tXKbe0pH0EpJvr2EIg |
 | 10-04 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子谈恋爱“嗅到商机”，女友生日时送出520元红包，却没等到对方回1314元，直接报警说被骗；女友：再也不想和他见面 | https://mp.weixin.qq.com/s/Pgmm~~eaOKsHh~0IAHXkeg |
