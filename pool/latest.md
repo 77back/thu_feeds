@@ -1,7 +1,14 @@
-# 舆情候选池 1004（10-03 00:00 至今，96 条：公众号 96 + 网页 0）
+# 舆情候选池 1004（10-03 00:00 至今，103 条：公众号 103 + 网页 0）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 09:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 立即停用！当心这两款灯触电 厂家都没了 | https://mp.weixin.qq.com/s/K8Ulmnutw1cvHS50UPjVCw |
+| 10-04 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 毕焜将担任爱知·名古屋亚运会闭幕式中国代表团旗手 | https://mp.weixin.qq.com/s/bd7YVWMUScBdyAZK5-CqJA |
+| 10-04 09:00 | 公众号 | 今晚报 | 综合媒体 | 知名男歌手演唱会突发！当场放话：没有下一次了 | https://mp.weixin.qq.com/s/HEVgLNGTuGkaDXOPw7am-w |
+| 10-04 09:00 | 公众号 | 法治日报 | 综合媒体 | 美国康奈尔大学性侵案细节披露，纽约州州长：受害者几小时详述遭遇，警方得知她醉酒状态下在兄弟会宿舍遭轮奸，却未将指控提交地区检察官 | https://mp.weixin.qq.com/s/qhPpMNHU1hAmFSCFeQsjuQ |
+| 10-04 09:00 | 公众号 | 极目新闻 | 综合媒体 | 内裤7条、袜子7双、内衣5件、浴巾5条，还有马桶垫，椅套……90后姑娘十一旅游，行李箱里塞满了这些“次抛”：回去一脱一扔，不要太方便 | https://mp.weixin.qq.com/s/A5g6qA0SIeo6FG1hRwhugA |
+| 10-04 09:00 | 公众号 | 红网 | 综合媒体 | 毕焜将担任名古屋亚运会闭幕式中国体育代表团旗手 | https://mp.weixin.qq.com/s/aTOp7V3qTMNFoAAyGwPAXQ |
+| 10-04 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 苹果确认：iPhone 18 Pro Max有问题 | https://mp.weixin.qq.com/s/I0shdxmcjHJXFfMlKljYgQ |
 | 10-04 08:00 | 公众号 | 市说新语 | 监管·总局 | 点外卖，一键看后厨！“浙”也太方便了→ | https://mp.weixin.qq.com/s/hVzhVAgNhhbaE9gEsJ-D0A |
 | 10-04 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 食安中国丨全链条监管 守护校园每一餐 | https://mp.weixin.qq.com/s/3hIFO~1s3gdl0PGTTKg6Nw |
 | 10-04 08:00 | 公众号 | 央视财经 | 综合媒体 | 订单暴增超300%，“宠”出新“风口”！这笔生意，需求爆发→ | https://mp.weixin.qq.com/s/p373qE8DnB0H~GXet96~1A |
