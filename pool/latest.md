@@ -1,7 +1,14 @@
-# 舆情候选池 1004（10-03 00:00 至今，160 条：公众号 160 + 网页 0）
+# 舆情候选池 1004（10-03 00:00 至今，167 条：公众号 167 + 网页 0）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 17:00 | 公众号 | 央视财经 | 综合媒体 | 蔡某某1年内在全国12315平台累计举报1520次，官方通报 | https://mp.weixin.qq.com/s/A09CBRqHPFwKTAh2MGtCiA |
+| 10-04 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票 | https://mp.weixin.qq.com/s/EWv5tcCyuQ2qkARB-uxiYw |
+| 10-04 17:00 | 公众号 | 新京报 | 综合媒体 | 贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票；“把抗战公路圈起来收费”的说法，与事实有出入 | https://mp.weixin.qq.com/s/d4GoxfHgkh1xbc~sp5VUUw |
+| 10-04 17:00 | 公众号 | 法治日报 | 综合媒体 | 女犯人被注射死刑失败，美国田纳西州管教局局长辞职 | https://mp.weixin.qq.com/s/mKxnG0zyL9LZWD7Bn-ZuKg |
+| 10-04 17:00 | 公众号 | 南方都市报 | 综合媒体 | 李昊：对，水瓶被扔了，无所谓，反正他们踢不进 | https://mp.weixin.qq.com/s/38frA~2Nqc1aN9QB~ysqWA |
+| 10-04 17:00 | 公众号 | 极目新闻 | 综合媒体 | 男子被拍到国庆节在高速打开智驾后睡着，拍摄者发声：多次按喇叭对方都没醒，“后来有一段堵车，刹车估计把他弄醒了”，交警提醒 | https://mp.weixin.qq.com/s/5GZtIGZXdsraLSt-gmEhhQ |
+| 10-04 17:00 | 公众号 | 红网 | 综合媒体 | 中国人民大学一校友捐资5.03亿元 | https://mp.weixin.qq.com/s/ckKrZLJjPPIHuOW-yPtQqA |
 | 10-04 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 湖南南县：那一抹藏不住的屋顶红 | https://mp.weixin.qq.com/s/ppnKHjBPGXf1-lUyWGRcQQ |
 | 10-04 16:00 | 公众号 | 新京报 | 综合媒体 | 中国人民大学一校友捐资5.03亿元 | https://mp.weixin.qq.com/s/NV~5QNzICdpwSG9lXnHIPw |
 | 10-04 16:00 | 公众号 | 界面新闻 | 综合媒体 | 离职员工爆料：“我辞去OpenAI的工作，因为企业文化已经烂掉了” | https://mp.weixin.qq.com/s/ZI1vD~lan~XJ8RxhyWAlpQ |
