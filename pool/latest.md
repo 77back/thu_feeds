@@ -1,7 +1,17 @@
-# 舆情候选池 1004（10-03 00:00 至今，150 条：公众号 150 + 网页 0）
+# 舆情候选池 1004（10-03 00:00 至今，160 条：公众号 160 + 网页 0）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 湖南南县：那一抹藏不住的屋顶红 | https://mp.weixin.qq.com/s/ppnKHjBPGXf1-lUyWGRcQQ |
+| 10-04 16:00 | 公众号 | 新京报 | 综合媒体 | 中国人民大学一校友捐资5.03亿元 | https://mp.weixin.qq.com/s/NV~5QNzICdpwSG9lXnHIPw |
+| 10-04 16:00 | 公众号 | 界面新闻 | 综合媒体 | 离职员工爆料：“我辞去OpenAI的工作，因为企业文化已经烂掉了” | https://mp.weixin.qq.com/s/ZI1vD~lan~XJ8RxhyWAlpQ |
+| 10-04 16:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 各大品牌都在推的“蛋白水”，普通人到底要不要喝？ | https://mp.weixin.qq.com/s/f8AT86FeqC095MuqeU9i0Q |
+| 10-04 16:00 | 公众号 | 法治日报 | 综合媒体 | 百慕大飞波士顿航班离奇失踪，飞机碎片已找到，机上6人下落不明，身份披露；飞机失联前骤降1.3万英尺，驾驶员陷入“盲飞”状态 | https://mp.weixin.qq.com/s/uQvNi8bznllroJcsojD8BA |
+| 10-04 16:00 | 公众号 | 极目新闻 | 综合媒体 | 人人人人人，全国游客在武汉玩嗨了！ | https://mp.weixin.qq.com/s/x2xXMBjqqrNcmDVUzzKzbg |
+| 10-04 16:00 | 公众号 | 南方都市报 | 综合媒体 | 7300米急降至3050米！一架从百慕大出发的飞机失联：飞行中似乎导航失灵，驾驶员陷入“盲飞”状态；已发现飞机残骸，机上6人仍下落不明 | https://mp.weixin.qq.com/s/vN8R0ZyEAaGs2nDuVFz9gQ |
+| 10-04 16:00 | 公众号 | 红网 | 综合媒体 | 贵州晴隆通报二十四道拐景区收费问题：“把抗战公路圈起来收费”说法与事实不符，即日起二十四道拐观景台、展览馆景区免费开放 | https://mp.weixin.qq.com/s/PsFo-07dGu1osdKa-w335w |
+| 10-04 16:00 | 公众号 | 今晚报 | 综合媒体 | 游客在天津遇到一件事，直呼：别的城市很少见！ | https://mp.weixin.qq.com/s/vGRBZlNHqu6~~ko6KSDHIQ |
+| 10-04 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 高市早苗、小泉进次郎，同日发声：残忍、恶劣、不可容忍 | https://mp.weixin.qq.com/s/88Y3BNGKii-AnFmT-3aWDw |
 | 10-04 15:00 | 公众号 | 央视财经 | 综合媒体 | 俄罗斯外交部发出警告 | https://mp.weixin.qq.com/s/vnnQBHFzcsmCDiRnPVdbIA |
 | 10-04 15:00 | 公众号 | 新京报 | 综合媒体 | 一医疗飞机从百慕大飞往波士顿途中失联，最后录音曝光！起飞后飞机骤降3000米，残骸已找到 | https://mp.weixin.qq.com/s/Qe9oSlM97vullk-A13-eaw |
 | 10-04 15:00 | 公众号 | 法治日报 | 综合媒体 | 一名驻冲绳美国士兵涉嫌在酒店抢劫杀害一名女子，高市早苗：发生如此极其残忍、凶恶的事件，令人深感遗憾，日本政府已向美方提出强烈抗议 | https://mp.weixin.qq.com/s/JfevON6PNq1kpa58Lp-kfw |
