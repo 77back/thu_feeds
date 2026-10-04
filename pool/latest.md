@@ -1,7 +1,18 @@
-# 舆情候选池 1004（10-03 00:00 至今，110 条：公众号 110 + 网页 0）
+# 舆情候选池 1004（10-03 00:00 至今，121 条：公众号 120 + 网页 1）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 11:00 | 公众号 | 中国市场监管报 | 行业媒体 | 开市客杏干添加剂超标被罚32万元；寄错月饼礼盒并被质疑“捂嘴”，Tiffany中国致歉...... | https://mp.weixin.qq.com/s/8pevmj7IJQ6Be-pZOlSrag |
+| 10-04 11:00 | 公众号 | 上海市场监管 | 监管·地方 | 这几个喝水习惯，快改掉！很多人以为很健康 | https://mp.weixin.qq.com/s/HiEPyRLG6mo-ENxYBMMm6Q |
+| 10-04 11:00 | 公众号 | 新京报 | 综合媒体 | 研考报名流程，有新变化 | https://mp.weixin.qq.com/s/Nh7gynitypXpfGbOwBjFgw |
+| 10-04 11:00 | 公众号 | 界面新闻 | 综合媒体 | 柏林马拉松中途坐自行车作弊被拍，53万粉丝运动博主致歉 | https://mp.weixin.qq.com/s/ymkppkIngzlxFKu2ZJe1Tw |
+| 10-04 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子被拍到在高速打开智驾后睡着，拍摄者发声：多次按喇叭对方都没醒，“后来有一段堵车，刹车估计把他弄醒了” | https://mp.weixin.qq.com/s/R3YDSQHiwkAKhYGFdayEnQ |
+| 10-04 11:00 | 公众号 | 法治日报 | 综合媒体 | 一家三口出车祸，唯独后排77岁的母亲受重伤！医生：不少人存在认知误区，这个细节别忽视 | https://mp.weixin.qq.com/s/bEcQnNr0n5NUq47roX4DmA |
+| 10-04 11:00 | 公众号 | 南方都市报 | 综合媒体 | 学“网红”姿势出片，女子摔下山坡、多处受伤，紧急提醒 | https://mp.weixin.qq.com/s/qqSxJFMk~TAc~r4rcIYyaw |
+| 10-04 11:00 | 公众号 | 极目新闻 | 综合媒体 | 反转了！竟然是假的，确认系摆拍 | https://mp.weixin.qq.com/s/d6ULFthhl2ORMTaAHTvuIA |
+| 10-04 11:00 | 公众号 | 今晚报 | 综合媒体 | 打车去南大，下车结账时，天津师傅一句话，游客直接发到网上刷屏 | https://mp.weixin.qq.com/s/LPWfG~AfZCNC6~kib3D9sQ |
+| 10-04 11:00 | 公众号 | 红网 | 综合媒体 | 国安部披露：个别境外组织以“旅游”“科考”为名，深入我国生态敏感区，或借“医疗检测”非法采集人血样，窃取我国基因资源与研究数据 | https://mp.weixin.qq.com/s/kuc31xV~Xbrrqb0t9Aa3eA |
+| 10-04 10:27 | 网页 | 食品伙伴网 | 产经动态 | 第39周（9月21日-9月27日）山东省畜产品市场行情分析 | https://news.foodmate.net/2026/10/754186.html |
 | 10-04 10:00 | 公众号 | 央视财经 | 综合媒体 | 从百慕大起飞，一架飞机失联 | https://mp.weixin.qq.com/s/lxOHF1gKkx6FlaTDskjq7g |
 | 10-04 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | “能看海的地铁”通了，半岛县象山准备好了 | https://mp.weixin.qq.com/s/SZLmeTo7kq3nYjVX8SVCMg |
 | 10-04 10:00 | 公众号 | 红网 | 综合媒体 | 交通运输部动态研判：今天，江苏、四川、广东、湖南、浙江等33个高速路段易拥堵，河北、河南、辽宁等30个服务区充电特别繁忙 | https://mp.weixin.qq.com/s/P03e0gqlkYfqKg~ojrrN7g |
