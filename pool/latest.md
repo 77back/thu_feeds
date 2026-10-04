@@ -1,7 +1,14 @@
-# 舆情候选池 1004（10-03 00:00 至今，103 条：公众号 103 + 网页 0）
+# 舆情候选池 1004（10-03 00:00 至今，110 条：公众号 110 + 网页 0）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-04 10:00 | 公众号 | 央视财经 | 综合媒体 | 从百慕大起飞，一架飞机失联 | https://mp.weixin.qq.com/s/lxOHF1gKkx6FlaTDskjq7g |
+| 10-04 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | “能看海的地铁”通了，半岛县象山准备好了 | https://mp.weixin.qq.com/s/SZLmeTo7kq3nYjVX8SVCMg |
+| 10-04 10:00 | 公众号 | 红网 | 综合媒体 | 交通运输部动态研判：今天，江苏、四川、广东、湖南、浙江等33个高速路段易拥堵，河北、河南、辽宁等30个服务区充电特别繁忙 | https://mp.weixin.qq.com/s/P03e0gqlkYfqKg~ojrrN7g |
+| 10-04 10:00 | 公众号 | 新京报 | 综合媒体 | 中国科学家，重要发现 | https://mp.weixin.qq.com/s/TwxiRHhyP1gYmrRx4yRc0w |
+| 10-04 10:00 | 公众号 | 界面新闻 | 综合媒体 | 苹果：可免费更换iPhone 18 Pro Max问题机 | https://mp.weixin.qq.com/s/Poox6xCy3OMg8N86~nOphw |
+| 10-04 10:00 | 公众号 | 法治日报 | 综合媒体 | 男子刚入职就弄丢10台苹果手机，担心不仅工作要丢还面临10万元赔偿，民警一帧帧翻监控到凌晨3点，6天后终于找回 | https://mp.weixin.qq.com/s/5bWEIlI8al-J9d3u~EMBLw |
+| 10-04 10:00 | 公众号 | 南方都市报 | 综合媒体 | 亚运男足颁奖仪式闹乌龙 | https://mp.weixin.qq.com/s/ZwJmKdTJuPBIBE8ROMzHhQ |
 | 10-04 09:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 立即停用！当心这两款灯触电 厂家都没了 | https://mp.weixin.qq.com/s/K8Ulmnutw1cvHS50UPjVCw |
 | 10-04 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 毕焜将担任爱知·名古屋亚运会闭幕式中国代表团旗手 | https://mp.weixin.qq.com/s/bd7YVWMUScBdyAZK5-CqJA |
 | 10-04 09:00 | 公众号 | 今晚报 | 综合媒体 | 知名男歌手演唱会突发！当场放话：没有下一次了 | https://mp.weixin.qq.com/s/HEVgLNGTuGkaDXOPw7am-w |
