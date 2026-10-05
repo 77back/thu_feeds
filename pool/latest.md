@@ -1,7 +1,18 @@
-# 舆情候选池 1005（10-04 00:00 至今，169 条：公众号 159 + 网页 10）
+# 舆情候选池 1005（10-04 00:00 至今，180 条：公众号 170 + 网页 10）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-05 17:00 | 公众号 | 上海市场监管 | 监管·地方 | 这种不起眼的“喂猪菜”，在美国卖到 300 元一斤！竟然还抢疯了…… | https://mp.weixin.qq.com/s/jlJ-Xw-6aYvjEe24O3Ei7w |
+| 10-05 17:00 | 公众号 | 央视财经 | 综合媒体 | 华为、高通，达成协议！ | https://mp.weixin.qq.com/s/ddQdTLVYOBl2ewFrGf9mqA |
+| 10-05 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 芜湖方特回应“近身热舞、低龄放行”：深表歉意，全面整改 | https://mp.weixin.qq.com/s/h4yczLlV~rG1PwhpBedEZA |
+| 10-05 17:00 | 公众号 | 新京报 | 综合媒体 | 华为与高通达成协议 | https://mp.weixin.qq.com/s/NDUAB03pGOcN6eApyxYYzg |
+| 10-05 17:00 | 公众号 | 南方都市报 | 综合媒体 | 50岁女子持刀恐吓香港地铁一职员，要求交出所有八达通卡及100港币现钞；企图抢劫未果后逃离钻石山站，在黄大仙一处单位被找到，已被拘捕 | https://mp.weixin.qq.com/s/857a2KijT00sq9k5xJ0xqQ |
+| 10-05 17:00 | 公众号 | 法治日报 | 综合媒体 | 大学生玩桨板手机不慎落水，景区工作人员连续两天下水打捞最终找到，当事人：手机目前还能正常使用，为景区点赞 | https://mp.weixin.qq.com/s/FFJHPh-ynkctewqm3i89Cg |
+| 10-05 17:00 | 公众号 | 极目新闻 | 综合媒体 | 今天起，半夜醒来千万不要看手机和时间！ | https://mp.weixin.qq.com/s/r~XqhZPGVaS1GVU5nGWS~A |
+| 10-05 17:00 | 公众号 | 今晚报 | 综合媒体 | 大反转！又是摆拍 | https://mp.weixin.qq.com/s/hZeQp6FRbyQicZq~CJ6P1w |
+| 10-05 17:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 彻底退出历史舞台、大降价？一汽丰田最新回应 | https://mp.weixin.qq.com/s/F7yyQwOFA0NYsbZ5cTbahg |
+| 10-05 17:00 | 公众号 | 红网 | 综合媒体 | 陆军兵种大学组建7所学院，名称公布！ | https://mp.weixin.qq.com/s/e5NE8nl9l~hmqVNO6DY3zQ |
+| 10-05 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 30多岁职场精英突然性情大变，记忆力断崖式下降，确诊“老年痴呆”，基因检测：一家三代9人携带显性基因，多位长辈早早离世 | https://mp.weixin.qq.com/s/qNTFQ48VMXuLsZe0UOM3Dw |
 | 10-05 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 仅10分钟，收网缅北“四大家族”重要成员 | https://mp.weixin.qq.com/s/kFAFTkIW-6Ep-UVcvA~DxA |
 | 10-05 16:00 | 公众号 | 新京报 | 综合媒体 | “把人活活打死，用机枪扫射，超出人类的底线”，央视曝光缅北卧虎山庄地下靶场，底层电诈人员的“处决地” | https://mp.weixin.qq.com/s/VWOPcB8I5zWkYn3BZCcLVA |
 | 10-05 16:00 | 公众号 | 界面新闻 | 综合媒体 | 华为与高通宣布达成广泛专利许可协议 | https://mp.weixin.qq.com/s/rsZ-Icdpf53f5yoWIlG90g |
