@@ -1,7 +1,15 @@
-# 舆情候选池 1005（10-04 00:00 至今，155 条：公众号 146 + 网页 9）
+# 舆情候选池 1005（10-04 00:00 至今，164 条：公众号 154 + 网页 10）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-05 15:00 | 公众号 | 央视财经 | 综合媒体 | 总台曝光后，重庆启动专项整治 | https://mp.weixin.qq.com/s/bpNnZ8IVRbsx7a~dH5Pvvg |
+| 10-05 15:00 | 公众号 | 广东市场监管 | 监管·地方 | 广东省市场监督管理局发布特种设备相关单位的复工复产指引 | https://mp.weixin.qq.com/s/rcb7fjoCKOutQDQC5r13dg |
+| 10-05 15:00 | 公众号 | 新京报 | 综合媒体 | 亚运国足主帅：这一代中国球员很有机会打进世界杯 | https://mp.weixin.qq.com/s/dsxX8xuU6GvukbLphDeQ6w |
+| 10-05 15:00 | 公众号 | 法治日报 | 综合媒体 | 山东一大学生假期0元搭车返乡：16位司机接力4天半，从沈阳到滕州跨越1200公里；每搭一程给司机买两瓶水，全程没提前告诉家里人 | https://mp.weixin.qq.com/s/NsU-uI4AHUtMFDpGXAfmUw |
+| 10-05 15:00 | 公众号 | 南方都市报 | 综合媒体 | 广东一新学校开学，董明珠任校长 | https://mp.weixin.qq.com/s/xa33QjWYYaGpJ51E0Kwg1w |
+| 10-05 15:00 | 公众号 | 极目新闻 | 综合媒体 | 新娘婚礼前两天被马蜂蜇伤，嘴唇肿胀自嘲“像蛤蟆精”，当事人：连夜就医，婚礼如期举行 | https://mp.weixin.qq.com/s/BoKtoDRuC4Sg43yK2Ml8Bg |
+| 10-05 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 美军发动打击 | https://mp.weixin.qq.com/s/OS3AZ8pnUxDxbSydTruzBA |
+| 10-05 15:00 | 公众号 | 红网 | 综合媒体 | 旅游团强制购物，额外收费；酒店、民宿临时涨价，或商家单方面取消订单......假期中这些消费陷阱维权指南→ | https://mp.weixin.qq.com/s/KQ8lWvTWz3z6KwwfJYl8AA |
 | 10-05 14:00 | 公众号 | 央视财经 | 综合媒体 | 男子讲述在缅北被割肾经历：因“业绩”不佳被迫签下7万欠条，只能卖肾抵债！ | https://mp.weixin.qq.com/s/49-Ng5Zty5IVUy~j1C4IFg |
 | 10-05 14:00 | 公众号 | 新京报 | 综合媒体 | 白应苍临刑前画面曝光 | https://mp.weixin.qq.com/s/3xslgh~XtFZ9z0N805PmkQ |
 | 10-05 14:00 | 公众号 | 法治日报 | 综合媒体 | 重要提醒！放假期间，朋友圈这7张照片千万不能晒‌→ | https://mp.weixin.qq.com/s/3KztKyAEcWKil-LjNbiMQw |
@@ -69,6 +77,7 @@
 | 10-05 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 沙特发动空袭 ｜ 晨报来了 | https://mp.weixin.qq.com/s/ike6CsckZ1j3HiG22~rULw |
 | 10-05 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监管局举办“你点我检”进校园暨实验室开放日活动 | http://news.foodmate.net/2026/10/754215.html |
 | 10-05 | 网页 | 食品伙伴网 | 抽检通报 | 双鸭山市友谊县市场监管局：“你点我检” 精准护航 筑牢中秋国庆双节食品安全防线 | http://news.foodmate.net/2026/10/754214.html |
+| 10-05 | 网页 | 澎湃·质量观 | 行业媒体 | 近期有婴幼儿因食用银鳕鱼引起血汞异常，专家提示 | https://www.thepaper.cn/newsDetail_forward_34201609 |
 | 10-04 17:00 | 公众号 | 央视财经 | 综合媒体 | 蔡某某1年内在全国12315平台累计举报1520次，官方通报 | https://mp.weixin.qq.com/s/A09CBRqHPFwKTAh2MGtCiA |
 | 10-04 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票 | https://mp.weixin.qq.com/s/EWv5tcCyuQ2qkARB-uxiYw |
 | 10-04 17:00 | 公众号 | 新京报 | 综合媒体 | 贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票；“把抗战公路圈起来收费”的说法，与事实有出入 | https://mp.weixin.qq.com/s/d4GoxfHgkh1xbc~sp5VUUw |
