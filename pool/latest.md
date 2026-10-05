@@ -1,7 +1,15 @@
-# 舆情候选池 1005（10-04 00:00 至今，134 条：公众号 125 + 网页 9）
+# 舆情候选池 1005（10-04 00:00 至今，140 条：公众号 133 + 网页 7）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-05 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 在粤北小城，过一个热气腾腾的假期 | https://mp.weixin.qq.com/s/Kmww3SFaNa3g~5gzvZYkrg |
+| 10-05 12:00 | 公众号 | 法治日报 | 综合媒体 | 男子讲述在缅北被割肾经历：因“业绩”不佳被迫签下7万欠条，只能卖肾抵债！只要能走，锯腿、锯手我都愿意 | https://mp.weixin.qq.com/s/RVN10VXNnHg-aovEaQPl3w |
+| 10-05 12:00 | 公众号 | 新京报 | 综合媒体 | 央视披露：缅北电诈头目为防止巨额现金发霉，经常在房顶和院子里晒钱，成为当地一景 | https://mp.weixin.qq.com/s/J8hWC5e6CdvQ3m-pOng1Lw |
+| 10-05 12:00 | 公众号 | 界面新闻 | 综合媒体 | 9位华人科学家成热门人选！诺贝尔奖今起揭晓 | https://mp.weixin.qq.com/s/mJh0SewxOzZH2e-uCJKpfg |
+| 10-05 12:00 | 公众号 | 南方都市报 | 综合媒体 | 业绩不好天天被打，伤口溃烂无法行走……诈骗公司提出可以卖肾抵债，他直言“锯手锯腿我都愿意，只要能走”；缅北电诈回流人员自述经历 | https://mp.weixin.qq.com/s/ZLGvXNv2BknejYn2tfU8jA |
+| 10-05 12:00 | 公众号 | 今晚报 | 综合媒体 | 干了40年婚礼！天津老司仪道实情：为嘛都爱赶十一结婚？新人要嘛不要嘛？ | https://mp.weixin.qq.com/s/YaCyXE9dxAFPKyn0zJItbQ |
+| 10-05 12:00 | 公众号 | 红网 | 综合媒体 | 董明珠担任校长的珠海市格力技工学校开学！来自湖南的新生中考620分，物理成绩近满分，放弃普高重点班录取机会选择这所学校 | https://mp.weixin.qq.com/s/gJ2jvpKLavaWk-9YCBAdkg |
+| 10-05 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 被执行死刑的巫鸿明、白应苍出镜 | https://mp.weixin.qq.com/s/PoVhg4vaLwuvKCxbrGjHrA |
 | 10-05 11:00 | 公众号 | 央视财经 | 综合媒体 | “沙特24小时内发动百次空袭和导弹袭击” | https://mp.weixin.qq.com/s/oi2ukTcuAK~k0ZQOHt8RXw |
 | 10-05 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 零跑汽车：蔡康永并非零跑代言人，已下线与其相关全部内容 | https://mp.weixin.qq.com/s/FOe0KUkKGctmqzFTg3~GMw |
 | 10-05 11:00 | 公众号 | 新京报 | 综合媒体 | “不要说一个肾了，锯条腿、锯条手我都愿意，只要能走”，缅北电诈回流人员自述被割肾亲身经历 | https://mp.weixin.qq.com/s/VWCusK~mslqEGTYkAeb9XA |
@@ -46,8 +54,6 @@
 | 10-05 08:00 | 公众号 | 极目新闻 | 综合媒体 | 你只是尝一口鲜，它却可能在你体内住上10年！劝你一口别吃！ | https://mp.weixin.qq.com/s/5vKEcBkj5~w--3hwT48ySA |
 | 10-05 08:00 | 公众号 | 红网 | 综合媒体 | 男子高速打开“智驾”后睡着，旁车多次鸣笛都没醒；提醒：智能驾驶≠自动驾驶 | https://mp.weixin.qq.com/s/MpKG3BtjxPXG1wcSVZWKTg |
 | 10-05 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 沙特发动空袭 ｜ 晨报来了 | https://mp.weixin.qq.com/s/ike6CsckZ1j3HiG22~rULw |
-| 10-05 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监管局举办“你点我检”进校园暨实验室开放日活动 | http://news.foodmate.net/2026/10/754215.html |
-| 10-05 | 网页 | 食品伙伴网 | 抽检通报 | 双鸭山市友谊县市场监管局：“你点我检” 精准护航 筑牢中秋国庆双节食品安全防线 | http://news.foodmate.net/2026/10/754214.html |
 | 10-04 17:00 | 公众号 | 央视财经 | 综合媒体 | 蔡某某1年内在全国12315平台累计举报1520次，官方通报 | https://mp.weixin.qq.com/s/A09CBRqHPFwKTAh2MGtCiA |
 | 10-04 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票 | https://mp.weixin.qq.com/s/EWv5tcCyuQ2qkARB-uxiYw |
 | 10-04 17:00 | 公众号 | 新京报 | 综合媒体 | 贵州晴隆：即日起二十四道拐观景台、展览馆景区免收门票；“把抗战公路圈起来收费”的说法，与事实有出入 | https://mp.weixin.qq.com/s/d4GoxfHgkh1xbc~sp5VUUw |
