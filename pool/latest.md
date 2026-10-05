@@ -1,7 +1,15 @@
-# 舆情候选池 1005（10-04 00:00 至今，126 条：公众号 117 + 网页 9）
+# 舆情候选池 1005（10-04 00:00 至今，134 条：公众号 125 + 网页 9）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-05 11:00 | 公众号 | 央视财经 | 综合媒体 | “沙特24小时内发动百次空袭和导弹袭击” | https://mp.weixin.qq.com/s/oi2ukTcuAK~k0ZQOHt8RXw |
+| 10-05 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 零跑汽车：蔡康永并非零跑代言人，已下线与其相关全部内容 | https://mp.weixin.qq.com/s/FOe0KUkKGctmqzFTg3~GMw |
+| 10-05 11:00 | 公众号 | 新京报 | 综合媒体 | “不要说一个肾了，锯条腿、锯条手我都愿意，只要能走”，缅北电诈回流人员自述被割肾亲身经历 | https://mp.weixin.qq.com/s/VWCusK~mslqEGTYkAeb9XA |
+| 10-05 11:00 | 公众号 | 法治日报 | 综合媒体 | 26岁男子体内取出248枚“金豆”，平常特别爱吃这些，医生郑重提醒 | https://mp.weixin.qq.com/s/dQ7hNy1VOzgU04pLmrpdMQ |
+| 10-05 11:00 | 公众号 | 界面新闻 | 综合媒体 | 最新披露：迪拜航空副驾驶原计划撞以色列航站楼，被录用前已策划袭击 | https://mp.weixin.qq.com/s/y6L3u9v~6zMCS-nfFDNGKw |
+| 10-05 11:00 | 公众号 | 极目新闻 | 综合媒体 | 大反转！确认系AI生成 | https://mp.weixin.qq.com/s/5lozc4CRtHCtBevWnj5vLg |
+| 10-05 11:00 | 公众号 | 南方都市报 | 综合媒体 | 广州地铁：10月1日至3日，芳村站日均进站客流位列线网第二，仅次于地铁广州南站；今日起，8条线路连续三天延时运营 | https://mp.weixin.qq.com/s/6mZwUQfFqJhGXUNT3UoR4Q |
+| 10-05 11:00 | 公众号 | 红网 | 综合媒体 | 缅北电诈回流人员自述被割肾亲身经历：那时不要说一个肾，锯条腿、锯条手我都愿意，只要能走，后来把我带到一个农家小院直接做手术 | https://mp.weixin.qq.com/s/ChTlo0nZW4Q20bwQfCqLag |
 | 10-05 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | DeepSeek 假期上新，90后负责人回应 | https://mp.weixin.qq.com/s/3hhdnBpJe7cHIavnSaXHlw |
 | 10-05 10:00 | 公众号 | 南方都市报 | 综合媒体 | 初步调查：迪拜航空袭击者系单独作案；他原计划杀死机长，并驾机“直接撞向”以色列一机场航站楼，被迪拜航空录用前就已策划袭击 | https://mp.weixin.qq.com/s/Gq9nwDS0UZ8uZoRfHy9hKA |
 | 10-05 10:00 | 公众号 | 界面新闻 | 综合媒体 | 官方通报“阿尔山景区二百一晚的大酒店” | https://mp.weixin.qq.com/s/2us4JqKhjOy2A51jh~PXwQ |
