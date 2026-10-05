@@ -1,7 +1,12 @@
-# 舆情候选池 1005（10-04 00:00 至今，164 条：公众号 154 + 网页 10）
+# 舆情候选池 1005（10-04 00:00 至今，169 条：公众号 159 + 网页 10）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-05 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 仅10分钟，收网缅北“四大家族”重要成员 | https://mp.weixin.qq.com/s/kFAFTkIW-6Ep-UVcvA~DxA |
+| 10-05 16:00 | 公众号 | 新京报 | 综合媒体 | “把人活活打死，用机枪扫射，超出人类的底线”，央视曝光缅北卧虎山庄地下靶场，底层电诈人员的“处决地” | https://mp.weixin.qq.com/s/VWOPcB8I5zWkYn3BZCcLVA |
+| 10-05 16:00 | 公众号 | 界面新闻 | 综合媒体 | 华为与高通宣布达成广泛专利许可协议 | https://mp.weixin.qq.com/s/rsZ-Icdpf53f5yoWIlG90g |
+| 10-05 16:00 | 公众号 | 南方都市报 | 综合媒体 | 很多人打卡：坐摩托车后座，身体后仰炸街摆拍、在直行车道蛇形穿行……网红“落地签”被曝隐患多，附近居民直呼困扰，重庆紧急启动整治 | https://mp.weixin.qq.com/s/MDQA~VgvTtmwG8IKGjluAw |
+| 10-05 16:00 | 公众号 | 红网 | 综合媒体 | 名古屋亚运会圆满落幕，湖南省委省政府致电祝贺 | https://mp.weixin.qq.com/s/LQMiEgEilkNTSo2HRt2ZCQ |
 | 10-05 15:00 | 公众号 | 央视财经 | 综合媒体 | 总台曝光后，重庆启动专项整治 | https://mp.weixin.qq.com/s/bpNnZ8IVRbsx7a~dH5Pvvg |
 | 10-05 15:00 | 公众号 | 广东市场监管 | 监管·地方 | 广东省市场监督管理局发布特种设备相关单位的复工复产指引 | https://mp.weixin.qq.com/s/rcb7fjoCKOutQDQC5r13dg |
 | 10-05 15:00 | 公众号 | 新京报 | 综合媒体 | 亚运国足主帅：这一代中国球员很有机会打进世界杯 | https://mp.weixin.qq.com/s/dsxX8xuU6GvukbLphDeQ6w |
