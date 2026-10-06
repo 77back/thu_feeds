@@ -1,7 +1,16 @@
-# 舆情候选池 1006（10-05 00:00 至今，148 条：公众号 139 + 网页 9）
+# 舆情候选池 1006（10-05 00:00 至今，158 条：公众号 148 + 网页 10）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-06 15:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 吃蟹时，尽量别同吃这些食物！ | https://mp.weixin.qq.com/s/SKkX9Pn9PzBGCaJrZvL60w |
+| 10-06 15:00 | 公众号 | 央视财经 | 综合媒体 | 独家专访！劳斯莱斯CEO：中国是值得长期投资的重要市场 | https://mp.weixin.qq.com/s/gmw3h5ALC~mS1yne~g0-Kw |
+| 10-06 15:00 | 公众号 | 极目新闻 | 综合媒体 | 游客一进县城就收到文旅局长的姓名和个人手机号，工作人员：是真的，只为方便游客反映问题 | https://mp.weixin.qq.com/s/6wDT~q2uisQ80uGh0Wmwig |
+| 10-06 15:00 | 公众号 | 红网 | 综合媒体 | 缅北电诈回流人员：和朋友结伴“淘金”，没有业绩被用铁棒、电棍打，周围全是垃圾、老鼠、虫，近乎绝望割腕自杀，将血手印留在小黑屋墙上 | https://mp.weixin.qq.com/s/ff-gW0fG0cO2W1jqe1ne3Q |
+| 10-06 15:00 | 公众号 | 法治日报 | 综合媒体 | 缅北电诈回流人员：和朋友结伴“淘金”，没有业绩被用铁棒、电棍打，周围全是垃圾、老鼠、虫，近乎绝望割腕自杀，将血手印留在小黑屋墙上 | https://mp.weixin.qq.com/s/N4ZxNvCx6lxu51-s325dlQ |
+| 10-06 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | “千年纸乡”夹江：工艺大县的体验化转型 | https://mp.weixin.qq.com/s/GREfhMPRbZz~eQWFEIPmpA |
+| 10-06 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 缅北电诈武装用AK47扫射逃跑人员，有人身体被打折，“拿中国籍的电诈人员不当人看，说杀就杀，说埋就埋” | https://mp.weixin.qq.com/s/MmmpY09mpMOOCBgqE8soHw |
+| 10-06 15:00 | 公众号 | 南方都市报 | 综合媒体 | 又一品牌“切割”：对于蔡康永不当行为强烈震惊、坚决反对，下架全部内容，保留追究责任权利 | https://mp.weixin.qq.com/s/Q4-D82fJzK0dORN1HebM3w |
+| 10-06 15:00 | 公众号 | 界面新闻 | 综合媒体 | 缅北电诈主犯随机“杀人祭天” | https://mp.weixin.qq.com/s/Olsh8WpcyH4pMjYBmvjRKw |
 | 10-06 14:00 | 公众号 | 新京报 | 综合媒体 | 明学昌畏罪自杀照片公布 | https://mp.weixin.qq.com/s/LrfHbDLbDX9iR~ZdQDBCew |
 | 10-06 14:00 | 公众号 | 法治日报 | 综合媒体 | “泰山躲雨80元一小时”冲上热搜，泰山景区辟谣：国庆假期泰山景区零降水，不存在避雨现象；遇下雨天气，景区要求商家对游客避雨不得收费 | https://mp.weixin.qq.com/s/f2dNWCbAP6yl04hvhaVllw |
 | 10-06 14:00 | 公众号 | 南方都市报 | 综合媒体 | 凌晨3时，知名男歌手工作室发文：恳请不要继续扩散 | https://mp.weixin.qq.com/s/b0QxSv1kjx-OV8Cu9-BPbg |
@@ -58,6 +67,7 @@
 | 10-06 08:00 | 公众号 | 红网 | 综合媒体 | 缅北电诈头目明珍珍临刑前画面曝光，讲述埋葬被杀电诈人员细节，“既然人已经死了，就安排人把他们埋掉了” | https://mp.weixin.qq.com/s/~BkarQ5TyYLhvezoas8JYg |
 | 10-06 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国发生大规模枪击｜晨报来了 | https://mp.weixin.qq.com/s/At0tU0IdLhx0iODRcRPkKw |
 | 10-06 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 食品委托生产新规来了！12月1日起，这些变化要知道 | https://mp.weixin.qq.com/s/EJft5ScYg95ClfyE9YUa4Q |
+| 10-06 | 网页 | 界面新闻·消费 | 综合媒体 | 无糖饮料中含糖？星巴克回应被指虚假营销 | https://www.jiemian.com/article/15163263.html |
 | 10-05 17:00 | 公众号 | 上海市场监管 | 监管·地方 | 这种不起眼的“喂猪菜”，在美国卖到 300 元一斤！竟然还抢疯了…… | https://mp.weixin.qq.com/s/jlJ-Xw-6aYvjEe24O3Ei7w |
 | 10-05 17:00 | 公众号 | 央视财经 | 综合媒体 | 华为、高通，达成协议！ | https://mp.weixin.qq.com/s/ddQdTLVYOBl2ewFrGf9mqA |
 | 10-05 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 芜湖方特回应“近身热舞、低龄放行”：深表歉意，全面整改 | https://mp.weixin.qq.com/s/h4yczLlV~rG1PwhpBedEZA |
