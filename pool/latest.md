@@ -1,7 +1,13 @@
-# 舆情候选池 1006（10-05 00:00 至今，103 条：公众号 96 + 网页 7）
+# 舆情候选池 1006（10-05 00:00 至今，109 条：公众号 102 + 网页 7）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-06 09:00 | 公众号 | 央视财经 | 综合媒体 | 沙特发动大规模空袭 | https://mp.weixin.qq.com/s/89hbOm0GigtLfur~erc3Lg |
+| 10-06 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 一篇未能抵达现场的报道：长海县与网红海豹“娜娜” | https://mp.weixin.qq.com/s/ykXWI774tsAB9d-RmfY0tg |
+| 10-06 09:00 | 公众号 | 新京报 | 综合媒体 | 英航一赴美客机7分钟急坠8230米 | https://mp.weixin.qq.com/s/ulWLB5kFAAUxXXUAW49Ulg |
+| 10-06 09:00 | 公众号 | 法治日报 | 综合媒体 | 男子轻信中奖9000多万，进京兑奖失联3个月，警方千里追查一场虚惊：其被介绍到内蒙古放羊，丢了身份证和手机饿晕在路边，被村民收留务农 | https://mp.weixin.qq.com/s/r1BOWAo6IQ3yVQubn615ng |
+| 10-06 09:00 | 公众号 | 极目新闻 | 综合媒体 | 现场直击！清晨5点30分，不少人赶来武汉这里 | https://mp.weixin.qq.com/s/4o3limfUkqJn6AlinVx8yA |
+| 10-06 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 新疆11个县级党委、政府，被责令作出书面检查 | https://mp.weixin.qq.com/s/6MfpOTGAsqgf9oSNxnvkiQ |
 | 10-06 08:00 | 公众号 | 央视财经 | 综合媒体 | “世界第一跨”，传来好消息！ | https://mp.weixin.qq.com/s/1FTEWulutfB9wovtISIsVw |
 | 10-06 08:00 | 公众号 | 澎湃新闻 | 综合媒体 | 重庆酉阳：在封闭废弃矿洞内发现7名死者，系盗矿时因降雨引发矿洞突发涨水溺亡 | https://mp.weixin.qq.com/s/HSB128sF6ZP0sqF5XinQTw |
 | 10-06 08:00 | 公众号 | 新京报 | 综合媒体 | 美国纽约州宣布进入灾难紧急状态 | https://mp.weixin.qq.com/s/KPr1AwW1dWx34mBTqSbYRw |
