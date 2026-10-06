@@ -1,7 +1,16 @@
-# 舆情候选池 1006（10-05 00:00 至今，127 条：公众号 118 + 网页 9）
+# 舆情候选池 1006（10-05 00:00 至今，136 条：公众号 127 + 网页 9）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-06 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 一座资源型城市是如何“由灰变绿”的 | https://mp.weixin.qq.com/s/3jzSSGWCCg7vVux0nwVXsQ |
+| 10-06 12:00 | 公众号 | 央视财经 | 综合媒体 | 细节曝光：缅北魏家随机“杀人祭天”，有受害者头骨7个弹孔 | https://mp.weixin.qq.com/s/KYvhA~Swcn2Ya3IQRqBpOg |
+| 10-06 12:00 | 公众号 | 界面新闻 | 综合媒体 | 中国作家残雪再次领跑，2026诺贝尔文学奖还有哪些可能 | https://mp.weixin.qq.com/s/rfOYzx-ye2IqPPGwSAvsIQ |
+| 10-06 12:00 | 公众号 | 新京报 | 综合媒体 | 中方点名警告英国、澳大利亚、日本、爱尔兰、捷克、立陶宛等国 | https://mp.weixin.qq.com/s/BcgrTL5SWEw4~CpOC0djiQ |
+| 10-06 12:00 | 公众号 | 南方都市报 | 综合媒体 | 70年前的今天，郭永怀回国 | https://mp.weixin.qq.com/s/1OwKnZTYoFAGwWzeJZafzA |
+| 10-06 12:00 | 公众号 | 极目新闻 | 综合媒体 | 王心凌演出现场一句“你没报批不能上来”引发热议，律师：大型演唱会须经安全许可，擅自变更活动内容或触犯治安管理处罚法 | https://mp.weixin.qq.com/s/qb-Y19W14e~Yf9eQs-p~1A |
+| 10-06 12:00 | 公众号 | 法治日报 | 综合媒体 | “顺风车司机提前收高速费，却故意拖到10月1日零点免费下高速”，乘客称100多公里花了5小时，平台客服回应：若属实，将退还相关费用 | https://mp.weixin.qq.com/s/vYpnsRWBdq3qjPRFmAE36A |
+| 10-06 12:00 | 公众号 | 红网 | 综合媒体 | 一个被老天爷追着喂饭的县，雾里长出新日子丨湖南县城好Chill⑥ | https://mp.weixin.qq.com/s/j1rCfDoVVOOUV3tAvrjYMw |
+| 10-06 12:00 | 公众号 | 今晚报 | 综合媒体 | 很多天津人的青春回忆！70年老“二疗”，老记忆、新烟火全都留住了 | https://mp.weixin.qq.com/s/6e806XfMFwvCiZ9Q~tstXw |
 | 10-06 11:00 | 公众号 | 央视财经 | 综合媒体 | 美国纽约州宣布：进入灾难紧急状态 | https://mp.weixin.qq.com/s/4dTCKwp~6hy4ZROdTTJ87g |
 | 10-06 11:00 | 公众号 | 新京报 | 综合媒体 | 缅北魏家随机“杀人祭天”，“随便找个陌生人”，心怀不满就“枪决”，有受害者头骨7个弹孔，案件细节曝光—— | https://mp.weixin.qq.com/s/MPp~~lVqhbRR19D2uQZp-Q |
 | 10-06 11:00 | 公众号 | 界面新闻 | 综合媒体 | 中国代表点名警告英澳日等国 | https://mp.weixin.qq.com/s/yLZoPhTcugUz1~7fkvi22A |
