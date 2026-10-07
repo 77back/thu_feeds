@@ -1,7 +1,26 @@
-# 舆情候选池 1007（10-06 00:00 至今，147 条：公众号 138 + 网页 9）
+# 舆情候选池 1007（10-06 00:00 至今，166 条：公众号 147 + 网页 19）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-08 | 网页 | 巨潮·三美股份 | 上市公司公告 | 浙江三美化工股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603379&orgId=GD061916&announcementId=1225595379&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·今创集团 | 上市公司公告 | 关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603680&orgId=9900030697&announcementId=1225595364&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·红塔证券 | 上市公司公告 | 红塔证券股份有限公司关于控股股东及一致行动人出具特定期间不减持公司股份承诺函的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601236&orgId=qsgn0000641&announcementId=1225595377&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·晨丰科技 | 上市公司公告 | 晨丰科技关于召开2026年第七次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603685&orgId=9900034224&announcementId=1225595376&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·嘉泽新能 | 上市公司公告 | 嘉泽新能源股份有限公司关于为下属公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601619&orgId=9900031909&announcementId=1225595375&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·*ST国中 | 上市公司公告 | 关于公司股票被实施退市风险警示及其他风险警示相关事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600187&orgId=gssh0600187&announcementId=1225595357&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·ST信安 | 上市公司公告 | 关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688201&orgId=9900041393&announcementId=1225595373&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·技源集团 | 上市公司公告 | 技源集团股份有限公司2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603262&orgId=9900057474&announcementId=1225595326&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·中国外运 | 上市公司公告 | 高级管理人员减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601598&orgId=gshk0000598&announcementId=1225595370&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·南华期货 | 上市公司公告 | 南华期货H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603093&orgId=9900031483&announcementId=1225595369&announcementTime=2026-10-08 |
+| 10-07 15:00 | 公众号 | 央视财经 | 综合媒体 | 演员王某案牵出人口贩卖：一个人价格10万甚至20万，价格高低主要取决于学历、打字速度 | https://mp.weixin.qq.com/s/LkNlRIN807etGMCvu704-Q |
+| 10-07 15:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 注意！这个牌子的电磁灶产品抽查不合格 | https://mp.weixin.qq.com/s/-LUYnRoW6T7aMxqYguPq7A |
+| 10-07 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 死刑失败的美国罪犯，已恢复清醒并能说话 | https://mp.weixin.qq.com/s/hccgWxmF99Z7WRi2vFSK6g |
+| 10-07 15:00 | 公众号 | 新京报 | 综合媒体 | 合江门漂满白馒头，“有人一次买25个喂鱼”，这是由流量、商业、从众心理和治理缺位共同促成的投喂狂欢 | https://mp.weixin.qq.com/s/G~AJGQm2Tpavy~7LVmyV2w |
+| 10-07 15:00 | 公众号 | 极目新闻 | 综合媒体 | 演员吴奇隆被曝因国庆期间手举国旗遭台湾取消活动，本人晒爬长城、游览北京天坛视频，坚持称“我们国家​​​”“不赚钱也是这个立场” | https://mp.weixin.qq.com/s/D5VnDfocJPKCiP4NnC58rw |
+| 10-07 15:00 | 公众号 | 南方都市报 | 综合媒体 | 吴奇隆称“不赚钱也是这个立场”，冲上热搜！国庆假期手举国旗拍照，被曝在台一活动遭取消 | https://mp.weixin.qq.com/s/XeSlf8K9SuRi-852f9Zspw |
+| 10-07 15:00 | 公众号 | 法治日报 | 综合媒体 | 20岁大学生在新疆徒步失联十余天，家属悬赏百万寻人：目前只找到书包和拐杖，警方已排除动物袭击，孩子此前没有异常 | https://mp.weixin.qq.com/s/zrPcAcbyK5Vbpx1qQEEF5w |
+| 10-07 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 佘智江，在机场吃饭时被抓获，画面曝光：满脸笑意、十分嚣张，放言凭着他的人脉关系，能完全摆平这些事情 | https://mp.weixin.qq.com/s/8XJqTl9y9EZV-aZGHwFgFA |
+| 10-07 15:00 | 公众号 | 红网 | 综合媒体 | 落网画面曝光：妙瓦底赌诈头目佘智江在泰国机场日料店用餐时被抓，十分嚣张，放言凭人脉和金钱完全能够摆平，已引渡回国 | https://mp.weixin.qq.com/s/Avwu4O4JHb0brQoIhsWnYw |
 | 10-07 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 叫停之后争论未止：活体投喂为何总有人叫好？ | https://mp.weixin.qq.com/s/sQ9Md2vmyEGK56I5o6CdCA |
 | 10-07 14:00 | 公众号 | 上海市场监管 | 监管·地方 | 开工啦！特种设备复工，这些关卡要过关→ | https://mp.weixin.qq.com/s/6ReuyJu1YEhk1t~mSV8I3w |
 | 10-07 14:00 | 公众号 | 新京报 | 综合媒体 | 佘智江被捕画面曝光：满脸笑意、十分嚣张，放言凭着他的人脉关系，能完全摆平这些事情 | https://mp.weixin.qq.com/s/9g69ZKy7jtPnixJomuMulg |
