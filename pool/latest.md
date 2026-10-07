@@ -1,17 +1,24 @@
-# 舆情候选池 1007（10-06 00:00 至今，174 条：公众号 155 + 网页 19）
+# 舆情候选池 1007（10-06 00:00 至今，176 条：公众号 162 + 网页 14）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-08 | 网页 | 巨潮·重庆银行 | 上市公司公告 | 关于可转债转股结果暨股份变动公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601963&orgId=9900006641&announcementId=1225595730&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·景旺电子 | 上市公司公告 | H股公告-截至二零二六年九月三十日止股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603228&orgId=9900029802&announcementId=1225595669&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·滨化股份 | 上市公司公告 | H股公告-截至二零二六年九月三十日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601678&orgId=9900010667&announcementId=1225595667&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·南方航空 | 上市公司公告 | 南方航空H股公告-月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600029&orgId=gssh0600029&announcementId=1225595666&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·恒瑞医药 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600276&orgId=gssh0600276&announcementId=1225595595&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·龙蟠科技 | 上市公司公告 | H股公告-截至二零二六年九月三十日止之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603906&orgId=9900030660&announcementId=1225595594&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·中国移动 | 上市公司公告 | 中国移动：月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600941&orgId=gshk0000941&announcementId=1225595593&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·北辰实业 | 上市公司公告 | 北辰实业H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601588&orgId=9900000921&announcementId=1225595592&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·亿华通 | 上市公司公告 | 亿华通  H股公告-截至二零二六年九月三十日止股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688339&orgId=gfbj0834613&announcementId=1225595530&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·招商证券 | 上市公司公告 | H股公告（截至2026年9月30日止之股份发行人的证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600999&orgId=qsgn0000118&announcementId=1225595529&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·海天味业 | 上市公司公告 | H股公告-截至二零二六年九月三十日止之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603288&orgId=9900023228&announcementId=1225595528&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·中国中免 | 上市公司公告 | H股公告-月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601888&orgId=9900008313&announcementId=1225595527&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·药明康德 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603259&orgId=9900035584&announcementId=1225595526&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·华泰证券 | 上市公司公告 | 华泰证券H股公告（截至2026年9月30日股份发行人的证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601688&orgId=qsgn0000161&announcementId=1225595453&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·交通银行 | 上市公司公告 | 交通银行H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601328&orgId=9900002841&announcementId=1225595452&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·中芯国际 | 上市公司公告 | 港股公告：证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688981&orgId=gshk0000981&announcementId=1225595451&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·国联民生 | 上市公司公告 | H股公告（2026年9月证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601456&orgId=qsgn0000343&announcementId=1225595450&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·星环科技 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688031&orgId=9900048105&announcementId=1225595449&announcementTime=2026-10-08 |
+| 10-07 17:00 | 公众号 | 央视财经 | 综合媒体 | 短短4天，被转卖3次！演员王星案详细案情披露→ | https://mp.weixin.qq.com/s/I7saiLCKSw3Ih630inWvwQ |
+| 10-07 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 破11亿！多部影片官宣海外上映计划 | https://mp.weixin.qq.com/s/FhPXuxT~v3CVJhkluGkjiw |
+| 10-07 17:00 | 公众号 | 新京报 | 综合媒体 | 在泰失联的上海音乐教师，已安全回国 | https://mp.weixin.qq.com/s/flGyccDZUqupiIwUDTqHwQ |
+| 10-07 17:00 | 公众号 | 南方都市报 | 综合媒体 | 39岁梅西泪别阿根廷国家队，10分钟演讲全文 | https://mp.weixin.qq.com/s/d5IQM6hyaNGMTHa9pdAA4A |
+| 10-07 17:00 | 公众号 | 法治日报 | 综合媒体 | 在泰失联的上海音乐教师已安全回国，中国驻泰国大使馆：再次提醒赴泰中国公民勿轻信高薪招聘许诺及非正规途径商业项目邀约 | https://mp.weixin.qq.com/s/2wgY~fSQI2IUR7Rzx3Obqg |
+| 10-07 17:00 | 公众号 | 极目新闻 | 综合媒体 | 汽车离加油站20多米燃油耗尽，车主请加油员手动灌油被拒，无奈花350元叫拖车，加油站道歉 | https://mp.weixin.qq.com/s/SuFOb6yc74iraKfdw3cO8g |
+| 10-07 17:00 | 公众号 | 红网 | 综合媒体 | 在泰失联的上海音乐教师已安全回国，中国驻泰国使馆提醒：切勿轻信高薪招聘许诺及非正规途径商业项目邀约 | https://mp.weixin.qq.com/s/e0WXfgGbGx5YJTzCDKM8Mg |
 | 10-07 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 山东青州：一座县级博物馆凭什么大放异彩？ | https://mp.weixin.qq.com/s/mSvvchWP19K8m4alRf80gg |
 | 10-07 16:00 | 公众号 | 新京报 | 综合媒体 | 演员王星案详情披露：4天被卖3次 | https://mp.weixin.qq.com/s/S3jTANSkDU8dmmpo9D9suA |
 | 10-07 16:00 | 公众号 | 界面新闻 | 综合媒体 | 佘智江被捕画面曝光：表现十分嚣张，放言凭他的人脉能摆平这些事情 | https://mp.weixin.qq.com/s/d8frsIUiDNyg1Nyu2jtrZw |
@@ -75,8 +82,6 @@
 | 10-07 09:00 | 公众号 | 法治日报 | 综合媒体 | 江面漂满白花花的馒头，有人一次买25个喂鱼，居民称“鱼都快吃吐了”，当地：会规劝此类行为 | https://mp.weixin.qq.com/s/nJyWRQNLBX1u7jc6oXR3QQ |
 | 10-07 09:00 | 公众号 | 南方都市报 | 综合媒体 | 邵佳一道歉：国庆期间没有给球迷增添一些快乐；比赛输了，但过程可以接受 | https://mp.weixin.qq.com/s/ZGSE~JR7fwZ5XtVIp5v~XA |
 | 10-07 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 多国联军发动大规模空袭 | https://mp.weixin.qq.com/s/43cbu8Zlx5QAIyyCddPRqg |
-| 10-07 08:53 | 网页 | 食品伙伴网 | 产经动态 | 双鸭山市集贤县市场监管局以“数字身份证”破解农产品溯源“最后一公里”难题 | https://news.foodmate.net/2026/10/754241.html |
-| 10-07 08:36 | 网页 | 食品伙伴网 | 产经动态 | 再添一员！ 赣州市信丰县新增1家企业获批赣南脐橙地理标志专用标志使用资质 | https://news.foodmate.net/2026/10/754250.html |
 | 10-07 08:00 | 公众号 | 央视财经 | 综合媒体 | 一线城市，楼市新变化 | https://mp.weixin.qq.com/s/c~NFDRQ2uiSe735TxlcOfw |
 | 10-07 08:00 | 公众号 | 澎湃新闻 | 综合媒体 | 网传“高铁座椅成HPV感染重灾区”，是真的吗？ | https://mp.weixin.qq.com/s/cyn52sQ1Ye8vut6r1SFRNQ |
 | 10-07 08:00 | 公众号 | 深圳市场监管 | 监管·地方 | “三心”守护 圳享“双节”｜价格监管不打烊，护航节日安心价！深圳价格监督检查“组合拳”全景直击→ | https://mp.weixin.qq.com/s/~-qxQ7C8wGU2GZCrbXuHLg |
@@ -89,7 +94,6 @@
 | 10-07 08:00 | 公众号 | 红网 | 综合媒体 | 于东来劝顾客不要因购物远道而来，避免因信任胖东来盲目消费，此前胖东来发文提醒“不要过量囤货”，以免造成浪费 | https://mp.weixin.qq.com/s/2i877hPk8vEpKxflbmp39A |
 | 10-07 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 沙特遭袭｜晨报来了 | https://mp.weixin.qq.com/s/kJOpGu3ECDNAApP0C9Jb8Q |
 | 10-07 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 火出圈的超长蛋挞，怎么吃更安全？ | https://mp.weixin.qq.com/s/y9NLN3aCMQau5hX9yPpgyA |
-| 10-07 08:00 | 网页 | 食品伙伴网 | 产经动态 | 十点播报 ｜ 茅台1935宴席订单走强、美团闪购发布潮饮IP阵地“Mchao”、宁夏农垦1元转让夏桐葡萄园40%股权 | https://news.foodmate.net/2026/10/754238.html |
 | 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 点出民意，检护佳节！上海各区“你点我检”活动守护假期饮食安全 | http://news.foodmate.net/2026/10/754255.html |
 | 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 七台河市市场监管局桃山分局守护百姓“舌尖上的安全” | http://news.foodmate.net/2026/10/754242.html |
 | 10-06 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 沙特禁摄、禁发、禁传拦截导弹和无人机信息，中使馆发提醒 | https://mp.weixin.qq.com/s/dRlIWSPBieOHDXwz55W7qQ |
@@ -146,7 +150,6 @@
 | 10-06 11:00 | 公众号 | 南方都市报 | 综合媒体 | 挖尸现场曝光！卧虎山庄藏着血腥地下靶场，埋尸点发现三具高度腐败尸体摞在一起，缅方一直通报说“没有中国人死” | https://mp.weixin.qq.com/s/81EXfwW2F8pKt3kY9Mvf4w |
 | 10-06 11:00 | 公众号 | 红网 | 综合媒体 | 缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔，案件细节曝光 | https://mp.weixin.qq.com/s/3sOCUzWMNUHWn4F~j31t1g |
 | 10-06 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 缅北魏家随机杀人祭天，心怀不满就“枪决”，有受害者被乱枪打死，头骨有7个弹孔，案件细节曝光 | https://mp.weixin.qq.com/s/v7TiYZUognRwFGnOEHeO5Q |
-| 10-06 10:29 | 网页 | 食品伙伴网 | 产经动态 | 柚中珍品，“金钱底”里藏蜜香 | https://news.foodmate.net/2026/10/754231.html |
 | 10-06 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 福建一动物园活体投喂引争议：60元卖活鸡让猛兽撕咬，有未成年人围观 | https://mp.weixin.qq.com/s/RyPcHXUwpOH1HpT2rmQ3bA |
 | 10-06 10:00 | 公众号 | 新京报 | 综合媒体 | “黄金周”，看“双奥之城”如何盘活赛事经济 | https://mp.weixin.qq.com/s/HGy58Vx16NIC7gRgC3-JPA |
 | 10-06 10:00 | 公众号 | 法治日报 | 综合媒体 | 王心凌演出现场一句“你没报批不能上来”引发热议，律师：大型演唱会须经安全许可，擅自变更活动内容或触犯治安管理处罚法 | https://mp.weixin.qq.com/s/cYNHMbXHbR3m7139BMeuUw |
@@ -156,7 +159,6 @@
 | 10-06 10:00 | 公众号 | 今晚报 | 综合媒体 | 56岁知名演员晒照！网友惊呼不敢信！ | https://mp.weixin.qq.com/s/L33zMmVoseH~e5zMapv4mg |
 | 10-06 10:00 | 公众号 | 红网 | 综合媒体 | 央视曝光机票退改签骗局：大学生接到“飞机延误可领取理赔”电话，按引导开启屏幕共享，十余分钟被骗一万多元！ | https://mp.weixin.qq.com/s/vDS2owp2MDr9ba~X2T3Wcw |
 | 10-06 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 一个血栓最怕的“黄金动作”！出行宅家都别忘记做 | https://mp.weixin.qq.com/s/99F9pZHojV8mnvqIRumZ7w |
-| 10-06 09:45 | 网页 | 食品伙伴网 | 产经动态 | 十点播报 ｜ 日本多项酒税调整、喜力推出AI啤酒龙头、习酒发布酒谷Country Walk指南… | https://news.foodmate.net/2026/10/754220.html |
 | 10-06 09:00 | 公众号 | 央视财经 | 综合媒体 | 沙特发动大规模空袭 | https://mp.weixin.qq.com/s/89hbOm0GigtLfur~erc3Lg |
 | 10-06 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 一篇未能抵达现场的报道：长海县与网红海豹“娜娜” | https://mp.weixin.qq.com/s/ykXWI774tsAB9d-RmfY0tg |
 | 10-06 09:00 | 公众号 | 新京报 | 综合媒体 | 英航一赴美客机7分钟急坠8230米 | https://mp.weixin.qq.com/s/ulWLB5kFAAUxXXUAW49Ulg |
