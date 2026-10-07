@@ -1,7 +1,15 @@
-# 舆情候选池 1007（10-06 00:00 至今，123 条：公众号 114 + 网页 9）
+# 舆情候选池 1007（10-06 00:00 至今，128 条：公众号 122 + 网页 6）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-07 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 像江苏又像浙江，费孝通一辈子放不下的地方 | https://mp.weixin.qq.com/s/JVqeCLAR~ZHTLQApU2DKAw |
+| 10-07 12:00 | 公众号 | 南方都市报 | 综合媒体 | 日本一女子凌晨在酒店被杀害，20岁美国士兵被捕，驻冲绳美军实施30天外出限制，凌晨0-5时禁止外出 | https://mp.weixin.qq.com/s/K9XbcFJo1Vdy6sPJhlKs1A |
+| 10-07 12:00 | 公众号 | 新京报 | 综合媒体 | 《欢迎来龙餐馆》，将代表中国内地角逐奥斯卡 | https://mp.weixin.qq.com/s/OyWp9lWJLtPH9LZ5zM4LbQ |
+| 10-07 12:00 | 公众号 | 界面新闻 | 综合媒体 | 央行连续第23个月增持黄金 | https://mp.weixin.qq.com/s/BCpuw2Lc~LvBld9Scs1CwQ |
+| 10-07 12:00 | 公众号 | 极目新闻 | 综合媒体 | “95后”女生买了3条“次抛衣”，总花费不到80元，国庆假期回程时直接舍弃；商家称核心购买群体为18至30岁的年轻女性；专家提醒 | https://mp.weixin.qq.com/s/mNi8lBUeV-Q66u9Qd3T-JQ |
+| 10-07 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员王星案，曝光跨境人口贩卖集团：一个人价格10万甚至20万，价格高低主要取决于学历、打字速度 | https://mp.weixin.qq.com/s/5J2oxxhZ2Wa7rwWUZSzuyQ |
+| 10-07 12:00 | 公众号 | 北京市场监管 | 监管·地方 | 挑梨记住“看掂辨”，存梨分清“凉和冰” ——秋季吃梨一篇讲透 | https://mp.weixin.qq.com/s/dFdeGMVJkvBRBtMaPIpKjQ |
+| 10-07 12:00 | 公众号 | 红网 | 综合媒体 | 游客们注意了！10月8日至12日，张家界天门山景区天门洞快线索道检修停运，游览路线有调整 | https://mp.weixin.qq.com/s/LhIgPk4tZ0x14cFTVe0TVA |
 | 10-07 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 让游客免费住学生宿舍，情理法如何平衡 | https://mp.weixin.qq.com/s/vmNS~JghKOMSxYVHzYNu2g |
 | 10-07 11:00 | 公众号 | 界面新闻 | 综合媒体 | 苹果与LG联合开发门铃门锁等 | https://mp.weixin.qq.com/s/qUoLLOTvGDtJGz3GQPtRXw |
 | 10-07 11:00 | 公众号 | 新京报 | 综合媒体 | 公然叫板！缅北电诈团伙一度气焰嚣张，窝点距我口岸仅200米 | https://mp.weixin.qq.com/s/KCbWti-CULpiRQQVVFPJ~w |
@@ -39,8 +47,6 @@
 | 10-07 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 沙特遭袭｜晨报来了 | https://mp.weixin.qq.com/s/kJOpGu3ECDNAApP0C9Jb8Q |
 | 10-07 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 火出圈的超长蛋挞，怎么吃更安全？ | https://mp.weixin.qq.com/s/y9NLN3aCMQau5hX9yPpgyA |
 | 10-07 08:00 | 网页 | 食品伙伴网 | 产经动态 | 十点播报 ｜ 茅台1935宴席订单走强、美团闪购发布潮饮IP阵地“Mchao”、宁夏农垦1元转让夏桐葡萄园40%股权 | https://news.foodmate.net/2026/10/754238.html |
-| 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 点出民意，检护佳节！上海各区“你点我检”活动守护假期饮食安全 | http://news.foodmate.net/2026/10/754255.html |
-| 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 七台河市市场监管局桃山分局守护百姓“舌尖上的安全” | http://news.foodmate.net/2026/10/754242.html |
 | 10-06 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 沙特禁摄、禁发、禁传拦截导弹和无人机信息，中使馆发提醒 | https://mp.weixin.qq.com/s/dRlIWSPBieOHDXwz55W7qQ |
 | 10-06 17:00 | 公众号 | 上海市场监管 | 监管·地方 | 43岁男子用土豆当主食，炒菜照常吃，半年瘦了25斤！脂肪肝没了，血压、血糖稳了；网友: 这应该是最便宜的减肥法了 | https://mp.weixin.qq.com/s/4L6G0T5RuxUcfcErb4nvvg |
 | 10-06 17:00 | 公众号 | 新京报 | 综合媒体 | 游客免费住宿舍，需要学生同意吗？ | https://mp.weixin.qq.com/s/cIS9gjdAGxo6fGw8Snz6IA |
@@ -123,5 +129,4 @@
 | 10-06 08:00 | 公众号 | 红网 | 综合媒体 | 缅北电诈头目明珍珍临刑前画面曝光，讲述埋葬被杀电诈人员细节，“既然人已经死了，就安排人把他们埋掉了” | https://mp.weixin.qq.com/s/~BkarQ5TyYLhvezoas8JYg |
 | 10-06 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国发生大规模枪击｜晨报来了 | https://mp.weixin.qq.com/s/At0tU0IdLhx0iODRcRPkKw |
 | 10-06 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 食品委托生产新规来了！12月1日起，这些变化要知道 | https://mp.weixin.qq.com/s/EJft5ScYg95ClfyE9YUa4Q |
-| 10-06 | 网页 | 食品伙伴网 | 抽检通报 | 莆田市市场监管局开展食品抽检合格备份样品公益捐赠活动 | http://news.foodmate.net/2026/10/754243.html |
 | 10-06 | 网页 | 界面新闻·消费 | 综合媒体 | 无糖饮料中含糖？星巴克回应被指虚假营销 | https://www.jiemian.com/article/15163263.html |
