@@ -1,17 +1,25 @@
-# 舆情候选池 1007（10-06 00:00 至今，166 条：公众号 147 + 网页 19）
+# 舆情候选池 1007（10-06 00:00 至今，174 条：公众号 155 + 网页 19）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-08 | 网页 | 巨潮·三美股份 | 上市公司公告 | 浙江三美化工股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603379&orgId=GD061916&announcementId=1225595379&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·今创集团 | 上市公司公告 | 关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603680&orgId=9900030697&announcementId=1225595364&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·红塔证券 | 上市公司公告 | 红塔证券股份有限公司关于控股股东及一致行动人出具特定期间不减持公司股份承诺函的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601236&orgId=qsgn0000641&announcementId=1225595377&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·晨丰科技 | 上市公司公告 | 晨丰科技关于召开2026年第七次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603685&orgId=9900034224&announcementId=1225595376&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·嘉泽新能 | 上市公司公告 | 嘉泽新能源股份有限公司关于为下属公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601619&orgId=9900031909&announcementId=1225595375&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·*ST国中 | 上市公司公告 | 关于公司股票被实施退市风险警示及其他风险警示相关事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600187&orgId=gssh0600187&announcementId=1225595357&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·ST信安 | 上市公司公告 | 关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688201&orgId=9900041393&announcementId=1225595373&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·技源集团 | 上市公司公告 | 技源集团股份有限公司2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603262&orgId=9900057474&announcementId=1225595326&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·中国外运 | 上市公司公告 | 高级管理人员减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601598&orgId=gshk0000598&announcementId=1225595370&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·南华期货 | 上市公司公告 | 南华期货H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603093&orgId=9900031483&announcementId=1225595369&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·亿华通 | 上市公司公告 | 亿华通  H股公告-截至二零二六年九月三十日止股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688339&orgId=gfbj0834613&announcementId=1225595530&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·招商证券 | 上市公司公告 | H股公告（截至2026年9月30日止之股份发行人的证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600999&orgId=qsgn0000118&announcementId=1225595529&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·海天味业 | 上市公司公告 | H股公告-截至二零二六年九月三十日止之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603288&orgId=9900023228&announcementId=1225595528&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·中国中免 | 上市公司公告 | H股公告-月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601888&orgId=9900008313&announcementId=1225595527&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·药明康德 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603259&orgId=9900035584&announcementId=1225595526&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·华泰证券 | 上市公司公告 | 华泰证券H股公告（截至2026年9月30日股份发行人的证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601688&orgId=qsgn0000161&announcementId=1225595453&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·交通银行 | 上市公司公告 | 交通银行H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601328&orgId=9900002841&announcementId=1225595452&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·中芯国际 | 上市公司公告 | 港股公告：证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688981&orgId=gshk0000981&announcementId=1225595451&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·国联民生 | 上市公司公告 | H股公告（2026年9月证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601456&orgId=qsgn0000343&announcementId=1225595450&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·星环科技 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688031&orgId=9900048105&announcementId=1225595449&announcementTime=2026-10-08 |
+| 10-07 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 山东青州：一座县级博物馆凭什么大放异彩？ | https://mp.weixin.qq.com/s/mSvvchWP19K8m4alRf80gg |
+| 10-07 16:00 | 公众号 | 新京报 | 综合媒体 | 演员王星案详情披露：4天被卖3次 | https://mp.weixin.qq.com/s/S3jTANSkDU8dmmpo9D9suA |
+| 10-07 16:00 | 公众号 | 界面新闻 | 综合媒体 | 佘智江被捕画面曝光：表现十分嚣张，放言凭他的人脉能摆平这些事情 | https://mp.weixin.qq.com/s/d8frsIUiDNyg1Nyu2jtrZw |
+| 10-07 16:00 | 公众号 | 法治日报 | 综合媒体 | 歌手陆虎音乐节发现有观众晕倒，现场机智更改歌词并为救援人员指引位置：“快救救她，这位朋友晕过去了……” | https://mp.weixin.qq.com/s/kmMCKthiTxe-Lx9QWqyNHw |
+| 10-07 16:00 | 公众号 | 南方都市报 | 综合媒体 | 演员王星案详情披露：以为去泰国拍《缉毒女警》，4天内被卖了3次；察觉危险后，偷偷给女友发求救暗号 | https://mp.weixin.qq.com/s/OXgppYGQmqLoSVnG8ayjvg |
+| 10-07 16:00 | 公众号 | 今晚报 | 综合媒体 | 吴奇隆，冲上热搜！“不赚钱也是这个立场” | https://mp.weixin.qq.com/s/u9FqeDq1IKBFTXAVv825nA |
+| 10-07 16:00 | 公众号 | 红网 | 综合媒体 | 警方披露演员王星案详情：被骗至妙瓦底4天被卖3次，曾努力自救想谈判用钱换生路，对方称妙瓦底最缺的是人不是钱，嫌犯“颜十六”曾是群演 | https://mp.weixin.qq.com/s/RogYX0fLL1UMrrk8C8Pv5Q |
+| 10-07 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 警方披露演员王星案详情：被骗至妙瓦底4天被卖3次，曾努力自救想谈判用钱换生路，对方称妙瓦底最缺的是人不是钱，嫌犯“颜十六”曾是群演 | https://mp.weixin.qq.com/s/5md-e2SmyYVEU1UluMi~jA |
 | 10-07 15:00 | 公众号 | 央视财经 | 综合媒体 | 演员王某案牵出人口贩卖：一个人价格10万甚至20万，价格高低主要取决于学历、打字速度 | https://mp.weixin.qq.com/s/LkNlRIN807etGMCvu704-Q |
 | 10-07 15:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 注意！这个牌子的电磁灶产品抽查不合格 | https://mp.weixin.qq.com/s/-LUYnRoW6T7aMxqYguPq7A |
 | 10-07 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 死刑失败的美国罪犯，已恢复清醒并能说话 | https://mp.weixin.qq.com/s/hccgWxmF99Z7WRi2vFSK6g |
