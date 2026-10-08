@@ -1,7 +1,19 @@
-# 舆情候选池 1008（10-07 00:00 至今，141 条：公众号 120 + 网页 21）
+# 舆情候选池 1008（10-07 00:00 至今，161 条：公众号 132 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-08 12:00 | 公众号 | 央视财经 | 综合媒体 | 利润暴增近800%！存储芯片巨头，业绩爆发 | https://mp.weixin.qq.com/s/Y3Nme~CO3p6OQs5E5D4m2g |
+| 10-08 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中共中央批准：范波任江苏省委副书记，边学文任江苏省委常委、省纪委书记 | https://mp.weixin.qq.com/s/HFLiWwR3jBeyVByU3wzfFg |
+| 10-08 12:00 | 公众号 | 上海市场监管 | 监管·地方 | 2026年上海市食品安全网络知识竞赛来袭！奖品、限定电子徽章等您来拿～ | https://mp.weixin.qq.com/s/tyfbaL0oJyyQ2bYQ2Wq2gg |
+| 10-08 12:00 | 公众号 | 新京报 | 综合媒体 | “虚拟外卖”悄然流行：用假装点外卖的方式存钱，靠谱吗？ | https://mp.weixin.qq.com/s/N4YuHVw0Moc9lInE5STo1Q |
+| 10-08 12:00 | 公众号 | 界面新闻 | 综合媒体 | 节后机票“大跳水”：多条航线低至200元，比高铁还便宜 | https://mp.weixin.qq.com/s/ZVsQ~5C3H09TlGTdhWy2mQ |
+| 10-08 12:00 | 公众号 | 南方都市报 | 综合媒体 | 10万人涌入小县城，学生宿舍被征用，文旅局长给游客铺床引质疑，最新回应 | https://mp.weixin.qq.com/s/wWW0NxUU3s~Xg~ax4Q3a4A |
+| 10-08 12:00 | 公众号 | 法治日报 | 综合媒体 | 演员彭玉去世 | https://mp.weixin.qq.com/s/VIORtm4tspt-ZzCHtGP4jg |
+| 10-08 12:00 | 公众号 | 极目新闻 | 综合媒体 | 的哥捡到乘客10万元现金，上门归还时乘客又落下手机，他二次上门送还；乘客悄悄留下1万元感谢费，司机发现后第三次上门退回 | https://mp.weixin.qq.com/s/xyoTh-dMR~5-eVJSt-HsUw |
+| 10-08 12:00 | 公众号 | 今晚报 | 综合媒体 | 万里边疆行｜“一带一路”上的北方开放新支点 | https://mp.weixin.qq.com/s/NKXhjuDyXMt8Hh4AmzbPSw |
+| 10-08 12:00 | 公众号 | 红网 | 综合媒体 | 女子连麦张雪称男友进ICU无法提车欲退款被驳回，张雪机车发情况说明：用户实际并未住进ICU，对撒谎零容忍；客服称不会对大区经理进行处罚 | https://mp.weixin.qq.com/s/60~P1KfWA9OdmwQlYz~rxw |
+| 10-08 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈” | https://mp.weixin.qq.com/s/nWFMq4fPjfFZfPRncysScQ |
+| 10-08 12:00 | 公众号 | 北京市场监管 | 监管·地方 | 遇到AI生成的广告，这些“坑”要留意！ | https://mp.weixin.qq.com/s/rcQ2jjBG1KSL6j76DnuTXA |
 | 10-08 11:07 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：老干妈2025年营收54亿元；娃哈哈宏胜饮品新项目动工；10月1日起港珠澳大桥出口鲜活食品24小时通关（2026年10月8日） | https://news.foodmate.net/2026/10/754314.html |
 | 10-08 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 影视表演艺术家彭玉去世 | https://mp.weixin.qq.com/s/QREkxelA4DqTLGImtZ0oXQ |
 | 10-08 11:00 | 公众号 | 界面新闻 | 综合媒体 | 保时捷计划裁员最多30%，明确回归燃油车 | https://mp.weixin.qq.com/s/MtlJrj5VevGKEm~QlN8eDA |
@@ -47,6 +59,12 @@
 | 10-08 08:00 | 公众号 | 极目新闻 | 综合媒体 | 程序员男友帮女友挂专家号，写出“抢号软件”，后帮人收费“抢号”，致某医院挂号系统瘫痪；二人双双获刑 | https://mp.weixin.qq.com/s/GdOxcWtCM2RqN5zpot86dw |
 | 10-08 08:00 | 公众号 | 红网 | 综合媒体 | 值班值守不严、脱岗空岗，消防控制室值守形同虚设！两家养老机构被线上通报 | https://mp.weixin.qq.com/s/Fe-XGkm93pz02ZKwOkNauA |
 | 10-08 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 央视曝光不到两小时，三亚启动整治 | https://mp.weixin.qq.com/s/zXy7KCesneSACchJFbAdFw |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 内蒙古自治区市场监管局关于2026年中秋节月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/10/754318.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 天津市市场监督管理委员会2026年第6期食品安全监督抽检信息 | http://news.foodmate.net/2026/10/754317.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 广东检出23批次不合格食品，有椰蓉花生卷、原切芒果干、九制橄榄等 | http://news.foodmate.net/2026/10/754310.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第11期） | http://news.foodmate.net/2026/10/754279.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第11期） | http://news.foodmate.net/2026/10/754279.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 四川省市场监督管理局关于食品安全监督抽检情况的通告（2026年第12号） | http://news.foodmate.net/2026/10/754277.html |
 | 10-08 | 网页 | 巨潮·君正股份 | 上市公司公告 | H股公告-截至2026年9月30日止股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300223&orgId=9900016187&announcementId=1225596034&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·领益智造 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002600&orgId=9900020848&announcementId=1225596033&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·三羊马 | 上市公司公告 | 关于对外担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001317&orgId=gfbj0838107&announcementId=1225596032&announcementTime=2026-10-08 |
@@ -143,3 +161,5 @@
 | 10-07 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 沙特遭袭｜晨报来了 | https://mp.weixin.qq.com/s/kJOpGu3ECDNAApP0C9Jb8Q |
 | 10-07 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 火出圈的超长蛋挞，怎么吃更安全？ | https://mp.weixin.qq.com/s/y9NLN3aCMQau5hX9yPpgyA |
 | 10-07 08:00 | 网页 | 食品伙伴网 | 产经动态 | 十点播报 ｜ 茅台1935宴席订单走强、美团闪购发布潮饮IP阵地“Mchao”、宁夏农垦1元转让夏桐葡萄园40%股权 | https://news.foodmate.net/2026/10/754238.html |
+| 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 点出民意，检护佳节！上海各区“你点我检”活动守护假期饮食安全 | http://news.foodmate.net/2026/10/754255.html |
+| 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 七台河市市场监管局桃山分局守护百姓“舌尖上的安全” | http://news.foodmate.net/2026/10/754242.html |
