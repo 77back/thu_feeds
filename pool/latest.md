@@ -1,7 +1,16 @@
-# 舆情候选池 1008（10-07 00:00 至今，161 条：公众号 132 + 网页 29）
+# 舆情候选池 1008（10-07 00:00 至今，170 条：公众号 141 + 网页 29）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-08 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 俄罗斯防鼠疫研究人员死亡引疫情担忧，目前有哪些未知信息？ | https://mp.weixin.qq.com/s/2eZYmR3iWC9fJO4SwGulzw |
+| 10-08 13:00 | 公众号 | 新京报 | 综合媒体 | 乒协将设禁入名单，把饭圈戾气挡在赛场之外 | https://mp.weixin.qq.com/s/2eJL681DqhnRlEhtF-y88A |
+| 10-08 13:00 | 公众号 | 界面新闻 | 综合媒体 | 网传江苏太仓存在代孕机构，当地通报 | https://mp.weixin.qq.com/s/pvHWwCBWRqi-8dFHw-9g9A |
+| 10-08 13:00 | 公众号 | 法治日报 | 综合媒体 | 国庆假期高速免费最后1分钟，有收费站前上演“速度与激情”，车主卡点通过，收费栏杆随后关闭；也有车主“学精了”，选择提前返程 | https://mp.weixin.qq.com/s/2rkLwgZSmqo6ZPDg6VbZsQ |
+| 10-08 13:00 | 公众号 | 南方都市报 | 综合媒体 | 哈萨克斯坦副总统：感谢成龙 | https://mp.weixin.qq.com/s/GvzFJ8k4yJtYhld0kcnDlw |
+| 10-08 13:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 超21亿人次！国庆假期交通运输平稳有序，铁路客运量同比预增13.1% | https://mp.weixin.qq.com/s/TxW7OkBsvxgjq6uuB-PthA |
+| 10-08 13:00 | 公众号 | 今晚报 | 综合媒体 | 【今晚副刊】寒露：不是花中偏爱菊 | https://mp.weixin.qq.com/s/ItNWTgoueVAdMcWFAMrrhQ |
+| 10-08 13:00 | 公众号 | 红网 | 综合媒体 | 中共中央批准：范波任江苏省委副书记 | https://mp.weixin.qq.com/s/PEyKIKCc7oWInRbgcFzaOA |
+| 10-08 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 车主在后备箱装了10箱矿泉水，被扣3分、罚款100元？专家：私家车载物有四个前提 | https://mp.weixin.qq.com/s/7iW95wzxSpOiN4czO4Cjcg |
 | 10-08 12:00 | 公众号 | 央视财经 | 综合媒体 | 利润暴增近800%！存储芯片巨头，业绩爆发 | https://mp.weixin.qq.com/s/Y3Nme~CO3p6OQs5E5D4m2g |
 | 10-08 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 中共中央批准：范波任江苏省委副书记，边学文任江苏省委常委、省纪委书记 | https://mp.weixin.qq.com/s/HFLiWwR3jBeyVByU3wzfFg |
 | 10-08 12:00 | 公众号 | 上海市场监管 | 监管·地方 | 2026年上海市食品安全网络知识竞赛来袭！奖品、限定电子徽章等您来拿～ | https://mp.weixin.qq.com/s/tyfbaL0oJyyQ2bYQ2Wq2gg |
