@@ -1,7 +1,17 @@
-# 舆情候选池 1008（10-07 00:00 至今，118 条：公众号 94 + 网页 24）
+# 舆情候选池 1008（10-07 00:00 至今，129 条：公众号 104 + 网页 25）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-08 09:00 | 公众号 | 市说新语 | 监管·总局 | 今日寒露 | https://mp.weixin.qq.com/s/Lbd6e5qK8oOB9c3L5lHeRg |
+| 10-08 09:00 | 公众号 | 央视财经 | 综合媒体 | 多国联军发动大规模军事行动 | https://mp.weixin.qq.com/s/jreWT39VVNTxP9i6~NVlZw |
+| 10-08 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 央视曝光后，海南省迅速召开省委常委会会议、省政府专题会，部署整改整治红树林自然保护区赶海违法行为 | https://mp.weixin.qq.com/s/ufdAdjSD3O1loYiJZuCtwQ |
+| 10-08 09:00 | 公众号 | 上海市场监管 | 监管·地方 | “阿拉讲召回”第十期：说明书不是“废纸”，安全提醒，就在这几页里 | https://mp.weixin.qq.com/s/4DrpodU4K8uktz3jq5umCA |
+| 10-08 09:00 | 公众号 | 新京报 | 综合媒体 | 长征·村志 ｜ 云南威信扎西老街：青石板路上的火种 | https://mp.weixin.qq.com/s/ow2E-IbTS~689kKw6sKMBQ |
+| 10-08 09:00 | 公众号 | 界面新闻 | 综合媒体 | 乌克兰称愿意参加乌俄美三方会谈 | https://mp.weixin.qq.com/s/ucHzcmyIXIQVPetx1D3NaA |
+| 10-08 09:00 | 公众号 | 法治日报 | 综合媒体 | 河南一的哥捡到乘客10万元现金，上门归还时乘客又落下手机，司机二次上门送还；乘客悄悄留下1万元感谢费，司机发现后第三次上门退回 | https://mp.weixin.qq.com/s/J5Aw1FGPFksO1I0C7M~u9A |
+| 10-08 09:00 | 公众号 | 南方都市报 | 综合媒体 | 帕特鲁舍夫将访华 | https://mp.weixin.qq.com/s/6ZsF-Qzg9E~SDPolkXcPZw |
+| 10-08 09:00 | 公众号 | 今晚报 | 综合媒体 | 知名女演员去世 | https://mp.weixin.qq.com/s/r8OeM9IuHvXCgRqwsRJ9gQ |
+| 10-08 09:00 | 公众号 | 红网 | 综合媒体 | 央视曝光后，海南省委连夜开会：以最坚决的态度、最有力的措施，迅速叫停类似破坏红树林等生态环境的旅游项目，严肃追责问责 | https://mp.weixin.qq.com/s/wYocOFeago~0q9uI18xyYQ |
 | 10-08 08:36 | 网页 | 食品伙伴网 | 产经动态 | 肉制品边角料高值化利用：增值产品的 4 个方向 | https://news.foodmate.net/2026/10/754272.html |
 | 10-08 08:31 | 网页 | 食品伙伴网 | 产经动态 | “0添加”全面禁用倒计时，你的调整方案准备好了吗？ | https://news.foodmate.net/2026/10/754270.html |
 | 10-08 08:28 | 网页 | 食品伙伴网 | 产经动态 | 低脂肉制品：减脂不难，难的是保住口感与风味 | https://news.foodmate.net/2026/10/754268.html |
@@ -33,6 +43,7 @@
 | 10-08 | 网页 | 巨潮·康龙化成 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300759&orgId=9900035581&announcementId=1225595997&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·汇绿生态 | 上市公司公告 | 关于重大资产重组进展的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001267&orgId=gssz0000765&announcementId=1225595998&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·剑桥科技 | 上市公司公告 | 第五届董事会第三十六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603083&orgId=9900033004&announcementId=1225596019&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 澎湃·质量观 | 行业媒体 | 广州白云区租客称“每月被强收门禁费”，街道办：是向房东收取 | https://www.thepaper.cn/newsDetail_forward_34181000 |
 | 10-07 17:00 | 公众号 | 央视财经 | 综合媒体 | 短短4天，被转卖3次！演员王星案详细案情披露→ | https://mp.weixin.qq.com/s/I7saiLCKSw3Ih630inWvwQ |
 | 10-07 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 破11亿！多部影片官宣海外上映计划 | https://mp.weixin.qq.com/s/FhPXuxT~v3CVJhkluGkjiw |
 | 10-07 17:00 | 公众号 | 新京报 | 综合媒体 | 在泰失联的上海音乐教师，已安全回国 | https://mp.weixin.qq.com/s/flGyccDZUqupiIwUDTqHwQ |
