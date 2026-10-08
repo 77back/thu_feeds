@@ -1,7 +1,17 @@
-# 舆情候选池 1008（10-07 00:00 至今，137 条：公众号 111 + 网页 26）
+# 舆情候选池 1008（10-07 00:00 至今，141 条：公众号 120 + 网页 21）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-08 11:07 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：老干妈2025年营收54亿元；娃哈哈宏胜饮品新项目动工；10月1日起港珠澳大桥出口鲜活食品24小时通关（2026年10月8日） | https://news.foodmate.net/2026/10/754314.html |
+| 10-08 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 影视表演艺术家彭玉去世 | https://mp.weixin.qq.com/s/QREkxelA4DqTLGImtZ0oXQ |
+| 10-08 11:00 | 公众号 | 界面新闻 | 综合媒体 | 保时捷计划裁员最多30%，明确回归燃油车 | https://mp.weixin.qq.com/s/MtlJrj5VevGKEm~QlN8eDA |
+| 10-08 11:00 | 公众号 | 新京报 | 综合媒体 | 演员彭玉去世 | https://mp.weixin.qq.com/s/JyWSxx6a6PORzmw00q0K7A |
+| 10-08 11:00 | 公众号 | 法治日报 | 综合媒体 | 男子体重超200斤自驾11个小时旅游，下肢缺血险丧命！确诊为死亡率极高的A型主动脉夹层；医生提醒→ | https://mp.weixin.qq.com/s/Pxu~GbDuLItXgjCSa7TXCw |
+| 10-08 11:00 | 公众号 | 南方都市报 | 综合媒体 | 演员彭玉，在珠海离世 | https://mp.weixin.qq.com/s/kCViDjQ7aoUMVxCN5lVAfA |
+| 10-08 11:00 | 公众号 | 极目新闻 | 综合媒体 | 女子连麦张雪称男友进ICU无法提车欲退款被驳回，张雪机车发情况说明：用户实际并未住进ICU，对撒谎零容忍；客服称不会对大区经理进行处罚 | https://mp.weixin.qq.com/s/3Vr00vnMO8~TPp1RBbqVkg |
+| 10-08 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员彭玉去世 | https://mp.weixin.qq.com/s/cTuUQENToVeJtH2mtug5hQ |
+| 10-08 11:00 | 公众号 | 红网 | 综合媒体 | 湖南省教育厅发布公告，征集教育领域涉黑涉恶突出问题线索 | https://mp.weixin.qq.com/s/Ttc9MbCcGkXjCBe9r~Vk6A |
+| 10-08 11:00 | 公众号 | 今晚报 | 综合媒体 | 表演艺术家彭玉去世！ | https://mp.weixin.qq.com/s/HOsxhOXaQTU8GvySuKcrYQ |
 | 10-08 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 一名轮椅青年，十年借力“移山”：坡道可以改缓，人心里的“山”却难移 | https://mp.weixin.qq.com/s/nTf4NMNDyvtjf58lRtePBg |
 | 10-08 10:00 | 公众号 | 界面新闻 | 综合媒体 | 多家在港中资券商调整，内地IP仅可卖出、出金 | https://mp.weixin.qq.com/s/H78mXpAMoWKVWVpTVoi-FA |
 | 10-08 10:00 | 公众号 | 新京报 | 综合媒体 | 哈萨克斯坦副总统：感谢成龙 | https://mp.weixin.qq.com/s/hCa9XJQneuMQY0tA3lx6Dg |
@@ -37,20 +47,16 @@
 | 10-08 08:00 | 公众号 | 极目新闻 | 综合媒体 | 程序员男友帮女友挂专家号，写出“抢号软件”，后帮人收费“抢号”，致某医院挂号系统瘫痪；二人双双获刑 | https://mp.weixin.qq.com/s/GdOxcWtCM2RqN5zpot86dw |
 | 10-08 08:00 | 公众号 | 红网 | 综合媒体 | 值班值守不严、脱岗空岗，消防控制室值守形同虚设！两家养老机构被线上通报 | https://mp.weixin.qq.com/s/Fe-XGkm93pz02ZKwOkNauA |
 | 10-08 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 央视曝光不到两小时，三亚启动整治 | https://mp.weixin.qq.com/s/zXy7KCesneSACchJFbAdFw |
-| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 广东检出23批次不合格食品，有椰蓉花生卷、原切芒果干、九制橄榄等 | http://news.foodmate.net/2026/10/754310.html |
-| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第11期） | http://news.foodmate.net/2026/10/754279.html |
-| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第11期） | http://news.foodmate.net/2026/10/754279.html |
-| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 四川省市场监督管理局关于食品安全监督抽检情况的通告（2026年第12号） | http://news.foodmate.net/2026/10/754277.html |
+| 10-08 | 网页 | 巨潮·君正股份 | 上市公司公告 | H股公告-截至2026年9月30日止股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300223&orgId=9900016187&announcementId=1225596034&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·领益智造 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002600&orgId=9900020848&announcementId=1225596033&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·三羊马 | 上市公司公告 | 关于对外担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001317&orgId=gfbj0838107&announcementId=1225596032&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·美格智能 | 上市公司公告 | H股公告一截至2026年9月30日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002881&orgId=9900032572&announcementId=1225596031&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·郑州银行 | 上市公司公告 | H股公告 - 截至二零二六年九月三十日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002936&orgId=9900011028&announcementId=1225596030&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·一品红 | 上市公司公告 | 关于全资子公司创新药APH04935片获得美国FDA临床试验批准的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300723&orgId=9900033062&announcementId=1225596037&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 巨潮·中亚股份 | 上市公司公告 | 关于公司董事长、实际控制人及其一致行动人减持股份的预披露公告（更新后） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300512&orgId=9900026539&announcementId=1225596036&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·金风科技 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002202&orgId=9900003947&announcementId=1225596005&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·中文在线 | 上市公司公告 | 关于终止发行H股股票并于香港联合交易所有限公司上市的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300364&orgId=9900023871&announcementId=1225596000&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 巨潮·大族数控 | 上市公司公告 | H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301200&orgId=9900048802&announcementId=1225595994&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·先导智能 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300450&orgId=9900023846&announcementId=1225595993&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·中际旭创 | 上市公司公告 | H股公告（截至2026年9月30日止股份发行人的证券变动月报表） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300308&orgId=9900022016&announcementId=1225595991&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·广合科技 | 上市公司公告 | H股公告-截至二零二六年九月三十日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001389&orgId=9900046622&announcementId=1225596003&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·安克创新 | 上市公司公告 | H股公告-截至2026年9月30日止之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300866&orgId=gfbj0839473&announcementId=1225596002&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·康龙化成 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300759&orgId=9900035581&announcementId=1225595997&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·汇绿生态 | 上市公司公告 | 关于重大资产重组进展的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001267&orgId=gssz0000765&announcementId=1225595998&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·剑桥科技 | 上市公司公告 | 第五届董事会第三十六次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603083&orgId=9900033004&announcementId=1225596019&announcementTime=2026-10-08 |
 | 10-08 | 网页 | 澎湃·质量观 | 行业媒体 | 广州白云区租客称“每月被强收门禁费”，街道办：是向房东收取 | https://www.thepaper.cn/newsDetail_forward_34181000 |
 | 10-07 17:00 | 公众号 | 央视财经 | 综合媒体 | 短短4天，被转卖3次！演员王星案详细案情披露→ | https://mp.weixin.qq.com/s/I7saiLCKSw3Ih630inWvwQ |
 | 10-07 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 破11亿！多部影片官宣海外上映计划 | https://mp.weixin.qq.com/s/FhPXuxT~v3CVJhkluGkjiw |
@@ -137,5 +143,3 @@
 | 10-07 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 沙特遭袭｜晨报来了 | https://mp.weixin.qq.com/s/kJOpGu3ECDNAApP0C9Jb8Q |
 | 10-07 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 火出圈的超长蛋挞，怎么吃更安全？ | https://mp.weixin.qq.com/s/y9NLN3aCMQau5hX9yPpgyA |
 | 10-07 08:00 | 网页 | 食品伙伴网 | 产经动态 | 十点播报 ｜ 茅台1935宴席订单走强、美团闪购发布潮饮IP阵地“Mchao”、宁夏农垦1元转让夏桐葡萄园40%股权 | https://news.foodmate.net/2026/10/754238.html |
-| 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 点出民意，检护佳节！上海各区“你点我检”活动守护假期饮食安全 | http://news.foodmate.net/2026/10/754255.html |
-| 10-07 | 网页 | 食品伙伴网 | 抽检通报 | 七台河市市场监管局桃山分局守护百姓“舌尖上的安全” | http://news.foodmate.net/2026/10/754242.html |
