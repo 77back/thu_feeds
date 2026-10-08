@@ -1,7 +1,29 @@
-# 舆情候选池 1008（10-07 00:00 至今，181 条：公众号 160 + 网页 21）
+# 舆情候选池 1008（10-07 00:00 至今，194 条：公众号 171 + 网页 23）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-09 | 网页 | 巨潮·三鑫医疗 | 上市公司公告 | 关于全资子公司变更医疗器械生产许可证的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300453&orgId=9900023828&announcementId=1225596688&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·普洛药业 | 上市公司公告 | 关于获得化学原料药上市申请批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000739&orgId=gssz0000739&announcementId=1225596672&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·穗恒运Ａ | 上市公司公告 | 关于出售已回购股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000531&orgId=gssz0000531&announcementId=1225596671&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·蒙娜丽莎 | 上市公司公告 | 关于取得发明专利证书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002918&orgId=9900033052&announcementId=1225596668&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·惠康科技 | 上市公司公告 | 2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001237&orgId=9900063097&announcementId=1225596664&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·思进智能 | 上市公司公告 | 关于回购公司股份进展情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=003025&orgId=9900030867&announcementId=1225596661&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·东鹏控股 | 上市公司公告 | 关于回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=003012&orgId=9900035896&announcementId=1225596660&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·沃特股份 | 上市公司公告 | 关于回购公司股份方案的实施进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002886&orgId=9900031440&announcementId=1225596659&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·煌上煌 | 上市公司公告 | 关于回购公司股份进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002695&orgId=9900023215&announcementId=1225596658&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·康强电子 | 上市公司公告 | 关于回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002119&orgId=9900002188&announcementId=1225596657&announcementTime=2026-10-09 |
+| 10-08 16:25 | 网页 | 食品伙伴网 | 产经动态 | 10月8日：“农产品批发价格200指数”比节前下降0.53个点 | https://news.foodmate.net/2026/10/754351.html |
+| 10-08 16:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——《保健食品原料 螺旋藻》 | https://mp.weixin.qq.com/s/qcIkGikaAB1x7EKtA2IfOA |
+| 10-08 16:00 | 公众号 | 央视财经 | 综合媒体 | 日本四大啤酒企业，被强制调查！ | https://mp.weixin.qq.com/s/COkqX~Y4OAjAtCoLQBQsSw |
+| 10-08 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 外交部：中方提名宋莉博士参与竞选世卫组织总干事 | https://mp.weixin.qq.com/s/xDHtSal5CfSd31cjw2FlgA |
+| 10-08 16:00 | 公众号 | 新京报 | 综合媒体 | 中方提名宋莉博士参与竞选世卫组织总干事 | https://mp.weixin.qq.com/s/G1gijenX1IaX2d5nFZe2jQ |
+| 10-08 16:00 | 公众号 | 界面新闻 | 综合媒体 | 特朗普表示希望中日领导人开展对话？中方回应 | https://mp.weixin.qq.com/s/n7Gqqd0UWLwSVi3UZTBmdg |
+| 10-08 16:00 | 公众号 | 南方都市报 | 综合媒体 | 女子连麦张雪，称男友进ICU无法提车，退款申请被驳回，张雪机车发情况说明 | https://mp.weixin.qq.com/s/pdf~N79SA4rUifIMPXeozw |
+| 10-08 16:00 | 公众号 | 法治日报 | 综合媒体 | 男子国庆自驾遇大雪被困山顶，躲后备箱给妻子留遗言“我爱你” ，怕闷死设2小时一次闹钟；民警连夜奔赴救援，“我真是捡了一条命” | https://mp.weixin.qq.com/s/31iG8yqQtwkBzILlSEbDmQ |
+| 10-08 16:00 | 公众号 | 极目新闻 | 综合媒体 | 湖南一高校全体新生10月8日报到，10月24日才开始上课，一学期仅上课三个月，校方工作人员：开学后会在晚上和周六补课 | https://mp.weixin.qq.com/s/RRoVp5H62HEhZXLw9d~NUA |
+| 10-08 16:00 | 公众号 | 红网 | 综合媒体 | 诈骗套路全新升级！岳阳一涉诈团伙伪造反诈宣传话术，教受害者应付96110，市民刷单5天被骗42万余元 | https://mp.weixin.qq.com/s/B5tyVSWFtvXbDjer2xXtYg |
+| 10-08 16:00 | 公众号 | 今晚报 | 综合媒体 | 突发公告，延期！知名演员，暂停演出 | https://mp.weixin.qq.com/s/cKBqbB3pD5N~Gnk4fyXF6w |
+| 10-08 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 中美元首会晤是否谈及日本？外交部回应 | https://mp.weixin.qq.com/s/lpjKG2G1yQCfvjp20dGqWw |
 | 10-08 15:00 | 公众号 | 法治日报 | 综合媒体 | 车主在后备箱装了10箱矿泉水，被扣3分、罚款100元？专家：私家车载物有四个前提 | https://mp.weixin.qq.com/s/Xv2FLRFcztrR8Jobc0J1iQ |
 | 10-08 15:00 | 公众号 | 央视财经 | 综合媒体 | 演员彭玉去世 | https://mp.weixin.qq.com/s/-mpouJ9oFsSfszNyqted8g |
 | 10-08 15:00 | 公众号 | 界面新闻 | 综合媒体 | 恒科创年内新低 | https://mp.weixin.qq.com/s/TKExJPwwszrIC5G6tg9jvA |
@@ -87,16 +109,7 @@
 | 10-08 08:00 | 公众号 | 极目新闻 | 综合媒体 | 程序员男友帮女友挂专家号，写出“抢号软件”，后帮人收费“抢号”，致某医院挂号系统瘫痪；二人双双获刑 | https://mp.weixin.qq.com/s/GdOxcWtCM2RqN5zpot86dw |
 | 10-08 08:00 | 公众号 | 红网 | 综合媒体 | 值班值守不严、脱岗空岗，消防控制室值守形同虚设！两家养老机构被线上通报 | https://mp.weixin.qq.com/s/Fe-XGkm93pz02ZKwOkNauA |
 | 10-08 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 央视曝光不到两小时，三亚启动整治 | https://mp.weixin.qq.com/s/zXy7KCesneSACchJFbAdFw |
-| 10-08 | 网页 | 巨潮·君正股份 | 上市公司公告 | H股公告-截至2026年9月30日止股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300223&orgId=9900016187&announcementId=1225596034&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·领益智造 | 上市公司公告 | H股公告-证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002600&orgId=9900020848&announcementId=1225596033&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·三羊马 | 上市公司公告 | 关于对外担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001317&orgId=gfbj0838107&announcementId=1225596032&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·美格智能 | 上市公司公告 | H股公告一截至2026年9月30日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002881&orgId=9900032572&announcementId=1225596031&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·郑州银行 | 上市公司公告 | H股公告 - 截至二零二六年九月三十日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002936&orgId=9900011028&announcementId=1225596030&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·一品红 | 上市公司公告 | 关于全资子公司创新药APH04935片获得美国FDA临床试验批准的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300723&orgId=9900033062&announcementId=1225596037&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·中亚股份 | 上市公司公告 | 关于公司董事长、实际控制人及其一致行动人减持股份的预披露公告（更新后） | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300512&orgId=9900026539&announcementId=1225596036&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·金风科技 | 上市公司公告 | H股公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002202&orgId=9900003947&announcementId=1225596005&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·中文在线 | 上市公司公告 | 关于终止发行H股股票并于香港联合交易所有限公司上市的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300364&orgId=9900023871&announcementId=1225596000&announcementTime=2026-10-08 |
-| 10-08 | 网页 | 巨潮·大族数控 | 上市公司公告 | H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301200&orgId=9900048802&announcementId=1225595994&announcementTime=2026-10-08 |
+| 10-08 | 网页 | 界面新闻·消费 | 综合媒体 | 智能插排被黑致观赏鱼大量死亡？沃尔达致歉 | https://www.jiemian.com/article/15167898.html |
 | 10-08 | 网页 | 澎湃·质量观 | 行业媒体 | 广州白云区租客称“每月被强收门禁费”，街道办：是向房东收取 | https://www.thepaper.cn/newsDetail_forward_34181000 |
 | 10-07 17:00 | 公众号 | 央视财经 | 综合媒体 | 短短4天，被转卖3次！演员王星案详细案情披露→ | https://mp.weixin.qq.com/s/I7saiLCKSw3Ih630inWvwQ |
 | 10-07 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 破11亿！多部影片官宣海外上映计划 | https://mp.weixin.qq.com/s/FhPXuxT~v3CVJhkluGkjiw |
