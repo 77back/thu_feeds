@@ -1,17 +1,27 @@
-# 舆情候选池 1008（10-07 00:00 至今，194 条：公众号 171 + 网页 23）
+# 舆情候选池 1008（10-07 00:00 至今，214 条：公众号 181 + 网页 33）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-09 | 网页 | 巨潮·三鑫医疗 | 上市公司公告 | 关于全资子公司变更医疗器械生产许可证的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300453&orgId=9900023828&announcementId=1225596688&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·普洛药业 | 上市公司公告 | 关于获得化学原料药上市申请批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000739&orgId=gssz0000739&announcementId=1225596672&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·穗恒运Ａ | 上市公司公告 | 关于出售已回购股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000531&orgId=gssz0000531&announcementId=1225596671&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·蒙娜丽莎 | 上市公司公告 | 关于取得发明专利证书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002918&orgId=9900033052&announcementId=1225596668&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·惠康科技 | 上市公司公告 | 2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001237&orgId=9900063097&announcementId=1225596664&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·思进智能 | 上市公司公告 | 关于回购公司股份进展情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=003025&orgId=9900030867&announcementId=1225596661&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·东鹏控股 | 上市公司公告 | 关于回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=003012&orgId=9900035896&announcementId=1225596660&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·沃特股份 | 上市公司公告 | 关于回购公司股份方案的实施进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002886&orgId=9900031440&announcementId=1225596659&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·煌上煌 | 上市公司公告 | 关于回购公司股份进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002695&orgId=9900023215&announcementId=1225596658&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·康强电子 | 上市公司公告 | 关于回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002119&orgId=9900002188&announcementId=1225596657&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·建龙微纳 | 上市公司公告 | 关于以集中竞价交易方式回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688357&orgId=gfbj0833540&announcementId=1225597507&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·泰晶科技 | 上市公司公告 | 泰晶科技股份有限公司关于对外投资设立境外全资子公司并建设生产基地的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603738&orgId=9900026775&announcementId=1225597506&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·甬矽电子 | 上市公司公告 | 关于股份回购实施结果暨股份变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688362&orgId=9900047769&announcementId=1225597504&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·兆易创新 | 上市公司公告 | 兆易创新关于以集中竞价交易方式回购A股股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603986&orgId=9900026561&announcementId=1225597072&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·同庆楼 | 上市公司公告 | 同庆楼关于注销回购股份暨减少注册资本通知债权人的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605108&orgId=9900033223&announcementId=1225597502&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·华立股份 | 上市公司公告 | 2026年第二次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603038&orgId=9900024798&announcementId=1225597495&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·华勤技术 | 上市公司公告 | 华勤技术关于2026年第二期以集中竞价交易方式回购公司A股股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603296&orgId=9900047877&announcementId=1225597500&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·虹软科技 | 上市公司公告 | 关于以集中竞价交易方式回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688088&orgId=9900038968&announcementId=1225597499&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·中国卫通 | 上市公司公告 | 中国卫通关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601698&orgId=9900036546&announcementId=1225597498&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·特宝生物 | 上市公司公告 | 特宝生物：关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688278&orgId=9900038966&announcementId=1225597496&announcementTime=2026-10-09 |
+| 10-08 17:00 | 公众号 | 央视财经 | 综合媒体 | 张硕辅被查 | https://mp.weixin.qq.com/s/LDEkErZkO1jtCiZW931XWg |
+| 10-08 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 风暴中的数采中心｜能否生产高质量真实数据？“如果有，就算开10倍价格也愿意买” | https://mp.weixin.qq.com/s/yg7PVoyYpFCinjGxeoS36Q |
+| 10-08 17:00 | 公众号 | 新京报 | 综合媒体 | 打虎！张硕辅被查 | https://mp.weixin.qq.com/s/JmySbLLEA5F~w9L6xL5qkQ |
+| 10-08 17:00 | 公众号 | 界面新闻 | 综合媒体 | 腾讯考虑最高发行50亿美元离岸债券，或筹钱加码AI | https://mp.weixin.qq.com/s/JZtiL9clXZzlHK41Y0EUSA |
+| 10-08 17:00 | 公众号 | 法治日报 | 综合媒体 | 调查报告公布：云南镇雄一起煤与瓦斯突出事故造成7人遇难，存在应急响应不及时、应急准备不充分等问题；40名责任人被追责问责 | https://mp.weixin.qq.com/s/Co7XFAS0h-8Mwyj2pSa~Nw |
+| 10-08 17:00 | 公众号 | 极目新闻 | 综合媒体 | 母亲去世前留遗嘱，4个女儿签字唯独儿子不知情，儿子抑郁暴瘦30多斤；姐姐：弟弟有外债，妈妈怕他挥霍，8万存款留给孙子上大学 | https://mp.weixin.qq.com/s/2VYOpblHxp740HBrYVM9lw |
+| 10-08 17:00 | 公众号 | 南方都市报 | 综合媒体 | 广州起飞航班突发延误，“乘客在机场过夜，不安排住宿，没有赔偿”，航司回应 | https://mp.weixin.qq.com/s/AbcZ~sbKtXTNQEu0zaIaOA |
+| 10-08 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 打虎！张硕辅被查（附简历） | https://mp.weixin.qq.com/s/Q-rKPD4~Ldj1A~wV6rWJRw |
+| 10-08 17:00 | 公众号 | 今晚报 | 综合媒体 | 节后有笔钱，千万别忘查收！ | https://mp.weixin.qq.com/s/1TLy0NJpNpXieqBbFMzICw |
+| 10-08 17:00 | 公众号 | 红网 | 综合媒体 | 广东省人大常委会党组成员、副主任张硕辅接受审查调查 | https://mp.weixin.qq.com/s/cmKB21AanmKK2aR9QjxqBA |
 | 10-08 16:25 | 网页 | 食品伙伴网 | 产经动态 | 10月8日：“农产品批发价格200指数”比节前下降0.53个点 | https://news.foodmate.net/2026/10/754351.html |
 | 10-08 16:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——《保健食品原料 螺旋藻》 | https://mp.weixin.qq.com/s/qcIkGikaAB1x7EKtA2IfOA |
 | 10-08 16:00 | 公众号 | 央视财经 | 综合媒体 | 日本四大啤酒企业，被强制调查！ | https://mp.weixin.qq.com/s/COkqX~Y4OAjAtCoLQBQsSw |
@@ -109,6 +119,16 @@
 | 10-08 08:00 | 公众号 | 极目新闻 | 综合媒体 | 程序员男友帮女友挂专家号，写出“抢号软件”，后帮人收费“抢号”，致某医院挂号系统瘫痪；二人双双获刑 | https://mp.weixin.qq.com/s/GdOxcWtCM2RqN5zpot86dw |
 | 10-08 08:00 | 公众号 | 红网 | 综合媒体 | 值班值守不严、脱岗空岗，消防控制室值守形同虚设！两家养老机构被线上通报 | https://mp.weixin.qq.com/s/Fe-XGkm93pz02ZKwOkNauA |
 | 10-08 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 央视曝光不到两小时，三亚启动整治 | https://mp.weixin.qq.com/s/zXy7KCesneSACchJFbAdFw |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监督管理局2026年节日热销食品专项抽检信息通告（第12期） | http://news.foodmate.net/2026/10/754358.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 张家港：网络餐饮食品安全专项整治典型案例（第五期）（食品安全抽检专题） | http://news.foodmate.net/2026/10/754343.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 张家港：网络餐饮食品安全专项整治典型案例（第五期）（食品安全抽检专题） | http://news.foodmate.net/2026/10/754343.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局食品安全监督抽检信息通告（2026年第32期） | http://news.foodmate.net/2026/10/754342.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 内蒙古自治区市场监管局关于2026年中秋节月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/10/754318.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 天津市市场监督管理委员会2026年第6期食品安全监督抽检信息 | http://news.foodmate.net/2026/10/754317.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 广东检出23批次不合格食品，有椰蓉花生卷、原切芒果干、九制橄榄等 | http://news.foodmate.net/2026/10/754310.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第11期） | http://news.foodmate.net/2026/10/754279.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 辽宁省市场监督管理局关于食品安全抽检信息的通告（2026年第11期） | http://news.foodmate.net/2026/10/754279.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 四川省市场监督管理局关于食品安全监督抽检情况的通告（2026年第12号） | http://news.foodmate.net/2026/10/754277.html |
 | 10-08 | 网页 | 界面新闻·消费 | 综合媒体 | 智能插排被黑致观赏鱼大量死亡？沃尔达致歉 | https://www.jiemian.com/article/15167898.html |
 | 10-08 | 网页 | 澎湃·质量观 | 行业媒体 | 广州白云区租客称“每月被强收门禁费”，街道办：是向房东收取 | https://www.thepaper.cn/newsDetail_forward_34181000 |
 | 10-07 17:00 | 公众号 | 央视财经 | 综合媒体 | 短短4天，被转卖3次！演员王星案详细案情披露→ | https://mp.weixin.qq.com/s/I7saiLCKSw3Ih630inWvwQ |
