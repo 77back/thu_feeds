@@ -1,7 +1,16 @@
-# 舆情候选池 1009（10-08 00:00 至今，188 条：公众号 159 + 网页 29）
+# 舆情候选池 1009（10-08 00:00 至今，207 条：公众号 168 + 网页 39）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-09 13:00 | 公众号 | 中国消费者报 | 行业媒体 | 注意！这种网红蛋挞不能敞开吃 | https://mp.weixin.qq.com/s/AnUS0MixyEjFzuqlQ8vkdQ |
+| 10-09 13:00 | 公众号 | 新京报 | 综合媒体 | 小区“楼顶藏坟”真相大白后，该反思的不只是造谣者 | https://mp.weixin.qq.com/s/5GpeRkY4kRLM7sCIuBc~2Q |
+| 10-09 13:00 | 公众号 | 法治日报 | 综合媒体 | 一新郎邀请全国网友吃席，百余名网友从各地赶来赴宴，有人开车12小时，新郎：临时加10桌，说明了不用随礼，仍有人准备红包小礼物 | https://mp.weixin.qq.com/s/sLW59vYD-fud2u3C2JXFKg |
+| 10-09 13:00 | 公众号 | 界面新闻 | 综合媒体 | DeepSeek“抽风”原因找到了 | https://mp.weixin.qq.com/s/ZUFiOw-y6-kub~SxQaB9pA |
+| 10-09 13:00 | 公众号 | 南方都市报 | 综合媒体 | 谭明鹤已任广州市领导 | https://mp.weixin.qq.com/s/jhGdjXizrKmc~dakkl3n2g |
+| 10-09 13:00 | 公众号 | 极目新闻 | 综合媒体 | 鲁亚辉（21岁，武汉人），全国唯一！ | https://mp.weixin.qq.com/s/g0yvvYImJgYBz2Egczk0zA |
+| 10-09 13:00 | 公众号 | 今晚报 | 综合媒体 | 突发意外！75岁裁判当场身亡 | https://mp.weixin.qq.com/s/y8vAc8CfrmbS6vE3bPidHg |
+| 10-09 13:00 | 公众号 | 红网 | 综合媒体 | 湖南省醴陵市农业农村局原党组书记、局长胡修文涉嫌严重违纪违法，正接受审查调查 | https://mp.weixin.qq.com/s/Orz6hooCuhWQx9V5WMoF7A |
+| 10-09 13:00 | 公众号 | 中国新闻网 | 综合媒体 | 出租车司机捡到乘客10万元现金，上门归还时乘客又落下手机，司机二次上门送还；乘客悄悄留下1万元感谢费，司机发现后第三次上门退回 | https://mp.weixin.qq.com/s/NpCyM-uD8wiIAnb9WJYV2Q |
 | 10-09 12:00 | 公众号 | 中国市场监管报 | 行业媒体 | 宣称“全国第一” ？这家门店被罚2万元 | https://mp.weixin.qq.com/s/sFZH1P2ACvPBlvEX-4AkKQ |
 | 10-09 12:00 | 公众号 | 市说新语 | 监管·总局 | 出租汽车无障碍运营服务国家标准发布 让出行服务更贴心 | https://mp.weixin.qq.com/s/~qJ3CciEXmryzv92on-Rog |
 | 10-09 12:00 | 公众号 | 央视财经 | 综合媒体 | 陈伟俊被提起公诉 | https://mp.weixin.qq.com/s/hiRdsu9z4O~FAldWbe7VQw |
@@ -68,6 +77,10 @@
 | 10-09 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国暴发麻疹疫情｜晨报来了 | https://mp.weixin.qq.com/s/NJi~tIEuat3HE18Tih5sTw |
 | 10-09 08:00 | 公众号 | 界面新闻 | 综合媒体 | 一辆百万豪车的刹车踏板，多大力才算“踩过头”？ | https://mp.weixin.qq.com/s/WfL1QQZieu8llu8L-t0ACw |
 | 10-09 08:00 | 公众号 | 南方都市报 | 综合媒体 | 深圳市委、市政府决定：民警吴龙，追记二等功；与持刀歹徒搏斗，身负重伤，年仅25岁 | https://mp.weixin.qq.com/s/TX8eGVZW9Pwc-4YXLXkyXA |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 上海检出7批次不合格食品，有茶叶、山椒凤爪、椰子水等 | http://news.foodmate.net/2026/10/754425.html |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 重庆市市场监督管理局关于4961批次食品安全抽检情况的通告（渝市监通告〔2026〕13号） | http://news.foodmate.net/2026/10/754422.html |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于17批次食品不合格情况的通告（2026年第45期） | http://news.foodmate.net/2026/10/754421.html |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 佛山多人参加婚宴后腹泻呕吐，官方通报：初判为食源性疾病聚集事件，已立案调查 | http://news.foodmate.net/2026/10/754369.html |
 | 10-09 | 网页 | 巨潮·胜蓝股份 | 上市公司公告 | 关于胜蓝转02即将停止转股暨赎回前最后半个交易日的重要提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300843&orgId=9900038940&announcementId=1225598319&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·凌霄泵业 | 上市公司公告 | 关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002884&orgId=9900031445&announcementId=1225598323&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·新乡化纤 | 上市公司公告 | 关于公司国有建设用地使用权被收回暨部分生产线停产事项的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000949&orgId=gssz0000949&announcementId=1225598322&announcementTime=2026-10-09 |
@@ -187,6 +200,12 @@
 | 10-08 08:00 | 公众号 | 极目新闻 | 综合媒体 | 程序员男友帮女友挂专家号，写出“抢号软件”，后帮人收费“抢号”，致某医院挂号系统瘫痪；二人双双获刑 | https://mp.weixin.qq.com/s/GdOxcWtCM2RqN5zpot86dw |
 | 10-08 08:00 | 公众号 | 红网 | 综合媒体 | 值班值守不严、脱岗空岗，消防控制室值守形同虚设！两家养老机构被线上通报 | https://mp.weixin.qq.com/s/Fe-XGkm93pz02ZKwOkNauA |
 | 10-08 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 央视曝光不到两小时，三亚启动整治 | https://mp.weixin.qq.com/s/zXy7KCesneSACchJFbAdFw |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监督管理局2026年节日热销食品专项抽检信息通告（第12期） | http://news.foodmate.net/2026/10/754358.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 张家港：网络餐饮食品安全专项整治典型案例（第五期）（食品安全抽检专题） | http://news.foodmate.net/2026/10/754343.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 张家港：网络餐饮食品安全专项整治典型案例（第五期）（食品安全抽检专题） | http://news.foodmate.net/2026/10/754343.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局食品安全监督抽检信息通告（2026年第32期） | http://news.foodmate.net/2026/10/754342.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 内蒙古自治区市场监管局关于2026年中秋节月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/10/754318.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 天津市市场监督管理委员会2026年第6期食品安全监督抽检信息 | http://news.foodmate.net/2026/10/754317.html |
 | 10-08 | 网页 | 界面新闻·消费 | 综合媒体 | 国庆假期奶茶店以地方特色抢客流 | https://www.jiemian.com/article/15168713.html |
 | 10-08 | 网页 | 界面新闻·消费 | 综合媒体 | 智能插排被黑致观赏鱼大量死亡？沃尔达致歉 | https://www.jiemian.com/article/15167898.html |
 | 10-08 | 网页 | 澎湃·质量观 | 行业媒体 | 广州白云区租客称“每月被强收门禁费”，街道办：是向房东收取 | https://www.thepaper.cn/newsDetail_forward_34181000 |
