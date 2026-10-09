@@ -1,17 +1,29 @@
-# 舆情候选池 1009（10-08 00:00 至今，225 条：公众号 195 + 网页 30）
+# 舆情候选池 1009（10-08 00:00 至今，237 条：公众号 207 + 网页 30）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-10 | 网页 | 巨潮·立霸股份 | 上市公司公告 | 立霸股份：关于控股股东一致行动人权益变动触及1%刻度的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603519&orgId=9900023752&announcementId=1225598789&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·东方材料 | 上市公司公告 | 新东方新材料股份有限公司关于2026年股票期权激励计划首次授予股票期权登记完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603110&orgId=9900031774&announcementId=1225598786&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·中际联合 | 上市公司公告 | 中际联合关于使用闲置募集资金进行现金管理到期赎回并继续进行现金管理的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605305&orgId=gfbj0831344&announcementId=1225598785&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·华大智造 | 上市公司公告 | 董事会薪酬与考核委员会关于2026年限制性股票激励计划激励对象名单的公示情况说明及核查意见 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688114&orgId=9900046518&announcementId=1225598784&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·肯特催化 | 上市公司公告 | 关于使用部分暂时闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603120&orgId=gfbj0837696&announcementId=1225598783&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·豪能股份 | 上市公司公告 | 关于投资设立合资公司的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603809&orgId=9900023062&announcementId=1225598782&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·优刻得 | 上市公司公告 | 优刻得2026年第四次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688158&orgId=9900039004&announcementId=1225598781&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·中化装备 | 上市公司公告 | 中化装备科技（青岛）股份有限公司关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600579&orgId=gssh0600579&announcementId=1225598780&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·万向钱潮 | 上市公司公告 | 关于重大资产重组的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000559&orgId=gssz0000559&announcementId=1225598769&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·聚胶股份 | 上市公司公告 | 关于股份回购进展情况的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301283&orgId=9900047620&announcementId=1225598764&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·安图生物 | 上市公司公告 | 安图生物关于使用闲置募集资金进行现金管理赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603658&orgId=9900026792&announcementId=1225599350&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·ST金花 | 上市公司公告 | 金花企业（集团）股份有限公司关于首次集中竞价减持已回购股份暨进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600080&orgId=gssh0600080&announcementId=1225599345&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·兴发集团 | 上市公司公告 | 湖北兴发化工集团股份有限公司关于2026年9月担保进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600141&orgId=gssh0600141&announcementId=1225599344&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·中国神华 | 上市公司公告 | 中国神华关于总会计师、董事会秘书离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601088&orgId=9900003701&announcementId=1225599340&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·太极实业 | 上市公司公告 | 关于子公司十一科技涉及重大诉讼的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600667&orgId=gssh0600667&announcementId=1225599334&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·北方稀土 | 上市公司公告 | 北方稀土关于2026年第四季度稀土精矿交易价格的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600111&orgId=gssh0600111&announcementId=1225599332&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·奥瑞德 | 上市公司公告 | 奥瑞德2026年第三次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600666&orgId=gssh0600666&announcementId=1225599311&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·高能环境 | 上市公司公告 | 高能环境关于为控股子公司提供担保的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603588&orgId=9900023766&announcementId=1225599310&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·广汽集团 | 上市公司公告 | 广汽集团2026年9月产销快报 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601238&orgId=9900006006&announcementId=1225599309&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·中创智领 | 上市公司公告 | 中创智领（郑州）工业技术集团股份有限公司关于回购A股股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601717&orgId=9900013667&announcementId=1225599308&announcementTime=2026-10-10 |
+| 10-09 17:00 | 公众号 | 央视财经 | 综合媒体 | 国庆假期国内出游，8.26亿人次！ | https://mp.weixin.qq.com/s/LLEbVWyYyqVZ9a7LKIVB0w |
+| 10-09 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 湖北宜城烟花爆燃事故调查报告公布：系顾客违规试放 | https://mp.weixin.qq.com/s/urV~U8bVX4pBs7~05gcLzg |
+| 10-09 17:00 | 公众号 | 界面新闻 | 综合媒体 | 湖北宜城“2·18”重大烟花爆竹爆燃事故调查报告发布 | https://mp.weixin.qq.com/s/qi7afT5ZPFkqQn~--kL9Ag |
+| 10-09 17:00 | 公众号 | 南方都市报 | 综合媒体 | 楼宇烈，今天凌晨辞世；北大官网已变黑白 | https://mp.weixin.qq.com/s/PkHjeQfrp5LG6488rA4XiQ |
+| 10-09 17:00 | 公众号 | 法治日报 | 综合媒体 | 广东一家人自驾去北京看升旗后，丈夫临时改道一路向北，自驾千里带远嫁妻子回娘家！网友：我想楼下的妈妈了 | https://mp.weixin.qq.com/s/o~z2j~IJXb2-qaCPKI2mWQ |
+| 10-09 17:00 | 公众号 | 极目新闻 | 综合媒体 | 连续更新20余次后，豆包工作再上新功能！记者实测 | https://mp.weixin.qq.com/s/gftO-Ys77eqhNS83tWboXQ |
+| 10-09 17:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 尊界官方正式回应！ | https://mp.weixin.qq.com/s/wjuLLtC8bgh6C0L4QXBrzw |
+| 10-09 17:00 | 公众号 | 今晚报 | 综合媒体 | 价格大跳水，一天一个价！很多人捡漏 | https://mp.weixin.qq.com/s/MvRFdSK~XwMhV31KhntSVw |
+| 10-09 17:00 | 公众号 | 红网 | 综合媒体 | 湖南省益阳市中医医院党委书记赵红接受审查调查 | https://mp.weixin.qq.com/s/TmiwXpPzYBypdJKj3eMM7Q |
+| 10-09 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国将直播枪决哈桑 | https://mp.weixin.qq.com/s/l~frNG9PJY4ZHnlhWxLunA |
+| 10-09 17:00 | 公众号 | 北京消协 | 消协 | 宣称“连续三年全国销售额第一”，这家牛杂煲店被罚 | https://mp.weixin.qq.com/s/xB4vVDdJI4VzV1kowPT1Ew |
+| 10-09 17:00 | 公众号 | 四川省消委会 | 消协 | 优选老年用品  助力健康生活——20款成人纸尿裤比较试验分析报告 | https://mp.weixin.qq.com/s/LcbMVCaC3lB1wvFPD3Wgdw |
 | 10-09 16:00 | 公众号 | 上海市消保委 | 消协 | “他居然在上海！”知名明星夫妻突然现身，还做了“嘘”的动作求别声张↗网友激动：这谁能忍住不拍… | https://mp.weixin.qq.com/s/Yu4O8wHRIxjrC2yUsy0oTw |
 | 10-09 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 山西代县精诚矿业重大责任事故案一审宣判 | https://mp.weixin.qq.com/s/5S0tkpGCA-wBztn9h9Z~jg |
 | 10-09 16:00 | 公众号 | 新京报 | 综合媒体 | 贵州一医院皮肤科诊室被指无围帘，女患者称男子突然推门闯入致其走光，院方回应 | https://mp.weixin.qq.com/s/it-DRUC~kx6XLICYV3XVVg |
