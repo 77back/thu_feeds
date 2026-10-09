@@ -1,7 +1,25 @@
-# 舆情候选池 1009（10-08 00:00 至今，194 条：公众号 179 + 网页 15）
+# 舆情候选池 1009（10-08 00:00 至今，202 条：公众号 187 + 网页 15）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-10 | 网页 | 巨潮·经纬恒润 | 上市公司公告 | 关于以集中竞价交易方式回购股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688326&orgId=9900048779&announcementId=1225598430&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·福达股份 | 上市公司公告 | 中信证券股份有限公司关于桂林福达股份有限公司向不特定对象发行可转换公司债券之上市保荐书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603166&orgId=9900023112&announcementId=1225598429&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·天臣医疗 | 上市公司公告 | 天臣医疗关于以集中竞价交易方式回购公司股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688013&orgId=nssc1000493&announcementId=1225598425&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·莱克电气 | 上市公司公告 | 莱克电气关于拟注册发行超短期融资券的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603355&orgId=9900023608&announcementId=1225598424&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·云维股份 | 上市公司公告 | 云维股份关于重大资产重组进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600725&orgId=gssh0600725&announcementId=1225598420&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·宿迁联盛 | 上市公司公告 | 宿迁联盛关于为子公司提供担保及接受子公司担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603065&orgId=9900051383&announcementId=1225598409&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·三祥新材 | 上市公司公告 | 三祥新材股份有限公司关于为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603663&orgId=9900024948&announcementId=1225598408&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·锦江航运 | 上市公司公告 | 锦江航运关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601083&orgId=9900057394&announcementId=1225598407&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·浙江医药 | 上市公司公告 | 浙江医药关于股份回购进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600216&orgId=gssh0600216&announcementId=1225598406&announcementTime=2026-10-10 |
+| 10-10 | 网页 | 巨潮·新疆众和 | 上市公司公告 | 新疆众和股份有限公司2026年第二次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600888&orgId=gssh0600888&announcementId=1225598405&announcementTime=2026-10-10 |
+| 10-09 15:00 | 公众号 | 央视财经 | 综合媒体 | 超强厄尔尼诺，已经形成！ | https://mp.weixin.qq.com/s/yIPFI01q~75g~uZFnNTsQA |
+| 10-09 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 国学大家楼宇烈辞世 | https://mp.weixin.qq.com/s/JawRd6iExvuiBczqUzmgug |
+| 10-09 15:00 | 公众号 | 界面新闻 | 综合媒体 | 苹果削减iPhone 18 Pro订单 | https://mp.weixin.qq.com/s/-MQ3G7GJ597YL0ffn-I9-w |
+| 10-09 15:00 | 公众号 | 新京报 | 综合媒体 | 中国著名哲学家楼宇烈逝世，享年92岁 | https://mp.weixin.qq.com/s/9xalrtD9d8awhE4NQkxLyw |
+| 10-09 15:00 | 公众号 | 南方都市报 | 综合媒体 | 10多岁学生不慎落水，郑日光（1979年生，湛江人）跳下救人，被急流冲至海中不幸牺牲，最新消息 | https://mp.weixin.qq.com/s/f-CsROB8cLQpUBz9WUvnwA |
+| 10-09 15:00 | 公众号 | 极目新闻 | 综合媒体 | 新郎新娘都叫“朱晓聪”，两人是同行，还曾去过同一场招聘会，新郎透露：办结婚证、房产证，都是靠工作人员手动操作才成功 | https://mp.weixin.qq.com/s/LqpdMDe6-SF7rs50pl1rzw |
+| 10-09 15:00 | 公众号 | 红网 | 综合媒体 | 6户中央企业外部董事职务变动 | https://mp.weixin.qq.com/s/IcIVobkjMHsdLF2smoHKBA |
+| 10-09 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 罗玲在京逝世 | https://mp.weixin.qq.com/s/HS7ANcKul-SnxOt22kNbXw |
 | 10-09 14:00 | 公众号 | 央视财经 | 综合媒体 | 超5万亿元，投向这里！世界最大容量“电力心脏”，就位了→ | https://mp.weixin.qq.com/s/7KGYnnbzUE1RYD6IFxQ7pw |
 | 10-09 14:00 | 公众号 | 法治日报 | 综合媒体 | 中国新婚夫妇在马尔代夫度蜜月时不幸溺亡，中使馆发文提醒：务必高度重视涉水安全，增强风险防范意识，谨慎参与涉水活动，确保人身安全 | https://mp.weixin.qq.com/s/YGJQE3dgQrKAQnhIYOOrMg |
 | 10-09 14:00 | 公众号 | 南方都市报 | 综合媒体 | 超强厄尔尼诺事件已形成；专家：今年暖冬基本确定，明年夏天可能更热 | https://mp.weixin.qq.com/s/SoyTywy96o6uS5yA3Jtbsg |
@@ -82,16 +100,6 @@
 | 10-09 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国暴发麻疹疫情｜晨报来了 | https://mp.weixin.qq.com/s/NJi~tIEuat3HE18Tih5sTw |
 | 10-09 08:00 | 公众号 | 界面新闻 | 综合媒体 | 一辆百万豪车的刹车踏板，多大力才算“踩过头”？ | https://mp.weixin.qq.com/s/WfL1QQZieu8llu8L-t0ACw |
 | 10-09 08:00 | 公众号 | 南方都市报 | 综合媒体 | 深圳市委、市政府决定：民警吴龙，追记二等功；与持刀歹徒搏斗，身负重伤，年仅25岁 | https://mp.weixin.qq.com/s/TX8eGVZW9Pwc-4YXLXkyXA |
-| 10-09 | 网页 | 巨潮·胜蓝股份 | 上市公司公告 | 关于胜蓝转02即将停止转股暨赎回前最后半个交易日的重要提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300843&orgId=9900038940&announcementId=1225598319&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·凌霄泵业 | 上市公司公告 | 关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002884&orgId=9900031445&announcementId=1225598323&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·新乡化纤 | 上市公司公告 | 关于公司国有建设用地使用权被收回暨部分生产线停产事项的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000949&orgId=gssz0000949&announcementId=1225598322&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·维峰电子 | 上市公司公告 | 关于完成补选第三届董事会独立董事的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301328&orgId=9900047313&announcementId=1225598320&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·常润股份 | 上市公司公告 | 常熟通润汽车零部件股份有限公司第六届董事会第十四次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603201&orgId=9900051404&announcementId=1225598298&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·硕世生物 | 上市公司公告 | 江苏硕世生物科技股份有限公司第三届董事会第十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688399&orgId=9900039223&announcementId=1225598289&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·新华传媒 | 上市公司公告 | 股票交易严重异常波动暨股票交易风险提示公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600825&orgId=gssh0600825&announcementId=1225598273&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·*ST岭南 | 上市公司公告 | 关于公司股票被叠加实施其他风险警示的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002717&orgId=9900023171&announcementId=1225598271&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·TCL中环 | 上市公司公告 | 关于首次回购公司股份暨回购进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002129&orgId=9900002703&announcementId=1225598259&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·好上好 | 上市公司公告 | 关于持股5%以上股东及特定股东股份减持计划期限届满暨实施完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001298&orgId=9900047340&announcementId=1225598250&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验 | https://www.thepaper.cn/newsDetail_forward_34211522 |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 佛山通报“多人称在宴会酒店就餐后身体不适”：初判为食源性疾病聚集事件 | https://www.thepaper.cn/newsDetail_forward_34215463 |
 | 10-08 17:00 | 公众号 | 央视财经 | 综合媒体 | 张硕辅被查 | https://mp.weixin.qq.com/s/LDEkErZkO1jtCiZW931XWg |
