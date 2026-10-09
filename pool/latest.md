@@ -1,12 +1,22 @@
-# 舆情候选池 1009（10-08 00:00 至今，155 条：公众号 118 + 网页 37）
+# 舆情候选池 1009（10-08 00:00 至今，158 条：公众号 133 + 网页 25）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-09 08:50 | 网页 | 食品伙伴网 | 产经动态 | 食品保水丨同样是鸡胸肉，为什么有的柴有的嫩？差的就在那 0.3% 里 | https://news.foodmate.net/2026/10/754384.html |
-| 10-09 08:47 | 网页 | 食品伙伴网 | 产经动态 | 运动营养食品四大剂型：液饮、粉剂、片剂、能量胶成型原理+工艺关键点 | https://news.foodmate.net/2026/10/754382.html |
-| 10-09 08:34 | 网页 | 食品伙伴网 | 产经动态 | 淀粉的进阶应用：不止填充，更能优化质构与保水 | https://news.foodmate.net/2026/10/754373.html |
-| 10-09 08:14 | 网页 | 食品伙伴网 | 产经动态 | 9月第5周（采集日为9月30日）畜产品和饲料集贸市场价格情况 | https://news.foodmate.net/2026/10/754364.html |
-| 10-09 08:13 | 网页 | 食品伙伴网 | 产经动态 | 9月第4周（2026年9月21—27日）生猪定点屠宰企业生猪收购和白条肉出厂价格情况 | https://news.foodmate.net/2026/10/754363.html |
+| 10-09 09:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 3批次电热水器产品抽查不合格 | https://mp.weixin.qq.com/s/ugO~xc3yKgkkx-pvBAACug |
+| 10-09 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 每2小时强制休息20分钟，货车司机停车难应该被看见 | https://mp.weixin.qq.com/s/57Per3f~a6B8a8bEPOtFxw |
+| 10-09 09:00 | 公众号 | 上海市消保委 | 消协 | “吃不完，根本吃不完，都快吃吐了……”网红打卡地江面漂满白花花的馒头，有游客一次买25个馒头喂鱼，当地回应 | https://mp.weixin.qq.com/s/boIT6HsMORxuRXEUuD5cKA |
+| 10-09 09:00 | 公众号 | 央视财经 | 综合媒体 | 成都警方通报小区楼顶发现可疑骨头 | https://mp.weixin.qq.com/s/adSeWJg3-fWu0SQS8MAGFw |
+| 10-09 09:00 | 公众号 | 上海市场监管 | 监管·地方 | 全国首批！上海自贸试验区获批标准化自主开放试点 | https://mp.weixin.qq.com/s/xgYOBwL7DXAJYB3-9rmNWQ |
+| 10-09 09:00 | 公众号 | 界面新闻 | 综合媒体 | 特朗普最新股票交易披露 | https://mp.weixin.qq.com/s/fHQigB1-yeU~LOulkw~W6Q |
+| 10-09 09:00 | 公众号 | 新京报 | 综合媒体 | 雨中的庙：山西低级别文物气候之困 | https://mp.weixin.qq.com/s/RYqZQuzL8jR3KLMMpBmIkQ |
+| 10-09 09:00 | 公众号 | 极目新闻 | 综合媒体 | “车主在后备箱装了十箱矿泉水，被扣3分、罚款100元”？专家：私家车后备箱装物品有四个前提，“客货混装”的违法核心不是“装了多少货” | https://mp.weixin.qq.com/s/xjJ0G6ucnrK4~XuSKpCXmA |
+| 10-09 09:00 | 公众号 | 法治日报 | 综合媒体 | 广东佛山深夜通报“多人参加婚宴后腹泻呕吐”：已责令涉事单位整改，初判为食源性疾病聚集事件，已立案调查 | https://mp.weixin.qq.com/s/noJfpOvmNbPluoirHN~llg |
+| 10-09 09:00 | 公众号 | 南方都市报 | 综合媒体 | 陈青敏，将率团访华 | https://mp.weixin.qq.com/s/3W8qoqc3VevHvha48Xoslg |
+| 10-09 09:00 | 公众号 | 今晚报 | 综合媒体 | 陆海协同 加快建强我国北方对外开放门户 | https://mp.weixin.qq.com/s/GvKGR8RDdLKIx0i06gyCww |
+| 10-09 09:00 | 公众号 | 红网 | 综合媒体 | 顾客称胖东来结账多收27.79元，次日退还款项并额外补偿200元，工作人员：无论多收多少金额都会补偿200元 | https://mp.weixin.qq.com/s/YragSzMb5h3pw-xNazWzUQ |
+| 10-09 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 中国公民尽快撤离或转移！中使馆紧急提醒 | https://mp.weixin.qq.com/s/lBUPQIWr98auMFg44rGJDA |
+| 10-09 09:00 | 公众号 | 江苏省消保委 | 消协 | 食品生产企业注意！这项强制性国标已实施 | https://mp.weixin.qq.com/s/rhDRatsbjeJEf3C-5uZaxQ |
+| 10-09 09:00 | 公众号 | 中国食品安全报 | 行业媒体 | 要闻 ｜ 国庆假期全国消费市场总体平稳 | https://mp.weixin.qq.com/s/z8Vsosmczub5Rt6kji4s3w |
 | 10-09 08:00 | 公众号 | 市说新语 | 监管·总局 | 《保健食品生产企业质量管理体系自查工作规范》国家标准（征求意见稿）公开征求意见 | https://mp.weixin.qq.com/s/rHr5EXRcYa8G0AmQqusirA |
 | 10-09 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管总局深入整治网络食品销售虚假宣传 保障国庆假期食品消费安全 | https://mp.weixin.qq.com/s/CVsrbI97BpQ7VzIjtun37g |
 | 10-09 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 灯具CCC认证新规发布；商家销售无CCC认证充电宝被罚12万元 | https://mp.weixin.qq.com/s/bjIh4gQMKki5oREpYqi5AA |
@@ -37,6 +47,7 @@
 | 10-09 | 网页 | 巨潮·金浦钛业 | 上市公司公告 | 关于全资子公司临时停产整改进展暨收到《行政处罚决定书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000545&orgId=gssz0000545&announcementId=1225598248&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·双良节能 | 上市公司公告 | 双良节能系统股份有限公司关于可转债转股结果暨股份变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600481&orgId=gssh0600481&announcementId=1225598238&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·力勤资源 | 上市公司公告 | 简式权益变动报告书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001246&orgId=9900057193&announcementId=1225598236&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验 | https://www.thepaper.cn/newsDetail_forward_34211522 |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 佛山通报“多人称在宴会酒店就餐后身体不适”：初判为食源性疾病聚集事件 | https://www.thepaper.cn/newsDetail_forward_34215463 |
 | 10-08 17:00 | 公众号 | 央视财经 | 综合媒体 | 张硕辅被查 | https://mp.weixin.qq.com/s/LDEkErZkO1jtCiZW931XWg |
 | 10-08 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 风暴中的数采中心｜能否生产高质量真实数据？“如果有，就算开10倍价格也愿意买” | https://mp.weixin.qq.com/s/yg7PVoyYpFCinjGxeoS36Q |
@@ -48,7 +59,6 @@
 | 10-08 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 打虎！张硕辅被查（附简历） | https://mp.weixin.qq.com/s/Q-rKPD4~Ldj1A~wV6rWJRw |
 | 10-08 17:00 | 公众号 | 今晚报 | 综合媒体 | 节后有笔钱，千万别忘查收！ | https://mp.weixin.qq.com/s/1TLy0NJpNpXieqBbFMzICw |
 | 10-08 17:00 | 公众号 | 红网 | 综合媒体 | 广东省人大常委会党组成员、副主任张硕辅接受审查调查 | https://mp.weixin.qq.com/s/cmKB21AanmKK2aR9QjxqBA |
-| 10-08 16:25 | 网页 | 食品伙伴网 | 产经动态 | 10月8日：“农产品批发价格200指数”比节前下降0.53个点 | https://news.foodmate.net/2026/10/754351.html |
 | 10-08 16:00 | 公众号 | 市说新语 | 监管·总局 | 一图读懂 ｜ 小语课堂——《保健食品原料 螺旋藻》 | https://mp.weixin.qq.com/s/qcIkGikaAB1x7EKtA2IfOA |
 | 10-08 16:00 | 公众号 | 央视财经 | 综合媒体 | 日本四大啤酒企业，被强制调查！ | https://mp.weixin.qq.com/s/COkqX~Y4OAjAtCoLQBQsSw |
 | 10-08 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 外交部：中方提名宋莉博士参与竞选世卫组织总干事 | https://mp.weixin.qq.com/s/xDHtSal5CfSd31cjw2FlgA |
@@ -100,7 +110,6 @@
 | 10-08 12:00 | 公众号 | 红网 | 综合媒体 | 女子连麦张雪称男友进ICU无法提车欲退款被驳回，张雪机车发情况说明：用户实际并未住进ICU，对撒谎零容忍；客服称不会对大区经理进行处罚 | https://mp.weixin.qq.com/s/60~P1KfWA9OdmwQlYz~rxw |
 | 10-08 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈” | https://mp.weixin.qq.com/s/nWFMq4fPjfFZfPRncysScQ |
 | 10-08 12:00 | 公众号 | 北京市场监管 | 监管·地方 | 遇到AI生成的广告，这些“坑”要留意！ | https://mp.weixin.qq.com/s/rcQ2jjBG1KSL6j76DnuTXA |
-| 10-08 11:07 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：老干妈2025年营收54亿元；娃哈哈宏胜饮品新项目动工；10月1日起港珠澳大桥出口鲜活食品24小时通关（2026年10月8日） | https://news.foodmate.net/2026/10/754314.html |
 | 10-08 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 影视表演艺术家彭玉去世 | https://mp.weixin.qq.com/s/QREkxelA4DqTLGImtZ0oXQ |
 | 10-08 11:00 | 公众号 | 界面新闻 | 综合媒体 | 保时捷计划裁员最多30%，明确回归燃油车 | https://mp.weixin.qq.com/s/MtlJrj5VevGKEm~QlN8eDA |
 | 10-08 11:00 | 公众号 | 新京报 | 综合媒体 | 演员彭玉去世 | https://mp.weixin.qq.com/s/JyWSxx6a6PORzmw00q0K7A |
@@ -127,12 +136,6 @@
 | 10-08 09:00 | 公众号 | 南方都市报 | 综合媒体 | 帕特鲁舍夫将访华 | https://mp.weixin.qq.com/s/6ZsF-Qzg9E~SDPolkXcPZw |
 | 10-08 09:00 | 公众号 | 今晚报 | 综合媒体 | 知名女演员去世 | https://mp.weixin.qq.com/s/r8OeM9IuHvXCgRqwsRJ9gQ |
 | 10-08 09:00 | 公众号 | 红网 | 综合媒体 | 央视曝光后，海南省委连夜开会：以最坚决的态度、最有力的措施，迅速叫停类似破坏红树林等生态环境的旅游项目，严肃追责问责 | https://mp.weixin.qq.com/s/wYocOFeago~0q9uI18xyYQ |
-| 10-08 08:36 | 网页 | 食品伙伴网 | 产经动态 | 肉制品边角料高值化利用：增值产品的 4 个方向 | https://news.foodmate.net/2026/10/754272.html |
-| 10-08 08:31 | 网页 | 食品伙伴网 | 产经动态 | “0添加”全面禁用倒计时，你的调整方案准备好了吗？ | https://news.foodmate.net/2026/10/754270.html |
-| 10-08 08:28 | 网页 | 食品伙伴网 | 产经动态 | 低脂肉制品：减脂不难，难的是保住口感与风味 | https://news.foodmate.net/2026/10/754268.html |
-| 10-08 08:25 | 网页 | 食品伙伴网 | 产经动态 | 同质化泛滥！中式复合调味料，如何跳出低价内卷怪圈？ | https://news.foodmate.net/2026/10/754265.html |
-| 10-08 08:18 | 网页 | 食品伙伴网 | 产经动态 | 校村炸鸡中国第二家店登陆无锡 | https://news.foodmate.net/2026/10/754261.html |
-| 10-08 08:16 | 网页 | 食品伙伴网 | 产经动态 | 豫西革命老区生鲜农产品香飘海外 | https://news.foodmate.net/2026/10/754260.html |
 | 10-08 08:00 | 公众号 | 中国市场监管报 | 行业媒体 | 10月10日起中国内地航线燃油附加费将上调；前8个月我国医保基金整体运行平稳…… | https://mp.weixin.qq.com/s/EN-S5El~XcuVcRG4ZEuGCw |
 | 10-08 08:00 | 公众号 | 上海市场监管 | 监管·地方 | 仅42天尿酸直降112，尿酸高的人建议照抄！ | https://mp.weixin.qq.com/s/U7EhFXPwJoQ3F-SVlvQ2rg |
 | 10-08 08:00 | 公众号 | 央视财经 | 综合媒体 | “金镯子断货”！黄金市场，卖爆了 | https://mp.weixin.qq.com/s/-yj16wMEcTDYOvh8y1NEdA |
