@@ -1,7 +1,18 @@
-# 舆情候选池 1009（10-08 00:00 至今，167 条：公众号 139 + 网页 28）
+# 舆情候选池 1009（10-08 00:00 至今，188 条：公众号 149 + 网页 39）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-09 11:09 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：妙可蓝多前三季营收净利双增逾两成；合生元官宣儿童赛道子品牌；瑞幸推出高蛋白酸奶饮新品（2026年10月9日） | https://news.foodmate.net/2026/10/754430.html |
+| 10-09 11:00 | 公众号 | 央视财经 | 综合媒体 | 中国公民尽快撤离或转移！我使馆重要提醒 | https://mp.weixin.qq.com/s/zdXKlTGQcjn1p7fG73BNng |
+| 10-09 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 陈伟俊，被提起公诉 | https://mp.weixin.qq.com/s/360Gl4ymV-k1MqH~xNnqHg |
+| 10-09 11:00 | 公众号 | 新京报 | 综合媒体 | 《伟大的长征》10月9日央视一套开播，全景构筑长征影像志 | https://mp.weixin.qq.com/s/rjtQ9GAnPfh5z0CP16MSuw |
+| 10-09 11:00 | 公众号 | 界面新闻 | 综合媒体 | 华为nova16系列今日起涨价 | https://mp.weixin.qq.com/s/MRrRqQw8nfMiQlOObcgZ1A |
+| 10-09 11:00 | 公众号 | 极目新闻 | 综合媒体 | 最新！湖北2名女子郑细丽、任梦上榜 | https://mp.weixin.qq.com/s/bEygT8c9mBbYwfZtMBzjaA |
+| 10-09 11:00 | 公众号 | 法治日报 | 综合媒体 | 网购童装有针头异物，孩子试穿被刺伤手指，单亲妈妈索赔3000元；警方发现多起投诉是同一只手、同一只金镯子；一年半作案9起，涉案3万余元 | https://mp.weixin.qq.com/s/HGRb39D4~yu2Rfd5JxD4mw |
+| 10-09 11:00 | 公众号 | 南方都市报 | 综合媒体 | 特朗普：不会在11月3日前攻击伊朗 | https://mp.weixin.qq.com/s/t8jJgNNajkTbdFqY79XchQ |
+| 10-09 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 陈伟俊，被逮捕、公诉（附简历） | https://mp.weixin.qq.com/s/~-AWF4tz5d5ab0vgxP8IfQ |
+| 10-09 11:00 | 公众号 | 红网 | 综合媒体 | 湖南省疾控发布2026-2027秋冬季流感疫苗接种重点提醒，两类人群可免费接种 | https://mp.weixin.qq.com/s/6xlbB9YxGRu4aJm1K49crQ |
+| 10-09 11:00 | 公众号 | 北京消协 | 消协 | 无标注、假测评、AI换脸……遇到AI广告，这些“坑”要留意 | https://mp.weixin.qq.com/s/LcDWdUy9qfprASfG6MOZtA |
 | 10-09 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 风暴中的数采中心｜数据拆解117个数采项目：谁的中心？能力多大？ | https://mp.weixin.qq.com/s/ZKGOIJ5uNgV~5-707Z8DTQ |
 | 10-09 10:00 | 公众号 | 界面新闻 | 综合媒体 | 广东汕头推出“词元出海贷” | https://mp.weixin.qq.com/s/LvejdzGiU3Z2vHW23WC9Hw |
 | 10-09 10:00 | 公众号 | 法治日报 | 综合媒体 | 叶平：为更好发挥审计监督作用提供更加有力的法治保障 | https://mp.weixin.qq.com/s/nvzPMsAkj3-YD~2csxcOdw |
@@ -47,16 +58,20 @@
 | 10-09 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国暴发麻疹疫情｜晨报来了 | https://mp.weixin.qq.com/s/NJi~tIEuat3HE18Tih5sTw |
 | 10-09 08:00 | 公众号 | 界面新闻 | 综合媒体 | 一辆百万豪车的刹车踏板，多大力才算“踩过头”？ | https://mp.weixin.qq.com/s/WfL1QQZieu8llu8L-t0ACw |
 | 10-09 08:00 | 公众号 | 南方都市报 | 综合媒体 | 深圳市委、市政府决定：民警吴龙，追记二等功；与持刀歹徒搏斗，身负重伤，年仅25岁 | https://mp.weixin.qq.com/s/TX8eGVZW9Pwc-4YXLXkyXA |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 上海检出7批次不合格食品，有茶叶、山椒凤爪、椰子水等 | http://news.foodmate.net/2026/10/754425.html |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 重庆市市场监督管理局关于4961批次食品安全抽检情况的通告（渝市监通告〔2026〕13号） | http://news.foodmate.net/2026/10/754422.html |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于17批次食品不合格情况的通告（2026年第45期） | http://news.foodmate.net/2026/10/754421.html |
+| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 佛山多人参加婚宴后腹泻呕吐，官方通报：初判为食源性疾病聚集事件，已立案调查 | http://news.foodmate.net/2026/10/754369.html |
+| 10-09 | 网页 | 巨潮·胜蓝股份 | 上市公司公告 | 关于胜蓝转02即将停止转股暨赎回前最后半个交易日的重要提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300843&orgId=9900038940&announcementId=1225598319&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·凌霄泵业 | 上市公司公告 | 关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002884&orgId=9900031445&announcementId=1225598323&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·新乡化纤 | 上市公司公告 | 关于公司国有建设用地使用权被收回暨部分生产线停产事项的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000949&orgId=gssz0000949&announcementId=1225598322&announcementTime=2026-10-09 |
+| 10-09 | 网页 | 巨潮·维峰电子 | 上市公司公告 | 关于完成补选第三届董事会独立董事的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301328&orgId=9900047313&announcementId=1225598320&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·常润股份 | 上市公司公告 | 常熟通润汽车零部件股份有限公司第六届董事会第十四次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603201&orgId=9900051404&announcementId=1225598298&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·硕世生物 | 上市公司公告 | 江苏硕世生物科技股份有限公司第三届董事会第十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688399&orgId=9900039223&announcementId=1225598289&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·新华传媒 | 上市公司公告 | 股票交易严重异常波动暨股票交易风险提示公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600825&orgId=gssh0600825&announcementId=1225598273&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·*ST岭南 | 上市公司公告 | 关于公司股票被叠加实施其他风险警示的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002717&orgId=9900023171&announcementId=1225598271&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·TCL中环 | 上市公司公告 | 关于首次回购公司股份暨回购进展的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002129&orgId=9900002703&announcementId=1225598259&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 巨潮·好上好 | 上市公司公告 | 关于持股5%以上股东及特定股东股份减持计划期限届满暨实施完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001298&orgId=9900047340&announcementId=1225598250&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·华域汽车 | 上市公司公告 | 华域汽车关于全资子公司上海汇众汽车制造有限公司拟通过公开摘牌的方式参与收购联创汽车电子有限公司部分少数股东股权暨关联交易的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600741&orgId=gssh0600741&announcementId=1225598249&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·金浦钛业 | 上市公司公告 | 关于全资子公司临时停产整改进展暨收到《行政处罚决定书》的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000545&orgId=gssz0000545&announcementId=1225598248&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·双良节能 | 上市公司公告 | 双良节能系统股份有限公司关于可转债转股结果暨股份变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600481&orgId=gssh0600481&announcementId=1225598238&announcementTime=2026-10-09 |
-| 10-09 | 网页 | 巨潮·力勤资源 | 上市公司公告 | 简式权益变动报告书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001246&orgId=9900057193&announcementId=1225598236&announcementTime=2026-10-09 |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验 | https://www.thepaper.cn/newsDetail_forward_34211522 |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 佛山通报“多人称在宴会酒店就餐后身体不适”：初判为食源性疾病聚集事件 | https://www.thepaper.cn/newsDetail_forward_34215463 |
 | 10-08 17:00 | 公众号 | 央视财经 | 综合媒体 | 张硕辅被查 | https://mp.weixin.qq.com/s/LDEkErZkO1jtCiZW931XWg |
@@ -166,6 +181,12 @@
 | 10-08 08:00 | 公众号 | 极目新闻 | 综合媒体 | 程序员男友帮女友挂专家号，写出“抢号软件”，后帮人收费“抢号”，致某医院挂号系统瘫痪；二人双双获刑 | https://mp.weixin.qq.com/s/GdOxcWtCM2RqN5zpot86dw |
 | 10-08 08:00 | 公众号 | 红网 | 综合媒体 | 值班值守不严、脱岗空岗，消防控制室值守形同虚设！两家养老机构被线上通报 | https://mp.weixin.qq.com/s/Fe-XGkm93pz02ZKwOkNauA |
 | 10-08 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 央视曝光不到两小时，三亚启动整治 | https://mp.weixin.qq.com/s/zXy7KCesneSACchJFbAdFw |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 福建省市场监督管理局2026年节日热销食品专项抽检信息通告（第12期） | http://news.foodmate.net/2026/10/754358.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 张家港：网络餐饮食品安全专项整治典型案例（第五期）（食品安全抽检专题） | http://news.foodmate.net/2026/10/754343.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 张家港：网络餐饮食品安全专项整治典型案例（第五期）（食品安全抽检专题） | http://news.foodmate.net/2026/10/754343.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 浙江省市场监督管理局食品安全监督抽检信息通告（2026年第32期） | http://news.foodmate.net/2026/10/754342.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 内蒙古自治区市场监管局关于2026年中秋节月饼专项食品安全监督抽检情况的通告 | http://news.foodmate.net/2026/10/754318.html |
+| 10-08 | 网页 | 食品伙伴网 | 抽检通报 | 天津市市场监督管理委员会2026年第6期食品安全监督抽检信息 | http://news.foodmate.net/2026/10/754317.html |
 | 10-08 | 网页 | 界面新闻·消费 | 综合媒体 | 国庆假期奶茶店以地方特色抢客流 | https://www.jiemian.com/article/15168713.html |
 | 10-08 | 网页 | 界面新闻·消费 | 综合媒体 | 智能插排被黑致观赏鱼大量死亡？沃尔达致歉 | https://www.jiemian.com/article/15167898.html |
 | 10-08 | 网页 | 澎湃·质量观 | 行业媒体 | 广州白云区租客称“每月被强收门禁费”，街道办：是向房东收取 | https://www.thepaper.cn/newsDetail_forward_34181000 |
