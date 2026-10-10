@@ -1,7 +1,16 @@
-# 舆情候选池 1010（10-09 00:00 至今，185 条：公众号 150 + 网页 35）
+# 舆情候选池 1010（10-09 00:00 至今，195 条：公众号 159 + 网页 36）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-10 12:00 | 公众号 | 央视财经 | 综合媒体 | 加拿大、丹麦、德国、法国、意大利、日本、荷兰、英国，发表联合声明 | https://mp.weixin.qq.com/s/kapy52~Yqq4cPOSiFgsvpQ |
+| 10-10 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 警方通报：杨某某（女，19岁）、李某（女，19岁）、陶某某（女，16岁）为发泄个人情绪，辱骂国乒教练员被行拘 | https://mp.weixin.qq.com/s/83gpl24PXJ6kSwUY~Ddmbw |
+| 10-10 12:00 | 公众号 | 新京报 | 综合媒体 | “惊回首，离天三尺三”：巴山深处葬英魂｜诗赞长征魂 | https://mp.weixin.qq.com/s/SXhVb9iCkgaE4lxfWPhK8g |
+| 10-10 12:00 | 公众号 | 界面新闻 | 综合媒体 | 8个月亏损超20亿元，广西9家央企售电公司紧急联名求救 | https://mp.weixin.qq.com/s/GB3eAhfdHsVQBjf7e~t5Lg |
+| 10-10 12:00 | 公众号 | 法治日报 | 综合媒体 | 全国性涉外法律服务平台“法通”网正式上线——司法部发布涉外法律服务建设最新成果 | https://mp.weixin.qq.com/s/Zwf5zDJehZpUpYaoxDHxrw |
+| 10-10 12:00 | 公众号 | 南方都市报 | 综合媒体 | 汕头：原局长陈镇坤，被开除党籍 | https://mp.weixin.qq.com/s/A-FLgdd5ymDrmKo-naH43g |
+| 10-10 12:00 | 公众号 | 极目新闻 | 综合媒体 | 自己的车被其他住客车挡住，酒店拿来车钥匙，让其帮忙挪车不料发生事故，定损4800元，男子赔了4000元后喊冤，酒店回应 | https://mp.weixin.qq.com/s/fpG~LPUQBP~8m2pg4DjmrA |
+| 10-10 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 河北大学发布情况通报 | https://mp.weixin.qq.com/s/~NEJjkhn-ka20ksWd2vEgQ |
+| 10-10 12:00 | 公众号 | 红网 | 综合媒体 | 升温持续！未来三天湖南连晴无雨，最高气温可达 32℃ | https://mp.weixin.qq.com/s/va76NvvpOIY38y2F6Oo~RQ |
 | 10-10 11:00 | 公众号 | 市说新语 | 监管·总局 | 国庆期间全国涉旅游特种设备安全形势总体平稳 | https://mp.weixin.qq.com/s/cR5T6r3dxbMOoUnpozq2NQ |
 | 10-10 11:00 | 公众号 | 央视财经 | 综合媒体 | 古地图里的中国智慧，即将解锁！ | https://mp.weixin.qq.com/s/8Tgn2HCs2ONB9XzTr4b8WA |
 | 10-10 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 北京大学发布讣告：楼宇烈先生逝世是中国学界的重大损失 | https://mp.weixin.qq.com/s/3O-tYI~Pf9pMFdnAM-nbAg |
@@ -63,6 +72,7 @@
 | 10-10 | 网页 | 巨潮·伟创电气 | 上市公司公告 | 关于2025年股票期权激励计划预留授予登记完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688698&orgId=nssc1000507&announcementId=1225600197&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·大东方 | 上市公司公告 | 大东方关于股份回购实施结果暨股份变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600327&orgId=gssh0600327&announcementId=1225600193&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 中新网·民生调查局 | 行业媒体 | 尊界V800风波后实地探访门店 工作人员：暂未接到退车要求 | http://www.chinanews.com.cn/cj/2026/10-10/10710107.shtml |
+| 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 好孩子退市但退不出增长困局 | https://www.jiemian.com/article/15173530.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | “银鳕鱼”命名争议持续多年为何仍未被规范？ | https://www.jiemian.com/article/15173507.html |
 | 10-09 17:00 | 公众号 | 央视财经 | 综合媒体 | 国庆假期国内出游，8.26亿人次！ | https://mp.weixin.qq.com/s/LLEbVWyYyqVZ9a7LKIVB0w |
 | 10-09 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 湖北宜城烟花爆燃事故调查报告公布：系顾客违规试放 | https://mp.weixin.qq.com/s/urV~U8bVX4pBs7~05gcLzg |
