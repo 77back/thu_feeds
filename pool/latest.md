@@ -1,7 +1,15 @@
-# 舆情候选池 1010（10-09 00:00 至今，203 条：公众号 165 + 网页 38）
+# 舆情候选池 1010（10-09 00:00 至今，212 条：公众号 173 + 网页 39）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-10 14:00 | 公众号 | 央视财经 | 综合媒体 | 俄军发动大规模打击 | https://mp.weixin.qq.com/s/chWvfl5EopXX1mPGs4BAZA |
+| 10-10 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 专访世界粮食计划署司长：厄尔尼诺叠加战争影响，一场“慢燃式”粮食危机正在形成 | https://mp.weixin.qq.com/s/xYIRDyovEe2xqyco6mT3qA |
+| 10-10 14:00 | 公众号 | 南方都市报 | 综合媒体 | 女子在垃圾桶里捡到72张5元纸币，有折叠有染色，疑似被做成花束，耗时一个半小时拆开，这钱能花吗？律师建议 | https://mp.weixin.qq.com/s/e~-PkNkrCM-PU0OFiCe~sw |
+| 10-10 14:00 | 公众号 | 新京报 | 综合媒体 | 王曼昱/蒯曼，夺冠！ | https://mp.weixin.qq.com/s/1Wm-7oPJd5PeqGx8x-14xQ |
+| 10-10 14:00 | 公众号 | 界面新闻 | 综合媒体 | “需要我再微调部分语句吗？”纸质书中出现AI提示词，出版社回应 | https://mp.weixin.qq.com/s/3Fn4iq9bW8Zz5A0ZySs~BA |
+| 10-10 14:00 | 公众号 | 法治日报 | 综合媒体 | 妻子在高速服务区下车接水喝，返回发现丈夫已驾车离去：手机还在车上，执法人员驱车带其和丈夫汇合，丈夫：以为她在车内休息，没仔细检查 | https://mp.weixin.qq.com/s/h-teyokNDUeIDLealwynig |
+| 10-10 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子骑车时眼睛扎入近100根细刺，还带倒钩！近期频发，专家提醒→ | https://mp.weixin.qq.com/s/G3M9tybmCucykFUwfb6CfQ |
+| 10-10 14:00 | 公众号 | 红网 | 综合媒体 | 多次违规飞行无人机，300米以上超高空飞行达14次，湖南衡阳一自媒体博主被处罚 | https://mp.weixin.qq.com/s/ko5U8730aMKl039IL8K63A |
 | 10-10 13:10 | 网页 | 食品伙伴网 | 产经动态 | 数据发布 ｜ 拼假超长黄金周 国庆假期住宿餐饮业消费市场活力迸发 | https://news.foodmate.net/2026/10/754524.html |
 | 10-10 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 痴迷盗墓小说，自学盗墓技术，购买盗墓工具，效仿小说情节组织盗墓，余某才被判了 | https://mp.weixin.qq.com/s/3XbzeebBupoSVKafXitRCw |
 | 10-10 13:00 | 公众号 | 新京报 | 综合媒体 | “下午4点一个人都没有”，贵州铜仁一医院营养科被指无人接诊，院方回应 | https://mp.weixin.qq.com/s/thEa9CKDhC42517CBeWb4Q |
@@ -80,6 +88,7 @@
 | 10-10 | 网页 | 巨潮·伟创电气 | 上市公司公告 | 关于2025年股票期权激励计划预留授予登记完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688698&orgId=nssc1000507&announcementId=1225600197&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·大东方 | 上市公司公告 | 大东方关于股份回购实施结果暨股份变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600327&orgId=gssh0600327&announcementId=1225600193&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 中新网·民生调查局 | 行业媒体 | 尊界V800风波后实地探访门店 工作人员：暂未接到退车要求 | http://www.chinanews.com.cn/cj/2026/10-10/10710107.shtml |
+| 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 大闸蟹全线崩盘？中小规格跌至5元，大精品一只仍高达百元 | https://www.jiemian.com/article/15174955.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 好孩子退市但退不出增长困局 | https://www.jiemian.com/article/15173530.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | “银鳕鱼”命名争议持续多年为何仍未被规范？ | https://www.jiemian.com/article/15173507.html |
 | 10-09 17:00 | 公众号 | 央视财经 | 综合媒体 | 国庆假期国内出游，8.26亿人次！ | https://mp.weixin.qq.com/s/LLEbVWyYyqVZ9a7LKIVB0w |
