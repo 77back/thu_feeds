@@ -1,7 +1,19 @@
-# 舆情候选池 1010（10-09 00:00 至今，210 条：公众号 180 + 网页 30）
+# 舆情候选池 1010（10-09 00:00 至今，224 条：公众号 191 + 网页 33）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-10 16:19 | 网页 | 食品伙伴网 | 产经动态 | 10月第1周（2026年9月28日—10月4日）生猪定点屠宰企业生猪收购和白条肉出厂价格情况 | https://news.foodmate.net/2026/10/754561.html |
+| 10-10 16:00 | 公众号 | 中国市场监管报 | 行业媒体 | 新就业形态劳动者权益保障办法公开征求意见；中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议…… | https://mp.weixin.qq.com/s/S7SgeLLkPhgSnnQLpcSZtA |
+| 10-10 16:00 | 公众号 | 上海市消保委 | 消协 | 2027上海伴手礼（消费品质标杆）银发板（适老化）申报公告 | https://mp.weixin.qq.com/s/X1Jh7WnR1l1wAUNkx1UKgQ |
+| 10-10 16:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 5批次压力锅产品抽查结果公布  涉及爱仕达、苏泊尔、酷飒 | https://mp.weixin.qq.com/s/vtxaLcWcyZazWqCD~y06qQ |
+| 10-10 16:00 | 公众号 | 澎湃新闻 | 综合媒体 | 潮流街区能否成功如厕好比“开盲盒”，“方便之事”如何解？ | https://mp.weixin.qq.com/s/hL~X5m9I341M-norHqbNOQ |
+| 10-10 16:00 | 公众号 | 界面新闻 | 综合媒体 | 雅思考试大面积取消 | https://mp.weixin.qq.com/s/pTR1pZlNHiiGpD71ZmkNIA |
+| 10-10 16:00 | 公众号 | 南方都市报 | 综合媒体 | 有人仅穿贴身内衣裤，赤脚踩在地上，脸上都是惊魂未定的茫然……中国公民亲历巴拿马强震：感觉整栋楼都在摇晃 | https://mp.weixin.qq.com/s/whymBXcE3EfOtkbOihq1Cg |
+| 10-10 16:00 | 公众号 | 法治日报 | 综合媒体 | 30岁男子突发疾病在ICU抢救，治疗花费巨大，母亲取不出儿子存款救命；银行称家属须出具法定监护人身份证明，母亲前往法院申请成为监护人 | https://mp.weixin.qq.com/s/1zlJH3GX09W0n8uaemOI1A |
+| 10-10 16:00 | 公众号 | 极目新闻 | 综合媒体 | 刷屏！你的心愿登上武汉两江灯光秀了 | https://mp.weixin.qq.com/s/0e9DpWxqElF4J31~25FNiQ |
+| 10-10 16:00 | 公众号 | 红网 | 综合媒体 | 中国和巴基斯坦将在新疆举行陆军联合训练，以高海拔地区联合反恐清剿行动为课题，开展联合指挥和实兵行动演练；这是两国首次陆军联合训练 | https://mp.weixin.qq.com/s/fzKL1jlNdW-BMcbQDj0bzA |
+| 10-10 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 演员方艳华去世 | https://mp.weixin.qq.com/s/TgXPzxNe42UG8qNaHaGquQ |
+| 10-10 16:00 | 公众号 | 江苏省消保委 | 消协 | 食品委托生产新规来了！12月1日起，这些变化要知道 | https://mp.weixin.qq.com/s/MhnB2oLJBqgIT-4~f0idPA |
 | 10-10 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 食用银鳕鱼致汞中毒，“儿童装”为何没能更安全 | https://mp.weixin.qq.com/s/~x2wqLo6st1COaSUTLJD8A |
 | 10-10 15:00 | 公众号 | 新京报 | 综合媒体 | 中国乒协发布公告 | https://mp.weixin.qq.com/s/jsEIjB1r512Xgs7NaXIojw |
 | 10-10 15:00 | 公众号 | 界面新闻 | 综合媒体 | 企查查主板IPO突发撤单 | https://mp.weixin.qq.com/s/T3XRUPKsnhSHD8lVz~Vp2w |
@@ -95,6 +107,8 @@
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 大闸蟹全线崩盘？中小规格跌至5元，大精品一只仍高达百元 | https://www.jiemian.com/article/15174955.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 好孩子退市但退不出增长困局 | https://www.jiemian.com/article/15173530.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | “银鳕鱼”命名争议持续多年为何仍未被规范？ | https://www.jiemian.com/article/15173507.html |
+| 10-10 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局：今年以来共收到经营者集中审查申报489件，审结440件 | https://www.thepaper.cn/newsDetail_forward_34225606 |
+| 10-10 | 网页 | 澎湃·质量观 | 行业媒体 | 市场监管总局谈“美团收购麦芽田股权案”：将依法推进本案后续审查 | https://www.thepaper.cn/newsDetail_forward_34225609 |
 | 10-09 17:00 | 公众号 | 央视财经 | 综合媒体 | 国庆假期国内出游，8.26亿人次！ | https://mp.weixin.qq.com/s/LLEbVWyYyqVZ9a7LKIVB0w |
 | 10-09 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 湖北宜城烟花爆燃事故调查报告公布：系顾客违规试放 | https://mp.weixin.qq.com/s/urV~U8bVX4pBs7~05gcLzg |
 | 10-09 17:00 | 公众号 | 界面新闻 | 综合媒体 | 湖北宜城“2·18”重大烟花爆竹爆燃事故调查报告发布 | https://mp.weixin.qq.com/s/qi7afT5ZPFkqQn~--kL9Ag |
