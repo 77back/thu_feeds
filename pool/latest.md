@@ -1,7 +1,14 @@
-# 舆情候选池 1010（10-09 00:00 至今，212 条：公众号 173 + 网页 39）
+# 舆情候选池 1010（10-09 00:00 至今，210 条：公众号 180 + 网页 30）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-10 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 食用银鳕鱼致汞中毒，“儿童装”为何没能更安全 | https://mp.weixin.qq.com/s/~x2wqLo6st1COaSUTLJD8A |
+| 10-10 15:00 | 公众号 | 新京报 | 综合媒体 | 中国乒协发布公告 | https://mp.weixin.qq.com/s/jsEIjB1r512Xgs7NaXIojw |
+| 10-10 15:00 | 公众号 | 界面新闻 | 综合媒体 | 企查查主板IPO突发撤单 | https://mp.weixin.qq.com/s/T3XRUPKsnhSHD8lVz~Vp2w |
+| 10-10 15:00 | 公众号 | 法治日报 | 综合媒体 | 六旬老人在江滩边走失一天，无人机发现一串不走直线的脚印，民警跟了2公里从泥潭中将其救回，“周围一脚踩下去就陷到大腿根” | https://mp.weixin.qq.com/s/qQYRySOK0qvxaY9vBdfnsw |
+| 10-10 15:00 | 公众号 | 南方都市报 | 综合媒体 | 小鼠长出人脑褶皱！中国科学家找到人类超高智力关键基因 | https://mp.weixin.qq.com/s/yDIKMRuYC2FcKK6XnLASUg |
+| 10-10 15:00 | 公众号 | 极目新闻 | 综合媒体 | 湖北一长江大桥存在安全隐患，10月15日起全封闭施工，过江交通保障方案发布 | https://mp.weixin.qq.com/s/Bpp3EIAleHgojQ00-xkyuw |
+| 10-10 15:00 | 公众号 | 红网 | 综合媒体 | 13岁中国女孩写给弟弟的一封信，获全球唯一金奖！ | https://mp.weixin.qq.com/s/bdAEqsD5av6Twzi8LagKKw |
 | 10-10 14:00 | 公众号 | 央视财经 | 综合媒体 | 俄军发动大规模打击 | https://mp.weixin.qq.com/s/chWvfl5EopXX1mPGs4BAZA |
 | 10-10 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 专访世界粮食计划署司长：厄尔尼诺叠加战争影响，一场“慢燃式”粮食危机正在形成 | https://mp.weixin.qq.com/s/xYIRDyovEe2xqyco6mT3qA |
 | 10-10 14:00 | 公众号 | 南方都市报 | 综合媒体 | 女子在垃圾桶里捡到72张5元纸币，有折叠有染色，疑似被做成花束，耗时一个半小时拆开，这钱能花吗？律师建议 | https://mp.weixin.qq.com/s/e~-PkNkrCM-PU0OFiCe~sw |
@@ -73,10 +80,6 @@
 | 10-10 08:00 | 公众号 | 河北省消保委 | 消协 | 普法进老街维权伴金秋——衡水市消保委开展“3·15金秋购物节”宣传活动 | https://mp.weixin.qq.com/s/Fe3zCEsmP516QoQuymRtkw |
 | 10-10 08:00 | 公众号 | 浙江消保委 | 消协 | 调料中添加罂粟成分，追刑责，赔2.5万元 | https://mp.weixin.qq.com/s/epMXXqOPKO0iVjCSLBaa3g |
 | 10-10 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 世界标准日看北京：这场活动交出标准化对接三年成绩单 | https://mp.weixin.qq.com/s/EzSn9cu7h0iXD0ZCsQhzVQ |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 吉林省市场监督管理厅关于食品不合格情况的通告（2026年第7期） | http://news.foodmate.net/2026/10/754532.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 芝麻酥糖、杨梅、龙眼……浙江这7批次不合格食品被通报 | http://news.foodmate.net/2026/10/754509.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第34期） | http://news.foodmate.net/2026/10/754506.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 青海省市场监管局专题调度部署扎实推进食品生产监管及抽检检测重点工作 | http://news.foodmate.net/2026/10/754502.html |
 | 10-10 | 网页 | 巨潮·ST凯利 | 上市公司公告 | 第六届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300326&orgId=9900021932&announcementId=1225600354&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·圣诺生物 | 上市公司公告 | 关于全资子公司及实际控制人收到起诉书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688117&orgId=9900041828&announcementId=1225600351&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·广电网络 | 上市公司公告 | 关于被债权人申请预重整及重整的专项自查报告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600831&orgId=gssh0600831&announcementId=1225600318&announcementTime=2026-10-10 |
@@ -88,6 +91,7 @@
 | 10-10 | 网页 | 巨潮·伟创电气 | 上市公司公告 | 关于2025年股票期权激励计划预留授予登记完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688698&orgId=nssc1000507&announcementId=1225600197&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·大东方 | 上市公司公告 | 大东方关于股份回购实施结果暨股份变动的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600327&orgId=gssh0600327&announcementId=1225600193&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 中新网·民生调查局 | 行业媒体 | 尊界V800风波后实地探访门店 工作人员：暂未接到退车要求 | http://www.chinanews.com.cn/cj/2026/10-10/10710107.shtml |
+| 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 超长蛋挞相关话题冲上热搜，爆火不到两个月就凉了 | https://www.jiemian.com/article/15175270.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 大闸蟹全线崩盘？中小规格跌至5元，大精品一只仍高达百元 | https://www.jiemian.com/article/15174955.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 好孩子退市但退不出增长困局 | https://www.jiemian.com/article/15173530.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | “银鳕鱼”命名争议持续多年为何仍未被规范？ | https://www.jiemian.com/article/15173507.html |
@@ -206,11 +210,5 @@
 | 10-09 08:00 | 公众号 | 中国新闻网 | 综合媒体 | 美国暴发麻疹疫情｜晨报来了 | https://mp.weixin.qq.com/s/NJi~tIEuat3HE18Tih5sTw |
 | 10-09 08:00 | 公众号 | 界面新闻 | 综合媒体 | 一辆百万豪车的刹车踏板，多大力才算“踩过头”？ | https://mp.weixin.qq.com/s/WfL1QQZieu8llu8L-t0ACw |
 | 10-09 08:00 | 公众号 | 南方都市报 | 综合媒体 | 深圳市委、市政府决定：民警吴龙，追记二等功；与持刀歹徒搏斗，身负重伤，年仅25岁 | https://mp.weixin.qq.com/s/TX8eGVZW9Pwc-4YXLXkyXA |
-| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 江西省市场监管局完成2026年全省食品抽检便民服务点现场评价工作 | http://news.foodmate.net/2026/10/754457.html |
-| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 江西省市场监管局完成2026年全省食品抽检便民服务点现场评价工作 | http://news.foodmate.net/2026/10/754457.html |
-| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 上海检出7批次不合格食品，有茶叶、山椒凤爪、椰子水等 | http://news.foodmate.net/2026/10/754425.html |
-| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 重庆市市场监督管理局关于4961批次食品安全抽检情况的通告（渝市监通告〔2026〕13号） | http://news.foodmate.net/2026/10/754422.html |
-| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 广东省市场监督管理局关于17批次食品不合格情况的通告（2026年第45期） | http://news.foodmate.net/2026/10/754421.html |
-| 10-09 | 网页 | 食品伙伴网 | 抽检通报 | 佛山多人参加婚宴后腹泻呕吐，官方通报：初判为食源性疾病聚集事件，已立案调查 | http://news.foodmate.net/2026/10/754369.html |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验 | https://www.thepaper.cn/newsDetail_forward_34211522 |
 | 10-09 | 网页 | 澎湃·质量观 | 行业媒体 | 佛山通报“多人称在宴会酒店就餐后身体不适”：初判为食源性疾病聚集事件 | https://www.thepaper.cn/newsDetail_forward_34215463 |
