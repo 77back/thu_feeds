@@ -1,7 +1,16 @@
-# 舆情候选池 1011（10-10 00:00 至今，154 条：公众号 123 + 网页 31）
+# 舆情候选池 1011（10-10 00:00 至今，169 条：公众号 132 + 网页 37）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-11 10:00 | 公众号 | 央视财经 | 综合媒体 | 美国发生大规模枪击事件 | https://mp.weixin.qq.com/s/~tTv38Qc1IeFyOxVuQFcgA |
+| 10-11 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 冰川科普不能只讲“冰川在退”，还要直面“冰川会崩” | https://mp.weixin.qq.com/s/QSfbhFzLK14pdh8g9znzzQ |
+| 10-11 10:00 | 公众号 | 新京报 | 综合媒体 | 在泰国失联的摄影师韩少杰，已平安回国 | https://mp.weixin.qq.com/s/2T3ZI6nXNQZ~kB-G7v4aTg |
+| 10-11 10:00 | 公众号 | 南方都市报 | 综合媒体 | 文旅部：坚决拥护党中央决定 | https://mp.weixin.qq.com/s/nKc79MOO~1WbqpjPxJ3HEw |
+| 10-11 10:00 | 公众号 | 法治日报 | 综合媒体 | 男子蒸上大闸蟹忘关火，一觉睡到大天亮！掀锅一看，当场傻眼了…… | https://mp.weixin.qq.com/s/S0MPIL9KxTm8rVFwXpAs9Q |
+| 10-11 10:00 | 公众号 | 界面新闻 | 综合媒体 | 沙特利雅得机场遭袭，12人死亡309人受伤 | https://mp.weixin.qq.com/s/BlzkQ5s9GfZt5PH7SKsvDw |
+| 10-11 10:00 | 公众号 | 极目新闻 | 综合媒体 | 女大学生校园内被撞离世，多方回应 | https://mp.weixin.qq.com/s/B6C398XLcPVXqsUoFOjYew |
+| 10-11 10:00 | 公众号 | 红网 | 综合媒体 | 沙特首都利雅得机场遭袭致12死309伤，沙特称胡塞武装犯下战争罪，特朗普称或加入打击胡塞武装的行动，我使馆发布提醒并公布应急电话 | https://mp.weixin.qq.com/s/LLijGtz1W9HPH7A7zA9D6Q |
+| 10-11 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 双胞胎哥哥车祸离世，19年后却在广东被“发现”，几张照片揭露真相，警方奔赴千里将双胞胎弟弟抓获 | https://mp.weixin.qq.com/s/THPYiyIX0LcJLjQRUTqqEg |
 | 10-11 09:00 | 公众号 | 中国市场监管报 | 行业媒体 | 骗子冒充刘欢家属带货，平台该出手时不出手；24元救命药飙涨到1200元...... | https://mp.weixin.qq.com/s/BCsY2WQzgnKXZltMOIFMuA |
 | 10-11 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 白宫新任发言人：曾在中国生活3年，上周还不在候选名单上 | https://mp.weixin.qq.com/s/SpeSgGzK6bXxFLlhMKbOhQ |
 | 10-11 09:00 | 公众号 | 法治日报 | 综合媒体 | 新婚夫妻用AI生成婚纱照，花费约3小时，被人看出来不觉得尴尬，当事人：跟金钱无关，两个人以后把日子过好了这些都不是问题 | https://mp.weixin.qq.com/s/3aioe77ouAmiHCPXQICMSg |
@@ -135,6 +144,12 @@
 | 10-10 08:00 | 公众号 | 河北省消保委 | 消协 | 普法进老街维权伴金秋——衡水市消保委开展“3·15金秋购物节”宣传活动 | https://mp.weixin.qq.com/s/Fe3zCEsmP516QoQuymRtkw |
 | 10-10 08:00 | 公众号 | 浙江消保委 | 消协 | 调料中添加罂粟成分，追刑责，赔2.5万元 | https://mp.weixin.qq.com/s/epMXXqOPKO0iVjCSLBaa3g |
 | 10-10 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 世界标准日看北京：这场活动交出标准化对接三年成绩单 | https://mp.weixin.qq.com/s/EzSn9cu7h0iXD0ZCsQhzVQ |
+| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于19批次食品不合格情况的通告（2026年第17期） | http://news.foodmate.net/2026/10/754569.html |
+| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 山东省市场监督管理局关于食品安全“你点我检”专项抽检情况的通告2026年第25期（总第551期） | http://news.foodmate.net/2026/10/754568.html |
+| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 吉林省市场监督管理厅关于食品不合格情况的通告（2026年第7期） | http://news.foodmate.net/2026/10/754532.html |
+| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 芝麻酥糖、杨梅、龙眼……浙江这7批次不合格食品被通报 | http://news.foodmate.net/2026/10/754509.html |
+| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第34期） | http://news.foodmate.net/2026/10/754506.html |
+| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 青海省市场监管局专题调度部署扎实推进食品生产监管及抽检检测重点工作 | http://news.foodmate.net/2026/10/754502.html |
 | 10-10 | 网页 | 巨潮·立讯精密 | 上市公司公告 | 关于公司及控股子公司涉及美国国际贸易委员会337调查的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002475&orgId=9900014448&announcementId=1225600359&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·ST凯利 | 上市公司公告 | 第六届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300326&orgId=9900021932&announcementId=1225600354&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·圣诺生物 | 上市公司公告 | 关于全资子公司及实际控制人收到起诉书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688117&orgId=9900041828&announcementId=1225600351&announcementTime=2026-10-10 |
