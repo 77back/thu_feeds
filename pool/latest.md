@@ -1,7 +1,14 @@
-# 舆情候选池 1011（10-10 00:00 至今，192 条：公众号 155 + 网页 37）
+# 舆情候选池 1011（10-10 00:00 至今，199 条：公众号 162 + 网页 37）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-11 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 王娇萍已任河北省委统战部部长 | https://mp.weixin.qq.com/s/3JRez1ILHh7FLJVPBuwbGA |
+| 10-11 14:00 | 公众号 | 新京报 | 综合媒体 | 雅思考试临时取消，“有考生在考场外大哭”，不能只退考试费 | https://mp.weixin.qq.com/s/Dw8XbLJMMMgjYurSHg0muQ |
+| 10-11 14:00 | 公众号 | 法治日报 | 综合媒体 | 女子第一次带27岁男友见家长，82岁爷爷与孙女男友健身PK，一同俯卧撑；女子：爷爷常年坚持务农，身体格外健朗 | https://mp.weixin.qq.com/s/7VWu2WoR2K-pEFzEQPBtRQ |
+| 10-11 14:00 | 公众号 | 极目新闻 | 综合媒体 | 41岁高三班主任突发心梗离世，妻子一条朋友圈唤回200多名学生，有人下班后哭着开了2小时车赶去送别 | https://mp.weixin.qq.com/s/OdMbfcniG5e0ovQ3iQlrzQ |
+| 10-11 14:00 | 公众号 | 南方都市报 | 综合媒体 | 梅艳芳骨灰被盗，报警近三个月仍未寻回，歌迷会呼吁市民提供线索，合力寻找；骨灰安放地香港宝莲禅寺：正在等警方处理 | https://mp.weixin.qq.com/s/VH~4gPU1GxpUMe8LsiV3og |
+| 10-11 14:00 | 公众号 | 消费日报官方平台 | 行业媒体 | 四部门联手整治“速成车”，中汽协：严守安全底线，规范创新设计 | https://mp.weixin.qq.com/s/ItlR8xWPf41UGDCt6ZFFzg |
+| 10-11 14:00 | 公众号 | 红网 | 综合媒体 | 自付比例下调、报销提升！湖南医保待遇再提升，看病买药更省钱 | https://mp.weixin.qq.com/s/vhiMR6DRBsVUd9TOTR9mDg |
 | 10-11 13:00 | 公众号 | 市说新语 | 监管·总局 | 新华时评｜以法治之力守护食品安全 | https://mp.weixin.qq.com/s/bUkEER-av1uDsDqr5Twl0A |
 | 10-11 13:00 | 公众号 | 央视财经 | 综合媒体 | 特朗普发声：最好立刻停手 | https://mp.weixin.qq.com/s/Se4knmyULuZU-S9x9h1kVA |
 | 10-11 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 暴雨夜里的废矿盗采者 | https://mp.weixin.qq.com/s/Rhnhy~U4aO92ds1wVaeMdA |
