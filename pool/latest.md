@@ -1,7 +1,14 @@
-# 舆情候选池 1011（10-10 00:00 至今，176 条：公众号 139 + 网页 37）
+# 舆情候选池 1011（10-10 00:00 至今，177 条：公众号 146 + 网页 31）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-11 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 多地雅思考试突发取消，退费重考如何安排？最新解答 | https://mp.weixin.qq.com/s/dA3iOzAAxRI4IYYonRmuew |
+| 10-11 12:00 | 公众号 | 新京报 | 综合媒体 | 网红超长蛋挞，不用排队了？ | https://mp.weixin.qq.com/s/vMBMKkMPm5XxV8EiOwhf6A |
+| 10-11 12:00 | 公众号 | 南方都市报 | 综合媒体 | 女子转卖男友送的300万元名表，结果发现竟是男友偷来的；男子为挽回感情，趁朋友乔迁宴悄悄偷表送给女友，最终获刑10年 | https://mp.weixin.qq.com/s/0HbXIUUFH3ULaPLPUQUjxA |
+| 10-11 12:00 | 公众号 | 法治日报 | 综合媒体 | 两名中国男子赴泰旅游失联，一失联者妻子接到电话被告知“我在里面很好”，家属怀疑二人被转至缅甸；泰方：切勿随意乘坐他人安排车辆 | https://mp.weixin.qq.com/s/ZhHEBLe~R9P5f3VgIwa-PA |
+| 10-11 12:00 | 公众号 | 红网 | 综合媒体 | 央视曝光多地存在危货车超载、设备检验报告造假、电子运单管理系统存在漏洞等：74辆油罐车的91份检验报告没一份真检，核定14吨装了22吨 | https://mp.weixin.qq.com/s/OnESI14u4kjN39oNW75jww |
+| 10-11 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 赖清德所谓“双十”讲话炒作大陆持续以军事行动施压改变台海现状，国防部：民进党当局强推所谓“全台战场”，破坏台海稳定、牺牲台湾未来 | https://mp.weixin.qq.com/s/y3kDNHyXhEo6yO2b3T1sFQ |
+| 10-11 12:00 | 公众号 | 北京市场监管 | 监管·地方 | 餐饮避坑！别再被“时令价”套路忽悠 | https://mp.weixin.qq.com/s/rAbTAAK3qQw~QRPnrphNmg |
 | 10-11 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 杨师傅“中”了诺贝尔文学奖后：最终决定不加印，但办公室也快没了 | https://mp.weixin.qq.com/s/GDsLVkV6HBJxXOo9MJaPqQ |
 | 10-11 11:00 | 公众号 | 界面新闻 | 综合媒体 | 经销商联谊会集中“解散”，茅台回应 | https://mp.weixin.qq.com/s/s3HyoNRVFgM8c3V-xYgKfw |
 | 10-11 11:00 | 公众号 | 法治日报 | 综合媒体 | 离谱！男子让2岁孩子开车，还拍视频发朋友圈炫耀，警方：黄某某（男，1994年生），被处罚 | https://mp.weixin.qq.com/s/9gY5CMXfw4BqIjAPaZ0r5A |
@@ -151,12 +158,6 @@
 | 10-10 08:00 | 公众号 | 河北省消保委 | 消协 | 普法进老街维权伴金秋——衡水市消保委开展“3·15金秋购物节”宣传活动 | https://mp.weixin.qq.com/s/Fe3zCEsmP516QoQuymRtkw |
 | 10-10 08:00 | 公众号 | 浙江消保委 | 消协 | 调料中添加罂粟成分，追刑责，赔2.5万元 | https://mp.weixin.qq.com/s/epMXXqOPKO0iVjCSLBaa3g |
 | 10-10 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 世界标准日看北京：这场活动交出标准化对接三年成绩单 | https://mp.weixin.qq.com/s/EzSn9cu7h0iXD0ZCsQhzVQ |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于19批次食品不合格情况的通告（2026年第17期） | http://news.foodmate.net/2026/10/754569.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 山东省市场监督管理局关于食品安全“你点我检”专项抽检情况的通告2026年第25期（总第551期） | http://news.foodmate.net/2026/10/754568.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 吉林省市场监督管理厅关于食品不合格情况的通告（2026年第7期） | http://news.foodmate.net/2026/10/754532.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 芝麻酥糖、杨梅、龙眼……浙江这7批次不合格食品被通报 | http://news.foodmate.net/2026/10/754509.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第34期） | http://news.foodmate.net/2026/10/754506.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 青海省市场监管局专题调度部署扎实推进食品生产监管及抽检检测重点工作 | http://news.foodmate.net/2026/10/754502.html |
 | 10-10 | 网页 | 巨潮·立讯精密 | 上市公司公告 | 关于公司及控股子公司涉及美国国际贸易委员会337调查的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002475&orgId=9900014448&announcementId=1225600359&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·ST凯利 | 上市公司公告 | 第六届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300326&orgId=9900021932&announcementId=1225600354&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 巨潮·圣诺生物 | 上市公司公告 | 关于全资子公司及实际控制人收到起诉书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688117&orgId=9900041828&announcementId=1225600351&announcementTime=2026-10-10 |
