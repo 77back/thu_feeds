@@ -1,7 +1,17 @@
-# 舆情候选池 1011（10-10 00:00 至今，144 条：公众号 115 + 网页 29）
+# 舆情候选池 1011（10-10 00:00 至今，154 条：公众号 123 + 网页 31）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-11 09:00 | 公众号 | 中国市场监管报 | 行业媒体 | 骗子冒充刘欢家属带货，平台该出手时不出手；24元救命药飙涨到1200元...... | https://mp.weixin.qq.com/s/BCsY2WQzgnKXZltMOIFMuA |
+| 10-11 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 白宫新任发言人：曾在中国生活3年，上周还不在候选名单上 | https://mp.weixin.qq.com/s/SpeSgGzK6bXxFLlhMKbOhQ |
+| 10-11 09:00 | 公众号 | 法治日报 | 综合媒体 | 新婚夫妻用AI生成婚纱照，花费约3小时，被人看出来不觉得尴尬，当事人：跟金钱无关，两个人以后把日子过好了这些都不是问题 | https://mp.weixin.qq.com/s/3aioe77ouAmiHCPXQICMSg |
+| 10-11 09:00 | 公众号 | 新京报 | 综合媒体 | 沙特首都机场遭袭，遇难者国籍公布，鲁比奥：美国强烈谴责 | https://mp.weixin.qq.com/s/IcOftlhEvbnwdfvAWI6tjg |
+| 10-11 09:00 | 公众号 | 南方都市报 | 综合媒体 | 江某坚（男，38岁）从高处坠落，抢救无效死亡，官方公布调查报告 | https://mp.weixin.qq.com/s/pXahg5~JZRt6kxdAn~XgtA |
+| 10-11 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子在香港住酒店下楼抽烟，2分钟内价值3000万港元黄金被换成30公斤柔顺剂，警方：系同行朋友精心策划，已拘捕2人 | https://mp.weixin.qq.com/s/cbFY6xgVP6gW4gECIUrdfg |
+| 10-11 09:00 | 公众号 | 四川省消委会 | 消协 | 你的押金可能被“偷”了！假期归来，这笔账记得查→ | https://mp.weixin.qq.com/s/nXket1UTulnGXBvsR7H~4g |
+| 10-11 09:00 | 公众号 | 食事求真 | 行业媒体 | 国庆消费8.26亿人次点燃白酒 金徽酒领涨板块两日走强 | https://mp.weixin.qq.com/s/s8J2SQpDcfT-Ax~9ZmPMIw |
+| 10-11 08:27 | 网页 | 食品伙伴网 | 产经动态 | 吕梁沙棘汁首次出口美国 | https://news.foodmate.net/2026/10/754555.html |
+| 10-11 08:25 | 网页 | 食品伙伴网 | 产经动态 | 首单出海！罗源鲜活鲍鱼远销越南 | https://news.foodmate.net/2026/10/754557.html |
 | 10-11 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 你押金退了吗？假期归来，这笔账记得查→ | https://mp.weixin.qq.com/s/wQRYXhUl~tpeFboVpHU5Sg |
 | 10-11 08:00 | 公众号 | 市说新语 | 监管·总局 | 回应突出问题，食品安全法迎来又一次大修！ | https://mp.weixin.qq.com/s/uLIJZOGmYi-y1k19XddFbg |
 | 10-11 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 慎买！这款女运动鞋抽查不合格！ | https://mp.weixin.qq.com/s/EGQMvmawefWquBC5ZOQMAA |
