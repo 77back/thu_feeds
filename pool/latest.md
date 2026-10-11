@@ -1,7 +1,25 @@
-# 舆情候选池 1011（10-10 00:00 至今，199 条：公众号 162 + 网页 37）
+# 舆情候选池 1011（10-10 00:00 至今，201 条：公众号 170 + 网页 31）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 | 网页 | 巨潮·百利天恒 | 上市公司公告 | 四川百利天恒药业股份有限公司自愿披露关于宜泽康?（伦康依隆妥单抗，BL-B01D1/iza-bren）联合放疗治疗局部晚期不可切除头颈鳞癌及其他实体瘤获得药物临床试验批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688506&orgId=9900024957&announcementId=1225600431&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·珀莱雅 | 上市公司公告 | 珀莱雅化妆品股份有限公司2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603605&orgId=9900032985&announcementId=1225600426&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·ST联光 | 上市公司公告 | 关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600363&orgId=gssh0600363&announcementId=1225600425&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·宏柏新材 | 上市公司公告 | 江西宏柏新材料股份有限公司股东减持股份计划公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605366&orgId=9900039786&announcementId=1225600428&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·天风证券 | 上市公司公告 | 天风证券股份有限公司关于召开2026年第三次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601162&orgId=qsgn0000533&announcementId=1225600397&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·海阳科技 | 上市公司公告 | 海阳科技股份有限公司关于持股5%以上股东减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603382&orgId=9900059222&announcementId=1225600423&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·*ST联翔 | 上市公司公告 | 关于控股股东、实际控制人减持股份计划公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603272&orgId=nssc1000337&announcementId=1225600371&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·通用股份 | 上市公司公告 | 江苏通用科技股份有限公司5%以上股东及其一致行动人减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601500&orgId=9900026535&announcementId=1225600421&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·莱特光电 | 上市公司公告 | 陕西莱特光电材料股份有限公司向不特定对象发行可转换公司债券发行结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688150&orgId=gfbj0835249&announcementId=1225600420&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 巨潮·有研硅 | 上市公司公告 | 有研硅关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688432&orgId=9900053027&announcementId=1225600419&announcementTime=2026-10-12 |
+| 10-11 15:00 | 公众号 | 央视财经 | 综合媒体 | 中央汇金，严正声明 | https://mp.weixin.qq.com/s/OZW6ypdgOIN4QCrG2~m9fQ |
+| 10-11 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 梅艳芳骨灰被盗，香港警方回应 | https://mp.weixin.qq.com/s/LHN0XODVBeP7EbRoOqmt-w |
+| 10-11 15:00 | 公众号 | 新京报 | 综合媒体 | 梅艳芳骨灰被盗，报警近3个月仍未寻回，家人称考虑悬赏5万找骨灰 | https://mp.weixin.qq.com/s/OEN-uLv8gkr6aSTF9wTMiQ |
+| 10-11 15:00 | 公众号 | 法治日报 | 综合媒体 | “我工资都给她了，她还偷偷留私房钱！”40多岁男子打扫卫生发现女友床底藏上千元现金，内心不平衡，竟喊兄弟来家中“作案”…… | https://mp.weixin.qq.com/s/5xED0w8MVMSHzDhbzHZQTA |
+| 10-11 15:00 | 公众号 | 南方都市报 | 综合媒体 | 梅艳芳大哥痛哭怒斥：“阿梅做那么多善事，今时今日连骨灰都被人偷，为什么”；香港警方：重案组介入，暂无人被捕 | https://mp.weixin.qq.com/s/EPzys1amJ4pEgkHupqBUiw |
+| 10-11 15:00 | 公众号 | 极目新闻 | 综合媒体 | 男子感觉“身上被装了定位器”，一直被债主精准跟踪；警方：催债者把内容包装成小程序链接发给对方，一旦授权就实时发送位置 | https://mp.weixin.qq.com/s/rjwkoLb0eUyzJAW0U6MPew |
+| 10-11 15:00 | 公众号 | 界面新闻 | 综合媒体 | 库克卸任苹果CEO后首次来中国 | https://mp.weixin.qq.com/s/7XOth7Oblilkjqi-CiUZvg |
+| 10-11 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 41岁高三班主任突发心梗离世，妻子一条朋友圈唤回200多名学生，有人下班后哭着开了2小时车赶去送别 | https://mp.weixin.qq.com/s/VphcuOcynPCDy2pgkqFs6w |
 | 10-11 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 王娇萍已任河北省委统战部部长 | https://mp.weixin.qq.com/s/3JRez1ILHh7FLJVPBuwbGA |
 | 10-11 14:00 | 公众号 | 新京报 | 综合媒体 | 雅思考试临时取消，“有考生在考场外大哭”，不能只退考试费 | https://mp.weixin.qq.com/s/Dw8XbLJMMMgjYurSHg0muQ |
 | 10-11 14:00 | 公众号 | 法治日报 | 综合媒体 | 女子第一次带27岁男友见家长，82岁爷爷与孙女男友健身PK，一同俯卧撑；女子：爷爷常年坚持务农，身体格外健朗 | https://mp.weixin.qq.com/s/7VWu2WoR2K-pEFzEQPBtRQ |
@@ -174,22 +192,6 @@
 | 10-10 08:00 | 公众号 | 河北省消保委 | 消协 | 普法进老街维权伴金秋——衡水市消保委开展“3·15金秋购物节”宣传活动 | https://mp.weixin.qq.com/s/Fe3zCEsmP516QoQuymRtkw |
 | 10-10 08:00 | 公众号 | 浙江消保委 | 消协 | 调料中添加罂粟成分，追刑责，赔2.5万元 | https://mp.weixin.qq.com/s/epMXXqOPKO0iVjCSLBaa3g |
 | 10-10 08:00 | 公众号 | 北京市场监管 | 监管·地方 | 世界标准日看北京：这场活动交出标准化对接三年成绩单 | https://mp.weixin.qq.com/s/EzSn9cu7h0iXD0ZCsQhzVQ |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 陕西省市场监督管理局关于19批次食品不合格情况的通告（2026年第17期） | http://news.foodmate.net/2026/10/754569.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 山东省市场监督管理局关于食品安全“你点我检”专项抽检情况的通告2026年第25期（总第551期） | http://news.foodmate.net/2026/10/754568.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 吉林省市场监督管理厅关于食品不合格情况的通告（2026年第7期） | http://news.foodmate.net/2026/10/754532.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 芝麻酥糖、杨梅、龙眼……浙江这7批次不合格食品被通报 | http://news.foodmate.net/2026/10/754509.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 安徽省市场监督管理局食品安全抽检信息通告（2026年第34期） | http://news.foodmate.net/2026/10/754506.html |
-| 10-10 | 网页 | 食品伙伴网 | 抽检通报 | 青海省市场监管局专题调度部署扎实推进食品生产监管及抽检检测重点工作 | http://news.foodmate.net/2026/10/754502.html |
-| 10-10 | 网页 | 巨潮·立讯精密 | 上市公司公告 | 关于公司及控股子公司涉及美国国际贸易委员会337调查的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002475&orgId=9900014448&announcementId=1225600359&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·ST凯利 | 上市公司公告 | 第六届董事会第二十二次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300326&orgId=9900021932&announcementId=1225600354&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·圣诺生物 | 上市公司公告 | 关于全资子公司及实际控制人收到起诉书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688117&orgId=9900041828&announcementId=1225600351&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·广电网络 | 上市公司公告 | 关于被债权人申请预重整及重整的专项自查报告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600831&orgId=gssh0600831&announcementId=1225600318&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·中公教育 | 上市公司公告 | 关于股东股份被司法强制卖出的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002607&orgId=9900021221&announcementId=1225600225&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·三柏硕 | 上市公司公告 | 股票交易异常波动公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001300&orgId=9900048101&announcementId=1225600204&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·东阳光 | 上市公司公告 | 东阳光关于以集中竞价交易方式回购股份的回购报告书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600673&orgId=gssh0600673&announcementId=1225600203&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·新奥股份 | 上市公司公告 | 新奥股份关于控股子公司回购绿色优先票据的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600803&orgId=gssh0600803&announcementId=1225600199&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·正和生态 | 上市公司公告 | 关于控股股东完成工商变更登记并换发营业执照的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605069&orgId=9900027354&announcementId=1225600198&announcementTime=2026-10-10 |
-| 10-10 | 网页 | 巨潮·伟创电气 | 上市公司公告 | 关于2025年股票期权激励计划预留授予登记完成的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688698&orgId=nssc1000507&announcementId=1225600197&announcementTime=2026-10-10 |
 | 10-10 | 网页 | 中新网·民生调查局 | 行业媒体 | 尊界V800风波后实地探访门店 工作人员：暂未接到退车要求 | http://www.chinanews.com.cn/cj/2026/10-10/10710107.shtml |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 超长蛋挞相关话题冲上热搜，爆火不到两个月就凉了 | https://www.jiemian.com/article/15175270.html |
 | 10-10 | 网页 | 界面新闻·消费 | 综合媒体 | 大闸蟹全线崩盘？中小规格跌至5元，大精品一只仍高达百元 | https://www.jiemian.com/article/15174955.html |
