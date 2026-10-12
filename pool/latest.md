@@ -1,7 +1,18 @@
-# 舆情候选池 1012（10-11 00:00 至今，120 条：公众号 109 + 网页 11）
+# 舆情候选池 1012（10-11 00:00 至今，135 条：公众号 118 + 网页 17）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 09:00 | 公众号 | 中国市场监管报 | 行业媒体 | 食品安全法修订草案公开征求意见；四部门征求意见，进一步加强汽车产品创新设计等管理…… | https://mp.weixin.qq.com/s/cuUKcheXwU0Xw1AzLdfreg |
+| 10-12 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 周鸿祎攀岩从3米高处坠落，造成左膝粉碎性骨折，“挺难受的，刚过完56岁生日” | https://mp.weixin.qq.com/s/Q9C02c3~haqV4oBvXmkBfw |
+| 10-12 09:00 | 公众号 | 央视财经 | 综合媒体 | 四国发布联合声明：强烈谴责，立即停止！ | https://mp.weixin.qq.com/s/sOjXTIB0TiOUglux~5ld2w |
+| 10-12 09:00 | 公众号 | 新京报 | 综合媒体 | 长征·村志 ｜ 云南皎平渡：3万红军，37名船工与6条木船 | https://mp.weixin.qq.com/s/QtdGlqxRs0CJjf8LNoJMxw |
+| 10-12 09:00 | 公众号 | 法治日报 | 综合媒体 | 现场视频：蒙古国草原大火逼近我边境，2000余人正在堵截 | https://mp.weixin.qq.com/s/rw1q6zB4nGminaquWhzyzQ |
+| 10-12 09:00 | 公众号 | 南方都市报 | 综合媒体 | “刚下夜班就赶来”“被这个巨无霸震撼到了”！皇岗口岸今早开通；首位入境车主：通关几分钟，好快的 | https://mp.weixin.qq.com/s/Ai1hcMFRSYjTFSc74pL5~w |
+| 10-12 09:00 | 公众号 | 界面新闻 | 综合媒体 | 泽连斯基回应特朗普：乌克兰领导人应由乌人民决定 | https://mp.weixin.qq.com/s/CaSmhgyiahpRay9vzOpRog |
+| 10-12 09:00 | 公众号 | 红网 | 综合媒体 | 非法破解无人机并售卖，胡某某获利2万余元，涉案无人机存在多条超高“黑飞”记录，获刑8个月并处罚金5000元 | https://mp.weixin.qq.com/s/S20LjglLk~2iW5pqu1Ui8Q |
+| 10-12 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 马斯克：我太眼拙了，没认出您的真实身份 | https://mp.weixin.qq.com/s/7zVt2yU3r1PQ84q6xrO8UA |
+| 10-12 08:47 | 网页 | 食品伙伴网 | 产经动态 | 速度力量类运动营养食品：原料、作用机理、配伍逻辑 | https://news.foodmate.net/2026/10/754591.html |
+| 10-12 08:36 | 网页 | 食品伙伴网 | 产经动态 | 看懂 4 类变性淀粉，搞定火锅底料、蚝油、汤包体系稳定性 | https://news.foodmate.net/2026/10/754588.html |
 | 10-12 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 禁止全隐藏式门把手！四部门发布→ | https://mp.weixin.qq.com/s/rd058CvnRAX7sxkUJDzKrw |
 | 10-12 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 15批次妇女用品（含卫生巾、护垫等）抽查  快看看结果如何？ | https://mp.weixin.qq.com/s/a4B03UZcq7APnngzKaVc7w |
 | 10-12 08:00 | 公众号 | 央视财经 | 综合媒体 | 270多家企业，集体招人！这类人才，急缺→ | https://mp.weixin.qq.com/s/9RrihvBFzkPb7wfsn-gyjg |
@@ -17,6 +28,8 @@
 | 10-12 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 《中华人民共和国食品安全法（修订草案征求意见稿）》公开征求意见 | https://mp.weixin.qq.com/s/gtkj34UfRckzY2mdq~Yijg |
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 山东省抽检特食重点工作推进会在聊城召开 | http://news.foodmate.net/2026/10/754596.html |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 20款密胺餐具实测！整体安全，但绝大部分人都用错了 | http://news.foodmate.net/2026/10/754592.html |
 | 10-12 | 网页 | 巨潮·四会富仕 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300852&orgId=9900039723&announcementId=1225600539&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·金马游乐 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300756&orgId=9900030662&announcementId=1225600537&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·沧州明珠 | 上市公司公告 | 沧州明珠关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002108&orgId=9900002002&announcementId=1225600536&announcementTime=2026-10-12 |
@@ -98,6 +111,8 @@
 | 10-11 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子在香港住酒店下楼抽烟，2分钟内价值3000万港元黄金被换成30公斤柔顺剂，警方：系同行朋友精心策划，已拘捕2人 | https://mp.weixin.qq.com/s/cbFY6xgVP6gW4gECIUrdfg |
 | 10-11 09:00 | 公众号 | 四川省消委会 | 消协 | 你的押金可能被“偷”了！假期归来，这笔账记得查→ | https://mp.weixin.qq.com/s/nXket1UTulnGXBvsR7H~4g |
 | 10-11 09:00 | 公众号 | 食事求真 | 行业媒体 | 国庆消费8.26亿人次点燃白酒 金徽酒领涨板块两日走强 | https://mp.weixin.qq.com/s/s8J2SQpDcfT-Ax~9ZmPMIw |
+| 10-11 08:27 | 网页 | 食品伙伴网 | 产经动态 | 吕梁沙棘汁首次出口美国 | https://news.foodmate.net/2026/10/754555.html |
+| 10-11 08:25 | 网页 | 食品伙伴网 | 产经动态 | 首单出海！罗源鲜活鲍鱼远销越南 | https://news.foodmate.net/2026/10/754557.html |
 | 10-11 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 你押金退了吗？假期归来，这笔账记得查→ | https://mp.weixin.qq.com/s/wQRYXhUl~tpeFboVpHU5Sg |
 | 10-11 08:00 | 公众号 | 市说新语 | 监管·总局 | 回应突出问题，食品安全法迎来又一次大修！ | https://mp.weixin.qq.com/s/uLIJZOGmYi-y1k19XddFbg |
 | 10-11 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 慎买！这款女运动鞋抽查不合格！ | https://mp.weixin.qq.com/s/EGQMvmawefWquBC5ZOQMAA |
