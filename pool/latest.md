@@ -1,7 +1,17 @@
-# 舆情候选池 1012（10-11 00:00 至今，143 条：公众号 127 + 网页 16）
+# 舆情候选池 1012（10-11 00:00 至今，157 条：公众号 137 + 网页 20）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 11:00 | 公众号 | 中国消费者报 | 行业媒体 | 餐馆乱吹“全国第一”被罚；筋骨止痛凝胶、健胃消食口服液等转为非处方药 | https://mp.weixin.qq.com/s/veqMzxwrfiBHd5pOzjp9pw |
+| 10-12 11:00 | 公众号 | 央视财经 | 综合媒体 | 重要消息传出！国际油价，大跌！ | https://mp.weixin.qq.com/s/pN-9iO7fC1ncLoANBhBzXg |
+| 10-12 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 外交部：对巴拉圭通信和技术部长比利亚特采取反制措施 | https://mp.weixin.qq.com/s/V66cwbpuwhfmzkZSS0SKIw |
+| 10-12 11:00 | 公众号 | 界面新闻 | 综合媒体 | 将推手机子品牌“星芒”？华为回应 | https://mp.weixin.qq.com/s/8~N2OsIu1K62DbFciZ3LIA |
+| 10-12 11:00 | 公众号 | 新京报 | 综合媒体 | 中方决定：对比利亚特采取反制措施 | https://mp.weixin.qq.com/s/ksRcSL4R8uAr9gvDblkDyA |
+| 10-12 11:00 | 公众号 | 南方都市报 | 综合媒体 | 郑钦文献唱：不好意思有点走调了；回应夺冠：今年我经历了很不容易的一年 | https://mp.weixin.qq.com/s/61xjUFj6ues-8s4iHq3LKw |
+| 10-12 11:00 | 公众号 | 法治日报 | 综合媒体 | 国务院国资委原副部长级干部潘良被公诉，曾被批大肆收钱敛财，退而不休 | https://mp.weixin.qq.com/s/l9qDEOUB-4-rVgmacKNaYg |
+| 10-12 11:00 | 公众号 | 极目新闻 | 综合媒体 | 李连杰正式回应被传“抛妻弃子” | https://mp.weixin.qq.com/s/OF1qq97ERWZDjMx4rHeBRw |
+| 10-12 11:00 | 公众号 | 红网 | 综合媒体 | 外交部：对巴拉圭通信和技术部长比利亚特采取反制措施 | https://mp.weixin.qq.com/s/HeMzjUEuptXTcUR6qaD1hA |
+| 10-12 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 王守睿被查（附简历） | https://mp.weixin.qq.com/s/d7CSF-WlrbZy5tzhKElZDQ |
 | 10-12 10:51 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：牧原股份9月商品猪收入下滑6%；2030年，广东油茶冲180亿；农夫山泉上新“姜茶”草本饮料（2026年10月12日） | https://news.foodmate.net/2026/10/754632.html |
 | 10-12 10:00 | 公众号 | 央视财经 | 综合媒体 | 5分钟通关，15分钟到商圈！新皇岗口岸开通，深港更“近”了→ | https://mp.weixin.qq.com/s/~w0RST0km8x0AGxpk2EOKQ |
 | 10-12 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 独家｜傅莹对话冰岛前总统格里姆松：中国威胁北极是臆想，冰川融化才是真问题 | https://mp.weixin.qq.com/s/d2cGwGa65bN~u5lF5ktdXw |
@@ -38,6 +48,10 @@
 | 10-12 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 《中华人民共和国食品安全法（修订草案征求意见稿）》公开征求意见 | https://mp.weixin.qq.com/s/gtkj34UfRckzY2mdq~Yijg |
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 重庆曝光28批次不合格食品，有绿茶、高粱酒、饮用天然矿泉水等 | http://news.foodmate.net/2026/10/754630.html |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 山东省抽检特食重点工作推进会在聊城召开 | http://news.foodmate.net/2026/10/754596.html |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 20款密胺餐具实测！整体安全，但绝大部分人都用错了 | http://news.foodmate.net/2026/10/754592.html |
+| 10-12 | 网页 | 巨潮·力勤资源 | 上市公司公告 | 关于签订募集资金监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001246&orgId=9900057193&announcementId=1225600550&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·四会富仕 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300852&orgId=9900039723&announcementId=1225600539&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·金马游乐 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300756&orgId=9900030662&announcementId=1225600537&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·沧州明珠 | 上市公司公告 | 沧州明珠关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002108&orgId=9900002002&announcementId=1225600536&announcementTime=2026-10-12 |
@@ -47,7 +61,7 @@
 | 10-12 | 网页 | 巨潮·创力集团 | 上市公司公告 | 创力集团第五届董事会第二十七次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603012&orgId=9900023710&announcementId=1225600480&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·东百集团 | 上市公司公告 | 东百集团关于拟收购杭州快灵光电科技有限公司部分股权的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600693&orgId=gssh0600693&announcementId=1225600479&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·千里科技 | 上市公司公告 | 重庆千里科技股份有限公司2026年9月产销快报公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601777&orgId=9900016000&announcementId=1225600478&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·步科股份 | 上市公司公告 | 董事减持计划时间届满暨减持股份结果公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688160&orgId=9900032778&announcementId=1225600477&announcementTime=2026-10-12 |
+| 10-12 | 网页 | 界面新闻·消费 | 综合媒体 | 回力匹克“女店员剪男顾客吊牌”广告惹争议，品牌客服回应 | https://www.jiemian.com/article/15178336.html |
 | 10-11 17:00 | 公众号 | 央视财经 | 综合媒体 | 俄方通报“不明原因肺炎”死亡事件，世界卫生组织发声→ | https://mp.weixin.qq.com/s/rM6AoooriuQ8n0acW9iRVg |
 | 10-11 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减 | https://mp.weixin.qq.com/s/imLLizdYzov222O-FH1HKg |
 | 10-11 17:00 | 公众号 | 南方都市报 | 综合媒体 | 男子长期和母亲一起生活，为继承母亲手机号（非靓号），起诉2个姐姐，称想延续运营商优惠政策；法官：号码使用权可继承，所有权归国家 | https://mp.weixin.qq.com/s/tvG6IU17yhqrG5LZ-aGKhA |
