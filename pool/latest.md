@@ -1,7 +1,18 @@
-# 舆情候选池 1012（10-11 00:00 至今，176 条：公众号 156 + 网页 20）
+# 舆情候选池 1012（10-11 00:00 至今，187 条：公众号 167 + 网页 20）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 14:00 | 公众号 | 中国消费者报 | 行业媒体 | 抓现形！网红探店推广“帝王蟹套餐”，后厨查无此蟹 | https://mp.weixin.qq.com/s/ajcYQt18X-bVVqDKMoVkKA |
+| 10-12 14:00 | 公众号 | 央视财经 | 综合媒体 | 事关食品安全！中央政法委发文：从严查处，从重判罚→ | https://mp.weixin.qq.com/s/YWZg~eObU5-5MwymRA0S8g |
+| 10-12 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 宜信相关公司被警方立案侦查，实控人唐某(男，53岁)、赵某(女，51岁)等被采取刑事强制措施 | https://mp.weixin.qq.com/s/KefhDKS~AQRJR1MpeXJQ4w |
+| 10-12 14:00 | 公众号 | 界面新闻 | 综合媒体 | A股“股王”，市值跌破2000亿元 | https://mp.weixin.qq.com/s/~pFM0fdrW3lZpjMG7SNtAw |
+| 10-12 14:00 | 公众号 | 法治日报 | 综合媒体 | 中央政法委有关负责同志解读《关于依法从严查处危害食品安全违法犯罪的意见》 | https://mp.weixin.qq.com/s/apoK5JK~HJfuNFG1wnqeFQ |
+| 10-12 14:00 | 公众号 | 新京报 | 综合媒体 | 专访“幽灵粒子捕手”王贻芳：做科研，“走投无路”是常态 | https://mp.weixin.qq.com/s/MbUFoqixW3lwIv~ovCaaUw |
+| 10-12 14:00 | 公众号 | 南方都市报 | 综合媒体 | 广州深圳等多地网友：太夸张；霸王茶姬紧急回应 | https://mp.weixin.qq.com/s/BQKN74OpBYNgs2Y0hWTmZw |
+| 10-12 14:00 | 公众号 | 消费日报官方平台 | 行业媒体 | AI魔改经典影视、历史名人？微信：已清理2247条，三类内容被点名 | https://mp.weixin.qq.com/s/-L7Pb5OM6ku6BLsDwWcKNg |
+| 10-12 14:00 | 公众号 | 红网 | 综合媒体 | 我国杂交水稻育种实现重大突破 | https://mp.weixin.qq.com/s/ZC3eN743JUEtYz2c4Y-2-Q |
+| 10-12 14:00 | 公众号 | 今晚报 | 综合媒体 | 传出恋爱消息！知名演员方回应 | https://mp.weixin.qq.com/s/-DTlXXxexB5T7GsP5PJ9Ew |
+| 10-12 14:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子国庆假期被排7天班，一天都没去被开除，他不服：法定节假日有权拒绝加班；法院：后4天认定旷工，公司无需支付其经济赔偿金 | https://mp.weixin.qq.com/s/72D~7s~2J~LLDaQQkuH8Pg |
 | 10-12 13:00 | 公众号 | 上海市消保委 | 消协 | 2名内地女学生在澳门旅拍，被警方查获！案件正在处理；重要提醒：这事不能随便做 | https://mp.weixin.qq.com/s/v2vwf5LYDtOMYo~9peS2xA |
 | 10-12 13:00 | 公众号 | 央视财经 | 综合媒体 | 中方宣布反制！ | https://mp.weixin.qq.com/s/TrwSUeF73mVOl6q5St-9Jg |
 | 10-12 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 人大代表关注12345热线投诉滥用问题，湖北咸宁回应 | https://mp.weixin.qq.com/s/en6fr8k2CkbO0krxKbRwJQ |
