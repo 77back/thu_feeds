@@ -1,17 +1,28 @@
-# 舆情候选池 1012（10-11 00:00 至今，192 条：公众号 175 + 网页 17）
+# 舆情候选池 1012（10-11 00:00 至今，204 条：公众号 185 + 网页 19）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-13 | 网页 | 巨潮·石头科技 | 上市公司公告 | 北京石头世纪科技股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688169&orgId=9900039123&announcementId=1225600694&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·安乃达 | 上市公司公告 | 关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603350&orgId=gfbj0839807&announcementId=1225600693&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·禾川科技 | 上市公司公告 | 浙江禾川科技股份有限公司2026年员工持股计划第一次持有人会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688320&orgId=9900041893&announcementId=1225600692&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·美湖股份 | 上市公司公告 | 关于董事会延期换届选举的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603319&orgId=9900028874&announcementId=1225600691&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·电魂网络 | 上市公司公告 | 关于实际控制人权益变动进展暨完成过户登记的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603258&orgId=9900028871&announcementId=1225600690&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·国新能源 | 上市公司公告 | 山西省国新能源股份有限公司关于投资者联系电话变更的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600617&orgId=gssh0600617&announcementId=1225600689&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·中材国际 | 上市公司公告 | 中国中材国际工程股份有限公司关于公司2026年第三季度主要经营数据公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600970&orgId=gssh0600970&announcementId=1225600688&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·电投水电 | 上市公司公告 | 电投水电副董事长离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600292&orgId=gssh0600292&announcementId=1225600686&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·哈药股份 | 上市公司公告 | 哈药集团股份有限公司关于所属企业获得化学原料药上市申请批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600664&orgId=gssh0600664&announcementId=1225600685&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·邦基科技 | 上市公司公告 | 山东邦基科技股份有限公司第三届董事会第五次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603151&orgId=9900052705&announcementId=1225600653&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·赣锋锂业 | 上市公司公告 | 关于为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002460&orgId=9900013787&announcementId=1225600890&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·金奥博 | 上市公司公告 | 关于签署收购意向协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002917&orgId=9900034453&announcementId=1225600889&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·ST金鸿 | 上市公司公告 | 关于公司累计诉讼、仲裁的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000669&orgId=gssz0000669&announcementId=1225600888&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·淳中科技 | 上市公司公告 | 北京淳中科技股份有限公司关于以集中竞价交易方式首次回购股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603516&orgId=gfbj0834801&announcementId=1225600884&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·高铁电气 | 上市公司公告 | 高铁电气：2026年第一次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688285&orgId=gfbj0873023&announcementId=1225600882&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·汇嘉时代 | 上市公司公告 | 2026年前三季度业绩预增公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603101&orgId=9900026787&announcementId=1225600880&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·如通股份 | 上市公司公告 | 如通股份关于第一大股东股份被轮候冻结的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603036&orgId=9900026788&announcementId=1225600879&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·沪电股份 | 上市公司公告 | 关于与专业投资机构共同投资的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002463&orgId=9900013929&announcementId=1225600878&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·*ST雅博 | 上市公司公告 | 关于中标项目的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002323&orgId=9900009449&announcementId=1225600877&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·远 | 上市公司公告 | 关于变更财务负责人的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002161&orgId=9900003442&announcementId=1225600874&announcementTime=2026-10-13 |
+| 10-12 16:12 | 网页 | 食品伙伴网 | 产经动态 | 10月12日：“农产品批发价格200指数”比上周六下降0.13个点 | https://news.foodmate.net/2026/10/754659.html |
+| 10-12 16:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管执法队伍“清风铁纪”教育整顿成效调查问卷 | https://mp.weixin.qq.com/s/wk4uUo0dSqQMkhuN~3woug |
+| 10-12 16:00 | 公众号 | 央视财经 | 综合媒体 | 总台曝光后，吉林松原、白城最新通报！ | https://mp.weixin.qq.com/s/5nCUOlCq2ScOB~Evz5N6rg |
+| 10-12 16:00 | 公众号 | 上海市场监管 | 监管·地方 | 上海市市场监督管理局关于公开征集市场监管领域涉黑涉恶违法线索的公告 | https://mp.weixin.qq.com/s/TLSoh7G8ipx1sqQDYSqZJg |
+| 10-12 16:00 | 公众号 | 界面新闻 | 综合媒体 | 投资1.2亿项目仅建成5个棚：谁在放任空壳公司“两头骗”？ | https://mp.weixin.qq.com/s/XOsSYMpsY0IbJxe87FqQiA |
+| 10-12 16:00 | 公众号 | 新京报 | 综合媒体 | “敌敌畏消杀餐厅”事件，已有涉案人员被批捕 | https://mp.weixin.qq.com/s/Wp7YQc-s2FM8BilH34F42g |
+| 10-12 16:00 | 公众号 | 南方都市报 | 综合媒体 | 妻子找不到在香港的丈夫，向朋友求助，朋友报警后，香港警方在鱼塘找到了男子遗体；初步调查：为非法劳工，雇主被抓，重案组跟进调查 | https://mp.weixin.qq.com/s/50i-7yBOJvo9Z-XNeqH9QQ |
+| 10-12 16:00 | 公众号 | 法治日报 | 综合媒体 | 儿科医生按叫号顺序先救重伤患儿，后一号家长插队失败打电话投诉；医生最新回应：家长冷静后已道歉，投诉未成立 | https://mp.weixin.qq.com/s/vd93aBkW95zqATN2IBtJUA |
+| 10-12 16:00 | 公众号 | 极目新闻 | 综合媒体 | 郑钦文中网夺冠次日现身八达岭长城拍写真，多人偶遇 | https://mp.weixin.qq.com/s/7Sne7dcL2s6lKZ7C~vz5mw |
+| 10-12 16:00 | 公众号 | 中国新闻网 | 综合媒体 | 中方：对比利亚特、丰塞卡加以惩戒，以儆效尤 | https://mp.weixin.qq.com/s/csJjWKl1MRtXX-WjtVrEDg |
+| 10-12 16:00 | 公众号 | 红网 | 综合媒体 | 第三轮第七批中央生态环境保护督察启动 | https://mp.weixin.qq.com/s/aTo77JXEcjhazLDDSKindA |
 | 10-12 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吉林松原通报：市政府紧急召开会议、成立联合调查组，赴现场开展调查 | https://mp.weixin.qq.com/s/i9COFYqQyDjClljVQxgsBw |
 | 10-12 15:00 | 公众号 | 新京报 | 综合媒体 | 奇瑞汽车致歉 | https://mp.weixin.qq.com/s/oHVnA5CC3KO3yM3Wzx-wOw |
 | 10-12 15:00 | 公众号 | 南方都市报 | 综合媒体 | 被质疑偷骨灰，梅艳芳大哥跪地大哭：我偷骨灰干什么，那是我亲妹 | https://mp.weixin.qq.com/s/lo0W859HYWbat~U8-2KjEQ |
@@ -97,6 +108,7 @@
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
 | 10-12 | 网页 | 界面新闻·消费 | 综合媒体 | 回力匹克“女店员剪男顾客吊牌”广告惹争议，品牌客服回应 | https://www.jiemian.com/article/15178336.html |
+| 10-12 | 网页 | 澎湃·质量观 | 行业媒体 | 一公司出借电商直播间放任虚假宣传被罚，涉事AHCC相关产品仍在多平台售卖 | https://www.thepaper.cn/newsDetail_forward_34235947 |
 | 10-11 17:00 | 公众号 | 央视财经 | 综合媒体 | 俄方通报“不明原因肺炎”死亡事件，世界卫生组织发声→ | https://mp.weixin.qq.com/s/rM6AoooriuQ8n0acW9iRVg |
 | 10-11 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减 | https://mp.weixin.qq.com/s/imLLizdYzov222O-FH1HKg |
 | 10-11 17:00 | 公众号 | 南方都市报 | 综合媒体 | 男子长期和母亲一起生活，为继承母亲手机号（非靓号），起诉2个姐姐，称想延续运营商优惠政策；法官：号码使用权可继承，所有权归国家 | https://mp.weixin.qq.com/s/tvG6IU17yhqrG5LZ-aGKhA |
