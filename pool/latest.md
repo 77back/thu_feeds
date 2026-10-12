@@ -1,7 +1,18 @@
-# 舆情候选池 1012（10-11 00:00 至今，162 条：公众号 145 + 网页 17）
+# 舆情候选池 1012（10-11 00:00 至今，176 条：公众号 156 + 网页 20）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 13:00 | 公众号 | 上海市消保委 | 消协 | 2名内地女学生在澳门旅拍，被警方查获！案件正在处理；重要提醒：这事不能随便做 | https://mp.weixin.qq.com/s/v2vwf5LYDtOMYo~9peS2xA |
+| 10-12 13:00 | 公众号 | 央视财经 | 综合媒体 | 中方宣布反制！ | https://mp.weixin.qq.com/s/TrwSUeF73mVOl6q5St-9Jg |
+| 10-12 13:00 | 公众号 | 澎湃新闻 | 综合媒体 | 人大代表关注12345热线投诉滥用问题，湖北咸宁回应 | https://mp.weixin.qq.com/s/en6fr8k2CkbO0krxKbRwJQ |
+| 10-12 13:00 | 公众号 | 新京报 | 综合媒体 | 中央政法委有关负责同志：聚焦社会高度关切的肉制品、校园食品、保健食品、蔬菜水果等重点领域，督办一批重大案件，严惩一批违法犯罪分子 | https://mp.weixin.qq.com/s/ksBDwQ2wqSN3w5dUysl37g |
+| 10-12 13:00 | 公众号 | 界面新闻 | 综合媒体 | 宇树王兴兴：我犯的最大错误是对AI相信得还不够 | https://mp.weixin.qq.com/s/BgPf5aDDUSx7FT1YqZecdQ |
+| 10-12 13:00 | 公众号 | 法治日报 | 综合媒体 | 某部队进出营区的必经道路上，有30余只监控摄像头，可拍到部队活动，相关部门采取措施调整固定方向、断网、拆除，消除涉军安全隐患 | https://mp.weixin.qq.com/s/ht7lBDKAs2kBwikI-KXiMw |
+| 10-12 13:00 | 公众号 | 南方都市报 | 综合媒体 | 官方：“甲醛白菜”“敌敌畏消杀”“药水杨梅”等严重冲击食品安全底线；从严查处危害食品安全违法犯罪，严格控制缓刑、免予刑事处罚适用 | https://mp.weixin.qq.com/s/D0V~IwIBahzheSAMA4STwg |
+| 10-12 13:00 | 公众号 | 极目新闻 | 综合媒体 | 今早“崩了”冲上热搜！武汉人已买疯，前方还有848杯…… | https://mp.weixin.qq.com/s/VphNHYDUrgzU4FH9GHeQNg |
+| 10-12 13:00 | 公众号 | 今晚报 | 综合媒体 | 就在天津！15起“事故”接连上演！ 李某“赚”了10余万 | https://mp.weixin.qq.com/s/BYzgQJwn5DbALvXNRfMYYQ |
+| 10-12 13:00 | 公众号 | 红网 | 综合媒体 | 事关肉制品、校园食品，中央政法委发文！这些行为将被从严查处 | https://mp.weixin.qq.com/s/YoMQrqjZZk3~Pm9McGLsSw |
+| 10-12 13:00 | 公众号 | 北京市场监管 | 监管·地方 | 警惕减压玩具成“加压”隐患，北京市消费者协会发布38款减压玩具比较试验结果 | https://mp.weixin.qq.com/s/m4EccB9KBtO0SCMNXBHa~g |
 | 10-12 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 郑钦文因伤退赛 | https://mp.weixin.qq.com/s/sgyaeJhQYvCG-HafbgRJDg |
 | 10-12 12:00 | 公众号 | 新京报 | 综合媒体 | 郑钦文退出武汉网球公开赛 | https://mp.weixin.qq.com/s/Nwyot3YOwUS0~Zj82xS4wA |
 | 10-12 12:00 | 公众号 | 界面新闻 | 综合媒体 | 人口“小普查”性别比回归合理区间 | https://mp.weixin.qq.com/s/yw9OOKC8vnDie6clzC~CHw |
@@ -56,6 +67,9 @@
 | 10-12 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 《中华人民共和国食品安全法（修订草案征求意见稿）》公开征求意见 | https://mp.weixin.qq.com/s/gtkj34UfRckzY2mdq~Yijg |
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 重庆曝光28批次不合格食品，有绿茶、高粱酒、饮用天然矿泉水等 | http://news.foodmate.net/2026/10/754630.html |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 山东省抽检特食重点工作推进会在聊城召开 | http://news.foodmate.net/2026/10/754596.html |
+| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 20款密胺餐具实测！整体安全，但绝大部分人都用错了 | http://news.foodmate.net/2026/10/754592.html |
 | 10-12 | 网页 | 巨潮·力勤资源 | 上市公司公告 | 关于签订募集资金监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001246&orgId=9900057193&announcementId=1225600550&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·四会富仕 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300852&orgId=9900039723&announcementId=1225600539&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·金马游乐 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300756&orgId=9900030662&announcementId=1225600537&announcementTime=2026-10-12 |
