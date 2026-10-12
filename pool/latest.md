@@ -1,18 +1,27 @@
-# 舆情候选池 1012（10-11 00:00 至今，204 条：公众号 185 + 网页 19）
+# 舆情候选池 1012（10-11 00:00 至今，208 条：公众号 195 + 网页 13）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
-| 10-13 | 网页 | 巨潮·赣锋锂业 | 上市公司公告 | 关于为控股子公司提供担保的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002460&orgId=9900013787&announcementId=1225600890&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·金奥博 | 上市公司公告 | 关于签署收购意向协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002917&orgId=9900034453&announcementId=1225600889&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·ST金鸿 | 上市公司公告 | 关于公司累计诉讼、仲裁的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=000669&orgId=gssz0000669&announcementId=1225600888&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·淳中科技 | 上市公司公告 | 北京淳中科技股份有限公司关于以集中竞价交易方式首次回购股份的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603516&orgId=gfbj0834801&announcementId=1225600884&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·高铁电气 | 上市公司公告 | 高铁电气：2026年第一次临时股东会会议资料 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688285&orgId=gfbj0873023&announcementId=1225600882&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·汇嘉时代 | 上市公司公告 | 2026年前三季度业绩预增公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603101&orgId=9900026787&announcementId=1225600880&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·如通股份 | 上市公司公告 | 如通股份关于第一大股东股份被轮候冻结的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603036&orgId=9900026788&announcementId=1225600879&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·沪电股份 | 上市公司公告 | 关于与专业投资机构共同投资的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002463&orgId=9900013929&announcementId=1225600878&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·*ST雅博 | 上市公司公告 | 关于中标项目的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002323&orgId=9900009449&announcementId=1225600877&announcementTime=2026-10-13 |
-| 10-13 | 网页 | 巨潮·远 | 上市公司公告 | 关于变更财务负责人的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002161&orgId=9900003442&announcementId=1225600874&announcementTime=2026-10-13 |
-| 10-12 16:12 | 网页 | 食品伙伴网 | 产经动态 | 10月12日：“农产品批发价格200指数”比上周六下降0.13个点 | https://news.foodmate.net/2026/10/754659.html |
+| 10-13 | 网页 | 巨潮·鼎阳科技 | 上市公司公告 | 鼎阳科技关于2024年限制性股票激励计划首次授予第二个归属期归属结果暨股票上市公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688112&orgId=nssc1000555&announcementId=1225601629&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·罗曼股份 | 上市公司公告 | 罗曼股份：股权激励限制性股票回购注销实施的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605289&orgId=gfbj0430662&announcementId=1225601620&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·伊泰Ｂ股 | 上市公司公告 | 内蒙古伊泰煤炭股份有限公司2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=900948&orgId=gssh0900948&announcementId=1225601624&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·中国外运 | 上市公司公告 | 2026年半年度权益分派实施公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601598&orgId=gshk0000598&announcementId=1225601622&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·*ST尔雅 | 上市公司公告 | 关于控股股东所持公司部分股份司法拍卖的进展公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600107&orgId=gssh0600107&announcementId=1225601565&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·久日新材 | 上市公司公告 | 天津久日新材料股份有限公司关于归还临时补充流动资金的闲置募集资金的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688199&orgId=9900024207&announcementId=1225601564&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·华建集团 | 上市公司公告 | 华建集团关于下属公司签订日常经营合同的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600629&orgId=gssh0600629&announcementId=1225601563&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·睿能科技 | 上市公司公告 | 睿能科技关于发行股份及支付现金购买资产并募集配套资金签订补充协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603933&orgId=9900031816&announcementId=1225601562&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·文投控股 | 上市公司公告 | 文投控股股份有限公司十一届董事会第十八次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600715&orgId=gssh0600715&announcementId=1225601561&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·建设机械 | 上市公司公告 | 建设机械2026年第四次临时股东会决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600984&orgId=gssh0600984&announcementId=1225601558&announcementTime=2026-10-13 |
+| 10-12 17:00 | 公众号 | 市说新语 | 监管·总局 | 中央政法委有关负责同志解读《关于依法从严查处危害食品安全违法犯罪的意见》 | https://mp.weixin.qq.com/s/0mHpl3iYxpINnFzJlamO~w |
+| 10-12 17:00 | 公众号 | 央视财经 | 综合媒体 | 白酒，大涨！贵州茅台，重返A股“第一高价股” | https://mp.weixin.qq.com/s/gxTIHD-X~-1EKAf613I3MA |
+| 10-12 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 多地近期组织筛查干部档案疑点问题并整改 | https://mp.weixin.qq.com/s/TbDtPMkEAFAPMRdKLoR74w |
+| 10-12 17:00 | 公众号 | 界面新闻 | 综合媒体 | 吉利收购福特西班牙工厂获批 | https://mp.weixin.qq.com/s/t5dpxCK~gRI6LMct22qmOw |
+| 10-12 17:00 | 公众号 | 新京报 | 综合媒体 | 湖南一男子体检CT异常未获提醒，半年后查出肺癌晚期，体检机构被判赔18万元却未支付 | https://mp.weixin.qq.com/s/6ihEf5yAtb3WWXsXhDD~Yg |
+| 10-12 17:00 | 公众号 | 法治日报 | 综合媒体 | “后妈丢了100块钱，说是我拿的”，湖南15岁女孩被继母怀疑拿钱负气出走，靠视频自学开车，从湖南一路开到贵州，交警：无证驾驶罚1000元 | https://mp.weixin.qq.com/s/k2DwBL8hoX1byo35dk1YQw |
+| 10-12 17:00 | 公众号 | 南方都市报 | 综合媒体 | 蒙古国草原火逼近我国边境，阿尔山景区能闻到烟味，“早前还能看到飘过来的烟雾”，内蒙古紧急调集扑火队伍，2000余人正在堵截 | https://mp.weixin.qq.com/s/YlL1kk2LBnZj9FuVlvKO9g |
+| 10-12 17:00 | 公众号 | 极目新闻 | 综合媒体 | 员工拒绝晚6点至8点加班被辞退，法院二审判公司赔55818.78元，认为系违法解除劳动合同；观点：这是司法对 “变相强制加班” 的坚决否定 | https://mp.weixin.qq.com/s/LRXgVvfurxPlKBguazHn7Q |
+| 10-12 17:00 | 公众号 | 中国新闻网 | 综合媒体 | 为继承母亲手机号码，弟弟将两位姐姐起诉到法院，本人称：手机号码并非靓号，只是想继续享受运营商的优惠政策 | https://mp.weixin.qq.com/s/wFZSeaFzwyd6rBAhKOskZg |
+| 10-12 17:00 | 公众号 | 红网 | 综合媒体 | 《我在“县”场》国庆特辑放榜！快看哪些县融好作品上榜 | https://mp.weixin.qq.com/s/gYjnri~xp1u0Uc-eVAqNdQ |
 | 10-12 16:00 | 公众号 | 中国市场监管报 | 行业媒体 | 市场监管执法队伍“清风铁纪”教育整顿成效调查问卷 | https://mp.weixin.qq.com/s/wk4uUo0dSqQMkhuN~3woug |
 | 10-12 16:00 | 公众号 | 央视财经 | 综合媒体 | 总台曝光后，吉林松原、白城最新通报！ | https://mp.weixin.qq.com/s/5nCUOlCq2ScOB~Evz5N6rg |
 | 10-12 16:00 | 公众号 | 上海市场监管 | 监管·地方 | 上海市市场监督管理局关于公开征集市场监管领域涉黑涉恶违法线索的公告 | https://mp.weixin.qq.com/s/TLSoh7G8ipx1sqQDYSqZJg |
@@ -71,7 +80,6 @@
 | 10-12 11:00 | 公众号 | 极目新闻 | 综合媒体 | 李连杰正式回应被传“抛妻弃子” | https://mp.weixin.qq.com/s/OF1qq97ERWZDjMx4rHeBRw |
 | 10-12 11:00 | 公众号 | 红网 | 综合媒体 | 外交部：对巴拉圭通信和技术部长比利亚特采取反制措施 | https://mp.weixin.qq.com/s/HeMzjUEuptXTcUR6qaD1hA |
 | 10-12 11:00 | 公众号 | 中国新闻网 | 综合媒体 | 王守睿被查（附简历） | https://mp.weixin.qq.com/s/d7CSF-WlrbZy5tzhKElZDQ |
-| 10-12 10:51 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：牧原股份9月商品猪收入下滑6%；2030年，广东油茶冲180亿；农夫山泉上新“姜茶”草本饮料（2026年10月12日） | https://news.foodmate.net/2026/10/754632.html |
 | 10-12 10:00 | 公众号 | 央视财经 | 综合媒体 | 5分钟通关，15分钟到商圈！新皇岗口岸开通，深港更“近”了→ | https://mp.weixin.qq.com/s/~w0RST0km8x0AGxpk2EOKQ |
 | 10-12 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 独家｜傅莹对话冰岛前总统格里姆松：中国威胁北极是臆想，冰川融化才是真问题 | https://mp.weixin.qq.com/s/d2cGwGa65bN~u5lF5ktdXw |
 | 10-12 10:00 | 公众号 | 新京报 | 综合媒体 | “有点后怕”，周鸿祎攀岩从3米高处坠落，左膝粉碎性骨折，安全提示—— | https://mp.weixin.qq.com/s/MV7J6dgbDNylF15Rl-MChQ |
@@ -90,8 +98,6 @@
 | 10-12 09:00 | 公众号 | 界面新闻 | 综合媒体 | 泽连斯基回应特朗普：乌克兰领导人应由乌人民决定 | https://mp.weixin.qq.com/s/CaSmhgyiahpRay9vzOpRog |
 | 10-12 09:00 | 公众号 | 红网 | 综合媒体 | 非法破解无人机并售卖，胡某某获利2万余元，涉案无人机存在多条超高“黑飞”记录，获刑8个月并处罚金5000元 | https://mp.weixin.qq.com/s/S20LjglLk~2iW5pqu1Ui8Q |
 | 10-12 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 马斯克：我太眼拙了，没认出您的真实身份 | https://mp.weixin.qq.com/s/7zVt2yU3r1PQ84q6xrO8UA |
-| 10-12 08:47 | 网页 | 食品伙伴网 | 产经动态 | 速度力量类运动营养食品：原料、作用机理、配伍逻辑 | https://news.foodmate.net/2026/10/754591.html |
-| 10-12 08:36 | 网页 | 食品伙伴网 | 产经动态 | 看懂 4 类变性淀粉，搞定火锅底料、蚝油、汤包体系稳定性 | https://news.foodmate.net/2026/10/754588.html |
 | 10-12 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 禁止全隐藏式门把手！四部门发布→ | https://mp.weixin.qq.com/s/rd058CvnRAX7sxkUJDzKrw |
 | 10-12 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 15批次妇女用品（含卫生巾、护垫等）抽查  快看看结果如何？ | https://mp.weixin.qq.com/s/a4B03UZcq7APnngzKaVc7w |
 | 10-12 08:00 | 公众号 | 央视财经 | 综合媒体 | 270多家企业，集体招人！这类人才，急缺→ | https://mp.weixin.qq.com/s/9RrihvBFzkPb7wfsn-gyjg |
@@ -180,8 +186,6 @@
 | 10-11 09:00 | 公众号 | 中国新闻网 | 综合媒体 | 男子在香港住酒店下楼抽烟，2分钟内价值3000万港元黄金被换成30公斤柔顺剂，警方：系同行朋友精心策划，已拘捕2人 | https://mp.weixin.qq.com/s/cbFY6xgVP6gW4gECIUrdfg |
 | 10-11 09:00 | 公众号 | 四川省消委会 | 消协 | 你的押金可能被“偷”了！假期归来，这笔账记得查→ | https://mp.weixin.qq.com/s/nXket1UTulnGXBvsR7H~4g |
 | 10-11 09:00 | 公众号 | 食事求真 | 行业媒体 | 国庆消费8.26亿人次点燃白酒 金徽酒领涨板块两日走强 | https://mp.weixin.qq.com/s/s8J2SQpDcfT-Ax~9ZmPMIw |
-| 10-11 08:27 | 网页 | 食品伙伴网 | 产经动态 | 吕梁沙棘汁首次出口美国 | https://news.foodmate.net/2026/10/754555.html |
-| 10-11 08:25 | 网页 | 食品伙伴网 | 产经动态 | 首单出海！罗源鲜活鲍鱼远销越南 | https://news.foodmate.net/2026/10/754557.html |
 | 10-11 08:00 | 公众号 | 中国消费者报 | 行业媒体 | 你押金退了吗？假期归来，这笔账记得查→ | https://mp.weixin.qq.com/s/wQRYXhUl~tpeFboVpHU5Sg |
 | 10-11 08:00 | 公众号 | 市说新语 | 监管·总局 | 回应突出问题，食品安全法迎来又一次大修！ | https://mp.weixin.qq.com/s/uLIJZOGmYi-y1k19XddFbg |
 | 10-11 08:00 | 公众号 | 中国质量新闻网 | 行业媒体 | 慎买！这款女运动鞋抽查不合格！ | https://mp.weixin.qq.com/s/EGQMvmawefWquBC5ZOQMAA |
