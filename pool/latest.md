@@ -1,7 +1,25 @@
-# 舆情候选池 1012（10-11 00:00 至今，187 条：公众号 167 + 网页 20）
+# 舆情候选池 1012（10-11 00:00 至今，192 条：公众号 175 + 网页 17）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-13 | 网页 | 巨潮·石头科技 | 上市公司公告 | 北京石头世纪科技股份有限公司关于召开2026年半年度业绩说明会的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688169&orgId=9900039123&announcementId=1225600694&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·安乃达 | 上市公司公告 | 关于使用部分闲置募集资金进行现金管理到期赎回的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603350&orgId=gfbj0839807&announcementId=1225600693&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·禾川科技 | 上市公司公告 | 浙江禾川科技股份有限公司2026年员工持股计划第一次持有人会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688320&orgId=9900041893&announcementId=1225600692&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·美湖股份 | 上市公司公告 | 关于董事会延期换届选举的提示性公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603319&orgId=9900028874&announcementId=1225600691&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·电魂网络 | 上市公司公告 | 关于实际控制人权益变动进展暨完成过户登记的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603258&orgId=9900028871&announcementId=1225600690&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·国新能源 | 上市公司公告 | 山西省国新能源股份有限公司关于投资者联系电话变更的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600617&orgId=gssh0600617&announcementId=1225600689&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·中材国际 | 上市公司公告 | 中国中材国际工程股份有限公司关于公司2026年第三季度主要经营数据公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600970&orgId=gssh0600970&announcementId=1225600688&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·电投水电 | 上市公司公告 | 电投水电副董事长离任的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600292&orgId=gssh0600292&announcementId=1225600686&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·哈药股份 | 上市公司公告 | 哈药集团股份有限公司关于所属企业获得化学原料药上市申请批准通知书的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600664&orgId=gssh0600664&announcementId=1225600685&announcementTime=2026-10-13 |
+| 10-13 | 网页 | 巨潮·邦基科技 | 上市公司公告 | 山东邦基科技股份有限公司第三届董事会第五次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603151&orgId=9900052705&announcementId=1225600653&announcementTime=2026-10-13 |
+| 10-12 15:00 | 公众号 | 澎湃新闻 | 综合媒体 | 吉林松原通报：市政府紧急召开会议、成立联合调查组，赴现场开展调查 | https://mp.weixin.qq.com/s/i9COFYqQyDjClljVQxgsBw |
+| 10-12 15:00 | 公众号 | 新京报 | 综合媒体 | 奇瑞汽车致歉 | https://mp.weixin.qq.com/s/oHVnA5CC3KO3yM3Wzx-wOw |
+| 10-12 15:00 | 公众号 | 南方都市报 | 综合媒体 | 被质疑偷骨灰，梅艳芳大哥跪地大哭：我偷骨灰干什么，那是我亲妹 | https://mp.weixin.qq.com/s/lo0W859HYWbat~U8-2KjEQ |
+| 10-12 15:00 | 公众号 | 法治日报 | 综合媒体 | 男子在河道捞沙时捡到春秋编钟卖了30万元，被判5年并追缴违法所得；公安机关依法扣押涉案编钟，经鉴定属二级文物 | https://mp.weixin.qq.com/s/fNuhsHoNqvkzwbpiua1nAw |
+| 10-12 15:00 | 公众号 | 界面新闻 | 综合媒体 | 茅台重夺“股王”宝座 | https://mp.weixin.qq.com/s/TegXm5K9iAnGafwoli6A2A |
+| 10-12 15:00 | 公众号 | 极目新闻 | 综合媒体 | 中雨大雨暴雨，即将抵达湖北 | https://mp.weixin.qq.com/s/DqAqPTsUFfnjQX4vuvtd7g |
+| 10-12 15:00 | 公众号 | 红网 | 综合媒体 | 千亩良田变荒地，央视曝光农业大棚被撂荒；吉林省松原市紧急开会、成立联合调查组 | https://mp.weixin.qq.com/s/2nLlgMQprKSgRtIY0F5KMA |
+| 10-12 15:00 | 公众号 | 中国新闻网 | 综合媒体 | 女子3个月内对盒马399件商品申请仅退款，若快递员取件，她就将吃剩的部分退还，店员称“只要她买了就退”，已被警方采取刑事强制措施 | https://mp.weixin.qq.com/s/Toln1LfsxQv40L-gG5X1vw |
 | 10-12 14:00 | 公众号 | 中国消费者报 | 行业媒体 | 抓现形！网红探店推广“帝王蟹套餐”，后厨查无此蟹 | https://mp.weixin.qq.com/s/ajcYQt18X-bVVqDKMoVkKA |
 | 10-12 14:00 | 公众号 | 央视财经 | 综合媒体 | 事关食品安全！中央政法委发文：从严查处，从重判罚→ | https://mp.weixin.qq.com/s/YWZg~eObU5-5MwymRA0S8g |
 | 10-12 14:00 | 公众号 | 澎湃新闻 | 综合媒体 | 宜信相关公司被警方立案侦查，实控人唐某(男，53岁)、赵某(女，51岁)等被采取刑事强制措施 | https://mp.weixin.qq.com/s/KefhDKS~AQRJR1MpeXJQ4w |
@@ -78,19 +96,6 @@
 | 10-12 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 《中华人民共和国食品安全法（修订草案征求意见稿）》公开征求意见 | https://mp.weixin.qq.com/s/gtkj34UfRckzY2mdq~Yijg |
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 重庆曝光28批次不合格食品，有绿茶、高粱酒、饮用天然矿泉水等 | http://news.foodmate.net/2026/10/754630.html |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 山东省抽检特食重点工作推进会在聊城召开 | http://news.foodmate.net/2026/10/754596.html |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 20款密胺餐具实测！整体安全，但绝大部分人都用错了 | http://news.foodmate.net/2026/10/754592.html |
-| 10-12 | 网页 | 巨潮·力勤资源 | 上市公司公告 | 关于签订募集资金监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001246&orgId=9900057193&announcementId=1225600550&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·四会富仕 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300852&orgId=9900039723&announcementId=1225600539&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·金马游乐 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300756&orgId=9900030662&announcementId=1225600537&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·沧州明珠 | 上市公司公告 | 沧州明珠关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002108&orgId=9900002002&announcementId=1225600536&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·粤芯半导体 | 上市公司公告 | 北京市康达律师事务所关于公司首次公开发行股票并在创业板上市的法律意见书 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=301660&orgId=9900063681&announcementId=1225600524&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·城市传媒 | 上市公司公告 | 青岛城市传媒股份有限公司关于召开2026年第二次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600229&orgId=gssh0600229&announcementId=1225600511&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·杭州热电 | 上市公司公告 | 杭州热电集团股份有限公司关于召开2026年第四次临时股东会的通知 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=605011&orgId=9900039850&announcementId=1225600488&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·创力集团 | 上市公司公告 | 创力集团第五届董事会第二十七次会议决议公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603012&orgId=9900023710&announcementId=1225600480&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·东百集团 | 上市公司公告 | 东百集团关于拟收购杭州快灵光电科技有限公司部分股权的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=600693&orgId=gssh0600693&announcementId=1225600479&announcementTime=2026-10-12 |
-| 10-12 | 网页 | 巨潮·千里科技 | 上市公司公告 | 重庆千里科技股份有限公司2026年9月产销快报公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601777&orgId=9900016000&announcementId=1225600478&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 界面新闻·消费 | 综合媒体 | 回力匹克“女店员剪男顾客吊牌”广告惹争议，品牌客服回应 | https://www.jiemian.com/article/15178336.html |
 | 10-11 17:00 | 公众号 | 央视财经 | 综合媒体 | 俄方通报“不明原因肺炎”死亡事件，世界卫生组织发声→ | https://mp.weixin.qq.com/s/rM6AoooriuQ8n0acW9iRVg |
 | 10-11 17:00 | 公众号 | 澎湃新闻 | 综合媒体 | 专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减 | https://mp.weixin.qq.com/s/imLLizdYzov222O-FH1HKg |
