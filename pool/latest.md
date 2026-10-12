@@ -1,7 +1,15 @@
-# 舆情候选池 1012（10-11 00:00 至今，157 条：公众号 137 + 网页 20）
+# 舆情候选池 1012（10-11 00:00 至今，162 条：公众号 145 + 网页 17）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 12:00 | 公众号 | 澎湃新闻 | 综合媒体 | 郑钦文因伤退赛 | https://mp.weixin.qq.com/s/sgyaeJhQYvCG-HafbgRJDg |
+| 10-12 12:00 | 公众号 | 新京报 | 综合媒体 | 郑钦文退出武汉网球公开赛 | https://mp.weixin.qq.com/s/Nwyot3YOwUS0~Zj82xS4wA |
+| 10-12 12:00 | 公众号 | 界面新闻 | 综合媒体 | 人口“小普查”性别比回归合理区间 | https://mp.weixin.qq.com/s/yw9OOKC8vnDie6clzC~CHw |
+| 10-12 12:00 | 公众号 | 法治日报 | 综合媒体 | 上海阿姨把4件黄金饰品藏在鱼嘴里，伪装成黄鱼包裹，为规避检查，临时找村民恳求将包裹暂存其家中，民警紧急上门拦下…… | https://mp.weixin.qq.com/s/tB8cpO2iI9xSZPFMzEJ27w |
+| 10-12 12:00 | 公众号 | 南方都市报 | 综合媒体 | 郑钦文，退出2026年武汉网球公开赛 | https://mp.weixin.qq.com/s/O24MeQB~cJprPuA0tXC~Wg |
+| 10-12 12:00 | 公众号 | 极目新闻 | 综合媒体 | 凌晨四点多夫妻吵架，丈夫用健身棒袭击，妻子取出两把菜刀攻击，其间丈夫病发倒地不治，澳门警方：62岁妻子被捕 | https://mp.weixin.qq.com/s/yEwsMZBWHLd6u4FWo5hQvA |
+| 10-12 12:00 | 公众号 | 红网 | 综合媒体 | 提前锁定亚军！“张雪机车”车手德比斯发声 | https://mp.weixin.qq.com/s/bQXJGCS2LDND5fvuwAhZNA |
+| 10-12 12:00 | 公众号 | 中国新闻网 | 综合媒体 | 某部队进出营区必经道路上，竟有30余个探头，可拍到部队活动且能联网，存在军事泄密隐患，相关部门迅速行动 | https://mp.weixin.qq.com/s/MXAi2-wdgfv5A9OTQeHwUQ |
 | 10-12 11:00 | 公众号 | 中国消费者报 | 行业媒体 | 餐馆乱吹“全国第一”被罚；筋骨止痛凝胶、健胃消食口服液等转为非处方药 | https://mp.weixin.qq.com/s/veqMzxwrfiBHd5pOzjp9pw |
 | 10-12 11:00 | 公众号 | 央视财经 | 综合媒体 | 重要消息传出！国际油价，大跌！ | https://mp.weixin.qq.com/s/pN-9iO7fC1ncLoANBhBzXg |
 | 10-12 11:00 | 公众号 | 澎湃新闻 | 综合媒体 | 外交部：对巴拉圭通信和技术部长比利亚特采取反制措施 | https://mp.weixin.qq.com/s/V66cwbpuwhfmzkZSS0SKIw |
@@ -48,9 +56,6 @@
 | 10-12 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 《中华人民共和国食品安全法（修订草案征求意见稿）》公开征求意见 | https://mp.weixin.qq.com/s/gtkj34UfRckzY2mdq~Yijg |
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 重庆曝光28批次不合格食品，有绿茶、高粱酒、饮用天然矿泉水等 | http://news.foodmate.net/2026/10/754630.html |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 山东省抽检特食重点工作推进会在聊城召开 | http://news.foodmate.net/2026/10/754596.html |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 20款密胺餐具实测！整体安全，但绝大部分人都用错了 | http://news.foodmate.net/2026/10/754592.html |
 | 10-12 | 网页 | 巨潮·力勤资源 | 上市公司公告 | 关于签订募集资金监管协议的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=001246&orgId=9900057193&announcementId=1225600550&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·四会富仕 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300852&orgId=9900039723&announcementId=1225600539&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·金马游乐 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300756&orgId=9900030662&announcementId=1225600537&announcementTime=2026-10-12 |
