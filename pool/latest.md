@@ -1,7 +1,17 @@
-# 舆情候选池 1012（10-11 00:00 至今，135 条：公众号 118 + 网页 17）
+# 舆情候选池 1012（10-11 00:00 至今，143 条：公众号 127 + 网页 16）
 
 | 时间 | 类型 | 来源 | 类别 | 标题 | 链接 |
 |---|---|---|---|---|---|
+| 10-12 10:51 | 网页 | 食品伙伴网 | 产经动态 | 食品行业产经动态：牧原股份9月商品猪收入下滑6%；2030年，广东油茶冲180亿；农夫山泉上新“姜茶”草本饮料（2026年10月12日） | https://news.foodmate.net/2026/10/754632.html |
+| 10-12 10:00 | 公众号 | 央视财经 | 综合媒体 | 5分钟通关，15分钟到商圈！新皇岗口岸开通，深港更“近”了→ | https://mp.weixin.qq.com/s/~w0RST0km8x0AGxpk2EOKQ |
+| 10-12 10:00 | 公众号 | 澎湃新闻 | 综合媒体 | 独家｜傅莹对话冰岛前总统格里姆松：中国威胁北极是臆想，冰川融化才是真问题 | https://mp.weixin.qq.com/s/d2cGwGa65bN~u5lF5ktdXw |
+| 10-12 10:00 | 公众号 | 新京报 | 综合媒体 | “有点后怕”，周鸿祎攀岩从3米高处坠落，左膝粉碎性骨折，安全提示—— | https://mp.weixin.qq.com/s/MV7J6dgbDNylF15Rl-MChQ |
+| 10-12 10:00 | 公众号 | 界面新闻 | 综合媒体 | 投资1.2亿项目仅建5个棚 | https://mp.weixin.qq.com/s/PFdDSG-5ClznTOaOw9l7JQ |
+| 10-12 10:00 | 公众号 | 南方都市报 | 综合媒体 | 突发塌方，多车坠落！当地通报：路边停放的12辆车和3辆行驶中的车辆受困，周边居民已转移 | https://mp.weixin.qq.com/s/zDGhPuYXJEzyh1DRFtU~rg |
+| 10-12 10:00 | 公众号 | 法治日报 | 综合媒体 | 女子花37.2万元全款购买一辆奔驰车，提车当天销售却把新车撞了，还开了约59公里，4S店：一个月内退还购车款 | https://mp.weixin.qq.com/s/UtjgUgSwXpv4NMrjQ2Y~fg |
+| 10-12 10:00 | 公众号 | 极目新闻 | 综合媒体 | “四无婚礼”火了！一句“吃好喝好”，直接开席 | https://mp.weixin.qq.com/s/rUBv7V2B0ABxo8PfA0rjMw |
+| 10-12 10:00 | 公众号 | 红网 | 综合媒体 | 24岁郑钦文创造历史，夺中网女单冠军！凌晨发文并晒出9张照片：“献给小时候一直为梦想努力的自己”，坦言赛前紧张到想吐 | https://mp.weixin.qq.com/s/0zoylWJ4ePfvYb9lz~YVtg |
+| 10-12 10:00 | 公众号 | 中国新闻网 | 综合媒体 | 9岁自闭症男童独自乘电梯，被同乘男子用脚踹飞，家长上门理论，对方拿出刀具，官方回应 | https://mp.weixin.qq.com/s/ywFEhWwN~c9Yzz39YNBn2A |
 | 10-12 09:00 | 公众号 | 中国市场监管报 | 行业媒体 | 食品安全法修订草案公开征求意见；四部门征求意见，进一步加强汽车产品创新设计等管理…… | https://mp.weixin.qq.com/s/cuUKcheXwU0Xw1AzLdfreg |
 | 10-12 09:00 | 公众号 | 澎湃新闻 | 综合媒体 | 周鸿祎攀岩从3米高处坠落，造成左膝粉碎性骨折，“挺难受的，刚过完56岁生日” | https://mp.weixin.qq.com/s/Q9C02c3~haqV4oBvXmkBfw |
 | 10-12 09:00 | 公众号 | 央视财经 | 综合媒体 | 四国发布联合声明：强烈谴责，立即停止！ | https://mp.weixin.qq.com/s/sOjXTIB0TiOUglux~5ld2w |
@@ -28,8 +38,6 @@
 | 10-12 08:00 | 公众号 | 中国食品安全报 | 行业媒体 | 《中华人民共和国食品安全法（修订草案征求意见稿）》公开征求意见 | https://mp.weixin.qq.com/s/gtkj34UfRckzY2mdq~Yijg |
 | 10-12 08:00 | 公众号 | 法治日报 | 综合媒体 | 健身私教卡充值数千元，门店突然停课！招牌和实际经营主体不一致，维权仅追回半额；北京试点“京彩消费码”，可查企业信用、一键维权 | https://mp.weixin.qq.com/s/WuUTFGWCU2SyM7v-Dtb-rg |
 | 10-12 08:00 | 公众号 | 今晚报 | 综合媒体 | 南大发布讣告：于良芝教授去世！年仅63岁 | https://mp.weixin.qq.com/s/6BTuyYRTC9LRR1hdV1xr1A |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 山东省抽检特食重点工作推进会在聊城召开 | http://news.foodmate.net/2026/10/754596.html |
-| 10-12 | 网页 | 食品伙伴网 | 抽检通报 | 20款密胺餐具实测！整体安全，但绝大部分人都用错了 | http://news.foodmate.net/2026/10/754592.html |
 | 10-12 | 网页 | 巨潮·四会富仕 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300852&orgId=9900039723&announcementId=1225600539&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·金马游乐 | 上市公司公告 | 关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300756&orgId=9900030662&announcementId=1225600537&announcementTime=2026-10-12 |
 | 10-12 | 网页 | 巨潮·沧州明珠 | 上市公司公告 | 沧州明珠关于向特定对象发行股票申请获得中国证监会同意注册批复的公告 | https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002108&orgId=9900002002&announcementId=1225600536&announcementTime=2026-10-12 |
